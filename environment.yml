@@ -1,0 +1,5 @@
+name: py35
+dependencies:
+- pip:
+    - sphinx_tabs
+    - sphinx_bootstrap_theme
