@@ -62,6 +62,8 @@ to the left. Some instructional videos describing how to use CIViC are below.
    :maxdepth: 2
    :caption: Contents:
 
+   getting_started
+
 
 
 Indices and tables
