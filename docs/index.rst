@@ -68,6 +68,8 @@ to the left. Some instructional videos describing how to use CIViC are below.
    genes
    variant_groups
    editor
+   help
+   problems
 
 
 Indices and tables
