@@ -63,6 +63,10 @@ to the left. Some instructional videos describing how to use CIViC are below.
    :caption: Contents:
 
    getting_started
+   evidence
+   variants
+   genes
+   variant_groups
 
 
 
