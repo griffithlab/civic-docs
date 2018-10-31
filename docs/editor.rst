@@ -30,7 +30,7 @@ contact info and CIViC profile id/name.
 **Approval process:**
 
 At least 2 existing editorial members and one administrator will review
-application materials, profile and CIViC curation track record, including
+application materials, profile, and CIViC curation track record, including
 review of submitted evidence, revisions, and publication. Application
 reviewers will agree to either promote, provisionally reject, or reject the
 application. A provisional rejection may be overcome if the curator
