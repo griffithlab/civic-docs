@@ -7,7 +7,7 @@ Introduction to CIViC
 =====================
 
 To get started using and contributing to CIViC, we recommend that you :ref:`review the Video Tutorials below <tutorials>`. These videos cover
-CIViC and it's goals, finding documentation and help resources, browsing and
+CIViC and its goals, finding documentation and help resources, browsing and
 searching knowledgebase contents, adding evidence to CIViC, and editing CIViC
 evidence.
 
