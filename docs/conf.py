@@ -1,5 +1,8 @@
 import sphinx_bootstrap_theme
 
+
+def setup(app):
+    app.add_stylesheet("civic.css")
 # -*- coding: utf-8 -*-
 #
 # Configuration file for the Sphinx documentation builder.
@@ -85,6 +88,14 @@ html_theme = 'bootstrap'
 #
 html_theme_options = {
     'bootswatch_theme': 'flatly',
+
+    'navbar_title': "Home",
+    'navbar_site_name': 'Menu',
+    'source_link_position': False,
+
+    'navbar_sidebarrel': False,
+
+    'navbar_pagenav': False,
 }
 
 html_favicon = "images/favicon.ico"
