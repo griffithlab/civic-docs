@@ -112,11 +112,3 @@ This video covers:
    editor
    help
    problems
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
