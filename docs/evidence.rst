@@ -1,3 +1,7 @@
+.. |clearfloat|  raw:: html
+
+    <div class="clearer"></div>
+
 .. _evidence:
 
 The CIViC Evidence Item
@@ -22,6 +26,8 @@ have one yet). Once you are logged in, you can check out our `ranked list of
 high priority genes
 <https://github.com/genome/civic-server/tree/master/public/downloads/RankedCivicGeneCandidates.tsv>`_
 or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ for inspiration.
+
+|clearfloat|
 
 .. content-tabs::
 
