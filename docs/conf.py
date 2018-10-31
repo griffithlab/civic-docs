@@ -87,7 +87,7 @@ html_theme = 'bootstrap'
 # documentation.
 #
 html_theme_options = {
-    'bootswatch_theme': 'flatly',
+    'bootswatch_theme': 'cosmo',
 
     'navbar_title': "Home",
     'navbar_site_name': 'Menu',
