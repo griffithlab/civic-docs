@@ -248,7 +248,7 @@ associated with the Variant.
      **Variant Type Guidelines**
 
      .. list-table::
-        :widths: 25 25 25 25
+        :widths: 15 40 30 15
         :header-rows: 1
 
         * - Sequence Ontology Term

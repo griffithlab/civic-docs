@@ -25,7 +25,7 @@ normal functions that are relevant to its association with cancer.
      ambiguity.
 
      .. list-table::
-        :widths: 20 70 10
+        :widths: 15 75 10
         :header-rows: 1
 
         * - Attribute
@@ -51,7 +51,7 @@ normal functions that are relevant to its association with cancer.
             'Weisberg et al., 2007, Nat. Rev. Cancer') are pulled from the
             PubMed database at the time of submission, and are not editable.
           - CIViC (PubMed)
-        * - MyGene.Info
+        * - **MyGene.Info**
           -
           -
         * - MyGene Info

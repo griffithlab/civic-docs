@@ -2,6 +2,16 @@
 
     <div class="clearer"></div>
 
+.. role:: green
+
+.. role:: blue
+
+.. role:: purple
+
+.. role:: orange
+
+.. role:: red
+
 .. _evidence:
 
 The CIViC Evidence Item
@@ -264,35 +274,40 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
 
      .. raw:: html
 
-        <table>
+        <table border="0" class="colwidths-given table">
             <colgroup>
                 <col width="150">
                 <col width="250">
                 <col width="400">
                 <col width="920">
             </colgroup>
-            <tbody>
-                <tr>
-                    <th>Evidence Type</th>
-                    <th>Evidence Direction</th>
-                    <th>Clinical Significance</th>
-                    <th>Example</th>
+            <thead valign="bottom">
+                <tr class="row-odd">
+                    <th class="head">Evidence Type</th>
+                    <th class="head">Evidence Direction</th>
+                    <th class="head">Clinical Significance</th>
+                    <th class="head">Example</th>
                 </tr>
+            </thead>
+            <tbody valign="top">
                 <tr>
                     <td rowspan="6">
                         <b>Predictive:</b>
+                        <br>
                         <i>Evidence pertaining to a variant's effect on
                         therapeutic response </i>
                     </td>
                     <td rowspan="3">
-                        "Supports:"
-                        "The experiment or study supports this variant's
-                        response to a drug"
+                        Supports:
+                        <br>
+                        The experiment or study supports this variant's
+                        response to a drug
                     </td>
                     <td>
-                        "Sensitivity/Reponse:"
-                        "Variant is associated with positive response to
-                        treatment (e.g. sensitivity to drug)"
+                        Sensitivity/Reponse:
+                        <br>
+                        Variant is associated with positive response to
+                        treatment (e.g. sensitivity to drug)
                     </td>
                     <td>
                         Breast cancer cell lines with a PIK3CA H1047R mutation
@@ -303,6 +318,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         N/A:
+                        <br>
                         Variant does not inform clinical action
                     </td>
                     <td>
@@ -314,6 +330,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         Resistance:
+                        <br>
                         Variant is associated with negative treatment response
                         (e.g. resistance to drug)
                     </td>
@@ -326,13 +343,14 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td rowspan="3">
                         Does not support:
-
+                        <br>
                         The experiment or study does not support, or was
                         inconclusive of an interaction between the variant and
                         a drug
                     </td>
                     <td>
                         Sensitivity/Response:
+                        <br>
                         Variant is associated with positive response to
                         treatment (e.g. sensitivity to drug)
                     </td>
@@ -344,6 +362,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         N/A:
+                        <br>
                         Variant does not inform clinical action
                     </td>
                     <td>
@@ -356,6 +375,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         Resistance:
+                        <br>
                         Variant is associated with negative treatment response
                         (e.g. resistance to drug)
                     </td>
@@ -367,19 +387,20 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 </tr>
                 <tr>
                     <td rowspan="4">
-                        Diagnostic:
-
-                        Evidence pertaining to a variant’s impact on patient
-                        diagnosis
+                        <b>Diagnostic:</b>
+                        <br>
+                        <i>Evidence pertaining to a variant’s impact on patient
+                        diagnosis</i>
                     </td>
                     <td rowspan="2">
                         Supports:
-
+                        <br>
                         The experiment or study supports variant’s impact on
                         the diagnosis of disease or subtype
                     </td>
                     <td>
                         Positive:
+                        <br>
                         Variant is associated with diagnosis of disease or
                         subtype
                     </td>
@@ -392,6 +413,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         Negative:
+                        <br>
                         Variant is associated with the lack of diagnosis of
                         disease or subtype
                     </td>
@@ -404,12 +426,13 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td rowspan="2">
                         Does not support:
-
+                        <br>
                         The experiment or study does not support the variant’s
                         impact on diagnosis of disease or subtype
                     </td>
                     <td>
                         Positive:
+                        <br>
                         Variant is associated with diagnosis of disease or
                         subtype
                     </td>
@@ -423,6 +446,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         Negative:
+                        <br>
                         Variant is associated with the lack of diagnosis of
                         disease or subtype
                     </td>
@@ -435,19 +459,20 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 </tr>
                 <tr>
                     <td rowspan="6">
-                        Prognostic:
-
-                        Evidence pertaining to a variant’s impact on disease
-                        progression, severity, or patient survival
+                        <b>Prognostic:</b>
+                        <br/>
+                        <i>Evidence pertaining to a variant’s impact on disease
+                        progression, severity, or patient survival</i>
                     </td>
                     <td rowspan="3">
                         Supports:
-
+                        <br>
                         The experiment or study supports a variant’s impact on
                         prognostic outcome
                     </td>
                     <td>
                         Good Outcome:
+                        <br>
                         Variant is associated with a better overall patient
                         outcome
                     </td>
@@ -460,6 +485,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         N/A:
+                        <br>
                         Variant does not inform clinical action
                     </td>
                     <td>
@@ -471,6 +497,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         Poor Outcome:
+                        <br>
                         Variant is associated with a worse overall patient
                         outcome
                     </td>
@@ -483,12 +510,13 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td rowspan="3">
                         Does not support:
-
+                        <br>
                         The experiment or study does not support a prognostic
                         association between variant and outcome
                     </td>
                     <td>
                         Good Outcome:
+                        <br>
                         Variant is associated with a better overall patient
                         outcome
                     </td>
@@ -500,6 +528,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         N/A:
+                        <br>
                         Variant does not inform clinical action
                     </td>
                     <td>
@@ -510,6 +539,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         Poor Outcome:
+                        <br>
                         Variant is associated with a worse overall patient
                         outcome
                     </td>
@@ -521,19 +551,20 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 </tr>
                 <tr>
                     <td rowspan="5">
-                        Predisposing:
-
-                        Evidence pertains to a variant's role in conferring
-                        susceptibility to a disease
+                        <b>Predisposing:</b>
+                        <br/>
+                        <i>Evidence pertains to a variant's role in conferring
+                        susceptibility to a disease</i>
                     </td>
                     <td rowspan="5">
                         Supports:
-
+                        <br>
                         The experiment or study supports a variant’s impact on
                         predisposition to a cancer
                     </td>
                     <td>
                         Pathogenic:
+                        <br>
                         Very strong evidence the variant is pathogenic.
                     </td>
                     <td>
@@ -545,6 +576,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         Likely Pathogenic:
+                        <br>
                         Strong evidence (">90% certainty") the variant is
                         pathogenic.
                     </td>
@@ -557,6 +589,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         Benign:
+                        <br>
                         Very strong evidence the variant is benign.
                     </td>
                     <td>
@@ -568,6 +601,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         Likely Benign:
+                        <br>
                         Strong evidence (">90% certainty") the variant is
                         benign.
                     </td>
@@ -580,6 +614,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
                 <tr>
                     <td>
                         Uncertain Significance:
+                        <br>
                         The variant does not fullfill the ACMG criteria for
                         pathogenic/benign, or the evidence is conflicting.
                     </td>
@@ -618,8 +653,9 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
         * - Level
           - Definition
           - Example and further comments
-        * - A
-            Validated association
+        * - :green:`A`
+
+            :green:`Validated association`
           - Proven/consensus association in human medicine.
           - *"AML with mutated NPM1" is a provisional entity in WHO classification of acute
             myeloid leukemia (AML). This mutation should be tested for in
@@ -627,8 +663,9 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
             cytogenetically normal AML.* Validated associations are often in
             routine clinical practice already or are the subject of major
             clinical trial efforts.
-        * - B
-            Clinical evidence
+        * - :blue:`B`
+
+            :blue:`Clinical evidence`
           - Clinical trial or other primary patient data
             supports association.
           - *BRAF V600E is correlated with poor
@@ -636,8 +673,9 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
             with PTC and other thyroid diseases.* The evidence should be
             supported by observations in multiple patients. Additional support
             from functional data is desirable but not required.
-        * - C
-            Case study
+        * - :purple:`C`
+
+            :purple:`Case study`
           - Individual case reports from clinical journals.
           - *A single patient with FLT3 over-expression responded to the FLT3
             inhibitor sunitinib.* The study may have involved a large number of
@@ -645,16 +683,18 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
             patient. In some cases, observations from just a handful of
             patients (e.g. 2-3) or a single family may also be considered a
             case study/report.
-        * - D
-            Preclinical evidence
+        * - :orange:`D`
+
+            :orange:`Preclinical evidence`
           - In vivo or in vitro models support association.
           - *Experiments showed that AG1296 is effective in
             triggering apoptosis in cells with the FLT3 internal tandem
             duplication.* The study may have involved some patient data, but
             support for this statement was limited to in vivo or in vitro
             models (e.g. mouse studies, cell lines, molecular assays, etc.).
-        * - E
-            Inferential association
+        * - :red:`E`
+
+            :red:`Inferential association`
           - Indirect evidence.
           - *CD33 and CD123 expression were significantly increased in patients with NPM1
             mutation with FLT3-ITD, indicating these patients may respond to

@@ -32,7 +32,7 @@ published Standards and Guidelines proposals:
   cancer variants <https://www.ncbi.nlm.nih.gov/pubmed/24768039>`_
 
 The CIViC Ecosystem of Collaborators, Moderators, and Other Stakeholders
------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 The CIViC project aims to facilitate a collaborative ecosystem of research
 scientists, clinical scientists, and patient advocates dedicated to curating

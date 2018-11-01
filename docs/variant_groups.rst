@@ -32,7 +32,7 @@ Example uses:
      **Variant Group Attributes**
 
      .. list-table::
-        :widths: 20 70 10
+        :widths: 15 75 10
         :header-rows: 1
 
         * - Attribute
