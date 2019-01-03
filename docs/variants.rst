@@ -14,7 +14,7 @@ associated with the Variant.
 
      CIViC variants are usually genomic alterations, including single
      nucleotide variants (SNVs), insertion/deletion events (indels), copy
-     number alterations (CNV's such as amplification or deletion), structural
+     number alterations (CNVs such as amplification or deletion), structural
      variants (SVs such as translocations and inversions), and other events
      that differ from the "normal" genome. In some cases a CIViC variant may
      represent events of the transcriptome or proteome. For example,
@@ -166,9 +166,9 @@ associated with the Variant.
      synthesis of Evidence Statements in CIViC, we recommend that a Variant
      Summary only be created after the number of Evidence Statements created
      for a Variant are a reasonable reflection of the state of the literature.
-     As a simple rule of thumb, if a variant has less than 5-10 evidence
+     As a simple rule of thumb, if a variant has fewer than 5-10 evidence
      statements (or higher for some variants), the Variant is probably NOT
-     ready for a Variant Summary yet.
+     yet ready for a Variant Summary.
 
      **Aliases**
 
