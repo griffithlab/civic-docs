@@ -80,14 +80,14 @@ or aliases, etc.
      corresponds to evidence for a single clinical assertion about a
      single variant in a single cancer type. Each evidence record is
      based on a single citable source (e.g. a peer-reviewed
-     publication). The evidence record consists of a free-form
-     executive summary describing the assertion and supporting
-     evidence for it, and additional structured fields that describe
-     the evidence (e.g. evidence type, relevant drug, etc.). To learn
-     more about the elements of an evidence record refer to the
+     publication). The evidence record consists of both a free-form
+     executive summary describing the assertion with supporting
+     evidence for it and additional structured fields that describe
+     the evidence (e.g. evidence type, relevant drug). To learn
+     more about the elements of an evidence record, refer to the
      :ref:`Evidence help docs <evidence>`. For suggestions on where to find sources for
      evidence records, refer to the Source Ideas tab of this section.
-     To add a new evidence record, you must login and hit the "ADD"
+     To add a new evidence record, login and hit the "ADD"
      button at the top of any page throughout the site.
 
      **2. Adding or improving Variant, Variant Group, and Gene Summaries**
@@ -121,9 +121,9 @@ or aliases, etc.
      **4. Comment on CIViC Content**
 
      Throughout the website are "Talk" pages where users can comment
-     on the current contents of CIViC (specific Evidence, Variants or
+     on the current contents of CIViC (specific Evidence, Variants, or
      Genes) or on Suggested Changes. Curators are encouraged to be
-     verbose in their comments on existing content. Critism,
+     verbose in their comments on existing content. Criticism,
      clarification, qualification, and questions are all appropriate.
      Comments from the authors of work being summarized or others with
      particular expertise in the area are especially desirable. When
@@ -204,14 +204,14 @@ or aliases, etc.
   .. tab-container:: tab3
      :title: Source Ideas
 
-     New CIViC curators, commonly ask where they should focus their efforts
+     New CIViC curators commonly ask where they should focus their efforts
      and where can they find evidence of the clinical significance of cancer
      variants. There are many approaches and relevant resources that may help
      to identify and prioritize such evidence.
 
      Remember that the focus of CIViC is on the **clinical** relevance of **cancer**
      variants. Before expending the effort to propose an addition to CIViC,
-     ask yourself would a clinician potentially find this information useful
+     ask yourself: would a clinician potentially find this information useful
      in understanding and treating a patient's cancer? Could an oncologist use
      this evidence to better understand likely response to therapy (Predictive
      evidence), or outcome (Prognostic) for their patient? Would a pathologist
@@ -232,13 +232,13 @@ or aliases, etc.
      cases, the clinical relevance of these variants may simply not be
      established yet. However, CIViC is about the **evidence that establishes
      their clinical relevance**. By contrast, in some cases, the biological
-     relevance may be poorly understood while clinical utlity is established.
+     relevance may be poorly understood while clinical utility is established.
      Such evidence does belong in CIViC. A mechanistic understanding is
-     desirable, but not required.
+     desirable but not required.
 
-     The above description, despite it length, is an oversimplification. The
+     The above description, despite its length, is an oversimplification. The
      concept of clinical utility varies by Evidence type: Predictive,
-     Prognostic, Diagnostic and Predisposing. There are many nuances to be
+     Prognostic, Diagnostic, and Predisposing. There are many nuances to be
      considered. The "ideal" clinical interpretation and definition of
      clinical utility are open to debate. We welcome this debate and one of
      the goals of CIViC is to enable and capture it. If you believe some
@@ -248,9 +248,9 @@ or aliases, etc.
      The following list is not exhaustive but provides many examples of
      approaches to identify high quality evidence. If you know of a useful
      resource that is not listed below, please let us know about it. NOTE:
-     some of these resources are open access, others are not. When entering
+     some of these resources are open access; others are not. When entering
      evidence into CIViC, **never** copy content or ideas from another resource.
-     Your contributions to CIViC should be based on published evidence, but in
+     Your contributions to CIViC should be based on published evidence but in
      your own words.
 
      **Example sources of CIViC evidence and high priority variants**
@@ -264,7 +264,7 @@ or aliases, etc.
        `BATTLE-1 <https://clinicaltrials.gov/ct2/show/NCT00409968>`_,
        `BATTLE-2 <https://clinicaltrials.gov/ct2/show/NCT01248247>`_,
        `CUSTOM <https://clinicaltrials.gov/show/NCT01306045>`_, etc.).
-     - A gene, variant or paper, that you are an expert in. For example, this
+     - A gene, variant, or paper that you are an expert in. For example, this
        might be work from your own research/practice.
      - Public discussions on cases submitted to the `ASCO Molecular Oncology
        Tumor Board <https://connection.asco.org/discussion?tid=201>`_
@@ -333,7 +333,7 @@ or aliases, etc.
         - Custom sort by clicking on the column headers.
         - Filter using the text boxes below the column headers.
         - Download using the "Get Data" button at any time.
-        - By default, Rejected Evidence Items are hidden but can be displayed using
+        - By default Rejected Evidence Items are hidden but can be displayed using
           the button in the top right corner of the Evidence grid.
 
      3. Recent activity is shown below the Evidence table where the last 25
@@ -343,14 +343,14 @@ or aliases, etc.
      **Notifications**
 
      Actions within CIViC by any curator trigger event notifications. You are
-     automatically subscribed to an Evidence, Variant or Gene notification
+     automatically subscribed to an Evidence, Variant, or Gene notification
      stream by submitting, suggesting revisions, or commenting on one of these
      entities in CIViC, allowing you to monitor subsequent activity related to
      the content you care about most in CIViC.
 
      Mentions are a specific class of notifications triggered by other users.
      By using @username notation, other curators can draw special attention to
-     a revision, comment or other CIViC entity specifically targeted at the
+     a revision, comment, or other CIViC entity specifically targeted at the
      mentioned curator. These are typically used when a curator or editor
      requires your input or action, although they can be used when a response
      is specifically targeted to another user.
@@ -368,12 +368,12 @@ or aliases, etc.
      **Community Page**
 
      The Community Page includes a leaderboard and a list of current curators,
-     editors and admins using CIViC.
+     editors, and admins using CIViC.
 
      - The Leaderboard can be used to identify other users that you may want to
        direct Mentions to when you have specific questions about actions in
        CIViC. Seeing your own username on the Leaderboard simply requires
        increasing your personal statistics shown on your User Profile page to
        become one of the top users in that category.
-     - Finding usernames, user roles and user profiles can be best accomplished
+     - Finding usernames, user roles, and user profiles can be best accomplished
        through the User listing on the Community Page.
