@@ -57,9 +57,9 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
        - derived from primary literature sources (not review articles) whenever
          possible.
        - as concise as possible while providing sufficient experiemental detail to
-         interpret and evaluate the evidence (N values, statistics, etc).
-       - a single Predictive, Predisposing, Diagnostic or Prognostic assertion,
-         not a combination.
+         interpret and evaluate the evidence (N values, statistics, etc.).
+       - a single Predictive, Predisposing, Diagnostic, or Prognostic assertion--not
+         a combination.
        - aimed at a general audience, avoiding field-specific acronyms and
          colloquialisms.
 
@@ -183,7 +183,7 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
   .. tab-container:: tab2
      :title: Variant Origin
 
-     The Variant Origin identifies whether the variant is presumed as an
+     The Variant Origin identifies whether the variant is presumed to be an
      inherited (germline mutation) or acquired (somatic mutation) event in the
      context of the study. We generally consider somatic events to be the first
      priority, as this is an area that has not been as well addressed by existing
@@ -260,9 +260,9 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
   .. tab-container:: tab3
      :title: Evidence Types
 
-     When curating evidence statements from published sources, to discern
-     whether a variant has a "clinical interpretation", we use the data model
-     below. Evidence statements describe how a variant was demonstrated to (1)
+     When curating evidence statements from published sources, we use the data
+     model below to discern whether a variant has a "clinical interpretation".
+     Evidence statements describe how a variant was demonstrated to (1)
      be predictive of drug response, (2) be correlated with prognostic
      outcome, (3) be of diagnostic utility in determining cancer subtype (aka
      molecular classification), or (4) predispose a person to a type of
@@ -630,12 +630,12 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
   .. tab-container:: tab4
      :title: Evidence Levels
 
-     Each evidence statement is the result of an experiment, trial or study in
+     Each evidence statement is the result of an experiment, trial, or study in
      published literature. It is important to capture the nature of these
      experiments in the evidence entry. Evidence levels allow for the subject
      of an evidence item to be presented in a simple, standardized fashion.
      The evidence level is also an indication of how close each assertion is
-     to actual application in the clinic. Please, note that while evidence
+     to actual application in the clinic. Please note that while evidence
      statements of all levels are acceptable in CIViC, by far the highest
      priority are levels A and B, followed by C, D, E. Our top priority is to
      document the evidence for application of variant interpretations to real
