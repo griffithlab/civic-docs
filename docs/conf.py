@@ -1,8 +1,6 @@
-import sphinx_bootstrap_theme
-
-
 def setup(app):
-    app.add_stylesheet("civic.css")
+    app.add_stylesheet("css/civic.css")
+
 # -*- coding: utf-8 -*-
 #
 # Configuration file for the Sphinx documentation builder.

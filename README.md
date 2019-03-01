@@ -11,7 +11,7 @@ We welcome contributions to the documentation. If you wish to contribute a clari
 After you've forked and cloned the repository, install [https://www.sphinx-doc.org/en/master/](Sphinx), a [reStructuredText](http://docutils.sourceforge.net/rst.html) documentation generator, and [https://pypi.org/project/sphinx-autobuild/](sphinx-autobuild), a utility that will host and update the documentation as you work:
 
 ```
-pip install sphinx sphinx-autobuild sphinx_bootstrap_theme sphinxcontrib-contentui
+pip install sphinx sphinx-autobuild sphinx_rtd_theme sphinxcontrib-contentui
 ```
 
 Then start the sphinx-autobuild process:
