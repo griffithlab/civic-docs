@@ -12,4 +12,4 @@ dependencies:
 - zlib=1.2.8=0
 - pip:
   - sphinxcontrib-contentui
-  - sphinx_bootstrap_theme
+  - sphinx_rtd_theme
