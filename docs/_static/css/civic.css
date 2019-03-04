@@ -1,5 +1,18 @@
+body {
+    background-image: url('/_static/img/body-bg.png');
+    background-repeat: no-repeat;
+}
+
 .wy-side-nav-search {
     background-color: #190a20;
+    background-image: url('/_static/img/sidebar-bg_top.png');
+}
+
+.wy-nav-side {
+    background-color: #292727;
+    background-image: url('/_static/img/sidebar-bg_bottom.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
 }
 
 .red {
