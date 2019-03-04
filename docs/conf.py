@@ -87,7 +87,6 @@ html_theme_options = {
 
 html_favicon = "_static/img/favicon.ico"
 html_logo = "_static/img/civic-logo.png"
-
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
@@ -180,4 +179,5 @@ epub_exclude_files = ['search.html']
 
 
 def setup(app):
-    app.add_stylesheet("css/civic.css")
+    app.add_css_file("css/civic.css")
+    app.add_css_file("css/theme_overrides.css")
