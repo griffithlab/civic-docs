@@ -1,6 +1,7 @@
-body {
-    background-image: url('/_static/img/body-bg.png');
+.wy-nav-content {
+    background-image: url('/_static/img/body-bg.png') !important;
     background-repeat: no-repeat;
+    background-position: -300px 0;
 }
 
 .wy-side-nav-search {
