@@ -86,9 +86,6 @@ html_theme = 'sphinx_rtd_theme'
 #
 html_theme_options = {
     'logo_only': True,
-    'cssfiles': [
-        "http://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-    ]
 }
 
 html_favicon = "_static/img/favicon.ico"

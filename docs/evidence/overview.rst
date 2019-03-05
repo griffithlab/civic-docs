@@ -1,32 +1,16 @@
 Overview
 ======================
 
-The rows in the following table describe the minimal components of a
-CIViC Evidence Item. Several Evidence Statements are synthesized at the
-Variant level into Variant Summaries but each Evidence Statement is
-directly linked to a single article in PubMed. *More specific guidelines
-about Evidence Item components can be found in additional help tabs*.
+The following figure shows the attributes of a CIViC Evidence Item, and the options available for each.
 
-**Guidelines**
+.. image:: /images/CIViC_evidence-item-fields_v1b.png
+   :height: 1209
+   :width: 1669
+   :scale: 60%
+   :align: center
 
-- Evidence Statements should be:
+The rows in the following table describe the minimal components of a CIViC Evidence Item. Several Evidence Statements are synthesized at the Variant level into Variant Summaries but each Evidence Statement is directly linked to a single article in PubMed. *More specific guidelines about Evidence Item components can be found in additional help tabs*.
 
-  - derived from primary literature sources (not review articles) whenever
-    possible.
-  - as concise as possible while providing sufficient experiemental detail to
-    interpret and evaluate the evidence (N values, statistics, etc).
-  - a single Predictive, Predisposing, Diagnostic or Prognostic assertion,
-    not a combination.
-  - aimed at a general audience, avoiding field-specific acronyms and
-    colloquialisms.
-
-- Multiple, separate Evidence Items can be and often are derived from a
-  single publication.
-- Generally, assertions involving drugs should be classified as being of
-  the Predictive Evidence Type.
-- Star Ratings should be based on the strength of the specific assertion.
-  Multiple assertions from the same publication can have different star
-  ratings.
 
 **Evidence Attributes**
 
@@ -137,3 +121,4 @@ about Evidence Item components can be found in additional help tabs*.
        reproducible across multiple replicates.
      - CIViC
 
+.. toctree::

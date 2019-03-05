@@ -1,15 +1,3 @@
-.. role:: green
-
-.. role:: blue
-
-.. role:: purple
-
-.. role:: orange
-
-.. role:: red
-
-.. _evidence:
-
 Evidence Items
 =======================
 
@@ -22,7 +10,7 @@ evidence statement is a piece of information that has been manually curated
 from trustable medical literature about a variant or genomic 'event' that has
 implications in cancer predisposition, diagnosis (aka molecular
 classification), prognosis, or predictive response to therapy. For example,
-“Patients with BRAF V600 mutations respond well to the drug dabrafenib”. A
+"Patients with BRAF V600 mutations respond well to the drug dabrafenib". A
 variant may be a single nucleotide substitution, a small insertion or
 deletion, an RNA gene fusion, a chromosomal rearrangement, an RNA expression
 pattern (e.g. over-expression), etc. Each clinical evidence statement
@@ -38,7 +26,8 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
    :caption: Contents:
 
    evidence/overview
-   evidence/variant_origin
-   evidence/evidence_type
+   evidence/statement
    evidence/evidence_level
+   evidence/evidence_type
+   evidence/variant_origin
    evidence/trust_rating
