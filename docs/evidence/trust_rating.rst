@@ -18,49 +18,19 @@ patients, but if only 2 patients have the mutation in question, the
 quality rating may be low for this evidence statement.
 
 .. list-table::
-   :widths: 10 90
+   :widths: 15 85
    :header-rows: 1
 
    * - Trust Rating
      - Definition
-   * - .. raw:: html
-
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star"></span>
+   * - |star| |star| |star| |star| |star|
      - Strong, well supported evidence from a lab or journal with respected academic standing. Experiments are well controlled, and results are clean and reproducible across multiple replicates. Evidence confirmed using independent methods. The study is statistically well powered.
-   * - .. raw:: html
-
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star-empty"></span>
+   * - |star| |star| |star| |star| |star-o|
      - Strong, well supported evidence. Experiments are well controlled, and results are convincing. Any discrepancies from expected results are well-explained and not concerning.
-   * - .. raw:: html
-
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star-empty"></span>
-          <span class="glyphicon glyphicon-star-empty"></span>
+   * - |star| |star| |star| |star-o| |star-o|
      - Evidence is convincing, but not supported by a breadth of experiments. May be smaller scale projects, or novel results without many follow-up experiments. Discrepancies from expected results are explained and not concerning.
-   * - .. raw:: html
-
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star-empty"></span>
-          <span class="glyphicon glyphicon-star-empty"></span>
-          <span class="glyphicon glyphicon-star-empty"></span>
+   * - |star| |star| |star-o| |star-o| |star-o|
      - Evidence is not well supported by experimental data, and little follow-up data is available. Publication is from a journal with low academic impact. Experiments may lack proper controls, have small sample size, or are not statistically convincing.
-   * - .. raw:: html
-
-          <span class="glyphicon glyphicon-star"></span>
-          <span class="glyphicon glyphicon-star-empty"></span>
-          <span class="glyphicon glyphicon-star-empty"></span>
-          <span class="glyphicon glyphicon-star-empty"></span>
-          <span class="glyphicon glyphicon-star-empty"></span>
+   * - |star| |star-o| |star-o| |star-o| |star-o|
      - Claim is not supported well by experimental evidence. Results are not reproducible, or have very small sample size. No follow-up is done to validate novel claims.
 
