@@ -1,3 +1,5 @@
+import sphinx_fontawesome
+
 # -*- coding: utf-8 -*-
 #
 # Configuration file for the Sphinx documentation builder.
@@ -40,6 +42,7 @@ release = u''
 # ones.
 extensions = [
     'sphinxcontrib.contentui',
+    'sphinx_fontawesome'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -82,7 +85,10 @@ html_theme = 'sphinx_rtd_theme'
 # documentation.
 #
 html_theme_options = {
-    'logo_only': True
+    'logo_only': True,
+    'cssfiles': [
+        "http://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    ]
 }
 
 html_favicon = "_static/img/favicon.ico"
