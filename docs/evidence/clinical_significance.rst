@@ -1,7 +1,3 @@
-.. |arrows-alt-h| raw:: html
-
- <i class="fab fa-arrows-alt-h"></i>
-
 Clinical Significance
 =====================
 
@@ -103,13 +99,13 @@ Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel t
      - |arrow-circle-down|
      - A sequence variant whereby the gene product has diminished or abolished function
    * - Unaltered Function
-     - |arrows-alt-h|
+     - |arrows-h|
      - A sequence variant whereby the function of the gene product is unchanged
    * - Neomorphic
-     - |exclamation-point-circle|
+     - |exclamation-circle|
      - TBD
    * - Unknown
-     - |sign-out-alt|
+     - |sign-out|
      - A functional variant that cannot be precisely defined by gain-of-function, loss-of-function, or unaltered function
 
 
