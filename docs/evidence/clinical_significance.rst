@@ -5,7 +5,7 @@ Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel t
 
 .. rubric:: Clinical Significance for Predictive Evidence
 .. list-table::
-   :widths: 15 5 80
+   :widths: 25 5 70
    :header-rows: 1
 
    * - Significance
@@ -29,7 +29,7 @@ Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel t
 
 .. rubric:: Clinical Significance for Diagnostic Evidence
 .. list-table::
-   :widths: 15 5 80
+   :widths: 25 5 70
    :header-rows: 1
 
    * - Significance
@@ -44,7 +44,7 @@ Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel t
 
 .. rubric:: Clinical Significance for Prognostic Evidence
 .. list-table::
-   :widths: 15 5 80
+   :widths: 25 5 70
    :header-rows: 1
 
    * - Significance
@@ -62,7 +62,7 @@ Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel t
 
 .. rubric:: Clinical Significance for Predisposing Evidence
 .. list-table::
-   :widths: 15 5 80
+   :widths: 25 5 70
    :header-rows: 1
 
    * - Significance
@@ -86,7 +86,7 @@ Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel t
 
 .. rubric:: Clinical Significance for Functional Evidence
 .. list-table::
-   :widths: 15 5 80
+   :widths: 25 5 70
    :header-rows: 1
 
    * - Significance
