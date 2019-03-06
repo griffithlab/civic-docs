@@ -85,7 +85,7 @@ or aliases, etc.
      evidence for it, and additional structured fields that describe
      the evidence (e.g. evidence type, relevant drug, etc.). To learn
      more about the elements of an evidence record refer to the
-     :ref:`Evidence help docs <evidence>`. For suggestions on where to find sources for
+     :doc:`Evidence help docs <evidence>`. For suggestions on where to find sources for
      evidence records, refer to the Source Ideas tab of this section.
      To add a new evidence record, you must login and hit the "ADD"
      button at the top of any page throughout the site.
@@ -103,7 +103,7 @@ or aliases, etc.
      those associated with the evidence records can be associated
      directly with the summary using the "Add Source" option in the
      edit form. To learn more about each major CIViC entity, refer to
-     the :ref:`variants`, :ref:`variant_groups`, and :ref:`genes` sections of the help
+     the :doc:`variants`, :doc:`variant_groups`, and :doc:`genes` sections of the help
      pages.
 
      **3. Editing CIViC Content**
@@ -160,7 +160,7 @@ or aliases, etc.
        variant. For instance, if the paper refers to the variant as "V600E", the
        curator determines for a particular build of the human genome, the
        corresponding chromosome, start position, end position, reference base
-       and variant base. Refer to the :ref:`Variants documentation <variants>` on the left for
+       and variant base. Refer to the :doc:`Variants documentation <variants>` on the left for
        more details.
 
      **6. Bite-size curation tasks**

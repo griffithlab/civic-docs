@@ -27,7 +27,9 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
 
    evidence/overview
    evidence/statement
-   evidence/evidence_level
-   evidence/evidence_type
+   evidence/level
+   evidence/type
+   evidence/direction
+   evidence/clinical_significance
    evidence/variant_origin
    evidence/trust_rating
