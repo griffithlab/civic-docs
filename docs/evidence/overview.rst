@@ -1,5 +1,5 @@
 Overview
-======================
+========
 
 The following figure shows the attributes of a CIViC Evidence Item, and the options or values available for each.
 
