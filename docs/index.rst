@@ -106,6 +106,7 @@ This video covers:
 
    getting_started
    evidence
+   assertions
    variants
    genes
    variant_groups
