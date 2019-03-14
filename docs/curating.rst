@@ -1,5 +1,5 @@
-Getting started as a CIViC Curator
-==================================
+Curating CIViC
+==============
 
 CIViC curators are a community of users dedicated to improving the CIViC
 knowledgebase and its contents.
@@ -29,7 +29,7 @@ or aliases, etc.
    :maxdepth: 2
    :caption: Contents:
 
-   curation/overview
-   curation/examples
-   curation/ideas
-   curation/monitoring
+   curating/overview
+   curating/examples
+   curating/ideas
+   curating/monitoring
