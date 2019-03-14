@@ -1,17 +1,17 @@
 .wy-nav-content {
-    background-image: url('/_static/img/body-bg.png') !important;
+    background-image: url('../img/body-bg.png') !important;
     background-repeat: no-repeat;
     background-position: -300px 0;
 }
 
 .wy-side-nav-search {
     background-color: #190a20;
-    background-image: url('/_static/img/sidebar-bg_top.png');
+    background-image: url('../img/sidebar-bg_top.png');
 }
 
 .wy-nav-side {
     background-color: #292727;
-    background-image: url('/_static/img/sidebar-bg_bottom.png');
+    background-image: url('../img/sidebar-bg_bottom.png');
     background-repeat: no-repeat;
     background-position: 0 0;
 }

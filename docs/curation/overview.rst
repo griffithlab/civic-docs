@@ -1,5 +1,5 @@
-Overview
-========
+Curation Overview
+=================
 
 .. rubric:: The Cancer Analysis Bottleneck
 

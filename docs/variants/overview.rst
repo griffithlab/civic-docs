@@ -1,5 +1,5 @@
-Overview
-========
+Variants Overview
+=================
 
 CIViC variants are usually genomic alterations, including single
 nucleotide variants (SNVs), insertion/deletion events (indels), copy

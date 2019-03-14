@@ -1,5 +1,5 @@
-Overview
-========
+Genes Overview
+==============
 
 In order to be listed in CIViC a Gene must have at least one clinical Evidence Item that has been curated from the literature. A new Gene record will be created automatically when the first Evidence Item is assigned to that Gene. The official gene name according to Entrez Gene (assigned by HGNC) is used. Alternative gene names are autopopulated from MyGeneInfo and searchable throughout the database. However, new Evidence Items must be associated with an official gene symbol to reduce ambiguity.
 

@@ -10,4 +10,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempo
    :caption: Contents:
 
    assertions/overview
-   assertions/summary
+   assertions/shared_fields
+   assertions/amp_category
+   assertions/associated_phenotypes
+   assertions/nccn_guideline
+   assertions/fda_companion_test
+   assertions/summary_description
