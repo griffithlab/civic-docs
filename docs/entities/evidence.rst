@@ -1,7 +1,7 @@
 Evidence Items
 =======================
 
-.. image:: images/GP-113_CIViC_schema-collaboration_SCHEMA_v3a.png
+.. image:: /images/GP-113_CIViC_schema-collaboration_SCHEMA_v3a.png
    :align: right
    :scale: 50%
 

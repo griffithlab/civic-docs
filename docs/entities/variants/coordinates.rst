@@ -79,34 +79,34 @@ specific isoform/transcript being used.
 
    * - **Single Nucleotide Variants (SNVs)**
      -
-   * - .. image:: ../images/ChoosingCoordinates_SNVs.png
+   * - .. image:: /images/ChoosingCoordinates_SNVs.png
           
      -  - Start and stop coordinates are the same
         - Secondary coordinates do not apply
    * - **Insertions**
      -
-   * - .. image:: ../images/ChoosingCoordinates_Insertions.png
+   * - .. image:: /images/ChoosingCoordinates_Insertions.png
           
      - - Secondary coordinates do not apply
    * - **Deletions**
      -
-   * - .. image:: ../images/ChoosingCoordinates_Deletions.png
+   * - .. image:: /images/ChoosingCoordinates_Deletions.png
           
      - - Secondary coordinates do not apply
    * - **Fusions**
      -
-   * - .. image:: ../images/ChoosingCoordinates_Fusions.png
+   * - .. image:: /images/ChoosingCoordinates_Fusions.png
           
      - - Secondary coordinates correspond to the 3' partner
        - Stop1 and Start2 coordinates correspond to the edge of the nearest exon
    * - **Whole Gene alterations (altered expression, deletion, amplification)**
      -
-   * - .. image:: ../images/ChoosingCoordinates_Whole_Gene.png
+   * - .. image:: /images/ChoosingCoordinates_Whole_Gene.png
           
      - - Secondary coordinates do not apply
        - Variant coordinates include UTRs
    * - **Gene Segments ('hotspot' regions including exons or domains)**
      -
-   * - .. image:: ../images/ChoosingCoordinates_Gene_Segment.png
+   * - .. image:: /images/ChoosingCoordinates_Gene_Segment.png
           
      - - Secondary coordinates do not apply

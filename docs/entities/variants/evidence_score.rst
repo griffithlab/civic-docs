@@ -16,4 +16,4 @@ CIViC entry for EID497. Catagorization of the 'Evidence Level' and the
 be summed to create a variant score. Variant scores were used to
 determine panel eligibility.
 
-.. image:: ../images/actionability_score_example.png
+.. image:: /images/actionability_score_example.png

@@ -9,9 +9,9 @@ Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis 
    :maxdepth: 2
    :caption: Contents:
 
-   evidence
-   assertions
-   variants
-   genes
-   variant_groups
+   entities/evidence
+   entities/assertions
+   entities/variants
+   entities/genes
+   entities/variant_groups
    
