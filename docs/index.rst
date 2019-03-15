@@ -107,6 +107,5 @@ This video covers:
    using
    curating
    entities
-   editor
    help
    problems

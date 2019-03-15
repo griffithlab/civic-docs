@@ -33,3 +33,4 @@ or aliases, etc.
    curating/examples
    curating/ideas
    curating/monitoring
+   curating/editor
