@@ -105,6 +105,7 @@ This video covers:
    :caption: Contents:
 
    about
+   faq
    using
    curating
    entities
