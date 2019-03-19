@@ -117,4 +117,3 @@ The rows in the following table describe the minimal components of a CIViC Evide
        reproducible across multiple replicates.
      - CIViC
 
-.. toctree::

@@ -9,3 +9,4 @@ CIViC provides a curated summary of the clinical relevance of genes, as well as 
 
    genes/overview
    genes/summary
+   genes/mygeneinfo
