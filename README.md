@@ -22,3 +22,16 @@ sphinx-autobuild ./ ./_build/html
 ```
 
 Sphinx-autobuild will start a server at http://127.0.0.1:8000. View the compiled docs in your web browser at that URL, and edit the documentation to create your contribution. Sphinx-autobuild will recompile the docs when you save updates and reload the page in your browser.
+
+Occasionally, especially after adding or moving a page or modifying the configuration, autobuild doesn't properly compile the new pages or changes. If this happens try these commands to delete cached files and rebuild the docs:
+
+```
+rm -rf ./_build/*
+make build
+```
+
+Then restart sphinx-autobuild:
+
+```
+sphinx-autobuild ./ ./_build/html
+```
