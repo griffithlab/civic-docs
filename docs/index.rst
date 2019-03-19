@@ -104,8 +104,11 @@ This video covers:
    :maxdepth: 2
    :caption: Contents:
 
+   about
    using
    curating
    entities
+   api
    help
    problems
+
