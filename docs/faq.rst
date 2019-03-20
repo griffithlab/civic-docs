@@ -52,7 +52,7 @@ CIViC currently houses thousands of evidence statements, variants and genes acro
 
 How do I contribute information?
 --------------------------------
-The :doc:`curation pages <curation>` detail the curation and editing process, and includes instructions on how to curate CIViC and apply for editorship.
+The :doc:`curation pages <curating>` detail the curation and editing process, and includes instructions on how to curate CIViC and apply for editorship.
 
 My favorite Gene/Variant is not in CIViC?!?
 -------------------------------------------
