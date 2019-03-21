@@ -179,5 +179,5 @@ epub_exclude_files = ['search.html']
 
 
 def setup(app):
-    app.add_css_file("css/civic.css")
-    app.add_css_file("css/theme_overrides.css")
+    app.add_stylesheet("css/civic.css")
+    app.add_stylesheet("css/theme_overrides.css")
