@@ -41,6 +41,10 @@
     font-weight: bold;
 }
 
+.logo-img {
+    margin: 10px;
+}
+
 .image-table td {
     vertical-align: top !important;
 }
