@@ -1,10 +1,12 @@
 Coordinates
 ===========
-
 Genomic coordinates in CIViC are a single representation of a genomic alteration that can lead to a specific variant. Multiple genomic alterations may lead to the same variant (i.e., several changes at the basepair level can lead to the same amino acid change); however, CIViC currently provides only one possible example per variant.
 
-.. rubric:: General Guidelines
+Understanding Coordinates
+-------------------------
 
+Curating Coordinates
+--------------------
 - Choose one representative variant per gene.
 - Coordinates are 1-based.
 - Currently we prefer variants from reference genome build 37.

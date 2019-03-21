@@ -11,7 +11,10 @@ associated with the Variant.
 
    variants/overview
    variants/name
+   variants/aliases
    variants/summary
-   variants/type
+   variants/types
    variants/coordinates
+   variants/hgvs_expressions
+   variants/clinvar_ids
    variants/evidence_score

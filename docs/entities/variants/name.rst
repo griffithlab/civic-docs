@@ -1,8 +1,13 @@
 Name
 ====
+Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  
 
-.. rubric:: General Guidelines
+Understanding Names
+-------------------
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
 
+Curating Names
+--------------
 - New Variant Names should be unique within the gene of interest.
   Otherwise, an Evidence Item should be assigned to the existing Variant
   for that gene. Before proposing a new variant, please check existing

@@ -1,5 +1,5 @@
-Type
-====
+Types
+=====
 
 Variant types are used to classify variants within the structured ontology terms provided by The Sequence Ontology Project. Multiple terms for a variant are allowed to facilitate functional and structural effects of the variant. Ideally, the most specific child terms of a branch are used. These variant types can be used to search for variants within the CIViC database that meet a users' criteria via the advanced search page or through the API.
 
