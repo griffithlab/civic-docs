@@ -29,12 +29,12 @@ The index endpoints provide high level overview information about a collection o
      "records": ["... 25 gene objects ..."]
    }
 
-Meta
-~~~~
+Meta Attribute
+~~~~~~~~~~~~~~
 As seen to above, the :code:`_meta` section contains information about the total number of available records, the page size, and provides links to the next and previous page of results. These links can be used to easily traverse all of the records in CIViC. A :code:`null` entry for :code:`next` (or :code:`previous`) indicates that you have reached the end of the collection.
 
-Records
-~~~~~~~
+Records Attribute
+~~~~~~~~~~~~~~~~~
 The records section will contain the actual objects requested in the API call (ie: genes, variants or evidence_items)
 
 If you do not wish to use the links in the :code:`_meta` section, index endpoints also accept manual pagination parameters in the query string:

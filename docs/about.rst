@@ -34,5 +34,5 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempo
    about/domain-experts
    about/partners
    about/data-clients
-   about/graphics
+   about/figures
    about/acknowledgements

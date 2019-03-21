@@ -40,3 +40,7 @@
     color: #08b1e6;
     font-weight: bold;
 }
+
+.image-table td {
+    vertical-align: top !important;
+}
