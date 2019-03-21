@@ -1,0 +1,50 @@
+.wy-nav-content {
+    background-image: url('../img/body-bg.png') !important;
+    background-repeat: no-repeat;
+    background-position: -300px 0;
+}
+
+.wy-side-nav-search {
+    background-color: #190a20;
+    background-image: url('../img/sidebar-bg_top.png');
+}
+
+.wy-nav-side {
+    background-color: #292727;
+    background-image: url('../img/sidebar-bg_bottom.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+}
+
+.red {
+    color: #e24759;
+    font-weight: bold;
+}
+
+.orange {
+    color: #f68f37;
+    font-weight: bold;
+}
+
+.green {
+    color: #33b358;
+    font-weight: bold;
+}
+
+.purple {
+    color: #616eb2;
+    font-weight: bold;
+}
+
+.blue {
+    color: #08b1e6;
+    font-weight: bold;
+}
+
+.logo-img {
+    margin: 10px;
+}
+
+.image-table td {
+    vertical-align: top !important;
+}

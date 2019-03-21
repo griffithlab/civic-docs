@@ -1,8 +1,3 @@
-import sphinx_bootstrap_theme
-
-
-def setup(app):
-    app.add_stylesheet("civic.css")
 # -*- coding: utf-8 -*-
 #
 # Configuration file for the Sphinx documentation builder.
@@ -44,7 +39,7 @@ release = u''
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinxcontrib.contentui',
+    'sphinx_fontawesome'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -80,30 +75,22 @@ pygments_style = None
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'bootstrap'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
 html_theme_options = {
-    'bootswatch_theme': 'cosmo',
-
-    'navbar_title': "Home",
-    'navbar_site_name': 'Menu',
-    'source_link_position': False,
-
-    'navbar_sidebarrel': False,
-
-    'navbar_pagenav': False,
+    'logo_only': True,
 }
 
-html_favicon = "images/favicon.ico"
-
+html_favicon = "_static/img/favicon.ico"
+html_logo = "_static/img/civic-logo.png"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+html_static_path = ['_static', '_static/css', '_static/img']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -189,3 +176,8 @@ epub_title = project
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
+
+
+def setup(app):
+    app.add_css_file("css/civic.css")
+    app.add_css_file("css/theme_overrides.css")

@@ -104,11 +104,12 @@ This video covers:
    :maxdepth: 2
    :caption: Contents:
 
-   getting_started
-   evidence
-   variants
-   genes
-   variant_groups
-   editor
+   about
+   faq
+   using
+   curating
+   entities
+   api
    help
    problems
+

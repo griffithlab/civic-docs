@@ -11,7 +11,7 @@ We welcome contributions to the documentation. If you wish to contribute a clari
 After you've forked and cloned the repository, install [https://www.sphinx-doc.org/en/master/](Sphinx), a [reStructuredText](http://docutils.sourceforge.net/rst.html) documentation generator, and [https://pypi.org/project/sphinx-autobuild/](sphinx-autobuild), a utility that will host and update the documentation as you work:
 
 ```
-pip install sphinx sphinx-autobuild sphinx_bootstrap_theme sphinxcontrib-contentui
+pip install sphinx sphinx-autobuild sphinx_rtd_theme 
 ```
 
 Then start the sphinx-autobuild process:
@@ -22,3 +22,16 @@ sphinx-autobuild ./ ./_build/html
 ```
 
 Sphinx-autobuild will start a server at http://127.0.0.1:8000. View the compiled docs in your web browser at that URL, and edit the documentation to create your contribution. Sphinx-autobuild will recompile the docs when you save updates and reload the page in your browser.
+
+Occasionally, especially after adding or moving a page or modifying the configuration, autobuild doesn't properly compile the new pages or changes. If this happens try these commands to delete cached files and rebuild the docs:
+
+```
+rm -rf ./_build/*
+make build
+```
+
+Then restart sphinx-autobuild:
+
+```
+sphinx-autobuild ./ ./_build/html
+```
