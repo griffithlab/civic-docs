@@ -1,6 +1,12 @@
 Level
 ==============
 
+Understanding Levels
+--------------------
+Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Phasellus lacus.  Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent augue.  Fusce commodo.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Nullam libero mauris, consequat quis, varius et, dictum id, arcu.  Mauris mollis tincidunt felis.  Aliquam feugiat tellus ut neque.  Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
+
+Curating Levels
+---------------
 Each evidence statement is the result of an experiment, trial or study in published literature. It is important to capture the nature of these experiments in the evidence entry. Evidence levels allow for the subject of an evidence item to be presented in a simple, standardized fashion. The evidence level is also an indication of how close each assertion is to actual application in the clinic. Please, note that while evidence statements of all levels are acceptable in CIViC, by far the highest priority are levels A and B, followed by C, D, E. Our top priority is to document the evidence for application of variant interpretations to real patients in the clinic today. The more time and development needed to determine the relevance of a variant to real patients in the clinic, the lower the priority for curation. Reviewing and approving evidence items requires a serious time committment by the community. Please keep this in mind and try to direct your efforts to the most immediately clinically relevant evidence first.
 
 .. role:: green
