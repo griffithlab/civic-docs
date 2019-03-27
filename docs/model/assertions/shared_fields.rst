@@ -11,11 +11,11 @@ In some cases, several evidence items with non-identical but highly related dise
    :maxdepth: 2
    :caption: Variant Shared Fields:
 
-   /entities/evidence/gene.rst
-   /entities/evidence/variant.rst
-   /entities/evidence/origin.rst
-   /entities/evidence/disease.rst
-   /entities/evidence/type.rst
-   /entities/evidence/direction.rst
-   /entities/evidence/clinical_significance.rst
+   /model/evidence/gene.rst
+   /model/evidence/variant.rst
+   /model/evidence/origin.rst
+   /model/evidence/disease.rst
+   /model/evidence/type.rst
+   /model/evidence/direction.rst
+   /model/evidence/clinical_significance.rst
 

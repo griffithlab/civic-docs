@@ -45,7 +45,6 @@ ecosystem collaborate to curate the database.
    faq
    using
    curating
-   entities
+   model
    api
    help
-   problems

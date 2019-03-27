@@ -9,6 +9,7 @@ Ron Bose
 
    .. image:: https://secure.gravatar.com/avatar/b13128b21f2e3357ec9ea26c2c94b1b9.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/141/profile
+               
    **Role:** Editor |br|
    **Area of Expertise:** Research Scientist
 
@@ -20,6 +21,7 @@ Obi Grifith
 
    .. image:: https://secure.gravatar.com/avatar/4c468e9a95d6135e02eb66ee5f2fb574.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/3/profile
+
    **Role:** Administrator |br|
    **Area of Expertise:** Research Scientist
 
@@ -31,6 +33,7 @@ Malachi Griffith
 
    .. image:: https://secure.gravatar.com/avatar/a4d9fc3b05d58cf3d3ba51dc30bb61d6.png?d=identicon&r=pg&s=128
       :target: http://127.0.0.1:3001/users/15/profile
+
    **Role:** Administrator |br|
    **Area of Expertise:** Research Scientist
 
@@ -42,6 +45,7 @@ Peter Horak
 
    .. image:: https://secure.gravatar.com/avatar/57b08a4629b36eaa6e397d0a8b2d19b9.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/208/profile
+
    **Role:** Editor |br|
    **Area of Expertise:** Clinical Scientist
 
@@ -53,6 +57,7 @@ Martin Jones
 
    .. image:: https://secure.gravatar.com/avatar/4fc3a1dc5671917fabd7643ee22e2ee6.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/57/profile
+
    **Role:** Editor |br|
    **Area of Expertise:** Research Scientist
 
@@ -64,6 +69,7 @@ Raymond Kim
 
    .. image:: https://secure.gravatar.com/avatar/226aab717bc7e668602badd2465a8753.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/739/profile
+
    **Role:** Curator |br|
    **Area of Expertise:** Research Scientist
 
@@ -75,6 +81,7 @@ Kilannin Krysiak
 
    .. image:: https://secure.gravatar.com/avatar/17180f9afc9f7f04fff97197c1ee5cb6.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/6/profile
+
    **Role:** Administrator |br|
    **Area of Expertise:** Research Scientist
 
@@ -86,6 +93,7 @@ Elaine Mardis
 
    .. image:: https://secure.gravatar.com/avatar/8b3aea84db5c3249155a77168df89db6.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/133/profile
+
    **Role:** Editor |br|
    **Area of Expertise:** Research Scientist
 
@@ -97,6 +105,7 @@ Damian Rieke
 
    .. image:: https://secure.gravatar.com/avatar/baaffa3938cc82f434ca5561e34d3de9.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/100/profile
+
    **Role:** Editor |br|
    **Area of Expertise:** Clinical Scientist
 
@@ -112,6 +121,7 @@ Maurizio Scaltriti
 
    .. image:: https://secure.gravatar.com/avatar/3d7f60c91a2cd1da5e9b6083a85f269f.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/240/profile
+
    **Role:** Curator |br|
    **Area of Expertise:** Research Scientist
 
@@ -123,6 +133,7 @@ David Spencer
 
    .. image:: https://secure.gravatar.com/avatar/d3b984a1f2f5746013d24803a8dbf6ba.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/135/profile
+
    **Role:** Editor |br|
    **Area of Expertise:** Clinical Scientist
 
@@ -134,6 +145,7 @@ Nick Spies
 
    .. image:: https://secure.gravatar.com/avatar/3376aeb8439c5ab3e5d72fa2eeed39e5.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/41/profile
+
    **Role:** Administrator |br|
    **Area of Expertise:** Research Scientist
 
@@ -149,6 +161,7 @@ Lukas Wartman
 
    .. image:: https://secure.gravatar.com/avatar/3df36e7f47fba8ef2e3766a0f7edee7f.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/169/profile
+
    **Role:** Editor |br|
    **Area of Expertise:** Clinical Scientist
 

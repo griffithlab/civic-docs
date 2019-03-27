@@ -10,8 +10,7 @@ Associating cancer variants with concrete clinical actions by manual curation of
 *Recommended reading:* `Organizing knowledge to enable personalization of
 medicine in cancer <https://www.ncbi.nlm.nih.gov/pubmed/25222080>`_
 
-.. rubric:: Cancer Variant Interpretation - Evidence Statements, Variant Summaries
-and Gene Summaries
+.. rubric:: Cancer Variant Interpretation - Evidence Statements, Variant Summaries and Gene Summaries
 
 For a primer on the fundamentals of cancer variant interpretation, we highly recommend that new users start by reading the CIViC paper and three recently published Standards and Guidelines proposals:
 
