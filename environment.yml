@@ -11,5 +11,4 @@ dependencies:
 - zlib=1.2.8=0
 - requests
 - pip:
-  - sphinx_rtd_theme
   - sphinx_fontawesome
