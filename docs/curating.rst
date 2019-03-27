@@ -34,3 +34,6 @@ or aliases, etc.
    curating/ideas
    curating/monitoring
    curating/editor
+   curating/adding_evidence
+   curating/adding_assertions
+   curating/adding_source_suggestions
