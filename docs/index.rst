@@ -42,7 +42,6 @@ ecosystem collaborate to curate the database.
    :caption: Contents:
 
    about
-   faq
    using
    curating
    model

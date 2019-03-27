@@ -36,7 +36,7 @@ A genetic variant is a non-exact copy of a biological sequence. This includes si
 
 What kinds of Variants belong in CIViC? What does not?
 ------------------------------------------------------
-Variant descriptions will be accepted into CIViC provided there is evidence linking the variant to cancer with some *clinical* relevance. Relevance to cancer biology alone is NOT sufficient unless there is also some documented relationship between the variant and diagnosis, predisposition, prognosis, or response to a specific treatment. Variants related to diseases other than cancer should not be entered (there is some grey area for cancer-like conditions). CIViC accepts somatic variants, germline variants, and common polymorphisms related to cancer (as long as they have clinical relevance), however, most variants in CIViC are somatic mutations. The quality of evidence suggesting clinical relevance of a variant may vary considerably. Before contributing to CIViC please review :doc:`the curation documentation <curating>` and familiarize yourself with :doc:`the CIViC data model <model>`.
+Variant descriptions will be accepted into CIViC provided there is evidence linking the variant to cancer with some *clinical* relevance. Relevance to cancer biology alone is NOT sufficient unless there is also some documented relationship between the variant and diagnosis, predisposition, prognosis, or response to a specific treatment. Variants related to diseases other than cancer should not be entered (there is some grey area for cancer-like conditions). CIViC accepts somatic variants, germline variants, and common polymorphisms related to cancer (as long as they have clinical relevance), however, most variants in CIViC are somatic mutations. The quality of evidence suggesting clinical relevance of a variant may vary considerably. Before contributing to CIViC please review :doc:`the curation documentation <../curating>` and familiarize yourself with :doc:`the CIViC data model <../model>`.
 
 What is an Evidence Statement?
 ------------------------------
@@ -44,7 +44,7 @@ An evidence statement is an assertion about the clinical relevance of a variant 
 
 How is this information organized?
 ----------------------------------
-An in-depth description of the data model behind CIViC can be found :doc:`here <model>`.
+An in-depth description of the data model behind CIViC can be found :doc:`here <../model>`.
 
 What information is currently in CIViC?
 ---------------------------------------
@@ -52,11 +52,11 @@ CIViC currently houses thousands of evidence statements, variants and genes acro
 
 How do I contribute information?
 --------------------------------
-The :doc:`curation pages <curating>` detail the curation and editing process, and includes instructions on how to curate CIViC and apply for editorship.
+The :doc:`curation pages <../curating>` detail the curation and editing process, and includes instructions on how to curate CIViC and apply for editorship.
 
 My favorite Gene/Variant is not in CIViC?!?
 -------------------------------------------
-The extensive manual curation required to add evidence statements means that there might not yet be a published evidence statement for every variant or gene of interest. This is precisely why we need community-driven efforts to grow this database. For a gene or variant to appear in CIViC, it must have an evidence statement associated with it. To add evidence statements and begin the discussion about your gene/variant of interest, go :doc:`here <curating>`!
+The extensive manual curation required to add evidence statements means that there might not yet be a published evidence statement for every variant or gene of interest. This is precisely why we need community-driven efforts to grow this database. For a gene or variant to appear in CIViC, it must have an evidence statement associated with it. To add evidence statements and begin the discussion about your gene/variant of interest, go :doc:`here <../curating>`!
 
 May I enter unpublished results from n-of-1 observations?
 ---------------------------------------------------------
@@ -76,7 +76,7 @@ The information in CIViC is derived from peer-reviewed, published literature. Ev
 
 What if a drug is shown to have a negative effect on patients with a variant? Or the study was inconclusive?
 ------------------------------------------------------------------------------------------------------------
-The data model, specifically the Evidence Direction field, is used to indicate whether the study supports or refutes (including inconclusive determinations) any interaction between the variant and a clinical action or result. The Clinical Significance field indicates the type of effect the variant is determined to have on clinical results within the evidence statement as having a positive, negative or neutral/no impact. These descriptions provide human readible interpretations of evidence statements that either support or refute sensitivity or resistance predictions to therapeutics (or other clinical outcomes). For more detailed definitions and specific examples, please review the data model :doc:`here <model>`.
+The data model, specifically the Evidence Direction field, is used to indicate whether the study supports or refutes (including inconclusive determinations) any interaction between the variant and a clinical action or result. The Clinical Significance field indicates the type of effect the variant is determined to have on clinical results within the evidence statement as having a positive, negative or neutral/no impact. These descriptions provide human readible interpretations of evidence statements that either support or refute sensitivity or resistance predictions to therapeutics (or other clinical outcomes). For more detailed definitions and specific examples, please review the data model :doc:`here <../model>`.
 
 My evidence statement disagrees with evidence from another source, should I still add it?
 -----------------------------------------------------------------------------------------
@@ -92,7 +92,7 @@ What is MyGene.info?
 
 Is there an API I can access?
 -----------------------------
-Yes! Please review the :doc:`API documentation <api>` for more details.
+Yes! Please review the :doc:`API documentation <../api>` for more details.
 
 What is the difference between "Supports a Negative association" and "Does not support a Positive association"?
 ---------------------------------------------------------------------------------------------------------------
@@ -100,7 +100,7 @@ This can be confusing. We have reserved "Does not support - Positive" for statem
 
 Where do I begin to curate evidence statements? Are certain evidence types or genes a priority?
 -----------------------------------------------------------------------------------------------
-The evidence statements that make up CIViC are generated from peer-reviewed, published literature. Our top priority is high quality (4+ star rating) Evidence Level A and B statements that associate specific variants with clinical outcomes using well powered patient cohorts. To help direct users towards genes known to be associated with clinical outcomes, we have compiled a list of high priority genes which you can download `here <https://github.com/genome/civic-server/tree/master/public/downloads/RankedCivicGeneCandidates.tsv>`_. This list is based on a survey of 90 commerically available clinical gene panels developed by 40 distinct institutes and companies. If many independent groups feel that a gene is important to profile on their assay, it might be important. CIViC aims to spell out, with complete provenance, the evidence that each of these genes really is clinically important and why/how.</p>
+The evidence statements that make up CIViC are generated from peer-reviewed, published literature. Our top priority is high quality (4+ star rating) Evidence Level A and B statements that associate specific variants with clinical outcomes using well powered patient cohorts. To help direct users towards genes known to be associated with clinical outcomes, we have compiled a list of high priority genes which you can download `here <https://github.com/genome/civic-server/tree/master/public/downloads/RankedCivicGeneCandidates.tsv>`_. This list is based on a survey of 90 commerically available clinical gene panels developed by 40 distinct institutes and companies. If many independent groups feel that a gene is important to profile on their assay, it might be important. CIViC aims to spell out, with complete provenance, the evidence that each of these genes really is clinically important and why/how.<../p>
 
 Can I use a review article to create an evidence statement?
 -----------------------------------------------------------

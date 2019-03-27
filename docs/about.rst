@@ -31,6 +31,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempo
    :maxdepth: 2
    :caption: Contents:
 
+   about/faq
    about/domain-experts
    about/partners
    about/data-clients
