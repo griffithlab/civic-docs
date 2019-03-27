@@ -4,7 +4,7 @@ Provided below are figures and graphics to be used for referencing, publicizing,
 
 CIViC Model Figures
 -------------------
-These figures provide details about CIViC's data model, showing how the various entities in CIViC are related and how they may be assocaited to external data sources or user input.
+These figures provide details about CIViC's data model, showing how the various entities in CIViC are related and how they may be associated to external data sources or user input.
 
 We've released these figures under the `Creative Commons Public Domain Dedication (CC0 1.0 Universal) <https://creativecommons.org/publicdomain/zero/1.0/>`_, which means they are in the public domain and may be used, distributed, modified for any purpose without permission.
 
