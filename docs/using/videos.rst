@@ -6,6 +6,13 @@ interface elements and workflows.
 
 CIViC - Getting Started
 _______________________
+.. raw:: html
+
+   <div class="video-container">
+   <iframe width="825" height="464"
+         src="https://www.youtube.com/embed/Vr0BDUKkDeI" frameborder="0"
+         allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   </div>
 
 This video covers:
 
@@ -13,14 +20,18 @@ This video covers:
 - Navigating through CIViC's core pages
 - Browsing, searching, and consuming knowledgebase content
 
-.. raw:: html
-
-   <iframe width="825" height="464"
-   src="https://www.youtube.com/embed/Vr0BDUKkDeI" frameborder="0"
-   allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Adding CIViC Evidence
 _____________________
+
+.. raw:: html
+
+   <div class="video-container">
+   <iframe width="825" height="464"
+         src="https://www.youtube.com/embed/od5Tgdfo6Qs"
+         frameborder="0"
+         allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   </div>
 
 This video covers:
 
@@ -29,14 +40,19 @@ This video covers:
 - Walking through the Add Evidence form
 - Viewing the submitted evidence
 
-.. raw:: html
-
-   <iframe width="825" height="464"
-   src="https://www.youtube.com/embed/od5Tgdfo6Qs" frameborder="0"
-   allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Editing entities in CIViC
 _________________________
+
+.. raw:: html
+
+   <div class="video-container">
+   <iframe width="825" height="464"
+         src="https://www.youtube.com/embed/uss4R20ymPA"
+         frameborder="0"
+         allow="autoplay; encrypted-media" allowfullscreen>
+   </iframe>
+   </div>
 
 This video covers:
 
@@ -45,10 +61,3 @@ This video covers:
 - Identifying entities with pending changes
 - Navigating to an entity's suggested changes
 - Reviewing entity revisions
-
-.. raw:: html
-
-   <iframe width="825" height="464"
-   src="https://www.youtube.com/embed/uss4R20ymPA" frameborder="0"
-   allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
