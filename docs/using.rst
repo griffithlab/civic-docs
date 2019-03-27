@@ -10,6 +10,7 @@ Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel t
    :maxdepth: 2
    :caption: Contents:
 
+   using/videos
    using/browsing
    using/searching
    using/data_grids
