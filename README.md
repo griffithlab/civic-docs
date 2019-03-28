@@ -8,10 +8,10 @@ We welcome contributions to the documentation. If you wish to contribute a clari
 
 ## Getting Started
 
-After you've forked and cloned the repository, install [https://www.sphinx-doc.org/en/master/](Sphinx), a [reStructuredText](http://docutils.sourceforge.net/rst.html) documentation generator, and [https://pypi.org/project/sphinx-autobuild/](sphinx-autobuild), a utility that will host and update the documentation as you work:
+After you've forked and cloned the repository, install [Sphinx](https://www.sphinx-doc.org/en/master/), a [reStructuredText](http://docutils.sourceforge.net/rst.html) documentation generator, and [sphinx-autobuild](https://pypi.org/project/sphinx-autobuild/), a utility that will host and update the documentation as you work:
 
 ```
-pip install sphinx sphinx-autobuild
+pip install sphinx sphinx-autobuild sphinx-fontawesome
 ```
 
 Then start the sphinx-autobuild process:
