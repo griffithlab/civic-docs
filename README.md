@@ -35,3 +35,19 @@ Then restart sphinx-autobuild:
 ```
 sphinx-autobuild ./ ./_build/html
 ```
+
+## Updating the Docs with Pull Requests
+
+If you'd like to contribute to the documentation or correct an error, clone the repository and create a new branch with your updates (if you do not have authorship permissions on the civic-docs repository, fork the repository first, before cloning, using the Fork button at the top right corner of the github interface):
+
+```
+git checkout -b doc-update
+```
+
+Make your updates, then push a new branch to the repository:
+
+```
+git push origin doc-update
+```
+
+Then visit the [civic-docs pull requests page](https://github.com/griffithlab/civic-docs/pulls). Github should display a message asking you if you'd like to create a pull request from the new branch you just pushed. Create the pull request, with a short description of your contribution. A CIViC maintainer will evaluate your contribution and will likely merge it with the master branch, which will then be published. Thanks for your contributions!
