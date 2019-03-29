@@ -1,9 +1,9 @@
 Introduction to CIViC
 =====================
 
-To get started using and contributing to CIViC, we recommend that you :doc:`review the Video Tutorials <using/videos>`. These videos cover CIViC and its goals, finding documentation and help resources, browsing and searching knowledgebase contents, adding new evidence, variant summaries, coordinates, gene summaries, and assertions to CIViC, and editing existing CIViC content.
+To get started using and contributing to CIViC, we recommend that you :doc:`review the Video Tutorials <using/videos>`. These videos cover CIViC and its goals; finding documentation and help resources; browsing and searching knowledgebase contents; adding new evidence, variant summaries, coordinates, gene summaries, and assertions to CIViC; and editing existing CIViC content.
 
-For a primer on the fundamentals of cancer variant interpretation, we highly recommend that new users start by reading the CIViC paper and four recently published Standards and Guidelines proposals:
+For a primer on the fundamentals of cancer variant interpretation, we highly recommend that new users start by reading the CIViC paper and these recently published Standards and Guidelines proposals:
 
 - `CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer. <http://www.nature.com/ng/journal/v49/n2/full/ng.3774.html>`_
 - `ACMG/AMP - Standards and guidelines for the interpretation of sequence variants. <https://www.ncbi.nlm.nih.gov/pubmed/25741868>`_
