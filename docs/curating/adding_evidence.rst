@@ -1,5 +1,6 @@
 Adding Evidence
 ===============
+
 .. image:: /images/figures/CIViC_adding-updating-evidence_v1c.png
 
 The main curation activity in CIViC involves adding and editing evidence statements. Below we have provided a screencast entitled, `Adding CIViC Evidence <https://www.youtube.com/watch?v=od5Tgdfo6Qs>`_ to walk users through creating an evidence item in CIViC. This screencast covers:
