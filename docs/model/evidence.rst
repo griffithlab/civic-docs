@@ -26,6 +26,8 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
    :caption: Contents:
 
    evidence/overview
+   evidence/gene
+   evidence/variant
    evidence/statement
    evidence/level
    evidence/type
