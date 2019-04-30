@@ -37,3 +37,4 @@ or aliases, etc.
    curating/adding_evidence
    curating/adding_assertions
    curating/adding_source_suggestions
+   curating/editing_items
