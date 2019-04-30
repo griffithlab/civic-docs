@@ -34,10 +34,9 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
    evidence/direction
    evidence/clinical_significance
    evidence/origin
-   evidence/drug
    evidence/disease
+   evidence/drug
    evidence/associated_phenotype
    evidence/source
    evidence/clinical_trial
    evidence/trust_rating
-
