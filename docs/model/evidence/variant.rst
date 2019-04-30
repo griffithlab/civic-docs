@@ -1,3 +1,5 @@
+.. _evidence-variant:
+
 Variant
 =======
 

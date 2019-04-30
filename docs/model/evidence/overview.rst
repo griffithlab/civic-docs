@@ -18,17 +18,17 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - Description
      - Example
      - Source
-   * - Gene
+   * - :ref:`evidence-gene`
      - The symbol and ID of the gene implicated.
      - ESR1 (Entrez ID: 2099)
      - CIViC (Entrez)
-   * - Variant
+   * - :ref:`evidence-variant`
      - Genomic event/mutation (Single nucleotide variant,
        Insertion/deletion, Gene fusion, Copy number variant, etc.)
        implicated.
      - Y537S
      - CIViC
-   * - Evidence Statement
+   * - :ref:`evidence-statement`
      - Human readable interpretation. Free-form text
        summary of this event’s potential clinical interpretations. This
        interpretation is the synthesis of all other information about an
@@ -38,7 +38,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
        cancer patients, the appearance of T790M mutation lead to resistance
        to gefitinib.
      - CIViC
-   * - Evidence Level
+   * - :ref:`evidence-level`
      - The type of experiment from which the evidence is
        curated. From inferential, to proven association in clinical
        medicine. Refer to the additional documentation on evidence levels
@@ -46,7 +46,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
        clinical, pre-clinical, case study, and inferential.
      - Level B - Clinical Evidence.
      - CIViC
-   * - Evidence Type
+   * - :ref:`evidence-type`
      - Category of clinical action/relevance implicated by
        event. Refer to the additional documentation on evidence types for
        details on how to enter evidence of each of the four types:
@@ -55,35 +55,35 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - Predictive - The variant is
        predictive of sensitivity or resistance to a therapeutic.
      - CIViC
-   * - Evidence Direction
+   * - :ref:`evidence-direction`
      - An indicator of whether the evidence statement
        supports or refutes the clinical significance of an event. See
        'Evidence Type' tab for more information.
      - Supports - the evidence supports the clinical significance.
      - CIViC
-   * - Clinical Significance
+   * - :ref:`evidence-clinical_significance`
      - The association with diagnostic/prognostic end
        point or treatment. See 'Evidence Type' tab for more information.
      - Resistant or Non-response - mutation is associated with resistance
        to therapy.
      - CIViC
-   * - Variant Origin
+   * - :ref:`evidence-origin`
      - Presumed cellular origin of the Variant in samples
        from the literature citation where the clinical effect of this
        Variant is being evaluated.
      - Somatic
      - CIViC
-   * - Disease
+   * - :ref:`evidence-disease`
      - Specific disease or disease subtype that is associated
        with this event and its clinical implication. Links directly to
        Disease Ontology.
      - Estrogen-receptor positive breast cancer (DOID: 0060075).
      - CIViC (Disease Ontology)
-   * - Associated Phenotype
+   * - :ref:`evidence-associated_phenotype`
      - Lorem Ipsum
      - Lorem Ispum
      - Lorem Ipsum
-   * - Drug
+   * - :ref:`evidence-drug`
      - For predictive evidence, indicates the therapy for which
        sensitivity or resistance is indicated (With PubChem ID if
        available).
@@ -110,11 +110,11 @@ The rows in the following table describe the minimal components of a CIViC Evide
        described/explored with direct link to PubMed.
      - 24185512
      - CIViC (PubMed)
-   * - Clinical Trial
+   * - :ref:`evidence-clinical_trial`
      - Lorem Ipsum
      - Lorem Ispum
      - Lorem Ipsum
-   * - Trust Rating
+   * - :ref:`evidence-trust_rating`
      - A rating on a 5-star scale, portraying the curators
        trust in the experiments from which the evidence is curated. Refer
        to the additional documentation on trust ratings for guidance on how

@@ -1,3 +1,5 @@
+.. _evidence-associated_phenotype:
+
 Associated Phenotype
 ====================
 
