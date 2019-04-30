@@ -12,6 +12,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempo
    assertions/overview
    assertions/shared_fields
    assertions/amp_category
+   assertions/acmg_codes
    assertions/associated_phenotypes
    assertions/nccn_guideline
    assertions/fda_companion_test
