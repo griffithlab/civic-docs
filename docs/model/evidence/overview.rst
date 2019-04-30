@@ -79,6 +79,10 @@ The rows in the following table describe the minimal components of a CIViC Evide
        Disease Ontology.
      - Estrogen-receptor positive breast cancer (DOID: 0060075).
      - CIViC (Disease Ontology)
+   * - Associated Phenotype
+     - Lorem Ipsum
+     - Lorem Ispum
+     - Lorem Ipsum
    * - Drug
      - For predictive evidence, indicates the therapy for which
        sensitivity or resistance is indicated (With PubChem ID if
@@ -106,6 +110,10 @@ The rows in the following table describe the minimal components of a CIViC Evide
        described/explored with direct link to PubMed.
      - 24185512
      - CIViC (PubMed)
+   * - Clinical Trial
+     - Lorem Ipsum
+     - Lorem Ispum
+     - Lorem Ipsum
    * - Trust Rating
      - A rating on a 5-star scale, portraying the curators
        trust in the experiments from which the evidence is curated. Refer
