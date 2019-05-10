@@ -24,10 +24,16 @@ These figures are also released under the `Creative Commons Public Domain Dedica
 .. _curation-funnel-figure: /_images/GP-103_Biothings_Overview_v3b.png
 
 .. |adding-updating-evidence| image:: ../images/figures/CIViC_adding-updating-evidence_v1c.png
-.. _adding-updating-evidence: /_images/figures/CIViC_adding-updating-evidence_v1c.png
+.. _adding-updating-evidence: /_images/CIViC_adding-updating-evidence_v1c.png
 
 .. |add-evidence-update-assertion| image:: ../images/figures/CIViC_add-evidence-update-assertion_v1b.png
-.. _add-evidence-update-assertion: /_images/figures/CIViC_add-evidence-update-assertion_v1b.png
+.. _add-evidence-update-assertion: /_images/CIViC_add-evidence-update-assertion_v1b.png
+
+.. |assertion-types_predisposing| image:: ../images/figures/CIViC_assertion-types_predisposing_v1a.png
+.. _assertion-types_predisposing: /_images/CIViC_assertion-types_predisposing_v1a.png
+
+.. |assertion-types_non-predisposing| image:: ../images/figures/CIViC_assertion-types_non-predisposing_v1a.png
+.. _assertion-types_non-predisposing: /_images/CIViC_assertion-types_non-predisposing_v1a.png
 
 .. list-table::
    :class: image-table
@@ -44,6 +50,10 @@ These figures are also released under the `Creative Commons Public Domain Dedica
      - **Adding and Updating Evidence Flowchart** - Shows how evidence is submitted, rejected or accepted, curated, and used to support variant summaries and assertions.
    * - |add-evidence-update-assertion|_
      - **Adding Evidence to Support Assertions** - Provides a visual overview of how evidence can be added, curated, and then incorporated into an Assertion record to support an Assertion statement.
+   * - |assertion-types_predisposing|_
+     - **Curating Predisposing Assertions** - Illustrates how CIViC Predisposing Assertions summarize a collection of predisposing Evidence Items which reflect the state of literature for the given variant and cancer type, and appropriate ACMG codes are applied to the Evidence items on an individual basis. ACMG codes are then combined at the Assertion level to generate a pathogenicity valuation for the Assertion.
+   * - |assertion-types_non-predisposing|_
+     - **Curating Non-Predisposing Assertions** - Shows how CIViC Predictive/Therapeutic, Prognostic, and Diagnostic Assertions summarize a collection of predictive/therapeutic, prognostic or diagnostic Evidence Items respectively, that together reflect the current literature for a given variant and cancer type. The AMP guidelines are followed in order to apply an AMP Tier and Level to the Assertion.
 
 CIViC Branding
 --------------
