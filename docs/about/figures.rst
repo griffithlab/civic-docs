@@ -24,7 +24,10 @@ These figures are also released under the `Creative Commons Public Domain Dedica
 .. _curation-funnel-figure: /_images/GP-103_Biothings_Overview_v3b.png
 
 .. |adding-updating-evidence| image:: ../images/figures/CIViC_adding-updating-evidence_v1c.png
-.. _adding-updating-evidence: /_images/GP-103_Biothings_Overview_v3b.png
+.. _adding-updating-evidence: /_images/figures/CIViC_adding-updating-evidence_v1c.png
+
+.. |add-evidence-update-assertion| image:: ../images/figures/CIViC_add-evidence-update-assertion_v1b.png
+.. _add-evidence-update-assertion: /_images/figures/CIViC_add-evidence-update-assertion_v1b.png
 
 .. list-table::
    :class: image-table
@@ -39,6 +42,8 @@ These figures are also released under the `Creative Commons Public Domain Dedica
      - **Curation 'Funnel' Diagram** - Illustrates the distillation of clinically actionable knowledge from raw sequencing data, with an emphasis on the bottleneck created by the increasing high-level curation burden on research scientists. Useful to illustrate how CIViC can help alleviate this curation burden by turning the process into a collaborative, social effort.
    * - |adding-updating-evidence|_
      - **Adding and Updating Evidence Flowchart** - Shows how evidence is submitted, rejected or accepted, curated, and used to support variant summaries and assertions.
+   * - |add-evidence-update-assertion|_
+     - **Adding Evidence to Support Assertions** - Provides a visual overview of how evidence can be added, curated, and then incorporated into an Assertion record to support an Assertion statement.
 
 CIViC Branding
 --------------
