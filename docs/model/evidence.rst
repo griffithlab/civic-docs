@@ -26,16 +26,17 @@ or visit the `Source Suggestion queue <https://civicdb.org/curation/sources>`_ f
    :caption: Contents:
 
    evidence/overview
+   evidence/gene
+   evidence/variant
    evidence/statement
    evidence/level
    evidence/type
    evidence/direction
    evidence/clinical_significance
    evidence/origin
-   evidence/drug
    evidence/disease
+   evidence/drug
    evidence/associated_phenotype
    evidence/source
    evidence/clinical_trial
    evidence/trust_rating
-

@@ -1,3 +1,5 @@
+.. _evidence-statement:
+
 Statement
 =========
 
