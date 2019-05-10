@@ -23,8 +23,8 @@ These figures are also released under the `Creative Commons Public Domain Dedica
 .. |curation-funnel-figure| image:: ../images/figures/GP-103_Biothings_Overview_v3b.png
 .. _curation-funnel-figure: /_images/GP-103_Biothings_Overview_v3b.png
 
-.. |adding-updating-evidence| image:: ../images/figures/CIViC_adding-updating-evidence_v1c.png
-.. _adding-updating-evidence: /_images/CIViC_adding-updating-evidence_v1c.png
+.. |adding-updating-evidence| image:: ../images/figures/CIViC_adding-updating-evidence_v1d.png
+.. _adding-updating-evidence: /_images/CIViC_adding-updating-evidence_v1d.png
 
 .. |add-evidence-update-assertion| image:: ../images/figures/CIViC_add-evidence-update-assertion_v1b.png
 .. _add-evidence-update-assertion: /_images/CIViC_add-evidence-update-assertion_v1b.png
