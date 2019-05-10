@@ -23,6 +23,9 @@ These figures are also released under the `Creative Commons Public Domain Dedica
 .. |curation-funnel-figure| image:: ../images/figures/GP-103_Biothings_Overview_v3b.png
 .. _curation-funnel-figure: /_images/GP-103_Biothings_Overview_v3b.png
 
+.. |adding-updating-evidence| image:: ../images/figures/CIViC_adding-updating-evidence_v1c.png
+.. _adding-updating-evidence: /_images/GP-103_Biothings_Overview_v3b.png
+
 .. list-table::
    :class: image-table
    :widths: 30 70
@@ -34,6 +37,8 @@ These figures are also released under the `Creative Commons Public Domain Dedica
      - **CIViC precision cancer treatment process** - This diagram combines the treatment cycle figure above with elements Curation Funnel Diagram to show how CIViC fits into the sequencing, analysis, reporting, and treatment phases of precision cancer treatment.
    * - |curation-funnel-figure|_
      - **Curation 'Funnel' Diagram** - Illustrates the distillation of clinically actionable knowledge from raw sequencing data, with an emphasis on the bottleneck created by the increasing high-level curation burden on research scientists. Useful to illustrate how CIViC can help alleviate this curation burden by turning the process into a collaborative, social effort.
+   * - |adding-updating-evidence|_
+     - **Adding and Updating Evidence Flowchart** - Shows how evidence is submitted, rejected or accepted, curated, and used to support variant summaries and assertions.
 
 CIViC Branding
 --------------
