@@ -1,7 +1,80 @@
 Linking
 =======
 
-Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  Nunc porta vulputate tellus.  Nunc rutrum turpis sed pede.  Sed bibendum.  Aliquam posuere.  Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.  Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna.  Curabitur vulputate vestibulum lorem.  Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.  Sed id ligula quis est convallis tempor.  Curabitur lacinia pulvinar nibh.  Nam a sapien.
+For convenience, the CIViC API provides a method for linking to entities on the front end website using only a single identifier. This allows external integrations to build links to CIViC without needing an entire hierarchy of ids. The API supports two link formats, documented below, that behave identically.
 
-Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Phasellus lacus.  Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent augue.  Fusce commodo.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Nullam libero mauris, consequat quis, varius et, dictum id, arcu.  Mauris mollis tincidunt felis.  Aliquam feugiat tellus ut neque.  Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
+These routes will return a ``404`` response if the provided ID is not found. Otherwise, they will return a ``302`` redirect to the canonical frontend link for the entity in question.
 
+Resource Style Links
+--------------------
+
+.. rubric:: Resource Style Link Format
+.. parsed-literal::
+
+   https://civicdb.org/links/:entity_type/:entity_id
+
+.. rubric:: Example Resource Style Link
+
+To link to the CIViC page for the Entrez Gene 1956 (EGFR) with the resource
+style format:
+
+.. parsed-literal::
+
+   https://civicdb.org/links/entrez_id/1956
+
+.. rubric:: Example 302 redirect
+.. parsed-literal::
+
+   https://civicdb.org/events/genes/19/summary#gene
+
+Query Parameter Links
+---------------------
+
+.. rubric:: Query Parameter Link Format
+.. parsed-literal::
+
+   https://civicdb.org/links?idtype=:entity_type&id=:entity_id
+
+.. rubric:: Example Query Parameter Link
+
+To link to the CIViC page for the variant with the CIViC internal ID 12 (BRAF
+V600E) with the query parameter format:
+
+.. parsed-literal::
+
+   https://civicdb.org/links?idtype=variant&id=12
+
+.. rubric:: Example 302 redirect
+.. parsed-literal::
+
+   https://civicdb.org/events/genes/5/summary/variants/12/summary#variant
+
+Supported Entity and ID Types
+-----------------------------
+
+CIViC supports the following entity and id types for generating shortned links:
+
+.. list-table::
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Entity Type
+     - Description
+   * - gene
+     - CIViC Gene ID
+   * - entrez_id
+     - Entrez Gene ID
+   * - variant
+     - CIViC Variant ID
+   * - allele_registry
+     - Variant Allele Registry ID
+   * - evidence
+     - CIViC Evidence ID
+   * - variant_group
+     - CIViC Variant Group ID
+   * - assertion
+     - CIViC Assertion ID
+   * - revision
+     - CIViC Revision ID
+
+For more natural seeming resource based endpoints, the plural versions of the primary CViC entity types are also supported (``genes``, ``variants``, ``evidence_items``, ``variant_groups``, ``assertions``, ``revisions``) and behave identically to their singular counterparts.
