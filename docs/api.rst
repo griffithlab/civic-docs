@@ -18,3 +18,4 @@ This documentation provides example requests and responses for most endpoints. T
    api/assertions
    api/linking
    api/metadata
+   api/throttling
