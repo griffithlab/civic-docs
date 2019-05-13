@@ -1,12 +1,6 @@
 Figures and Graphics
 ====================
-Provided below are figures and graphics to be used for referencing, publicizing, or presenting CIViC. 
-
-CIViC Model Figures
--------------------
-These figures provide details about CIViC's data model, showing how the various entities in CIViC are related and how they may be associated to external data sources or user input.
-
-We've released these figures under the `Creative Commons Public Domain Dedication (CC0 1.0 Universal) <https://creativecommons.org/publicdomain/zero/1.0/>`_, which means they are in the public domain and may be used, distributed, modified for any purpose without permission.
+Provided below are figures and graphics to be used for referencing, publicizing, or presenting CIViC. With the exception of the branding graphics and otherwise indicated, these figures have been released under the `Creative Commons Public Domain Dedication (CC0 1.0 Universal) <https://creativecommons.org/publicdomain/zero/1.0/>`_ license, placing them in the pubic domain to be used, distributed, or modified for any purpose without permission.
 
 CIViC Process and Ecosystem Figures
 ---------------------
@@ -54,6 +48,31 @@ These figures are also released under the `Creative Commons Public Domain Dedica
      - **Curating Predisposing Assertions** - Illustrates how CIViC Predisposing Assertions summarize a collection of predisposing Evidence Items which reflect the state of literature for the given variant and cancer type, and appropriate ACMG codes are applied to the Evidence items on an individual basis. ACMG codes are then combined at the Assertion level to generate a pathogenicity valuation for the Assertion.
    * - |assertion-types_non-predisposing|_
      - **Curating Non-Predisposing Assertions** - Shows how CIViC Predictive/Therapeutic, Prognostic, and Diagnostic Assertions summarize a collection of predictive/therapeutic, prognostic or diagnostic Evidence Items respectively, that together reflect the current literature for a given variant and cancer type. The AMP guidelines are followed in order to apply an AMP Tier and Level to the Assertion.
+
+CIViC Model Figures
+-------------------
+These figures provide details about CIViC's data model, showing how the various entities in CIViC are related and how they may be associated to external data sources or user input.
+
+.. |gene-fields| image:: ../images/figures/CIViC_gene-fields_v1a.png
+.. _gene-fields: /_images/CIViC_gene-fields_v1a.png
+
+.. |evidence-item-fields| image:: ../images/figures/CIViC_evidence-item-fields_v2a.png
+.. _evidence-item-fields: /_images/CIViC_evidence-item-fields_v2a.png
+
+.. |assertion-fields| image:: ../images/figures/CIViC_assertion-fields_v1j.png
+.. _assertion-fields: /_images/CIViC_assertion-fields_v1j.png
+
+.. list-table::
+   :class: image-table
+   :widths: 30 70
+   :header-rows: 0
+
+   * - |gene-fields|_
+     - **CIViC Gene Fields** - Shows the attributes and links that comprise a CIViC Gene.
+   * - |evidence-item-fields|_
+     - **CIViC Evidence Item Fields** - Shows the attributes and links that comprise a CIViC Evidence Item.
+   * - |assertion-fields|_
+     - **CIViC Assertion Fields** - Shows the attributes and links that comprise a CIViC Assertion.
 
 CIViC Branding
 --------------
