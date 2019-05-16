@@ -53,14 +53,26 @@ CIViC Model Figures
 -------------------
 These figures provide details about CIViC's data model, showing how the various entities in CIViC are related and how they may be associated to external data sources or user input.
 
-.. |gene-fields| image:: ../images/figures/CIViC_gene-fields_v1a.png
-.. _gene-fields: /_images/CIViC_gene-fields_v1a.png
+.. |gene-fields| image:: ../images/figures/CIViC_gene-fields_v1b.png
+.. _gene-fields: /_images/CIViC_gene-fields_v1b.png
 
-.. |evidence-item-fields| image:: ../images/figures/CIViC_evidence-item-fields_v2a.png
-.. _evidence-item-fields: /_images/CIViC_evidence-item-fields_v2a.png
+.. |evidence-item-fields| image:: ../images/figures/CIViC_evidence-item-fields_v2b.png
+.. _evidence-item-fields: /_images/CIViC_evidence-item-fields_v2b.png
 
-.. |assertion-fields| image:: ../images/figures/CIViC_assertion-fields_v1j.png
-.. _assertion-fields: /_images/CIViC_assertion-fields_v1j.png
+.. |assertion-fields| image:: ../images/figures/CIViC_assertion-fields_v1k.png
+.. _assertion-fields: /_images/CIViC_assertion-fields_v1k.png
+
+.. |variant-fields| image:: ../images/figures/CIViC_variant-fields_v1b.png
+.. _variant-fields: /_images/CIViC_variant-fields_v1b.png
+
+.. |variant-group-fields| image:: ../images/figures/CIViC_variant-group-fields_v1a.png
+.. _variant-group-fields: /_images/CIViC_variant-group-fields_v1a.png
+
+.. |variant-group-fields| image:: ../images/figures/CIViC_variant-group-fields_v1a.png
+.. _variant-group-fields: /_images/CIViC_variant-group-fields_v1a.png
+
+.. |source-fields| image:: ../images/figures/CIViC_source-fields_v1a.png
+.. _source-fields: /_images/CIViC_source-fields_v1a.png
 
 .. list-table::
    :class: image-table
@@ -69,10 +81,16 @@ These figures provide details about CIViC's data model, showing how the various 
 
    * - |gene-fields|_
      - **CIViC Gene Fields** - Shows the attributes and links that comprise a CIViC Gene.
+   * - |variant-fields|_
+     - **CIViC Variant Fields** - Shows the attributes and links that comprise a CIViC Variant.
+   * - |variant-group-fields|_
+     - **CIViC Variant Group Fields** - Shows the attributes and links that comprise a CIViC Variant Group.
    * - |evidence-item-fields|_
      - **CIViC Evidence Item Fields** - Shows the attributes and links that comprise a CIViC Evidence Item.
    * - |assertion-fields|_
      - **CIViC Assertion Fields** - Shows the attributes and links that comprise a CIViC Assertion.
+   * - |source-fields|_
+     - **CIViC Source Fields** - Shows the attributes and links that comprise a CIViC Source.
 
 CIViC Branding
 --------------
