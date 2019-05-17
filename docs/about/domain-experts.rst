@@ -13,8 +13,7 @@ Erica Barnell
    **Role:** Editor |br|
    **Area of Expertise:** Research Scientist
 
-Erica Barnell is ...
-|br|
+Erica Barnell is an MD/PhD candidate at the Washington University School of Medicine with PhD in Molecular Genetics and Genomics. Thesis work being completed in the Griffith Lab at the McDonnell Genome Institute to advance bioinformatic tools in the precision oncology space. Co-founded and current Chief Science Officer at Geneoscopy LLC, which is a life-sciences start-up company that leverages eukaryotic biomarkers to noninvasively diagnose, assess, and treat gastrointestinal disease.
 |br|
 |br|
 |br|
@@ -30,6 +29,7 @@ Ron Bose
    **Area of Expertise:** Research Scientist
 
 Dr. Bose is Assistant Professor of Medicine with board certifications in medical oncology and internal medicine at Washington University School of Medicine. His lab studies how dysregulation of signal transduction pathways impacts the development of human cancers. In particular his focus is on the HER2 receptor tyrosine kinase, a member of the EGFR growth factor receptor family, a gene amplified and activated in about 20% of human breast cancer cases. His lab discovered that HER2 activating mutations can be found in many solid tumors, including breast cancer.
+|br|
 
 Arpad Danos
 --------
@@ -41,11 +41,7 @@ Arpad Danos
    **Role:** Editor |br|
    **Area of Expertise:** Research Scientist
 
-Dr. Danos is ... 
-|br|
-|br|
-|br|
-|br|
+Dr. Danos is a Postdoctoral Researcher in the Griffith Lab, with research interests in developing data and knowledge models which can describe and give structure to clinical and preclinical cancer variant knowledge, and in developing standards to enable efficient trasnfer and communication of this information between groups who are generating and curating this data, as well as with the medical and research community at large, in order to address the curation bottleneck which has arisen with increasing incorporation of NGS technology into clinical as well as research contexts. Dr. Danos is also interested in elucidation of the regulatory structure of the genome, and the role of non-coding mutations in cancer.
 
 Obi Grifith
 -----------
@@ -82,6 +78,9 @@ Peter Horak
    **Area of Expertise:** Clinical Scientist
 
 Dr. Horak is a medical oncologist at the National Center for Tumor Diseases in Heidelberg, Germany. He is involved in the comprehensive genomic analysis of cancer patient cohorts from the precision oncology platform of the German Cancer Consortium - NCT MASTER (https://www.nct-heidelberg.de/forschung/nct-master.html; https://dktk.dkfz.de/en/home). He received his MD and PhD from the Medical University of Vienna, Austria.
+|br|
+|br|
+|br|
 
 Raymond Kim
 -----------
@@ -173,7 +172,11 @@ Alex Wagner
    **Role:** Editor |br|
    **Area of Expertise:** Research Scientist
 
-Dr. Wagner is ...
+Dr. Wagner is an NCI Postdoctoral Fellow training at the McDonnell Genome Institute at Washington University School of Medicine. His research interests are focused on the collaborative clinical interpretation of sequence variants in cancers.
+|br|
+|br|
+|br|
+|br|
 |br|
 |br|
 |br|
