@@ -3,6 +3,21 @@ Domain Experts
 
 Our Domain Experts serve a critical function in the CIViC community. Normally editor-level users, they are tasked with promoting and maintaining high quality data and interpretations in CIViC. Domain Experts are usually scientists or physician scientists, with advanced degrees (PhD or MD level), and demonstrated expertise (publication records) relevant to curation of knowledge for precision medicine in cancer. Domain Experts will typically take responsibility for curating the literature related to a specific cancer type, gene/pathway, or mutation type. They also are responsible for approving any new submissions or revisions from other curators in their domain area. Domain Experts come from two sources. First, individuals with established expertise in the field of precision medicine or domain expertise for a specific domain are identified and invited to join the CIViC community at the Domain Expert level. Alternatively, individuals may be promoted to Domain Expert level based on expertise demonstrated through an exceptional contribution history in CIViC.
 
+Erica Barnell
+--------
+.. sidebar:: `ebarnell <https://civicdb.org/users/179/profile>`_
+
+   .. image:: https://secure.gravatar.com/avatar/b9800d871c67538acd31728e8f509c80.png?d=identicon&r=pg&s=128
+      :target: https://civicdb.org/users/179/profile
+
+   **Role:** Editor |br|
+   **Area of Expertise:** Research Scientist
+
+Erica Barnell is an MD/PhD candidate at the Washington University School of Medicine with PhD in Molecular Genetics and Genomics. Thesis work being completed in the Griffith Lab at the McDonnell Genome Institute to advance bioinformatic tools in the precision oncology space. Co-founded and current Chief Science Officer at Geneoscopy LLC, which is a life-sciences start-up company that leverages eukaryotic biomarkers to noninvasively diagnose, assess, and treat gastrointestinal disease.
+|br|
+|br|
+|br|
+
 Ron Bose
 --------
 .. sidebar:: `rbose <https://civicdb.org/users/141/profile>`_
@@ -14,6 +29,19 @@ Ron Bose
    **Area of Expertise:** Research Scientist
 
 Dr. Bose is Assistant Professor of Medicine with board certifications in medical oncology and internal medicine at Washington University School of Medicine. His lab studies how dysregulation of signal transduction pathways impacts the development of human cancers. In particular his focus is on the HER2 receptor tyrosine kinase, a member of the EGFR growth factor receptor family, a gene amplified and activated in about 20% of human breast cancer cases. His lab discovered that HER2 activating mutations can be found in many solid tumors, including breast cancer.
+|br|
+
+Arpad Danos
+--------
+.. sidebar:: `arpaddanos <https://civicdb.org/users/110/profile>`_
+
+   .. image:: https://secure.gravatar.com/avatar/45c2db32371a9f86e1f6190f57758d77.png?d=identicon&r=pg&s=128
+      :target: https://civicdb.org/users/110/profile
+
+   **Role:** Editor |br|
+   **Area of Expertise:** Research Scientist
+
+Dr. Danos is a Postdoctoral Researcher in the Griffith Lab, with research interests in developing data and knowledge models which can describe and give structure to clinical and preclinical cancer variant knowledge, and in developing standards to enable efficient trasnfer and communication of this information between groups who are generating and curating this data, as well as with the medical and research community at large, in order to address the curation bottleneck which has arisen with increasing incorporation of NGS technology into clinical as well as research contexts. Dr. Danos is also interested in elucidation of the regulatory structure of the genome, and the role of non-coding mutations in cancer.
 
 Obi Grifith
 -----------
@@ -50,18 +78,9 @@ Peter Horak
    **Area of Expertise:** Clinical Scientist
 
 Dr. Horak is a medical oncologist at the National Center for Tumor Diseases in Heidelberg, Germany. He is involved in the comprehensive genomic analysis of cancer patient cohorts from the precision oncology platform of the German Cancer Consortium - NCT MASTER (https://www.nct-heidelberg.de/forschung/nct-master.html; https://dktk.dkfz.de/en/home). He received his MD and PhD from the Medical University of Vienna, Austria.
-
-Martin Jones
-------------
-.. sidebar:: `MartinJones <https://civicdb.org/users/57/profile>`_
-
-   .. image:: https://secure.gravatar.com/avatar/4fc3a1dc5671917fabd7643ee22e2ee6.png?d=identicon&r=pg&s=128
-      :target: https://civicdb.org/users/57/profile
-
-   **Role:** Editor |br|
-   **Area of Expertise:** Research Scientist
-
-Dr. Jones is a Senior Staff Scientist and Group lead of the Clinical Informatics group at the Canada's Michael Smith Genome Sciences Centre in Vancouver, Canada. He has an extensive background in molecular biology & functional genomics, specialising in cancer genetics and genomic analysis. The primary goal of the clinical informatics group is to design and refine approaches for individualised cancer genome analysis and to provide comprehensive integrative genomic analysis of patients tumours. The group is integrated into the BC Cancer agency's Personalized Onco-Genomics (POG) program, a clinical research initiative that is embedding genomic sequencing into the diagnostic and treatment planning for patients with incurable cancers.
+|br|
+|br|
+|br|
 
 Raymond Kim
 -----------
@@ -115,18 +134,6 @@ Damian Rieke is a physician and researcher at the Charité Comprehensive Cancer 
 |br|
 |br|
 
-Maurizio Scaltriti
-------------------
-.. sidebar:: `MaurizioScaltriti <https://civicdb.org/users/240/profile>`_
-
-   .. image:: https://secure.gravatar.com/avatar/3d7f60c91a2cd1da5e9b6083a85f269f.png?d=identicon&r=pg&s=128
-      :target: https://civicdb.org/users/240/profile
-
-   **Role:** Curator |br|
-   **Area of Expertise:** Research Scientist
-
-During the last 10 years I focused my research in the understanding of how the selective pressure imposed by anti-HER2 agents and PI3K inhibitors modifies the evolution of drug resistance in breast cancer. I developed expertise in the field while I was running Dr. Jose Baselga’s laboratory in Barcelona (Vall d’Hebron Hospital, Spain) and in Boston (Massachusetts General Hospital). During this time I discovered that truncated forms of HER2; lacking the extracellular domain, limit the activity of the FDA-approved anti-HER2 antibody trastuzumab. Moreover, I found that amplification and/or overexpression of cyclin E negatively correlates with clinical response to trastuzumab-based therapy. Concurrently, I proposed new therapeutic strategies to overcome or delay the emergence of such resistance. One example is the dual HER2 blockade using trastuzumab and lapatinib in combination, resulted to be superior compared to single agent both in preclinical models and in the clinical setting. More recently, we showed that dual mTOR inhibition in combination with lapatinib is capable to counteract lapatinib-resistant tumors. Moreover, we discovered that, among the HER2 positive tumors, there is a subset that is more dependent on HER2 for survival and is exquisitely sensitive to anti-HER2 therapy. In the field of PI3K inhibitors I proposed that PI3K blockade can be combined with PARP inhibition in triple negative breast cancer models or with mTORC1 inhibitors or anti-endocrine therapy in PIK3CA-mutant models to achieve synergistic antitumor activity. Moreover, I contributed in the discovery that sustained mTOR activity can limit the efficacy of PI3K-alpha specific inhibitors in breast cancer and that mTORC1 activity can be sustained also in a PI3K-independent manner via activation of PDK1-SGK1. I also demonstrated that progressive loss of PTEN leads to acquired resistance to PI3Kα specific inhibition in breast cancer. The majority of my laboratory findings provided (or are providing) important insights for the design of new clinical trials testing the efficacy of these targeted therapies in breast cancer.
-
 David Spencer
 -------------
 .. sidebar:: `DavidSpencer <https://civicdb.org/users/135/profile>`_
@@ -150,6 +157,26 @@ Nick Spies
    **Area of Expertise:** Research Scientist
 
 Nick Spies is a staff analyst at the McDonnell Genome Institute and an MD student at Washington University School of Medicine. He has made substantial contributions to the development of genome analysis tools and resources at the Genome Institute including the Drug-Gene Interaction Database. He is a founding member of the CIViC team, helping to define the CIViC data model, and a leading content curator and a feature development consultant.
+|br|
+|br|
+|br|
+|br|
+
+Alex Wagner
+--------
+.. sidebar:: `ahwagner <https://civicdb.org/users/7/profile>`_
+
+   .. image:: https://secure.gravatar.com/avatar/5a72d8047067d33487a78092f3bbb09e.png?d=identicon&r=pg&s=128
+      :target: https://civicdb.org/users/7/profile
+
+   **Role:** Editor |br|
+   **Area of Expertise:** Research Scientist
+
+Dr. Wagner is an NCI Postdoctoral Fellow training at the McDonnell Genome Institute at Washington University School of Medicine. His research interests are focused on the collaborative clinical interpretation of sequence variants in cancers.
+|br|
+|br|
+|br|
+|br|
 |br|
 |br|
 |br|
