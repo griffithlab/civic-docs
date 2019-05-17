@@ -6,27 +6,25 @@ CIViC Process and Ecosystem Figures
 ---------------------
 Process figures show the activity related to curating, editing, and using CIViC, and its relationships to external data/knowledge sources, or other processes in the biocuration ecosystem.
 
-These figures are also released under the `Creative Commons Public Domain Dedication (CC0 1.0 Universal) <https://creativecommons.org/publicdomain/zero/1.0/>`_, which means they are in the public domain and may be used, distributed, modified for any purpose without permission.
-
-.. |main-process-figure| image:: ../images/figures/GP-125_CIViC_main-process_v5b.png
+.. |main-process-figure| image:: /images/figures/GP-125_CIViC_main-process_v5b.png
 .. _main-process-figure: /_images/GP-125_CIViC_main-process_v5b.png
 
-.. |simplified-process-figure| image:: ../images/figures/GP-127_CIViC_simplified-overview_v2d.png
+.. |simplified-process-figure| image:: /images/figures/GP-127_CIViC_simplified-overview_v2d.png
 .. _simplified-process-figure: /_images/GP-127_CIViC_simplified-overview_v2d.png
 
-.. |curation-funnel-figure| image:: ../images/figures/GP-103_Biothings_Overview_v3b.png
+.. |curation-funnel-figure| image:: /images/figures/GP-103_Biothings_Overview_v3b.png
 .. _curation-funnel-figure: /_images/GP-103_Biothings_Overview_v3b.png
 
-.. |adding-updating-evidence| image:: ../images/figures/CIViC_adding-updating-evidence_v1d.png
+.. |adding-updating-evidence| image:: /images/figures/CIViC_adding-updating-evidence_v1d.png
 .. _adding-updating-evidence: /_images/CIViC_adding-updating-evidence_v1d.png
 
-.. |add-evidence-update-assertion| image:: ../images/figures/CIViC_add-evidence-update-assertion_v1b.png
+.. |add-evidence-update-assertion| image:: /images/figures/CIViC_add-evidence-update-assertion_v1b.png
 .. _add-evidence-update-assertion: /_images/CIViC_add-evidence-update-assertion_v1b.png
 
-.. |assertion-types_predisposing| image:: ../images/figures/CIViC_assertion-types_predisposing_v1a.png
+.. |assertion-types_predisposing| image:: /images/figures/CIViC_assertion-types_predisposing_v1a.png
 .. _assertion-types_predisposing: /_images/CIViC_assertion-types_predisposing_v1a.png
 
-.. |assertion-types_non-predisposing| image:: ../images/figures/CIViC_assertion-types_non-predisposing_v1a.png
+.. |assertion-types_non-predisposing| image:: /images/figures/CIViC_assertion-types_non-predisposing_v1a.png
 .. _assertion-types_non-predisposing: /_images/CIViC_assertion-types_non-predisposing_v1a.png
 
 .. list-table::
@@ -99,10 +97,61 @@ We've provided the CIViC branding images below to assist in referencing CIViC in
 As these images convey the unique CIViC brand, we have released them under the more limited `Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-IND 4.0) <https://creativecommons.org/licenses/by-nd/4.0/>`_, allowing you to copy and redistribute the images but not modify or build upon them.
 
 
+.. |civic-logo-light-bg-lg| image:: /images/branding/CIViC_logo_for-light-bg_LG_v5a.png
+.. _civic-logo-light-bg-lg: /_images/CIViC_logo_for-light-bg_LG_v5a.png
+
+.. |civic-logo-light-bg-md| image:: /images/branding/CIViC_logo_for-light-bg_MD_v5a.png
+.. _civic-logo-light-bg-md: /_images/CIViC_logo_for-light-bg_MD_v5a.png
+
+.. |civic-logo-light-bg-sm| image:: /images/branding/CIViC_logo_for-light-bg_SM_v5a.png
+.. _civic-logo-light-bg-sm: /_images/CIViC_logo_for-light-bg_SM_v5a.png
+
+.. |civic-logo-light-bg-xs| image:: /images/branding/CIViC_logo_for-light-bg_XS_v5a.png
+.. _civic-logo-light-bg-xs: /_images/CIViC_logo_for-light-bg_XS_v5a.png
+
+.. |civic-logo-light-bg-xs| image:: /images/branding/CIViC_logo_for-light-bg_XS_v5a.png
+.. _civic-logo-light-bg-xs: /_images/CIViC_logo_for-light-bg_XS_v5a.png
+
+.. |civic-logo-dark-bg-lg| image:: /images/branding/CIViC_logo_for-dark-bg_LG_v5a.png
+.. _civic-logo-dark-bg-lg: /_images/CIViC_logo_for-dark-bg_LG_v5a.png
+
+.. |civic-logo-dark-bg-md| image:: /images/branding/CIViC_logo_for-dark-bg_MD_v5a.png
+.. _civic-logo-dark-bg-md: /_images/CIViC_logo_for-dark-bg_MD_v5a.png
+
+.. |civic-logo-dark-bg-sm| image:: /images/branding/CIViC_logo_for-dark-bg_SM_v5a.png
+.. _civic-logo-dark-bg-sm: /_images/CIViC_logo_for-dark-bg_SM_v5a.png
+
+.. |civic-logo-dark-bg-xs| image:: /images/branding/CIViC_logo_for-dark-bg_XS_v5a.png
+.. _civic-logo-dark-bg-xs: /_images/CIViC_logo_for-dark-bg_XS_v5a.png
+
+.. |civic-logo-dark-bg-xs| image:: /images/branding/CIViC_logo_for-dark-bg_XS_v5a.png
+.. _civic-logo-dark-bg-xs: /_images/CIViC_logo_for-dark-bg_XS_v5a.png
+
 .. list-table::
    :class: image-table
    :widths: 30 70
    :header-rows: 0
 
-   * - .. image:: ../images/figures/GP-125_CIViC_main-process_v5b.png
-     - CIViC process figure
+   * - |civic-logo-light-bg-lg|_
+     - **Large CIViC Logo for Light Backgrounds (1017x429)** - A CIViC logo intended for placement over light background, provided at a resolution appropriate for print or high-resolution contexts.
+
+   * - |civic-logo-light-bg-md|_
+     - **CIViC Logo for Light Backgrounds (678x286)** - A CIViC logo suitable for general usage on digital media.
+
+   * - |civic-logo-light-bg-sm|_
+     - **Small CIViC Logo for Light Backgrounds (488x206)** - A small CIViC logo suitable for ditigal media.
+
+   * - |civic-logo-light-bg-xs|_
+     - **Very Small CIViC Logo for Light Backgrounds (286x103)** - A very small CIViC logo suitable for ditigal media in space-constrained contexts.
+
+   * - |civic-logo-dark-bg-lg|_
+     - **Large CIViC Logo for Dark Backgrounds (1017x429)** - A CIViC logo intended for placement over dark background, provided at a resolution appropriate for print or high-resolution contexts.
+
+   * - |civic-logo-dark-bg-md|_
+     - **CIViC Logo for Dark Backgrounds (678x286)** - A CIViC logo suitable for general usage on digital media.
+
+   * - |civic-logo-dark-bg-sm|_
+     - **Small CIViC Logo for Dark Backgrounds (488x206)** - A small CIViC logo suitable for ditigal media.
+
+   * - |civic-logo-dark-bg-xs|_
+     - **Very Small CIViC Logo for Dark Backgrounds (286x103)** - A very small CIViC logo suitable for ditigal media in space-constrained contexts.
