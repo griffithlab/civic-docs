@@ -43,7 +43,7 @@ Process figures show the activity related to curating, editing, and using CIViC,
    * - |add-evidence-update-assertion|_
      - **Adding Evidence to Support Assertions** - Provides a visual overview of how evidence can be added, curated, and then incorporated into an Assertion record to support an Assertion statement.
    * - |assertion-types_predisposing|_
-     - **Curating Predisposing Assertions** - Illustrates how CIViC Predisposing Assertions summarize a collection of predisposing Evidence Items which reflect the state of literature for the given variant and cancer type, and appropriate ACMG codes are applied to the Evidence items on an individual basis. ACMG codes are then combined at the Assertion level to generate a pathogenicity valuation for the Assertion.
+     - **Curating Predisposing Assertions** - Illustrates how CIViC Predisposing Assertions summarize a collection of predisposing Evidence Items which reflect the state of literature for the given variant and cancer type. Appropriate ACMG codes are applied to the Evidence items on an individual basis. ACMG codes are then combined at the Assertion level to generate a pathogenicity valuation for the Assertion.
    * - |assertion-types_non-predisposing|_
      - **Curating Non-Predisposing Assertions** - Shows how CIViC Predictive/Therapeutic, Prognostic, and Diagnostic Assertions summarize a collection of predictive/therapeutic, prognostic or diagnostic Evidence Items respectively, that together reflect the current literature for a given variant and cancer type. The AMP guidelines are followed in order to apply an AMP Tier and Level to the Assertion.
 
