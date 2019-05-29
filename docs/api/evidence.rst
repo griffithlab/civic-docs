@@ -218,7 +218,7 @@ This endpoint retrieves details about a specific evidence item, given its intern
            "twitter_handle": "@NickSpies13",
            "facebook_profile": null,
            "linkedin_profile": null,
-           "bio": "Nick Spies is a staff analyst at the McDonnell Genome Institute and an MD student at Washington University School of Medicine. He has made substantial contributions to the development of genome analysis tools and resources at the Genome Institute including the Drug-Gene Interaction Database. He is a founding member of the CIViC team, helping to define the CIViC data model, and a leading content curator and a feature development consultant.",
+           "bio": "Nick Spies is a staff analyst at the McDonnell Genome Institute and an MD student at Washington University School of Medicine. He has made substantial contributions to the development of genome analysis tools and resources at the Genome Institute including the Drug-Gene Interaction Database. He is a founding member of the CIViC team, helping to define the CIViC knowledge model, and a leading content curator and a feature development consultant.",
            "featured_expert": true,
            "accepted_license": null,
            "signup_complete": null

@@ -36,7 +36,7 @@ A genetic variant is a non-exact copy of a biological sequence. This includes si
 
 What kinds of Variants belong in CIViC? What does not?
 ------------------------------------------------------
-Variant descriptions will be accepted into CIViC provided there is evidence linking the variant to cancer with some *clinical* relevance. Relevance to cancer biology alone is NOT sufficient unless there is also some documented relationship between the variant and diagnosis, predisposition, prognosis, or response to a specific treatment. Variants related to diseases other than cancer should not be entered (there is some grey area for cancer-like conditions). CIViC accepts somatic variants, germline variants, and common polymorphisms related to cancer (as long as they have clinical relevance), however, most variants in CIViC are somatic mutations. The quality of evidence suggesting clinical relevance of a variant may vary considerably. Before contributing to CIViC please review :doc:`the curation documentation <../curating>` and familiarize yourself with :doc:`the CIViC data model <../model>`.
+Variant descriptions will be accepted into CIViC provided there is evidence linking the variant to cancer with some *clinical* relevance. Relevance to cancer biology alone is NOT sufficient unless there is also some documented relationship between the variant and diagnosis, predisposition, prognosis, or response to a specific treatment. Variants related to diseases other than cancer should not be entered (there is some grey area for cancer-like conditions). CIViC accepts somatic variants, germline variants, and common polymorphisms related to cancer (as long as they have clinical relevance), however, most variants in CIViC are somatic mutations. The quality of evidence suggesting clinical relevance of a variant may vary considerably. Before contributing to CIViC please review :doc:`the curation documentation <../curating>` and familiarize yourself with :doc:`the CIViC knowledge model <../model>`.
 
 What is an Evidence Statement?
 ------------------------------
@@ -44,7 +44,7 @@ An evidence statement is an assertion about the clinical relevance of a variant 
 
 How is this information organized?
 ----------------------------------
-An in-depth description of the data model behind CIViC can be found :doc:`here <../model>`.
+An in-depth description of the knowledge model behind CIViC can be found :doc:`here <../model>`.
 
 What information is currently in CIViC?
 ---------------------------------------
@@ -76,7 +76,7 @@ The information in CIViC is derived from peer-reviewed, published literature. Ev
 
 What if a drug is shown to have a negative effect on patients with a variant? Or the study was inconclusive?
 ------------------------------------------------------------------------------------------------------------
-The data model, specifically the Evidence Direction field, is used to indicate whether the study supports or refutes (including inconclusive determinations) any interaction between the variant and a clinical action or result. The Clinical Significance field indicates the type of effect the variant is determined to have on clinical results within the evidence statement as having a positive, negative or neutral/no impact. These descriptions provide human readible interpretations of evidence statements that either support or refute sensitivity or resistance predictions to therapeutics (or other clinical outcomes). For more detailed definitions and specific examples, please review the data model :doc:`here <../model>`.
+The knowledge model, specifically the Evidence Direction field, is used to indicate whether the study supports or refutes (including inconclusive determinations) any interaction between the variant and a clinical action or result. The Clinical Significance field indicates the type of effect the variant is determined to have on clinical results within the evidence statement as having a positive, negative or neutral/no impact. These descriptions provide human readible interpretations of evidence statements that either support or refute sensitivity or resistance predictions to therapeutics (or other clinical outcomes). For more detailed definitions and specific examples, please review the knowledge model :doc:`here <../model>`.
 
 My evidence statement disagrees with evidence from another source, should I still add it?
 -----------------------------------------------------------------------------------------
