@@ -4,7 +4,7 @@ Domain Experts
 Our Domain Experts serve a critical function in the CIViC community. Normally editor-level users, they are tasked with promoting and maintaining high quality data and interpretations in CIViC. Domain Experts are usually scientists or physician scientists, with advanced degrees (PhD or MD level), and demonstrated expertise (publication records) relevant to curation of knowledge for precision medicine in cancer. Domain Experts will typically take responsibility for curating the literature related to a specific cancer type, gene/pathway, or mutation type. They also are responsible for approving any new submissions or revisions from other curators in their domain area. Domain Experts come from two sources. First, individuals with established expertise in the field of precision medicine or domain expertise for a specific domain are identified and invited to join the CIViC community at the Domain Expert level. Alternatively, individuals may be promoted to Domain Expert level based on expertise demonstrated through an exceptional contribution history in CIViC.
 
 Erica Barnell
---------
+-------------
 .. sidebar:: `ebarnell <https://civicdb.org/users/179/profile>`_
 
    .. image:: https://secure.gravatar.com/avatar/b9800d871c67538acd31728e8f509c80.png?d=identicon&r=pg&s=128
@@ -32,7 +32,7 @@ Dr. Bose is Assistant Professor of Medicine with board certifications in medical
 |br|
 
 Arpad Danos
---------
+-----------
 .. sidebar:: `arpaddanos <https://civicdb.org/users/110/profile>`_
 
    .. image:: https://secure.gravatar.com/avatar/45c2db32371a9f86e1f6190f57758d77.png?d=identicon&r=pg&s=128
@@ -163,7 +163,7 @@ Nick Spies is a staff analyst at the McDonnell Genome Institute and an MD studen
 |br|
 
 Alex Wagner
---------
+-----------
 .. sidebar:: `ahwagner <https://civicdb.org/users/7/profile>`_
 
    .. image:: https://secure.gravatar.com/avatar/5a72d8047067d33487a78092f3bbb09e.png?d=identicon&r=pg&s=128

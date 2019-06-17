@@ -66,9 +66,6 @@ These figures provide details about CIViC's knowledge model, showing how the var
 .. |variant-group-fields| image:: ../images/figures/CIViC_variant-group-fields_v1a.png
 .. _variant-group-fields: /_images/CIViC_variant-group-fields_v1a.png
 
-.. |variant-group-fields| image:: ../images/figures/CIViC_variant-group-fields_v1a.png
-.. _variant-group-fields: /_images/CIViC_variant-group-fields_v1a.png
-
 .. |source-fields| image:: ../images/figures/CIViC_source-fields_v1a.png
 .. _source-fields: /_images/CIViC_source-fields_v1a.png
 
@@ -109,9 +106,6 @@ As these images convey the unique CIViC brand, we have released them under the m
 .. |civic-logo-light-bg-xs| image:: /images/branding/CIViC_logo_for-light-bg_XS_v5a.png
 .. _civic-logo-light-bg-xs: /_images/CIViC_logo_for-light-bg_XS_v5a.png
 
-.. |civic-logo-light-bg-xs| image:: /images/branding/CIViC_logo_for-light-bg_XS_v5a.png
-.. _civic-logo-light-bg-xs: /_images/CIViC_logo_for-light-bg_XS_v5a.png
-
 .. |civic-logo-dark-bg-lg| image:: /images/branding/CIViC_logo_for-dark-bg_LG_v5a.png
 .. _civic-logo-dark-bg-lg: /_images/CIViC_logo_for-dark-bg_LG_v5a.png
 
@@ -120,9 +114,6 @@ As these images convey the unique CIViC brand, we have released them under the m
 
 .. |civic-logo-dark-bg-sm| image:: /images/branding/CIViC_logo_for-dark-bg_SM_v5a.png
 .. _civic-logo-dark-bg-sm: /_images/CIViC_logo_for-dark-bg_SM_v5a.png
-
-.. |civic-logo-dark-bg-xs| image:: /images/branding/CIViC_logo_for-dark-bg_XS_v5a.png
-.. _civic-logo-dark-bg-xs: /_images/CIViC_logo_for-dark-bg_XS_v5a.png
 
 .. |civic-logo-dark-bg-xs| image:: /images/branding/CIViC_logo_for-dark-bg_XS_v5a.png
 .. _civic-logo-dark-bg-xs: /_images/CIViC_logo_for-dark-bg_XS_v5a.png
