@@ -16,7 +16,7 @@ reviewed by a CIViC Editor. Editors are experts in cancer genomics, oncology,
 pathology and other relevant fields. This gate-keeper model allows significant
 contributions from curators with any level of experience while maintaining the
 quality of an expert-driven resource. Curators can be promoted to Editors once
-they have demonstrated sufficient understanding of the CIViC data model and
+they have demonstrated sufficient understanding of the CIViC knowledge model and
 requirements for cancer variant interpretation.
 
 Even small contributions can make a big impact on how up-to-date and

@@ -296,7 +296,7 @@ This endpoint retrieves details about a specific variant, given its internal CIV
            "twitter_handle": "",
            "facebook_profile": "",
            "linkedin_profile": "kilannin-krysiak-69047819",
-           "bio": "Dr. Krysiak is a staff scientist at the McDonnell Genome Institute at Washington University School of Medicine where she is involved in the comprehensive genomic analysis of cancer patient cohorts and “n-of-1” studies. She received her PhD in Molecular Genetics and Genomics at Washington University in St. Louis where she focused on the genetics of myelodysplastic syndrome through advanced flow cytometry techniques, primary cell culture and mouse models. She is a founding member of the CIViC team, helping to define the CIViC data model, and a leading content curator and feature development consultant.",
+           "bio": "Dr. Krysiak is a staff scientist at the McDonnell Genome Institute at Washington University School of Medicine where she is involved in the comprehensive genomic analysis of cancer patient cohorts and “n-of-1” studies. She received her PhD in Molecular Genetics and Genomics at Washington University in St. Louis where she focused on the genetics of myelodysplastic syndrome through advanced flow cytometry techniques, primary cell culture and mouse models. She is a founding member of the CIViC team, helping to define the CIViC knowledge model, and a leading content curator and feature development consultant.",
            "featured_expert": true,
            "accepted_license": null,
            "signup_complete": null
