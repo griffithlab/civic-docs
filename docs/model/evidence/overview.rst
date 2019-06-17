@@ -1,7 +1,7 @@
 Evidence Overview
 =================
 
-.. image:: /images/figures/CIViC_adding-updating-evidence_v1c.png
+.. image:: /images/figures/CIViC_adding-updating-evidence_v1d.png
 
 The following figure shows the attributes of a CIViC Evidence Item, and the options or values available for each.
 
