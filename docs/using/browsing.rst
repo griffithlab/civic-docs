@@ -117,13 +117,13 @@ Assertion Table
    * - Column
      - Description
    * - AID
-     - Evidence ID of the Assertion
+     - Assertion ID of the Assertion
    * - Gene
      - Gene associated with the Assertion
    * - Variant
      - Variant associated with the Assertion
    * - Summary
-     - Clinical summary of the Assertion
+     - Curator's summary of the Assertion
    * - Diseases
      - Diseases associated with the Assertion
    * - Drugs
@@ -155,8 +155,8 @@ Source Table
    * - Year
      - Year of Publication or Conference
    * - Journal
-     - Journal (PubMed) or Presentation (ASCO)
+     - Name of Journal (PubMed) or Citation (ASCO)
    * - Name
-     - Title of the publication or poster
+     - Title of the publication (PubMed) or abstract (ASCO)
    * - Evidence
      - Count of Evidence Items associated with the Source
