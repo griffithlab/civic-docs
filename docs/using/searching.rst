@@ -35,4 +35,4 @@ The second element in every attribute row **(E)** is a logical and comparison op
 
 Once the query is specified by choosing attributes and providing values for all their form fields, pressing the Search button will send the query to the CIViC server. Results returned from the server are then displayed in a results table beneath the query builder. Each entity type has its own with columns relevant to its entity type.
 
-Every unique search generates a new unique URL, e.g. https://civicdb.org/search/evidence/2d364b3c-0e9e-44a8-a01e-c936851c5662. This URL may be stored or sent to other users to reproduce the same search query and results in a different browser. This feature allows users to more easily discuss and share result sets relevant to their research.
+Every unique search generates a new URL, e.g. https://civicdb.org/search/evidence/2d364b3c-0e9e-44a8-a01e-c936851c5662. This URL may be stored or sent to other users to reproduce the same search query and results in a different browser. This feature allows users to more easily discuss and share result sets relevant to their research.
