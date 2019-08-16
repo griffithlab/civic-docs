@@ -1,16 +1,70 @@
 Variant Groups
 ==============
 
+Variant Groups provide user-defined grouping of Variants within and between genes based on unifying characteristics.
+
+Understanding Variant Groups
+----------------------------
+
 Variant groups allow users to group variants from a single gene or multiple
 genes that have similar clinical consequences.
 
 Example uses:
 
-- Variants that confer resistance to a class of drugs
+- Variants that confer resistance/sensitivity to a class of drugs (e.g., EGFR
+  TKI Resistance)
+- Categorical or Bucket Variants (e.g., BRAF V600)
 - Variants with strong data to support a very similar effect on protein function
   (e.g., loss-of-function, activating)
+- Functional Characteristics (e.g., Fusion Groups)
 - Variants that can be effectively combined when considering patient
   outcomes/treatment
+
+Variant groups can associate multiple related variants within or between genes.
+Each variant can belong to one or more variant groups, these act to combine
+functionally similar or clinically related variants into a single entity. For
+example, ‘FGFR Fusions’ is a group that contains several gene fusions where
+FGFR2 (or FGFR3) is involved in a fusion with various 3’ partner genes, and
+‘Imatinib Resistance Mutations’ is a group of variants that confer resistance
+to imatinib treatment. A variant group may also contain variants from multiple
+genes. For example, the group ‘EGFR TKI Resistance’ consists of variants in
+EGFR, MET, and KRAS.
+
+.. image:: ../images/figures/CIViC_variant-group-fields_v1a.png
+   :align: center
+   :scale: 50%
+
+
+.. rubric:: Variant Group Attributes
+
+.. list-table::
+   :widths: 15 75 10
+   :header-rows: 1
+
+   * - Attribute
+     - Description
+     - Source
+   * - Name
+     - Name of the Variant Group
+     - CIViC
+   * - Summary
+     - User-defined summary of the clinical relevance of this variant
+       group.
+     - CIViC
+   * - Sources (PubMed IDs)
+     - A list of PubMed IDs referring to evidence supporting
+       statements made in the Variant Group's description. Source descriptions
+       (e.g. 'Weisberg et al., 2007, Nat. Rev. Cancer') are pulled from the
+       PubMed database at the time of submission, and are not editable.
+     - CIViC (PubMed)
+   * - Variants
+     - User-defined list of variants in the variant group.
+     - CIViC
+
+Curating Variant Groups
+-----------------------
+
+Variants within a Variant Group can be derived from different Gene Records.
 
 .. rubric:: Create a Variant Group
 
