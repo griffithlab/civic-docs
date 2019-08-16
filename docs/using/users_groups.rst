@@ -58,3 +58,26 @@ Currently, Curators are only elevated to Editor roles via invitation.
 
 User Details
 ------------
+.. list-table::
+   :header-rows: 1
+
+   * - Field
+     - Description
+   * - Name
+     - User's full name
+   * - User Name
+     - Short nickname that will appear on user buttons and throughout the user interface. This is initially generated from the username provided by the OAuth provider used to initially login to CIViC.
+   * - Email Address
+     - User's email address. The address will not be public and will only be used for sending CIViC notifications and updates.
+   * - Areas of Expertise
+     - One of three target user roles: Patient Advocate, Clinical Scientist, and Research Scientist
+   * - ORCID
+     - Open Research and Contributor ID
+   * - Personal Website
+     - A link to a user's personal website
+   * - Biography
+     - A short biography of the user, ideally including professional qualifications for performing CIViC curation.
+   * - Country
+     - User's primary country of residence/research.
+   * - Twitter, Facebook and Linkedin Handles
+     - User's social media nicknames, used to display a link to their social media pages
