@@ -3,8 +3,7 @@ Variant Groups
 
 Variant Groups provide user-defined grouping of Variants within and between genes based on unifying characteristics.
 
-Understanding Variant Groups
-----------------------------
+.. rubric:: UNDERSTANDING VARIANT GROUPS
 
 Variant groups allow users to group variants from a single gene or multiple
 genes that have similar clinical consequences.
@@ -30,12 +29,11 @@ to imatinib treatment. A variant group may also contain variants from multiple
 genes. For example, the group ‘EGFR TKI Resistance’ consists of variants in
 EGFR, MET, and KRAS.
 
+.. rubric:: Variant Group Attributes
+
 .. image:: ../images/figures/CIViC_variant-group-fields_v1a.png
    :align: center
    :scale: 50%
-
-
-.. rubric:: Variant Group Attributes
 
 .. list-table::
    :widths: 15 75 10
@@ -61,8 +59,7 @@ EGFR, MET, and KRAS.
      - User-defined list of variants in the variant group.
      - CIViC
 
-Curating Variant Groups
------------------------
+.. rubric::  CURATING VARIANT GROUPS
 
 Variants within a Variant Group can be derived from different Gene Records.
 
