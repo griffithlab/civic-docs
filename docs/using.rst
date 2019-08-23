@@ -14,7 +14,7 @@ Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel t
    using/browsing
    using/searching
    using/data_grids
-   using/users_groups
+   using/users_organizations
    using/comments
    using/notifications
    using/community

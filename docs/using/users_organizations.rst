@@ -1,5 +1,5 @@
-Users and Groups
-================
+Users and Organizations
+=======================
 
 CIViC depends on its users, organized into roles and groups, to add to its knowledgebase and curate its content. This section details how to create a new user account, user account are management, and various other features related to users and groups.
 
