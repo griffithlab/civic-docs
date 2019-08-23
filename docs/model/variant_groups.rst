@@ -12,7 +12,7 @@ Example uses:
 
 - Variants that confer resistance/sensitivity to a class of drugs (e.g., EGFR
   TKI Resistance)
-- Categorical or Bucket Variants (e.g., BRAF V600)
+- Categorical Variants (e.g., BRAF V600)
 - Variants with strong data to support a very similar effect on protein function
   (e.g., loss-of-function, activating)
 - Functional Characteristics (e.g., Fusion Groups)
