@@ -58,6 +58,7 @@ Currently, Curators are only elevated to Editor roles via invitation.
 
 User Details
 ------------
+
 .. list-table::
    :header-rows: 1
 
@@ -80,4 +81,4 @@ User Details
    * - Country
      - User's primary country of residence/research.
    * - Twitter, Facebook and Linkedin Handles
-     - User's social media nicknames, used to display a link to their social media pages
+     - User's social media nicknames, used to display a link to their social media pages on their profile and user cards.
