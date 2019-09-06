@@ -1,7 +1,7 @@
-Users and Organizations
-=======================
+Users
+=====
 
-CIViC depends on its users, organized into roles and groups, to add to its knowledgebase and curate its content. This section details how to create a new user account, user account are management, and various other features related to users and groups.
+CIViC depends on its users to add to its knowledgebase and curate its content. This section details how to create a new user account, user account are management, and various other features related to users and organizations.
 
 User Creation
 -------------
@@ -13,7 +13,7 @@ You'll then be returned to CIViC, logged in with a new curator account.
 
 User Roles
 ----------
-CIViC users have one of three roles: curator, editor and admin. Curators may submit evidence, assertions, and source suggestions. They may also submit suggested changes to all entities. Editors may do everything that curators do, plus approve and reject items submitted by curators. Admins have access to the CIViC server admin console and may crate/modify users, groups, and other administrative tasks available only via the admin console.
+CIViC users have one of three roles: curator, editor and admin. Curators may submit evidence, assertions, and source suggestions. They may also submit suggested changes to all entities. Editors may do everything that curators do, plus approve and reject items submitted by curators. Admins have access to the CIViC server admin console and may crate/modify users, organizations, and other administrative tasks available only via the admin console.
 
 
 .. list-table::
@@ -58,6 +58,7 @@ Currently, Curators are only elevated to Editor roles via invitation.
 
 User Details
 ------------
+Users have a default display name, based on the username provided by the OAuth method used to create the account. Additional fields are also included to allow users to provide more information about themselves to the CIViC community. These details are displayed on the user's profile page and on their user cards.
 
 .. list-table::
    :header-rows: 1
@@ -82,3 +83,19 @@ User Details
      - User's primary country of residence/research.
    * - Twitter, Facebook and Linkedin Handles
      - User's social media nicknames, used to display a link to their social media pages on their profile and user cards.
+
+Viewing Users
+-------------
+Throughout the CIViC interface, users are displayed in three ways: user buttons, user cards, and the user profile.
+
+.. image:: /images/figures/user-elements.png
+
+User buttons appear where we need to indicate a user where space is limited, primarily on CIViC entity summaries' activity histories. User cards are shown when more space is available to display more info about a user. And the profile page shows all public information on an individual user. Clicking on a user button, or the user avatar on the cards will take you to the user's page. 
+ 
+Finding Users
+-------------
+`The Community section <https://civicdb.org/community/main>`_ of the application displays a list of users that can be filtered by display name, organization, role, area of expertise, and recent activity date:
+
+.. image:: /images/figures/community-user-search.png
+
+Locate users of interest by filtering by display name, organization role, area of expertise. Sorting and time-limit options are also provided. 
