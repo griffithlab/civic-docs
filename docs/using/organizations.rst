@@ -1,11 +1,11 @@
 Organizations
 =============
 
-Users may be included in Organizations, primarily in order to keep track of an organization's contributions to CIViC curation. A User's group affiliation is displayed in their profile and user card.
+Users may be included in Organizations, primarily in order to keep track of an organization's contributions to CIViC curation. A User's organization affiliation is displayed in their profile and user card.
 
 Joining Organizations
 ---------------------
-Currently, an administrator must assign a user to a group. To request joining a group, send an email to admin@civicdb.org.
+Currently, an administrator must assign a user to a organization. To request joining a organization, send an email to admin@civicdb.org.
 
 Finding Organizations
 ---------------------
