@@ -1,7 +1,22 @@
 Comments
 ========
 
-Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet tortor.  Nam euismod tellus id erat.
+Encouraging a transparent curation process is one of the goals of the CIViC knowledgebase. To that end, it is possible (and encouraged) to record relevant curation details, motivivations, questions for other curators or editors in the form of comments on primary CIViC entities.
 
-Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Phasellus lacus.  Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent augue.  Fusce commodo.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Nullam libero mauris, consequat quis, varius et, dictum id, arcu.  Mauris mollis tincidunt felis.  Aliquam feugiat tellus ut neque.  Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
+Each CIViC entity capable of accepting suggested changes also includes a comment thread. These comments can be viewed by clicking on an entity's 'Talk' tab, then the middle 'Comments' tab that will appear beneath the entity summary. 
 
+Initial Comments
+----------------
+The forms for adding new evidence or assertions includes a comment field, intended to include a note from the curator describing why the record should be included in CIViC. This comment will be displayed at the top of the comment thread. Note that this comment is not required so many records will not include an initial comment.
+
+Creating Comments
+-----------------
+To create a comment, ensure you are logged in, navigate to the entity you wish to comment upon, click the entity's Talk tab, then the Comments tab. At the bottom of the page, there will be displayed a textarea in which you may enter your comment.
+
+Above the comment area are two buttons, 'Compose' and 'Preview', with Compose being selected by default. Click Preview to see how your message will appear with all the formatting and links applied.
+
+When you are satisfied with your comment, press 'Submit Comment', and your message will be immediately appended to the entity's comment thread.
+
+Comment Formatting
+~~~~~~~~~~~~~~~~~~
+CIViC comments can 
