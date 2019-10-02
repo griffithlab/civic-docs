@@ -1,3 +1,6 @@
+.. role:: raw-html(raw)
+   :format: html
+
 Comments
 ========
 
@@ -19,4 +22,36 @@ When you are satisfied with your comment, press 'Submit Comment', and your messa
 
 Comment Formatting
 ~~~~~~~~~~~~~~~~~~
-CIViC comments can 
+Emphasis, styling, images and links may be added to comments using a subset of Markdown syntax:
+
+.. list-table::
+   :widths: 20 80
+   :header-rows: 1
+
+   * - Effect
+     - Syntax
+   * - Headers
+     - :raw-html:`<pre># This is an &lt;h1&gt; tag<br/>
+       ## This is an &lt;h2&gt; tag<br/>
+       ###### This is an &lt;h6&gt; tag</pre>`
+   * - Emphasis
+     - :raw-html:`<pre>*This text will be italic*
+       _This will also be italic_<br/>
+       **This text will be bold**
+       __This will also be bold__<br/>
+       *Italics and boldface **can be** combined*</pre>`
+   * - Lists
+     - :raw-html:`<strong>Ordered</strong>
+       <pre>* Item 1
+       * Item 2
+       * Item 2a
+       * Item 2b
+       * Item 3</pre>
+       <strong>Unordered</strong>
+       <pre>1. Item 1
+       2. Item 2
+       3. Item 3
+       * Item 3a
+       * Item 3b</pre>`
+   * - Images
+     - :raw-html:`<pre>![this cool diagram](http://site.com/images/cool.png)<br/><br/>Format: ![Alt Text](url)</pre>`
