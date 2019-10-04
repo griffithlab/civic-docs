@@ -55,3 +55,31 @@ Emphasis, styling, images and links may be added to comments using a subset of M
        * Item 3b</pre>`
    * - Images
      - :raw-html:`<pre>![this cool diagram](http://site.com/images/cool.png)<br/><br/>Format: ![Alt Text](url)</pre>`
+   * - Blockquotes
+     - :raw-html:`<pre>As Charles Darwin said:
+       &gt;It is not the strongest
+       &gt;of the species that survive,
+       &gt;nor the most intelligent,
+       &gt;but the one most responsive to change.</pre>`
+   * - Inline code
+     - :raw-html:`I think you should use an
+       &#96;&lt;addr&gt;&#96; element here instead.`
+
+Comment Macros
+~~~~~~~~~~~~~~
+Using macros, you may easily insert links to CIViC entities, mention and notify users.
+
+.. rubric:: @username mention macro
+'@' followed by a user's display name will be displayed as a link to the user's profile page, and generate a notification to the mentioned user. This is useful for calling a user's attention to a particular comment.
+
+Type '@', and the first couple letters of a user's name, and CIViC will show you a dropdown menu of users with matching display names. Hit enter to insert an user mention link, which will display in the rendered comment as a link to the user's profile page, and generate a notification to the mentioned user.
+
+.. rubric:: @admins and @editors mention macros
+Adding '@admin' or '@editor' to your message will generate a mention notification for all users with the admin or editor role, respectively:
+
+.. list-table::
+   :widths: 100
+   :header-rows: 0
+
+   * - :raw-html:`<pre>Hey @admins, could I please get someone to approve this new evidence item?</pre>`
+
