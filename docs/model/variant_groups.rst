@@ -83,5 +83,4 @@ a Variant Group.
    :maxdepth: 2
    :caption: Contents:
 
-   variant_groups/overview
    variant_groups/summary

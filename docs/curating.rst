@@ -43,18 +43,19 @@ Other recommended reading
 More information
 ----------------
 
-For further information on curation with the CIViC platform we provide :doc:`Instructional Videos <curating/videos>`, :doc:`General Curation Practices <curating/curation_practices>`, and documentation for :doc:`Curating Variants <curating/curating_variants>`,  :doc:`Curating Genes <curating/curating_genes>`,  :doc:`Curating Evidence <curating/curating_evidence>`,  :doc:`Curating Assertions <curating/curating_assertions>`,  :doc:`Suggesting Sources <curating/suggesting_sources>`, and detailed :doc:`Examples <curating/examples>`. For ideas on how to get started, visit our  :doc:`Curation Ideas <curating/curation_ideas>` and  :doc:`Monitoring Curation Activity<curating/monitoring>` pages. Finally, if you are interested in  :doc:`Becoming An Editor <curating/editor>` we provide details on the criteria for promotion.
+For further information on curation with the CIViC platform we provide :doc:`General Curation Practices <curating/general>`, and documentation for :doc:`Curating Variants <curating/variants>`,  :doc:`Curating Genes <curating/genes>`,  :doc:`Curating Evidence <curating/evidence>`,  :doc:`Curating Assertions <curating/assertions>`, and :doc:`Suggesting Sources <curating/source_suggestions>`.
+For examples and ideas on how to get started, visit our :doc:`Curation Ideas <curating/ideas>` and  :doc:`Monitoring Curation Activity<curating/monitoring>` pages. Finally, if you are interested in  :doc:`Becoming An Editor <curating/editor>` we provide details on the criteria for promotion.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    curating/general
-   curating/examples
+   curating/variants
+   curating/genes
+   curating/evidence
+   curating/assertions
+   curating/source_suggestions
    curating/ideas
    curating/monitoring
    curating/editor
-   curating/adding_evidence
-   curating/adding_assertions
-   curating/adding_source_suggestions
-   curating/editing_items
