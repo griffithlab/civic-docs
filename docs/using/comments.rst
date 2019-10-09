@@ -12,16 +12,20 @@ Initial Comments
 ----------------
 The forms for adding new evidence or assertions includes a comment field, intended to include a note from the curator describing why the record should be included in CIViC. This comment will be displayed at the top of the comment thread. Note that this comment is not required so many records will not include an initial comment.
 
-Creating Comments
------------------
+Creating and Previewing Comments
+--------------------------------
 To create a comment, ensure you are logged in, navigate to the entity you wish to comment upon, click the entity's Talk tab, then the Comments tab. At the bottom of the page, there will be displayed a textarea in which you may enter your comment.
 
 Above the comment area are two buttons, 'Compose' and 'Preview', with Compose being selected by default. Click Preview to see how your message will appear with all the formatting and links applied.
 
 When you are satisfied with your comment, press 'Submit Comment', and your message will be immediately appended to the entity's comment thread.
 
+Deleting Comments
+-----------------
+You may delete your own comments by clicking the 'Delete' button at the bottom-right corner of its comments box. It is not possible to undo the deletion of a comment.
+
 Comment Formatting
-~~~~~~~~~~~~~~~~~~
+------------------
 Emphasis, styling, images and links may be added to comments using a subset of Markdown syntax:
 
 .. list-table::
@@ -66,7 +70,7 @@ Emphasis, styling, images and links may be added to comments using a subset of M
        &#96;&lt;addr&gt;&#96; element here instead.`
 
 Comment Macros
-~~~~~~~~~~~~~~
+--------------
 Using macros, you may easily insert links to CIViC entities, mention and notify users.
 
 .. rubric:: @username mention macro
@@ -77,9 +81,33 @@ Type '@', and the first couple letters of a user's name, and CIViC will show you
 .. rubric:: @admins and @editors mention macros
 Adding '@admin' or '@editor' to your message will generate a mention notification for all users with the admin or editor role, respectively:
 
+.. code-block:: none
+
+  Hey @admins, could I please get someone to approve this new evidence item?
+
+.. rubric:: #ENTITY link macro
+'#' followed by an entity type abbreviation, and an entity ID will be displayed as a link to that entity's summary view:
+
+.. code-block:: none
+
+  For example with #V123 we see the opposite effect.
+
+Use the following syntax for the target entity:
+
 .. list-table::
-   :widths: 100
+   :widths: 20 80
    :header-rows: 0
 
-   * - :raw-html:`<pre>Hey @admins, could I please get someone to approve this new evidence item?</pre>`
+   * - #V123
+     - Variant link
+   * - #G123
+     - Gene link
+   * - #E123
+     - Evidence Item link
+   * - #VG123
+     - Variant Group link
+   * - #R123
+     - Revision link
 
+..rubric:: # entity link suggestions
+CIViC can inline substring searching for entity link macros. Enter an entity type as above, plus a colon, e.g. ``#V:``. Then begin typing the name of the entity, or a substring. CIViC will display a dropdown of entities that contain matching text in their names. Select an entity, and the correct macro link with the ID will be entered into the comment.
