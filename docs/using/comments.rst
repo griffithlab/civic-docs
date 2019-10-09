@@ -69,6 +69,8 @@ Emphasis, styling, images and links may be added to comments using a subset of M
      - :raw-html:`I think you should use an
        &#96;&lt;addr&gt;&#96; element here instead.`
 
+.. _comment-macros:
+
 Comment Macros
 --------------
 Using macros, you may easily insert links to CIViC entities, mention and notify users.
