@@ -13,7 +13,7 @@ And on all sub-pages it may be found here:
 
 .. image:: /images/figures/quick-search_subheader.png
 
-Any text typed into the quick search box will matach against Gene and Variant names. Search results displayed beneath the entry box may be navigated using the arrow keys. Navigate to a selected entity by pressing the Return or Tab key.
+Any text typed into the quick search box will match against Gene and Variant names. Search results displayed beneath the entry box may be navigated using the arrow keys. Navigate to a selected entity by pressing the Return or Tab key.
 
 .. image:: /images/figures/quick-search_results.png
 
@@ -27,7 +27,7 @@ Tabs at the top of the interface switch between search interfaces for CIViC's ma
 
 The the main query builder interface **(C-J)** allows users to specify a precise description of the results they wish to see, by building queries of the entity's attributes.
 
-The match criteria selector **(C)** switches between using **ALL** or **ANY** of the attributes specified when performing a search. When 'all' is selected, then only results that match every attribute value the user specifies will be returned. If 'any' is selcted then results will be returned if they match any of the user-specified values.
+The match criteria selector **(C)** switches between using **ALL** or **ANY** of the attributes specified when performing a search. When 'all' is selected, then only results that match every attribute value the user specifies will be returned. If 'any' is selected then results will be returned if they match any of the user-specified values.
 
 Queries are constructed by adding (or removing) entity attribute rows **(G)** using the add attribute and remove attribute buttons **(I)**. Upon initially loading the search interface, a single attribute row will be displayed. Choose an attribute of interest using the attribute selector **(D)**. Depending on the attribute, several additional form elements will be displayed **(E-F, H)**.
 

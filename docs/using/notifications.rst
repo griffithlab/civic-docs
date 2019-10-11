@@ -18,7 +18,7 @@ The Notifications page consists of a notification list and a sidebar that enable
    * - Mentions
      - Notifications from commentors using the @[username] or @[editor/admin] macro
    * - System Updates
-     - Placeholder for notificatinos from a future system that will show CIViC software update details
+     - Placeholder for notifications from a future system that will show CIViC software update details
    * - Messages
      - Placeholder for notifications from a future internal messaging system
  

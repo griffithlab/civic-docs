@@ -4,7 +4,7 @@
 Comments
 ========
 
-Encouraging a transparent curation process is one of the goals of the CIViC knowledgebase. To that end, it is possible (and encouraged) to record relevant curation details, motivivations, questions for other curators or editors in the form of comments on primary CIViC entities.
+Encouraging a transparent curation process is one of the goals of the CIViC knowledgebase. To that end, it is possible (and encouraged) to record relevant curation details, motivations, questions for other curators or editors in the form of comments on primary CIViC entities.
 
 Each CIViC entity capable of accepting suggested changes also includes a comment thread. These comments can be viewed by clicking on an entity's 'Talk' tab, then the middle 'Comments' tab that will appear beneath the entity summary. 
 
