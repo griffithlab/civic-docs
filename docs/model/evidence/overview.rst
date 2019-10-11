@@ -116,7 +116,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - Lorem Ipsum
      - Lorem Ispum
      - Lorem Ipsum
-   * - :ref:`evidence-trust_rating`
+   * - :ref:`evidence-evidence_rating`
      - A rating on a 5-star scale, portraying the curators
        trust in the experiments from which the evidence is curated. Refer
        to the additional documentation on trust ratings for guidance on how

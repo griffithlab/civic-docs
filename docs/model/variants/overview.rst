@@ -62,7 +62,7 @@ CIViC.
        CIViC Actionability Score is calculated by adding all Evidence Item
        Scores for each variant. The Evidence Item Score is calculated by
        multiplying the evidence level (A=10 points, B=5 points, C=3 points,
-       D=1 point, E=0.25 points) by the trust rating (Each Star = 1 point).
+       D=1 point, E=0.25 points) by the evidence rating (Each Star = 1 point).
      - CIViC
    * - Variant Type(s)
      - One or more terms from the Sequence Ontology that
