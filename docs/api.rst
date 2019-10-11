@@ -19,3 +19,4 @@ This documentation provides example requests and responses for most endpoints. T
    api/linking
    api/metadata
    api/throttling
+   api/add_evidence
