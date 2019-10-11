@@ -26,7 +26,7 @@ Data clients are academic and commercial resources that use CIViC data (for exam
 - `My Variant Info <http://myvariant.info/>`_
 - `Monarch Iniative SEPIO - Scientific Evidence and Provenance Information Ontology <https://github.com/monarch-initiative/SEPIO-ontology>`_
 - `NDEx - The Network Data Exchange <http://www.ndexbio.org>`_
-- `OncoMx <https://www.oncomx.org/>`_
+- `OncoMX <https://www.oncomx.org/>`_
 - `PathOS - Peter MacCallum Cancer Centre <https://www.petermac.org/about/signature-centres/centre-clinical-cancer-genomics/molecular-diagnostic-software>`_
 - `Smart Cancer Navigator <https://smart-cancer-navigator.github.io/app>`_
 - `SoftGenetics - Geneticist Assistant NGS Interpretative Workbench <https://softgenetics.com/>`_

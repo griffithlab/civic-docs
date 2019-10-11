@@ -1,7 +1,98 @@
 Data Grids
 ==========
 
-Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Phasellus lacus.  Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent augue.  Fusce commodo.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Nullam libero mauris, consequat quis, varius et, dictum id, arcu.  Mauris mollis tincidunt felis.  Aliquam feugiat tellus ut neque.  Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
+Tabular lists of entities, displayed in data grids, comprise a major part of the CIViC user interface. This section details the various data grids that users will encounter while using CIViC.
 
-Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet tortor.  Nam euismod tellus id erat.
+Evidence Grid
+-------------
 
+.. image:: /images/figures/CIViC_evidence-grid-features_v1d.png
+
+The evidence grid displays lists of evidence items, and provides various methods to filter subsets of evidence items of interest to the user. 
+
+.. list-table::
+   :widths: 25  75
+   :header-rows: 1
+
+   * - Column
+     - Description
+   * - EID
+     - Evidence ID
+   * - DESC
+     - Evidence description
+   * - DIS
+     - Disease
+   * - DRUGS
+     - Drugs associated with the item
+   * - EL
+     - Evidence Level
+   * - ET
+     - Evidence type
+   * - ED
+     - Evidence direction
+   * - CS
+     - Clinical significance
+   * - VO
+     - Variant origin
+   * - ER
+     - Evidence Rating
+
+Assertion Grid
+--------------
+
+.. image:: /images/figures/CIViC_assertion-grid-features_v1a.png
+
+Assertion grids display lists of assertion items, and provide various methods to filter subsets of assertions of interest to the user.
+
+.. list-table::
+   :widths: 25  75
+   :header-rows: 1
+
+   * - Column
+     - Description
+   * - AID
+     - Assertion ID
+   * - Summary
+     - Assertion summary
+   * - Disease
+     - Disease
+   * - Drugs
+     - Drugs associated with the item
+   * - AT
+     - Assertion type
+   * - AD
+     - Assertion direction
+   * - CS
+     - Clinical significance
+   * - Evidence
+     - Count of evidence items associated with Assertion
+
+Activity Grid
+-------------
+
+.. image:: /images/figures/CIViC_activity-grid_v1a.png
+
+.. list-table::
+   :widths: 25  75
+   :header-rows: 1
+
+   * - Column
+     - Description
+   * - User
+     - User who performed the activity
+   * - Role
+     - User's role
+   * - Event Type
+     - Description of the activity performed
+   * - Gene
+     - Gene of the subject entity (if applicable)
+   * - Variant
+     - Variant of the subject entity (if applicable)
+   * - Entity ID
+     - ID of the subject entity
+   * - Timestamp
+     - Time of the activity
+
+Other Data Grids
+----------------
+CIViC also provides data grids for Genes, Variants, Variant Groups, and Sources. These grids are relatively self-explanatory.
