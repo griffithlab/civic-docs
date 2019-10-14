@@ -111,5 +111,5 @@ Use the following syntax for the target entity:
    * - #R123
      - Revision link
 
-..rubric:: # entity link suggestions
+.. rubric:: hash (#) entity link suggestions macro
 CIViC can inline substring searching for entity link macros. Enter an entity type as above, plus a colon, e.g. ``#V:``. Then begin typing the name of the entity, or a substring. CIViC will display a dropdown of entities that contain matching text in their names. Select an entity, and the correct macro link with the ID will be entered into the comment.
