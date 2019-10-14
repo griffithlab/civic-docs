@@ -1,18 +1,115 @@
-Adding Evidence
-===============
+Curating Evidence
+=================
 
-.. image:: /images/figures/CIViC_adding-updating-evidence_v1d.png
+Evidence Items (EIDs) form the fundamental unit of the CIViC knowledgebase. EIDs derive structured clinical statements from peer reviewed publications and ASCO abstracts, which act as evidence sources for Evidence Items. The Evidence Item (EID) links back to its source. EIDs are hand-curated units of knowledge, and one evidence source may supply enough data to create multiple EIDs. EIDs are displayed throughout the CIViC application, for example as a summary (Figure 1) and as a data table row (Figure 3).
 
-The main curation activity in CIViC involves adding and editing evidence statements. Below we have provided a screencast entitled, `Adding CIViC Evidence <https://www.youtube.com/watch?v=od5Tgdfo6Qs>`_ to walk users through creating an evidence item in CIViC. This screencast covers:
+.. figure:: /images/figures/evidence-summary_EID6568.png
+   :alt: Screenshot of an evidence item summary
 
-- Scanning a publication for curatable details
-- Signing into CIViC to Add Evidence
-- Walking through the Add Evidence form
-- Viewing the submitted evidence
+   Figure 1: Screenshot of an evidence item summary
 
-.. raw:: html
+CIViC Evidence is added and curated via a moderation process that includes submitting, evaluating, accepting (or rejecting), and suggesting changes (Figure 2). CIViC Curators may add or suggest revisions to curated content at each step. Adding content involves submitting new Evidence Items or Assertions that subsequently undergo revision and review by CIViC Editors. Revision of content involves adding or revising the clinical summary and/or its associated features. Once changes are made within the CIViC database, the additions/revisions become visible directly or on a separate revision page depending on the type of submission. Curation is listed as a "submitted" (i.e., pending) until it is accepted by an Editor, who are given power to accept or reject Curator submissions. Curators may reject (but not accept) their own submissions/revisions.
 
-   <div style=“position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;“>
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/od5Tgdfo6Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   </div>
+.. figure:: /images/figures/CIViC_adding-updating-evidence_v2a.png
+   :alt: Overview of CIViC content creation process
 
+   Figure 2: Overview of CIViC content creation process
+
+It is important to note that once evidence is submitted into CIViC as a new Evidence Item, then the EID is visible to the community in the unmoderated/non-reviewed state, and these EIDs are labeled in orange (Figure 3). This enables the public to comment or create moderations on the submitted evidence. It is also important to note that orange Evidence Items may be incomplete, not accurately fit into the CIViC data model, or contain problems which the moderation process is designed to capture and fix. Once a CIViC EID has been reviewed by editors, and all revisions reviewed and accepted, then the EID is accepted by an editor, and becomes labeled green.
+
+.. figure:: /images/figures/CIViC_evidence-grid-features_v1d.png
+   :alt: Evidence Item datagrid features
+
+   Figure 3: Evidence Item datagrid features
+
+When an Evidence Item has a pending revision, then it is labeled with a blue exclamation mark icon (Figure 3). Note that revisions can be made to EIDs in both the Submitted/Unreviewed Status (orange) and the Accepted/Fully Reviewed Status (green).
+
+General Evidence Item Curation Practices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Evidence Items should generally be prepared from primary literature rather than from review articles. It is recommended that curators use reviews to identify primary literature referenced in the review and to curate individual Evidence Items based on these cited articles. Review articles can also be used to develop Gene and Variant summaries.
+
+When curating new evidence, the curator should review the existing evidence already curated into CIViC for that Variant to look for the following issues:
+
+- For clinical trials and case reports (Levels A, B, and C), overlapping patient populations (i.e. the same patient treatment and outcome described in multiple reports) should be avoided, or carefully noted to alert users of this nuance and avoid conclusions that mistake these studies as independent. Note also that reports describing different phases of the same patient treatment (i.e. erlotinib and subsequently afatinib), or different clinically relevant conclusions (i.e. predictive evidence and simultaneous diagnostic evidence) are independent/non-overlapping entities.
+- For Predisposing EIDs describing germline variants, the same patient may appear in multiple studies. Curators should be careful to note these cases by reviewing existing germline EIDs for the same variant in CIViC. 
+
+Disease stage, prior treatments, and other experimental details influencing evidence interpretation should be captured within an Evidence Item to maximize user comprehension of the underlying study and the appropriate context in which it is relevant. Such details are critical parts of clinical guidelines and can impact which clinical guidelines should be used as well as drug sensitivities (see `EID1008 <https://civicdb.org/links/evidence/1008>`__ and `EID1009 <https://civicdb.org/links/evidence/1009>`__).
+
+Five types of EID exist in CIViC (Figure 4), giving structured clinical annotation to a Variant. Three types of clinical statements, Predictive/Therapeutic, Prognostic and Diagnostic, are usually associated with somatic variants, while Predisposing evidence is generally linked to germline variation. Functional studies are often performed in vitro, so associated EIDs will have the Unknown field selected for Variant Origin.
+
+.. figure:: /images/figures/CIViC_evidence-item-primary-fields_v3a.png
+   :alt: Structured annotation comprising the five types of CIViC Evidence Item (EID)
+
+   Figure 4: Structured annotation comprising the five types of CIViC Evidence Item (EID)
+
+
+Predictive Evidence
+~~~~~~~~~~~~~~~~~~~
+Predictive/Therapeutic Evidence Items (EIDs) are structured to capture variant annotation for drug sensitivity, resistance,  
+Below is an example of an Evidence Item that illustrates the Predictive Evidence Type. This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with HER2-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
+
+
+.. figure:: /images/figures/evidence-summary_EID1077.png
+   :alt: Screenshot of a predictive Evidence Item summary
+
+   Figure 5: Screenshot of a predictive Evidence Item summary
+
+Predictive Evidence Curation Practices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Predictive Evidence Items should include the Drug Name(s) and Drug Interaction Type (for multiple drugs). 
+
+The most current name of the Drug (excluding trade names) should be used in the Drug field to reduce duplication. The Evidence Statement should contain the drug name used in the study with the current name in brackets, when applicable.
+
+Drug Interaction Types are required anytime more than one drug is mentioned for a given study. If multiple drug interaction types are at play (e.g., combinations and substitutes), considering separating these concepts into more than one Evidence Item.
+
+If applicable, the Clinical Trial name and ID should be included in the Evidence Statement. Any clinical trial IDs available in PubMed for the Source linked to this Evidence Item will be automatically imported and linked to this Evidence Item when the PubMed Source is imported into CIViC.
+
+The duration of exposure to the drug and confounding interactions (e.g., wash-out periods, previous treatment, cancer stage) should be listed.
+
+Assigning a Clinical Significance of Sensitivity/Response can depend on factors such as response rate, which will vary significantly with disease and treatment. In some cases a response rate of 15% may represent a significant improvement, and merit a valuation of Sensitivity/Response. A general guideline for CIViC curation is to follow the author’s published (and peer-reviewed) interpretations and conclusions of the results.
+
+Extensive guidelines, use cases, and examples for curation of predictive evidence are given in Figure 7 and Table 1.
+
+Diagnostic Evidence
+~~~~~~~~~~~~~~~~~~~
+Below is an example of an Evidence Item that illustrates the Diagnostic Evidence Type. This example describes the World Health Organization guidelines for classifying chronic myelomonocytic leukemia (CMML). Specifically, if a patient has a PCM1-JAK2 fusion or a rearrangement involving PDGFRA, PDGFRB, or FGFR1, especially in the setting of eosinophilia, the patient does not have CMML.
+
+.. figure:: /images/figures/evidence-summary_EID1077.png
+   :alt: Screenshot of a diagnostic Evidence Item summary
+
+   Figure 6: Screenshot of a diagnostic Evidence Item summary
+
+Diagnostic Evidence Curation Practice
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Diagnostic Evidence Items should only be used if the variant assists in labeling the patient with a specific disease or disease subtype and should not be used to denote that the particular variant is prevalent in a specific disease.
+
+Generally, Diagnostic Evidence Items describe variants that can help accurately diagnose a cancer type or subtype with high sensitivity and specificity, for which diagnoses may otherwise be challenging.
+
+Diagnostic Evidence Items are very closely tied to the terms of the Disease Ontology (DO) in CIViC. The Disease Ontology works to actively generate mappings to other highly used ontologies, but the terms in the DO are generally accepted diseases which are part of medical practice. Therefore, literature proposing a novel disease type - for instance studies suggesting a novel cancer subtype defined by the presence of a specific oncogenic variant - are not generally admitted as part of the CIViC data model. Alternatively, if a curator with expertise in the field feels that the novel subtype has met with a sufficient level of acceptance, they may submit this type of Evidence Item using a non-DO term, and suggest that DO admit this term into the ontology.
+
+Literature describing diagnostic practice guidelines (such as those of the World Health Organization) may be used in curation and submitted as A-level Evidence Items.
+
+Literature describing small numbers of observations in patient samples of a certain variant, where the authors state that the variant may have diagnostic value, may be admitted as lower star Case Study (C-level) data. Similar literature employing larger numbers could be labeled as Clinical (B-level).
+
+Guidelines and use cases for curation of diagnostic evidence are given in Table 1.
+
+Prognostic Evidence
+~~~~~~~~~~~~~~~~~~~
+Below is an example of an Evidence Item that describes a Prognostic Evidence Type. This example describes a 406-patient trial whereby observation of any somatic TP53 mutation in chronic lymphoblastic leukemia conferred poor prognosis relative to wildtype TP53.
+
+.. figure:: /images/figures/evidence-summary_EID1507.png
+   :alt: Screenshot of a prognostic Evidence Item summary
+
+   Figure 7: Screenshot of a prognostic Evidence Item summary
+
+Prognostic Evidence Curation Practice
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Prognostic Evidence Items should include the measured outcome (e.g., overall survival, complete response, partial response), number of subjects and applicable statistics.
+
+If described in the literature, a definition of the measured outcome should be given.
+
+Prognostic evidence is characterized by either better outcomes for patient subpopulations with the given variant, which are not specific to any particular treatment context, or worse outcomes which are not indicative of variant resistance to a specific treatment. Instead, the change in outcome should be largely correlated to the presence of the variant.
+
+In some cases, a variant subpopulation with worse outcome may benefit from subsequent therapy targeted to that variant (e.g., HER2 amplification in breast cancer).
+
+Guidelines, use cases, and examples for curation of prognostic evidence are given in Figure 7 and Table 1.
