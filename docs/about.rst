@@ -11,7 +11,7 @@ All content created in CIViC is, and will continue to be, freely available, with
 
 .. rubric:: Contributing to CIViC
 
-CIViC provides an open forum for community contributions. Anyone can create an account to flag problems, add comments, propose revisions to existing content, or submit new evidence, assertions, or summaries. All proposed additions/revision enter a pending state until approval by a CIViC editor. All content contributed and accepted is immediately considered public domain knowledge. For more details on how to contribute please read our :doc:`curating <curating>` docs. 
+CIViC provides an open forum for community contributions. Anyone can create an account to flag problems, add comments, propose revisions to existing content, or submit new evidence, assertions, or summaries. All proposed additions/revisions enter a pending state until considered for approval by a CIViC editor. All content contributed and accepted is immediately considered public domain knowledge. For more details on how to contribute please read our :doc:`curating <curating>` docs.
 
 .. rubric:: Using CIViC Data
 
