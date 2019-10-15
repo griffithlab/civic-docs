@@ -15,7 +15,7 @@ CIViC provides an open forum for community contributions. Anyone can create an a
 
 .. rubric:: Using CIViC Data
 
-CIViC is intended to provide an educational resource to support better understanding of the current state of precision medicine. It may also provide useful summaries and links to relevant published evidence for the clinical relevance of specific variants. With appropriate validation (e.g., in a CLIA certified, CAP accredited environment) it may also be used to develop panels or software for variant interpretation in a clinical diagnostic setting. However, direct use of the CIViC application/website is intended for purely research purposes. It should not be used for emergencies or medical or professional advice.
+CIViC is intended to provide an educational resource to support better understanding of the current state of precision medicine. It may also provide useful summaries and links to relevant published evidence for the clinical relevance of specific variants. With appropriate validation (e.g., in a CLIA certified, CAP accredited environment) it may also be used to develop panels or software for variant interpretation in a clinical diagnostic setting. However, direct use of the CIViC application/website is intended for purely research purposes. It should not be used for emergencies or for medical or professional advice.
 
 We provide CIViC data freely to all under the `Creative Commons Public Domain Dedication, CC0 1.0 Universal License <https://creativecommons.org/publicdomain/zero/1.0/>`_. Data can be `downloaded in bulk <https://civicdb.org/releases>`_ as tab-separated files or accessed through our fully open and :doc:`documented API <api>`.   
 
