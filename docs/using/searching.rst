@@ -13,7 +13,7 @@ And on all sub-pages it may be found here:
 
 .. image:: /images/figures/quick-search_subheader.png
 
-Any text typed into the quick search box will match against Gene and Variant names. Search results displayed beneath the entry box may be navigated using the arrow keys. Navigate to a selected entity by pressing the Return or Tab key.
+Any text typed into the quick search box will be matched against Gene and Variant names. Search results displayed beneath the entry box may be navigated using the arrow keys. Navigate to a selected entity by pressing the Return or Tab key.
 
 .. image:: /images/figures/quick-search_results.png
 
