@@ -1,6 +1,6 @@
 CIViC API
 =========
-CIViC provides a simple API that can be utilized over HTTP in the programming language of your choice or even at the command line.
+CIViC provides a simple API that can be used over HTTP in the programming language of your choice or even at the command line.
 
 The CIViC API attempts to be RESTful whenever appropriate which hopefully makes it intuitive to use. There are four main entities in the system that a user may interact with: Genes, Variants, Variant Groups, and Evidence Items. These entities form a hierarchy that is reflected in the API endpoints. A Gene has one or more Variants, each of which may have one or more Evidence Items. Variants may also be collected into Variant Groups.
 
