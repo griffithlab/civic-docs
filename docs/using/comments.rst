@@ -10,7 +10,7 @@ Each CIViC entity capable of accepting suggested changes also includes a comment
 
 Initial Comments
 ----------------
-The forms for adding new evidence or assertions includes a comment field, intended to include a note from the curator describing why the record should be included in CIViC. This comment will be displayed at the top of the comment thread. Note that this comment is not required so many records will not include an initial comment.
+The forms for adding new evidence or assertions include a comment field, intended to include a note from the curator describing why the record should be included in CIViC. This comment will be displayed at the top of the comment thread. Note that this comment is not required so many records will not include an initial comment.
 
 Creating and Previewing Comments
 --------------------------------
