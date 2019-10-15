@@ -3,7 +3,7 @@ Browsing
 
 CIViC provides a `Browse section <https://civicdb.org/browse/genes>`_, organized into tabs, comprised of filterable tables for each of its entities: Genes, Variants, Variant Groups, Evidence, Assertions and Sources.
 
-Each table includes columns for key fields, and where appropriate, filters and sorting controls for narrowing results to entities of interest. Results may be sorted by more than one column at a time: hold the shift key while clicking on a column header to add stack sort parameters.
+Each table includes columns for key fields and, where appropriate, filters and sorting controls for narrowing results to entities of interest. Results may be sorted by more than one column at a time: hold the shift key while clicking on a column header to add stack sort parameters.
 
 Below each table a paging interface is provided to navigate through larger result sets.
 
