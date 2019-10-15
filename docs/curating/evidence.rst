@@ -113,3 +113,18 @@ Prognostic evidence is characterized by either better outcomes for patient subpo
 In some cases, a variant subpopulation with worse outcome may benefit from subsequent therapy targeted to that variant (e.g., HER2 amplification in breast cancer).
 
 Guidelines, use cases, and examples for curation of prognostic evidence are given in Figure 7 and Table 1.
+
+Curation Scenarios
+~~~~~~~~~~~~~~~~~~
+The table below (Table 1) gives an in depth set of cases for assigning the Clinical Significance  to an Evidence Item (EID) where either the "supports" or "does not support" Evidence Direction is used in combination with a Predictive/Therapeutic, Diagnostic or Prognostic Clinical Significance annotation.
+
+Note that "Reduced Sensitivity" Clinical Significance is used to compare the variant of interest to a known, sensitizing variant. It is not used to compare the efficacy of one drug for a variant against a different drug for the same variant. In the latter case, the curator may simply make a Predictive evidence item with independently evaluates the efficacy of the drug against the variant of interest. 
+
+The "Sensitivity/Response" annotation is used to assess sensitizing variants, which are usually in the form of a primary sensitizing somatic mutation (e.g SNV, amplification, deletion, etc).
+
+The "Resistance" annotation is used in situations where the variant of interest has been observed to induce resistance in a context where, in the absence of the variant, the system being assayed would be deemed sensitive which induce resistance to treatment (e.g. T790M mutation in cis with a  background variant of EGFR L858R). In cases where a variant fails to induce sensitivity, then that variant is best annotated with "Does not Support Sensitivity".       
+
+.. figure:: /images/figures/CIViC_attributes-curation-table_thumbnail_v1b.png
+   :alt: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations
+
+   Table 1: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations. :download:`Download a more readable PDF version here <../images/figures/CIViC_attributes-curation-table_v1b.pdf>`
