@@ -10,13 +10,13 @@ Leaderboards
 Leaderboards list top curators and organizations in four categories:
 
 Top Commentors
-    Lists users ranked by number of comments they have made
+    Lists users ranked by the number of comments they have made
 Top Submittors
-    Lists users ranked by number of new evidence and assertions they have submitted
+    Lists users ranked by the number of new evidence and assertions they have submitted
 Top Revisors
-    Lists users ranked by number of revisions they have submitted
+    Lists users ranked by the number of revisions they have submitted
 Top Editors
-    Lists users ranked by the number of moderation actions performed
+    Lists users ranked by the number of moderation actions they have performed
 
 User & Organization Lists
 -------------------------

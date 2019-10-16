@@ -4,13 +4,13 @@
 Comments
 ========
 
-Encouraging a transparent curation process is one of the goals of the CIViC knowledgebase. To that end, it is possible (and encouraged) to record relevant curation details, motivations, questions for other curators or editors in the form of comments on primary CIViC entities.
+Encouraging a transparent curation process is one of the goals of the CIViC knowledgebase. To that end, it is possible (and encouraged) to record relevant curation details, motivations, and questions for other curators or editors in the form of comments on primary CIViC entities.
 
 Each CIViC entity capable of accepting suggested changes also includes a comment thread. These comments can be viewed by clicking on an entity's 'Talk' tab, then the middle 'Comments' tab that will appear beneath the entity summary. 
 
 Initial Comments
 ----------------
-The forms for adding new evidence or assertions includes a comment field, intended to include a note from the curator describing why the record should be included in CIViC. This comment will be displayed at the top of the comment thread. Note that this comment is not required so many records will not include an initial comment.
+The forms for adding new evidence or assertions include a comment field, so that a curator can describe why the record should be included in CIViC. This comment will be displayed at the top of the comment thread. Note that this comment is not required so many records will not include an initial comment.
 
 Creating and Previewing Comments
 --------------------------------

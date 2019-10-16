@@ -50,4 +50,4 @@ Make your updates, then push a new branch to the repository:
 git push origin doc-update
 ```
 
-Then visit the [civic-docs pull requests page](https://github.com/griffithlab/civic-docs/pulls). Github should display a message asking you if you'd like to create a pull request from the new branch you just pushed. Create the pull request, with a short description of your contribution. A CIViC maintainer will evaluate your contribution and will likely merge it with the master branch, which will then be published. Thanks for your contributions!
+Then visit the [civic-docs pull requests page](https://github.com/griffithlab/civic-docs/pulls). Github should display a message asking you if you'd like to create a pull request from the new branch you just pushed. Create the pull request with a short description of your contribution. A CIViC maintainer will evaluate your contribution and will likely merge it with the master branch, which will then be published. Thanks for your contributions!
