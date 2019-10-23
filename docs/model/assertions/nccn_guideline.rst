@@ -1,14 +1,19 @@
 NCCN Guideline
 ==============
+The National Comprehensive Cancer Network (NCCN) is a nonprofit collaboration of multiple cancer centers which contributes to research and education. NCCN maintains an influential set of detailed guidelines for the treatment of specific cancer types, which is regularly updated. CIViC integrates these and other guidelines into the curation process.
 
 Understanding NCCN Guidelines
 -----------------------------
-Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Phasellus lacus.  Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent augue.  Fusce commodo.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Nullam libero mauris, consequat quis, varius et, dictum id, arcu.  Mauris mollis tincidunt felis.  Aliquam feugiat tellus ut neque.  Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
+NCCN and other guidelines contribute fundamentally to Assertions on multiple levels. If a given variant and cancer type, for which the assertion is being prepared, appears in guidelines which are relevant to the field, and pertain to the Assertion Type which is being curated, then those guidelines should be briefly summarized in the Assertion.  
 
 Curating NCCN Guidelines
 ------------------------
+For many higher AMP-ASCO-CAP Tier (AMP Category on the interface) Assertions in CIViC, NCCN Guidelines play an essential role during Assertion creation. For instance, if a curator is interested in building Assertions for a certain cancer type, then reading NCCN guidelines for this cancer will outline a set of Tier I Level A variants for Predictive, Prognostic and Diagnostic Clinical Significances for the given disease type. As Assertions are disease specific, the same CIViC Variant will have different Assertions for different diseases, and AMP Tier and Level may change from one Assertion to the next even though they all are for the same CIViC Variant. If a variant is described as part of the NCCN Category 1 clinical workflows in the disease, then Assertions associated with that variant and disease will be Tier I Level A. NCCN Category 3 variants will map to an AMP Tier III VUS. Creation of an Assertion of this sort in CIViC would require covering the conflicting evidence in the set of Evidence Items supporting that Tier III Assertion. 
 
-.. image:: /images/figures/CIViC_assertion-types_non-predisposing_v1a.png
+Note that a given variant may have more than one approved treatment context in a given disease (See Figure 1). In the case of Predictive/Therapeutic Assertions, a drug treatment may be approved for first line therapy, and also later stage or salvage therapy, each with its own NCCN Category. All of these should be described in the Assertion, and AMP Tier and Level based off of the highest Category treatment context. 
 
-Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  Nunc porta vulputate tellus.  Nunc rutrum turpis sed pede.  Sed bibendum.  Aliquam posuere.  Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.  Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna.  Curabitur vulputate vestibulum lorem.  Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.  Sed id ligula quis est convallis tempor.  Curabitur lacinia pulvinar nibh.  Nam a sapien.
+.. figure:: /images/figures/CIViC_assertion-summary-AID10.png
+   :alt: Screenshot of AID10, an assertion with an NCCN guideline assigned
+
+   Figure 6: Assertion for a variant with approved NCCN Category 1 and Category 2A drug treatments.
 
