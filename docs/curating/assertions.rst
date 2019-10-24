@@ -64,7 +64,7 @@ The Predictive Assertion screenshot below (Figure 5) describes that BRAF V600E c
 
 Curation Practices for Predictive Assertions
 ____________________________________________
-All Evidence Items relevant to the Assertion should associated, even if they disagree with the Assertion Summary. Disagreements can be discussed in the Description section and rationale for discounting discrepant evidence should be recounted.
+All Evidence Items relevant to the Assertion should be associated, even if they disagree with the Assertion Summary. Disagreements can be discussed in the Description section and rationale for discounting discrepant evidence should be recounted.
 
 AMP Level and Tier should be associated with each Predictive, Diagnostic and Prognostic Assertions [7]. For methods on assigning AMP-ASCO-CAP Tier / Level, See Figure 4A.
 
