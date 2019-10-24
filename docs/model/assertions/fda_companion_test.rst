@@ -1,11 +1,14 @@
 FDA Companion Test
 ==================
+A companion diagnostic device can be in vitro diagnostic device or an imaging tool that provides information that is essential for the safe and effective use of a corresponding therapeutic product.
 
 Understanding FDA Companion Tests
 ---------------------------------
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
+A positive identification of a variant using an IVD companion diagnostic device indicates the use of a specific therapeutic product. The use of the IVD companion diagnostic is stipulated in the instructions for use in the labeling of both the diagnostic device and the corresponding therapeutic product, as well as in the labeling of any generic equivalents and biosimilar equivalents of the therapeutic product. A list of Cleared or Approved Companion Diagnostic Devices (In Vitro and Imaging Tools) can be found on the `FDA website <https://www.fda.gov/medical-devices/vitro-diagnostics/list-cleared-or-approved-companion-diagnostic-devices-vitro-and-imaging-tools>`__. 
+
+This list is distinct from the list of  `Nucleic Acid Based Tests <https://www.fda.gov/medical-devices/vitro-diagnostics/nucleic-acid-based-tests>`__, which provides a list of tests that analyze variations in the sequence, structure, or expression of deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) in order to diagnose disease or medical conditions, infection with an identifiable pathogen, or determine genetic carrier status. Diagnostics listed on this list can be used for diagnosis of disease and potentially prognosis but are not associated with a specific targeted therapeutic for intervention.
 
 Curating FDA Companion Tests
 ----------------------------
-Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  Nunc porta vulputate tellus.  Nunc rutrum turpis sed pede.  Sed bibendum.  Aliquam posuere.  Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.  Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna.  Curabitur vulputate vestibulum lorem.  Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.  Sed id ligula quis est convallis tempor.  Curabitur lacinia pulvinar nibh.  Nam a sapien.
+The list(s) provided by the FDA should be used when identifying FDA Companion Tests associated with Assertions. The checkbox for this label should only be selected if both the disease and the variant listed in the Assertion directly correlates with those listed by the FDA.
 
