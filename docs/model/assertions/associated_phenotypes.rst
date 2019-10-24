@@ -1,6 +1,6 @@
 Associated Phenotypes
 =====================
-Associated Phenotypes for an Assertion are phenotypes that have been observed and documented in patients documented to have the specific variant for which the Assertion has been created. The Associated Phenotypes field is hand curated and terms are drawn from the Human Phenotype Ontology (HPO)
+Associated Phenotypes for an Assertion are phenotypes that have been observed and recorded in patients documented to have the specific variant for which the Assertion has been created. The Associated Phenotypes field is hand curated and terms are drawn from the Human Phenotype Ontology (HPO).
 
 Curating Associated Phenotypes
 ------------------------------
