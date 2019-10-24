@@ -2,13 +2,11 @@
 
 Direction
 =========
-
-Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac felis vel velit tristique imperdiet.
-
+Evidence Direction indicates if the Evidence Statement supports or refutes the clinical significance of an event. 
 
 Understanding Evidence Direction
 --------------------------------
-Donec at pede.  Etiam vel neque nec dui dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet tortor.  Nam euismod tellus id erat.
+The available options include: “Supports” or “Does not support”. Nuanced examples for how to correctly use the Evidence Direction for Predictive Evidence Types are shown in the :ref:`section on curating Evidence Items <curating-evidence>`. Note that Predisposing Evidence does not have an Evidence Direction or Clinical Significance. This is also discussed in the section on curating Evidence Items in the link.
 
 Curating Evidence Direction
 --------------------------------
