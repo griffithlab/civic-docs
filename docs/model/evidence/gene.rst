@@ -2,14 +2,8 @@
 
 Gene
 ====
-
-Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.
-
-Understanding Genes
--------------------
-Phasellus lacus.  Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent augue.  Fusce commodo.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Nullam libero mauris, consequat quis, varius et, dictum id, arcu.  Mauris mollis tincidunt felis.  Aliquam feugiat tellus ut neque.  Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
+The Gene Name identifies the gene implicated by the evidence item.
 
 Curating Genes
 --------------
-Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet tortor.  Nam euismod tellus id erat.
-
+A Gene Name is a required field for Evidence Item submission. The CIViC Gene Name utilizes the HGNC official gene symbol as provided by Entrez, where applicable, which are approved by the HUGO Gene Nomenclature Committee (HGNC). The Gene Name field will auto-fill using type-ahead search for genes in the Entrez database or their associated Aliases. Curators must enter a valid Entrez Gene Name (e.g., TP53) and should verify the correct entry against the Entrez Gene ID automatically displayed by the CIViC interface. Alternative Gene Names (Aliases/Synonyms) are imported from Entrez and are searchable throughout the database.
