@@ -1,3 +1,5 @@
+.. _curating-evidence:
+
 Curating Evidence
 =================
 
@@ -24,6 +26,7 @@ It is important to note that once evidence is submitted into CIViC as a new Evid
 
 When an Evidence Item has a pending revision, then it is labeled with a blue exclamation mark icon (Figure 3). Note that revisions can be made to EIDs in both the Submitted/Unreviewed Status (orange) and the Accepted/Fully Reviewed Status (green).
 
+.. _curating-evidence-general:
 General Evidence Item Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Evidence Items should generally be prepared from primary literature rather than from review articles. It is recommended that curators use reviews to identify primary literature referenced in the review and to curate individual Evidence Items based on these cited articles. Review articles can also be used to develop Gene and Variant summaries.

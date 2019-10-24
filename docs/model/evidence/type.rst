@@ -2,16 +2,15 @@
 
 Type
 ====
-Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet tortor.  Nam euismod tellus id erat.
+The Evidence Type refers to the type of clinical (or biological) association described by the Evidence Item’s clinical summary.
 
 Understanding Evidence Types
 ----------------------------
-Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet tortor.  Nam euismod tellus id erat.
+Five Evidence Types are currently supported: Predictive (i.e. Therapeutic), Diagnostic, Prognostic, Predisposing, and Functional. Each Evidence Type describes the clinical or biological effect a variant has on the following: therapeutic response (Predictive), determining a patient’s diagnosis or disease subtype (Diagnostic), predicting disease progression or patient survival (Prognostic), disease susceptibility (Predisposing), or biological alterations relevant to a cancer phenotype (Functional). Selecting an Evidence Type has implications on available selections for Clinical Significance.
 
 Curating Evidence Types
 -----------------------
-When curating evidence statements from published sources, to discern whether a variant has a "clinical interpretation", we use the knowledge model below. Evidence statements describe how a variant was demonstrated to (1) be predictive of drug response, (2) be correlated with prognostic outcome, (3) be of diagnostic utility in determining cancer subtype (aka molecular classification), or (4) predispose a person to a type of cancer. If an evidence item can not be placed in one of these four categories (Predictive, Prognostic, Diagnostic, Predisposing), it likely lies outside of the scope of CIViC. However, published statements about a gene or variant that cannot be placed within these categories can still be added to the gene and variant summaries.
-
+Five Evidence Types are currently supported: Predictive (i.e. Therapeutic), Diagnostic, Prognostic, Predisposing, and Functional. Each Evidence Type describes the clinical or biological effect a variant has on the following: therapeutic response (Predictive), determining a patient’s diagnosis or disease subtype (Diagnostic), predicting disease progression or patient survival (Prognostic), disease susceptibility (Predisposing), or biological alterations relevant to a cancer phenotype (Functional). Selecting an Evidence Type has implications on available selections for Clinical Significance, which are detailed on the :ref:`Evidence clinical significance page <evidence-clinical-significance>`.
 
 .. list-table::
    :widths: 10 5 85
@@ -34,6 +33,6 @@ When curating evidence statements from published sources, to discern whether a v
      - Evidence pertains to a variant's role in conferring susceptibility to a disease
    * - Functional
      - |cog|
-     - Fusce commodo pellentesque dapibus suscipit ligula fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  
+     - Evidence pertains to a variant's causing alteration or non-alteration of the gene product function
 
-
+Extensive documentation for curating Evidence types is provided on the :ref:`Curating Evidence page <curating-evidence-genearl>`. Be sure to closly study the examples for each type.
