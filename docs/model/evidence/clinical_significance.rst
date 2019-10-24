@@ -2,15 +2,11 @@
 
 Clinical Significance
 =====================
+Clinical Significance describes how the variant is related to a specific, clinically-relevant property as described in the Evidence Statement.
 
 Understanding Clinical Significance
 -----------------------------------
-Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Phasellus lacus.  Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent augue.  Fusce commodo.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Nullam libero mauris, consequat quis, varius et, dictum id, arcu.  Mauris mollis tincidunt felis.  Aliquam feugiat tellus ut neque.  Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
-
-
-Curating Clinical Significance
-------------------------------
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
+The available options for clinical significance depend on the evidence type selected for the evidence statement. If a predictive evidence type is selected, clinical significance can include: sensitivity/response, resistance, adverse response, reduced sensitivity, or N/A. Each of these refers to the association between the variant and clinical or preclinical response of the therapeutic(s). If a diagnostic evidence type is selected, the clinical significance can be either positive or negative. A positive diagnostic evidence item implies that the variant is associated with diagnosis of disease or disease subtype whereas a negative diagnostic evidence item implies lack of association. If a prognostic evidence type is selected, the clinical significance options include: better outcome, poor outcome, or N/A. The N/A option can be used to imply that the variant does not have an impact on patient prognosis. If a predisposing evidence type is selected, the clinical significance options include pathogenic, likely pathogenic, benign, likely benign, and uncertain significance. Selection of the clinical significance for predisposing evidence types should align with the 5-tiered pathogenicity scale outlined by ACMG guidelines.(`Richards et al. 2015 <https://paperpile.com/c/zlKHBT/UIrv>`__) Finally, a functional evidence type should be associated with one of the following clinical significances: gain of function, loss of function, unaltered function, neomorphic, or unknown. These options allow curators to indicate how the variant impacts the biological function described in the evidence statement.
 
 .. rubric:: Clinical Significance for Predictive Evidence
 .. list-table::

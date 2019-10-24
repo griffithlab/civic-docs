@@ -2,14 +2,21 @@
 
 Origin
 ======
+Presumed source of the variant in the context of this study.
 
 Understanding Variant Origin
 ----------------------------
-Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Phasellus lacus.  Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent augue.  Fusce commodo.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Nullam libero mauris, consequat quis, varius et, dictum id, arcu.  Mauris mollis tincidunt felis.  Aliquam feugiat tellus ut neque.  Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
+The origin of a variant is important for interpreting the results in context. Studies may provide specific information about the origin of the variant (somatic with tumor/normal paired data) while others may be more ambiguous (tumor-only sequencing with a variant that may be somatic or germline, e.g., BRCA1 mutation from a breast cancer sample). This allows for quick filtering of evidence and provides context for the study compared to other studies that involve that variant.
 
 Curating Variant Origin
 -----------------------
-The Variant Origin identifies whether the variant is presumed as an inherited (germline mutation) or acquired (somatic mutation) event in the context of the study. We generally consider somatic events to be the first priority, as this is an area that has not been as well addressed by existing resources. However, germline mutations with established clinical relevance are acceptable. Germline polymorphisms (>1% allele frequency in the population) are considered low priority, again unless there is an established clinical significance. Polymorphisms described in association studies should be curated with great caution and may face additional scrutiny from CIViC moderators. For some variant types, the variant origin field may be unknown or N/A. For example, EXPRESSION variants are neither germline nor somatic. Fusion variants are an unusual case in that they are often observed in the transcriptome but are usually accompanied by an underlying somatic (or germline) mutation. Most fusions should be entered as somatic. If in doubt, please note the issue at the time of your submission to encourage discussion during the moderation stage.
+The Variant Origin identifies whether the variant is presumed as an inherited (germline mutation) or acquired (somatic mutation) event in the context of the study. We generally consider somatic events to be the first priority, as this is an area that has not been as well addressed by existing resources. However, germline mutations with established clinical relevance are acceptable. Germline polymorphisms (>1% allele frequency in the population) are considered low priority, again unless there is an established clinical significance. We encourage the use of large population resources such as gnomAD (gnomad.broadinstitute.org) for population frequency estimations rather than relying on the frequency reported by the original study. Polymorphisms described in association studies should be curated with great caution and may face additional scrutiny from CIViC moderators. For some variant types, the variant origin field may be unknown or N/A. For example, EXPRESSION variants are neither germline nor somatic and should be marked as N/A. Fusion variants are an unusual case in that they are often observed in the transcriptome but are usually accompanied by an underlying somatic (or germline) mutation. Most fusions should be entered as somatic. If in doubt, please note the issue at the time of your submission to encourage discussion during the moderation stage.
+
+Expression variants should be marked as N/A.
+
+Fusions are often observed in the transcriptome but are usually accompanied by an underlying somatic (or germline) mutation.
+
+Population frequencies should be based on current population databases (e.g., gnomAD, gnomad.broadinstitute.org) rather than the original report.
 
 .. list-table::
    :widths: 25 5 70
