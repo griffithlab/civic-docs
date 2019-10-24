@@ -1,4 +1,4 @@
-.. _evidence-clinical_significance:
+.. _evidence-clinical-significance:
 
 Clinical Significance
 =====================

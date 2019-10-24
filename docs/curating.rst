@@ -1,8 +1,7 @@
 Curating CIViC
 ==============
 
-Introduction to CIViC Curation
-------------------------------
+.. rubric:: Introduction to CIViC Curation
 
 With the recent advent of rapid and affordable tumor genome sequencing, interpreting the clinical significance of cancer variants from the wealth of existing and rapidly evolving medical literature has become a major bottleneck to realizing the potential of precision cancer medicine.
 
@@ -16,15 +15,13 @@ CIViC curation involves documenting the published evidence for the clinical rele
 
 However, even small contributions can make a big impact on how up-to-date and comprehensive the CIViC resource is. Examples of small curation activities include: commenting on existing entries, identifying additional literature sources, improving the wording of a variant interpretation, adding variant IDs or aliases, etc.
 
-Curation Prerequisites
-----------------------
+.. rubric:: Curation Prerequisites
 
 - Create an account. Creating an account requires only that you have login credentials for one of our supported Open Authorization (OAuth) providers (currently Google, ORCiD, or GitHub).
 
 For a primer on the fundamentals of cancer variant interpretation, we suggest that new users start by reading the CIViC paper, several recently published Standards and Guidelines that CIViC adheres to wherever possible, and other recommended reading as described below.
 
-Required reading for curators
------------------------------
+.. rubric:: Required reading for curators
 
 - `CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer. <http://www.nature.com/ng/journal/v49/n2/full/ng.3774.html>`_
 - `CIVIC curation standard operating procedure. <https://www.biorxiv.org/content/10.1101/700179v1>`_
@@ -32,16 +29,14 @@ Required reading for curators
 - `ClinGen - Somatic cancer variant curation and harmonization through consensus minimum variant level data (MVLD). <https://www.ncbi.nlm.nih.gov/pubmed/27814769>`_
 - `AMP/ASCO/CAP - Standards and guidelines for the interpretation and reporting of sequence variants in cancer. <https://www.ncbi.nlm.nih.gov/pubmed/27993330>`_
 
-Other recommended reading
--------------------------
+.. rubric:: Other recommended reading
 
 - `Standardized decision support in next generation sequencing reports of somatic cancer variants <https://www.ncbi.nlm.nih.gov/pubmed/24768039>`_
 - `Adapting crowdsourced clinical cancer curation in CIViC to the ClinGen minimum variant level data community‐driven standards <https://www.ncbi.nlm.nih.gov/pubmed/30311370>`_
 - `Evaluating the Clinical Validity of Gene-Disease Associations: An Evidence-Based Framework Developed by the Clinical Genome Resource <https://www.ncbi.nlm.nih.gov/pubmed/28552198>`_
 - `Organizing knowledge to enable personalization of medicine in cancer <https://www.ncbi.nlm.nih.gov/pubmed/25222080>`_
 
-More information
-----------------
+.. rubric:: More information
 
 For further information on curation with the CIViC platform we provide :doc:`General Curation Practices <curating/general>`, and documentation for :doc:`Curating Variants <curating/variants>`,  :doc:`Curating Genes <curating/genes>`,  :doc:`Curating Evidence <curating/evidence>`,  :doc:`Curating Assertions <curating/assertions>`, and :doc:`Suggesting Sources <curating/source_suggestions>`.
 For examples and ideas on how to get started, visit our :doc:`Curation Ideas <curating/ideas>` and  :doc:`Monitoring Curation Activity<curating/monitoring>` pages. Finally, if you are interested in  :doc:`Becoming An Editor <curating/editor>` we provide details on the criteria for promotion.
