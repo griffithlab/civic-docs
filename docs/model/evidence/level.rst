@@ -38,7 +38,7 @@ The evidence level describes the robustness of the study supporting the evidence
      - :blue:`Clinical evidence`
      - Clinical trial or other primary patient data
        supports association.
-     - **BRAF* V600E is correlated with poor
+     - *BRAF V600E is correlated with poor
        prognosis in papillary thyroid cancer in a study of 187 patients
        with PTC and other thyroid diseases.* The evidence should be
        supported by observations in multiple patients. Additional support
