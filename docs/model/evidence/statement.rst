@@ -2,24 +2,23 @@
 
 Statement
 =========
-
-Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet tortor.  Nam euismod tellus id erat.
+The Evidence Statement is a brief summary of the clinical implications of the Variant in the context of a specific Disease, Evidence Type and Clinical Significance as described in the cited literature source.
 
 Understanding Evidence Statements
 ---------------------------------
-Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  Nunc porta vulputate tellus.  Nunc rutrum turpis sed pede.  Sed bibendum.  Aliquam posuere.  Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.  Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna.  Curabitur vulputate vestibulum lorem.  Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.  Sed id ligula quis est convallis tempor.  Curabitur lacinia pulvinar nibh.  Nam a sapien.
+The evidence statement field is a description of evidence from published medical literature detailing the association of or lack of association of a variant with diagnostic, prognostic or predictive value in relation to a specific disease (and treatment for predictive evidence) The format used for an evidence statement can vary based on curator preference, but it is recommended that this statement contain the following: a reiteration of the evidence type, variant, gene, and disease, any comparison made or therapeutics used (e.g., arms of clinical trial), the number of individuals (or cell lines) in the trial, the conclusion from the trial, and statistical comparisons that support the conclusion (e.g., p-values, R2, confidence intervals, etc.). Detailed examples of specific types of evidence statements can be found below. Of note, data constituting protected health information (PHI) should not be entered in the evidence statement field.
 
 Curating Evidence Statements
 ----------------------------
+Evidence Statements should be:
 
-- Evidence Statements should be:
+- derived from primary literature sources (not review articles) whenever possible.
+- as concise as possible while providing sufficient experimental detail to interpret and evaluate the evidence (N values, statistics, etc).
+- a single Predictive, Predisposing, Diagnostic or Prognostic assertion, not a combination.
+- aimed at a general audience, avoiding field-specific acronyms and colloquialisms.
+Multiple, separate Evidence Items can be and often are derived from a single publication.
 
-  - derived from primary literature sources (not review articles) whenever possible.
-  - as concise as possible while providing sufficient experiemental detail to interpret and evaluate the evidence (N values, statistics, etc).
-  - a single Predictive, Predisposing, Diagnostic or Prognostic assertion, not a combination.
-  - aimed at a general audience, avoiding field-specific acronyms and colloquialisms.
+Generally, Statements involving drugs should be classified as being of the Predictive Evidence Type.
 
-- Multiple, separate Evidence Items can be and often are derived from a single publication.
-- Generally, assertions involving drugs should be classified as being of the Predictive Evidence Type.
-- Star Ratings should be based on the strength of the specific assertion. Multiple assertions from the same publication can have different star ratings.
+
 

@@ -1,6 +1,7 @@
+.. _curating-evidence:
+
 Curating Evidence
 =================
-
 Evidence Items (EIDs) form the fundamental unit of the CIViC knowledgebase. EIDs derive structured clinical statements from peer reviewed publications and ASCO abstracts, which act as evidence sources for Evidence Items. The Evidence Item (EID) links back to its source. EIDs are hand-curated units of knowledge, and one evidence source may supply enough data to create multiple EIDs. EIDs are displayed throughout the CIViC application, for example as a summary (Figure 1) and as a data table row (Figure 3).
 
 .. figure:: /images/figures/evidence-summary_EID6568.png
@@ -24,6 +25,7 @@ It is important to note that once evidence is submitted into CIViC as a new Evid
 
 When an Evidence Item has a pending revision, then it is labeled with a blue exclamation mark icon (Figure 3). Note that revisions can be made to EIDs in both the Submitted/Unreviewed Status (orange) and the Accepted/Fully Reviewed Status (green).
 
+.. _curating-evidence-general:
 General Evidence Item Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Evidence Items should generally be prepared from primary literature rather than from review articles. It is recommended that curators use reviews to identify primary literature referenced in the review and to curate individual Evidence Items based on these cited articles. Review articles can also be used to develop Gene and Variant summaries.

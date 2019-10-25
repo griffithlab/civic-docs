@@ -2,18 +2,22 @@
 
 Source
 ======
-
-Pellentesque dapibus suscipit ligula.  Donec posuere augue in quam.  Etiam vel tortor sodales tellus ultricies commodo.  Suspendisse potenti.  Aenean in sem ac leo mollis blandit.  Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi.  Phasellus lacus.
+An evidence item summarizes one specific source publication.
 
 Understanding Source
 --------------------
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
-
+Each Evidence Item must be associated with a Source Type and Source ID, which link the Evidence Item to the original publication supporting clinical claims. Currently, CIViC accepts publications indexed on PubMed or abstracts published through the American Society of Clinical Oncology (ASCO). If a PubMed Source Type is selected, the curator can then enter the PubMed ID, which can be verified by comparing the desired source to the abbreviated citation that is automatically generated below the PubMed ID field. If an ASCO Source Type is selected, the ASCO Web ID should be entered into the source ID field. Additionally, ClinicalTrials Registry Number(s) are automatically linked via the PubMed database, when available.
 
 Curating Source
 ---------------
-Etiam laoreet quam sed arcu.  Phasellus at dui in ligula mollis ultricies.  Integer placerat tristique nisl.  Praesent augue.  Fusce commodo.  Vestibulum convallis, lorem a tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae lacus.  Nullam libero mauris, consequat quis, varius et, dictum id, arcu.  Mauris mollis tincidunt felis.  Aliquam feugiat tellus ut neque.  Nulla facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et dictum nunc justo sit amet elit.
+All curated CIViC Evidence, Assertions, Variant Summaries, and Gene Summaries are based on cited sources from the biomedical literature, currently limited to those publications indexed in PubMed or the ASCO Meeting Library. As soon as any publication is cited in CIViC it appears as a separate Source Record and can be browsed or searched within the CIViC knowledgebase. Each Source Record includes details about the publication as well as a table linking to all CIViC evidence curated for that source.
 
-Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  Nunc porta vulputate tellus.  Nunc rutrum turpis sed pede.  Sed bibendum.  Aliquam posuere.  Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.  Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna.  Curabitur vulputate vestibulum lorem.  Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.  Sed id ligula quis est convallis tempor.  Curabitur lacinia pulvinar nibh.  Nam a sapien.
+Comments can be added to any Source Record at any time (see Figure 1). Source comments are a useful place to document general or specific notes to aid current and future curation. For example, if a source has an overlapping patient population with another study already curated within CIViC, this can be documented. In other cases, the reference sequence used for determining the CIViC Variant’s coordinates might be recorded.
 
+Source comments are a useful place to note study overlap with other literature, for instance if a family reported in a study has been reported in other publications.
+
+.. figure:: /images/figures/source-summary_Chen-et-al.png
+   :alt: Screenshot of source summary
+
+   Figure 1: Screenshot of source summary
  
