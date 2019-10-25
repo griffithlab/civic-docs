@@ -83,7 +83,7 @@ Typically, Evidence Items received a 2-star rating if the experiments lack prope
 
 Curating One-Star Evidence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-The example Evidence Item below describes a B-level clinical study that evaluated 6 patients with *ERBB2* - Amplification for response to capecitabine, oxaliplatin, and chemoradiotherapy, with or without cetuximab. There was no difference in outcome between the 6 patients with the variant when compared to the 135 patients with no visible *ERBB2* - Amplification on *FISH* / *IHC*. The Evidence Item a heterogenous combination of variant detection methods, a low number of patients in the experimental arm (n=6) and overall low statistical power. Therefore, despite being a B-level Evidence Item, the curator assigned the EID a 1-star Evidence Rating.
+The example `Evidence Item below <https://cividb.org/links/evidence/895>`__ describes a B-level clinical study that evaluated 6 patients with *ERBB2* - Amplification for response to capecitabine, oxaliplatin, and chemoradiotherapy, with or without cetuximab. There was no difference in outcome between the 6 patients with the variant when compared to the 135 patients with no visible *ERBB2* - Amplification on *FISH* / *IHC*. The Evidence Item a heterogenous combination of variant detection methods, a low number of patients in the experimental arm (n=6) and overall low statistical power. Therefore, despite being a B-level Evidence Item, the curator assigned the EID a 1-star Evidence Rating.
 
 .. figure:: /images/figures/evidence-summary_EID895.png
    :alt: Screenshot of EID895's summary, a five-star Evidence Item
