@@ -4,11 +4,13 @@ Multiple valid HGVS strings following HGVS nomenclature (see `HGVS guidelines <h
 
 Understanding HGVS Expressions
 ------------------------------
-Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  Nunc porta vulputate tellus.  Nunc rutrum turpis sed pede.  Sed bibendum.  Aliquam posuere.  Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.
+The CIViC Variant knowledge model supports The Human Genome Variation Society (HGVS) Expression to describe sequence variation in genomic, RNA, coding DNA, and protein coordinates. HGVS expressions must be entered individually in the Variant editing interface and may capture HGVS entries not described by the representative coordinates. Manual entry is required (e.g., not automatically linked based on representative coordinates) to permit entries for complex or categorical variants and to support alternate transcripts and reference build versions.
 
 Curating HGVS Expressions
 -------------------------
-Nunc porta vulputate tellus.  Nunc rutrum turpis sed pede.  Sed bibendum.  Aliquam posuere.  Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.  Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna.  Curabitur vulputate vestibulum lorem.  Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.  Sed id ligula quis est convallis tempor.  Curabitur lacinia pulvinar nibh.  Nam a sapien.
+HGVS expressions should follow the published HGVS guidelines
+
+HGVS expressions should utilize NCBI and Ensembl transcripts separated by a colon, and followed by the c-dot, p-dot, or g-dot notation style (e.g. ENST00000275493.2:c.2369C>T, NM_005228.4:c.2369C>T, NP_005219.2:p.Thr790Met) 
 
 
 
