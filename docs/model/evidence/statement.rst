@@ -10,13 +10,15 @@ The evidence statement field is a description of evidence from published medical
 
 Curating Evidence Statements
 ----------------------------
-- Evidence Statements should be:
-  - derived from primary literature sources (not review articles) whenever possible.
-  - as concise as possible while providing sufficient experimental detail to interpret and evaluate the evidence (N values, statistics, etc).
-  - a single Predictive, Predisposing, Diagnostic or Prognostic assertion, not a combination.
-  - aimed at a general audience, avoiding field-specific acronyms and colloquialisms.
-- Multiple, separate Evidence Items can be and often are derived from a single publication.
-- Generally, Statements involving drugs should be classified as being of the Predictive Evidence Type.
-- Evidence Ratings should be based on the strength of the specific evidence supporting the annotation of Clinical Significance (i.e. Predictive Supports Sensitivity to Erlotinib or Prognostic Supports Better Outcome). Multiple Evidence Items from the same publication can have different star ratings.
+Evidence Statements should be:
+
+- derived from primary literature sources (not review articles) whenever possible.
+- as concise as possible while providing sufficient experimental detail to interpret and evaluate the evidence (N values, statistics, etc).
+- a single Predictive, Predisposing, Diagnostic or Prognostic assertion, not a combination.
+- aimed at a general audience, avoiding field-specific acronyms and colloquialisms.
+Multiple, separate Evidence Items can be and often are derived from a single publication.
+
+Generally, Statements involving drugs should be classified as being of the Predictive Evidence Type.
+
 
 

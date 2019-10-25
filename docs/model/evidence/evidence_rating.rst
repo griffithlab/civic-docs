@@ -49,7 +49,7 @@ The example `Evidence Item below <https://cividb.org/links/evidence/1199>`__ des
 .. figure:: /images/figures/evidence-summary_EID5981.png
    :alt: Screenshot of EID5981's summary, a five-star Evidence Item
 
-   Figure 1: Screenshot of EID5981's summary, a five-star Evidence Item
+   Figure 2: Screenshot of EID5981's summary, a five-star Evidence Item
 
 Evidence items with a 4-star rating should be strong, have well-supported evidence, well-controlled experiments, and convincing results. Any discrepancies from expected results are well-explained and not concerning.
 
@@ -62,7 +62,7 @@ The example `Evidence Item below <https://cividb.org/links/evidence/5982>`__ des
 .. figure:: /images/figures/evidence-summary_EID5982.png
    :alt: Screenshot of EID5982's summary, a five-star Evidence Item
 
-   Figure 1: Screenshot of EID5982's summary, a five-star Evidence Item
+   Figure 3: Screenshot of EID5982's summary, a five-star Evidence Item
 
 Evidence Items with a 3-star rating are convincing but not supported by a breadth of experiments. These Evidence Items be smaller scale projects, or novel results without many follow-up experiments. 
 
@@ -75,7 +75,7 @@ The example `Evidence Item below <https://cividb.org/links/evidence/5982>`__ des
 .. figure:: /images/figures/evidence-summary_EID887.png
    :alt: Screenshot of EID887's summary, a five-star Evidence Item
 
-   Figure 1: Screenshot of EID887's summary, a five-star Evidence Item
+   Figure 4: Screenshot of EID887's summary, a five-star Evidence Item
 
 Evidence items with a 2-star rating are not well supported by experimental data, and little follow-up data is available. 
 
@@ -88,7 +88,7 @@ The example `Evidence Item below <https://cividb.org/links/evidence/895>`__ desc
 .. figure:: /images/figures/evidence-summary_EID895.png
    :alt: Screenshot of EID895's summary, a five-star Evidence Item
 
-   Figure 1: Screenshot of EID895's summary, a five-star Evidence Item
+   Figure 5: Screenshot of EID895's summary, a five-star Evidence Item
 
 Evidence items with a 1-star rating contain claims that are not well-supported by experimental evidence. Typically, the results are not reproducible and/or have very small sample size. No follow-up is done to validate novel claims.
 

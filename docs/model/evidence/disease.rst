@@ -2,7 +2,7 @@
 
 Disease
 =======
-The disease field requires input that is known to the Disease Ontology database.(`Kibbe et al. 2015 <https://paperpile.com/c/zlKHBT/JgUP>`__) Disease Ontology (DO) database provides open-sourced ontology for the integration of biomedical data that is associated with human disease. Within the CIViC database, the disease should be the cancer or cancer subtype that is a result of the described variant. The disease selected should be as specific as possible should reflect the disease type used in the source that supports the evidence statement.
+The disease field requires input that is known to the Disease Ontology database. (`Kibbe et al. 2015 <https://paperpile.com/c/zlKHBT/JgUP>`__) Disease Ontology (DO) database provides open-sourced ontology for the integration of biomedical data that is associated with human disease. Within the CIViC database, the disease should be the cancer or cancer subtype that is a result of the described variant. The disease selected should be as specific as possible should reflect the disease type used in the source that supports the evidence statement.
 
 Curating Diseases
 -----------------

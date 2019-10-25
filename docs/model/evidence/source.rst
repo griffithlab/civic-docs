@@ -16,4 +16,8 @@ Comments can be added to any Source Record at any time (see Figure 1). Source co
 
 Source comments are a useful place to note study overlap with other literature, for instance if a family reported in a study has been reported in other publications.
 
+.. figure:: /images/figures/source-summary_Chen-et-al.png
+   :alt: Screenshot of source summary
+
+   Figure 1: Screenshot of source summary
  
