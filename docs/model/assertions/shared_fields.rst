@@ -1,3 +1,5 @@
+.. _assertions-shared-fields:
+
 Fields Shared with Evidence
 ===========================
 

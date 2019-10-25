@@ -76,11 +76,13 @@ Comment Macros
 Using macros, you may easily insert links to CIViC entities, mention and notify users.
 
 .. rubric:: @username mention macro
+
 '@' followed by a user's display name will be displayed as a link to the user's profile page, and generate a notification to the mentioned user. This is useful for calling a user's attention to a particular comment.
 
 Type '@', and the first couple letters of a user's name, and CIViC will show you a dropdown menu of users with matching display names. Hit enter to insert an user mention link, which will display in the rendered comment as a link to the user's profile page, and generate a notification to the mentioned user.
 
 .. rubric:: @admins and @editors mention macros
+
 Adding '@admin' or '@editor' to your message will generate a mention notification for all users with the admin or editor role, respectively:
 
 .. code-block:: none
@@ -88,6 +90,7 @@ Adding '@admin' or '@editor' to your message will generate a mention notificatio
   Hey @admins, could I please get someone to approve this new evidence item?
 
 .. rubric:: #ENTITY link macro
+
 '#' followed by an entity type abbreviation, and an entity ID will be displayed as a link to that entity's summary view:
 
 .. code-block:: none
@@ -112,4 +115,5 @@ Use the following syntax for the target entity:
      - Revision link
 
 .. rubric:: hash (#) entity link suggestions macro
+
 CIViC can inline substring searching for entity link macros. Enter an entity type as above, plus a colon, e.g. ``#V:``. Then begin typing the name of the entity, or a substring. CIViC will display a dropdown of entities that contain matching text in their names. Select an entity, and the correct macro link with the ID will be entered into the comment.

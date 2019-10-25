@@ -16,6 +16,7 @@ Evidence Statements should be:
 - as concise as possible while providing sufficient experimental detail to interpret and evaluate the evidence (N values, statistics, etc).
 - a single Predictive, Predisposing, Diagnostic or Prognostic assertion, not a combination.
 - aimed at a general audience, avoiding field-specific acronyms and colloquialisms.
+
 Multiple, separate Evidence Items can be and often are derived from a single publication.
 
 Generally, Statements involving drugs should be classified as being of the Predictive Evidence Type.

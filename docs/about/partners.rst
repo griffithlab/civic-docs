@@ -20,7 +20,7 @@ Personalized Oncogenomics at BC Cancer Agency
 The BC Cancer Agency's `Personalized Onco-Genomics (POG) <https://www.personalizedoncogenomics.org/>`_ program is a clinical research initiative that is embedding genomic sequencing into real-time treatment planning for BC patients with incurable cancers. Cancer is a complex biological process. We categorize cancers according to their site of origin (e.g. lung, breast, liver, colon) as each one is different, but even within these groupings there are subtypes with differences in response to treatment and overall behaviour. The POG program is a collaborative research study including many BCCA oncologists, pathologists and other clinicians along with the Genome Sciences Centre (GSC), which aims to decode the genome – the entire DNA and RNA inside the cell – of each patient's cancer, to understand what is enabling it to grow. Using this genomic data in clinical decision-making should allow us to develop treatment strategies to block its growth, identify clinical trials that the patient may benefit from and potentially identify less toxic and more effective therapeutic options. The POG program, under the leadership of Dr Steven Jones and Dr Janessa Laskin, have partnered with CIViC to study the impact of including CIViC interpretations in our clinical decision making. 
 
 Variant Interpretation for Cancer Consortium
----------------------------------------------
+--------------------------------------------
 .. sidebar:: \
 
    .. image:: /images/VICC_no_text_mint.png
@@ -28,7 +28,7 @@ Variant Interpretation for Cancer Consortium
 The field of precision medicine aspires to a future in which a cancer patient’s molecular information can be used to inform diagnosis, prognosis and treatment options most likely to benefit that individual patient. Many groups have created knowledgebases to annotate cancer genomic mutations associated with evidence of pathogenicity or relevant treatment options. However, clinicians and researchers are unable to fully utilize the accumulated knowledge derived from such efforts. Integration of the available knowledge is currently infeasible because each group (often redundantly) curates their own knowledgebase without adherence to any interoperability standards. Therefore, there is a clear need to standardize and coordinate clinical-genomics curation efforts, and create a public community resource able to query the aggregated information. The `Variant Interpretation for Cancer Consortium (VICC) <https://cancervariants.org/>`_ was founded to bring together the leading institutions that are independently developing comprehensive cancer variant interpretation databases. CIViC is a founding member of the VICC.
 
 Alissa Clinical Informatics Platform at Agilent Technologies
---------------------------------------------
+------------------------------------------------------------
 .. sidebar:: \ 
 
    .. image:: http://civicdb.org/assets/images/partners/agilent.png

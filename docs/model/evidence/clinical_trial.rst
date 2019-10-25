@@ -1,4 +1,4 @@
-.. _evidence-clinical_trial:
+.. _evidence-clinical-trial:
 
 Clinical Trial
 ==============

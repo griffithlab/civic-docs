@@ -73,9 +73,8 @@ Curating Levels
 ---------------
 Each evidence statement is the result of an experiment, trial or study in published literature. It is important to capture the nature of these experiments in the evidence entry. Evidence levels allow for the subject of an evidence item to be presented in a simple, standardized fashion. The evidence level is also an indication of how close each assertion is to actual application in the clinic. Please, note that while evidence statements of all levels are acceptable in CIViC, by far the highest priority are levels A and B, followed by C, D, E. Our top priority is to document the evidence for application of variant interpretations to real patients in the clinic today. The more time and development needed to determine the relevance of a variant to real patients in the clinic, the lower the priority for curation. Reviewing and approving evidence items requires a serious time committment by the community. Please keep this in mind and try to direct your efforts to the most immediately clinically relevant evidence first.
 
-
 .. rubric:: A-Level Evidence Example
-Below is an example of an `A-level (validated) Evidence Item <https://civicdb.org/links/evidence/1409>`__  for the *BRAF* - V600E variant. In this example, the Evidence Item is describing the Phase 3 randomized clinical trial that was submitted to the FDA for therapeutic approval of Vemurafenib with Dacarbazine for treatment of untreated, metastatic melanoma.
+Below is an example of an `A-level (validated) Evidence Item <https://civicdb.org/links/evidence/1409>`__ for the *BRAF* - V600E variant. In this example, the Evidence Item is describing the Phase 3 randomized clinical trial that was submitted to the FDA for therapeutic approval of Vemurafenib with Dacarbazine for treatment of untreated, metastatic melanoma.
 
 .. figure:: /images/figures/evidence-summary_EID1409.png
    :alt: Screenshot of an A-level (validated) evidence item summary

@@ -61,7 +61,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
        'Evidence Type' tab for more information.
      - Supports - the evidence supports the clinical significance.
      - CIViC
-   * - :ref:`evidence-clinical_significance`
+   * - :ref:`evidence-clinical-significance`
      - The association with diagnostic/prognostic end
        point or treatment. See 'Evidence Type' tab for more information.
      - Resistant or Non-response - mutation is associated with resistance
@@ -110,7 +110,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
        described/explored with direct link to PubMed.
      - 24185512
      - CIViC (PubMed)
-   * - :ref:`evidence-clinical_trial`
+   * - :ref:`evidence-clinical-trial`
      - Lorem Ipsum
      - Lorem Ispum
      - Lorem Ipsum
