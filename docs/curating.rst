@@ -17,7 +17,7 @@ However, even small contributions can make a big impact on how up-to-date and co
 
 .. rubric:: Curation Prerequisites
 
-- Create an account. Creating an account requires only that you have login credentials for one of our supported Open Authorization (OAuth) providers (currently Google, ORCiD, or GitHub).
+Create an account. Creating an account requires only that you have login credentials for one of our supported Open Authorization (OAuth) providers (currently Google, ORCiD, or GitHub).
 
 For a primer on the fundamentals of cancer variant interpretation, we suggest that new users start by reading the CIViC paper, several recently published Standards and Guidelines that CIViC adheres to wherever possible, and other recommended reading as described below.
 
