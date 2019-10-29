@@ -15,6 +15,7 @@ associated with the Variant.
    variants/name
    variants/aliases
    variants/summary
+   variants/my_variant_info
    variants/types
    variants/coordinates
    variants/hgvs_expressions

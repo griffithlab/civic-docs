@@ -1,9 +1,11 @@
 Evidence Score
 ==============
-The CIViC Evidence Score allows curators to assess the accumulation of evidence for each variant. The CIViC Evidence Score is not curated, but is calculated by adding all Evidence Item Scores for each variant. The Evidence Item Score is calculated by multiplying the evidence level (A=10 points, B=5 points, C=3 points, D=1 point, E=0.25 points) by the evidence rating (Each Star = 1 point).
+The Variant Evidence Score was developed to calculate the relative abundance of total available curated evidence for each variant. The variant evidence score reflects: 1) the strength of the evidence that was curated and 2) the total amount of curation that has been completed for each variant.
 
-.. rubric:: Example of how to calculate the CIViC Evidence Score
+This field is automatically generated, not curated.
 
-Example of CIViC score determination for each DNA-based variant using the CIViC entry for EID497. Catagorization of the 'Evidence Level' and the 'Evidence Rating' creates a method for scoring each evidence item, which can be summed to create a variant score. Variant scores were used to determine panel eligibility.
+.. rubric:: Understanding Evidence Scores
+
+The Variant Evidence Score sums the Evidence Scores for all Evidence Items associated with the Variant. The Evidence Level score is a 10-point scale that weighs the evidence strength based on category. Broadly, highest points are awarded to large clinical studies and lower points are awarded to case studies, in vitro studies, and inferential evidence. Evidence Item Scores are calculated by multiplying a weighted Trust Rating (i.e., one point for each star) by the values assigned to Evidence Level (i.e., A=10, B=5, C=3, D=1, E=0.5). The Variant Evidence Score is a relative measure of the total amount of curation in the database for a specific variant and does not take into account conflicting evidence.
 
 .. image:: /images/actionability_score_example.png
