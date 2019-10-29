@@ -10,7 +10,6 @@ This section of the documentation details the knowledge model that CIViC uses fo
 
    assertions/overview
    assertions/shared_fields
-   assertions/acmg_codes
    assertions/associated_phenotypes
    assertions/nccn_guideline
    assertions/fda_companion_test
