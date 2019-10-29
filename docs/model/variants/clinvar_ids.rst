@@ -12,3 +12,5 @@ Categorical variants are associated with multiple ClinVar entries, if applicable
    :alt: Screenshot of Variant G12/G13
 
    Figure 1: Screenshot of Variant G12/G13
+
+The CIViC Variant knowledge model supports curated ClinVar IDs for each variant. ClinVar IDs must be entered individually in the Variant editing interface and may capture ClinVar IDs not described by the representative coordinates. Manual entry is required (e.g., not automatically linked based on representative coordinates) to permit entries for complex or categorical variants and to support alternate transcripts and reference build versions.
