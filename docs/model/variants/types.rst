@@ -1,21 +1,23 @@
 Types
 =====
+Variant Type(s) are used to classify variants by Sequence Ontology terms.
 
-Understanding Variant Types
----------------------------
-Nullam eu ante vel est convallis dignissim.  Fusce suscipit, wisi nec facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis odio.  Nunc porta vulputate tellus.  Nunc rutrum turpis sed pede.  Sed bibendum.  Aliquam posuere.  Nunc aliquet, augue nec adipiscing interdum, lacus tellus malesuada massa, quis varius mi purus non odio.  Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue ornare nulla, non luctus diam neque sit amet urna.  Curabitur vulputate vestibulum lorem.  Fusce sagittis, libero non molestie mollis, magna orci ultrices dolor, at vulputate neque nulla lacinia eros.  Sed id ligula quis est convallis tempor.  Curabitur lacinia pulvinar nibh.  Nam a sapien.
+Variant Types permit advanced searching for categories of variants in the CIViC interface and downstream semantic analyses of CIViC variants. Some examples of variant types are listed below.
 
 Curating Variant Types
 ---------------------------
-Variant types are used to classify variants within the structured ontology terms provided by The Sequence Ontology Project. Multiple terms for a variant are allowed to facilitate functional and structural effects of the variant. Ideally, the most specific child terms of a branch are used. These variant types can be used to search for variants within the CIViC database that meet a users' criteria via the advanced search page or through the API.
+The most specific term(s) that can be applied to a given variant should be utilized. Use of the `Sequence Ontology browser <http://www.sequenceontology.org/browser/obob.cgi>`__ is recommended to identify appropriate terms. 
 
-.. rubric:: General Guidelines
+When choosing variant types, selection of multiple terms is supported in order to capture both functional and structural effects of the variant. However, these terms should not be ancestors or descendents of one another, and all selected terms should be descendents of the ‘sequence_variant’ term whenever possible.
 
-1) Choose the most specific terms.
-2) Do not use terms that are ancestors/decendants of each other.
-3) Wherever possible use the 'sequence_variant' tree of the sequence ontology.
+Variant Type Guidelines
+~~~~~~~~~~~~~~~~~~~~~~~
+- Choose the most specific terms.
+- Do not use terms that are ancestors/decendants of each other.
+- Wherever possible use the 'sequence_variant' tree of the sequence ontology.
 
-.. rubric:: Variant Type Guidelines
+Curation Guidelines for Specific Sequence Ontology Types
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :widths: 15 40 30
@@ -185,7 +187,8 @@ Variant types are used to classify variants within the structured ontology terms
      - The Sequence Ontology does not currently describe expression
        or epigenetic variants.
 
-.. rubric:: Variant Type Examples
+Variant Type Examples
+~~~~~~~~~~~~~~~~~~~~~
 
 .. list-table::
    :widths: 20 80
