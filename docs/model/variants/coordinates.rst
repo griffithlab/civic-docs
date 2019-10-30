@@ -56,7 +56,7 @@ Coordinates represent the entire putative fusion transcript including start to e
 Curation Practice for representative transcripts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Genes often have multiple transcript representations. CIViC utilizes Ensembl v75 for transcript annotations. The representative transcript for *WT1* depicted in purple below was chosen because it has the widest outer coordinates with the most common exons compared to the other transcripts depicted in green. This transcript is further highlighted by *** because it is also designated as the “canonical transcript” by Ensembl using select criteria defined in their `glossary of terms <http://useast.ensembl.org/Help/Glossary>`__.
+Genes often have multiple transcript representations. CIViC utilizes Ensembl v75 for transcript annotations. The representative transcript for *WT1* depicted in purple below was chosen because it has the widest outer coordinates with the most common exons compared to the other transcripts depicted in green. This transcript is further highlighted by \*\*\* because it is also designated as the “canonical transcript” by Ensembl using select criteria defined in their `glossary of terms <http://useast.ensembl.org/Help/Glossary>`__.
 
 .. figure:: /images/figures/WT1-transcript.jpg
    :alt: Example representative transcript for *WT1*
