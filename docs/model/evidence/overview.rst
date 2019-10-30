@@ -61,7 +61,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
        'Evidence Type' tab for more information.
      - Supports - the evidence supports the clinical significance.
      - CIViC
-   * - :ref:`evidence-clinical_significance`
+   * - :ref:`evidence-clinical-significance`
      - The association with diagnostic/prognostic end
        point or treatment. See 'Evidence Type' tab for more information.
      - Resistant or Non-response - mutation is associated with resistance
@@ -80,9 +80,9 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - Estrogen-receptor positive breast cancer (DOID: 0060075).
      - CIViC (Disease Ontology)
    * - :ref:`evidence-associated_phenotype`
-     - Lorem Ipsum
-     - Lorem Ispum
-     - Lorem Ipsum
+     - 
+     - 
+     - 
    * - :ref:`evidence-drug`
      - For predictive evidence, indicates the therapy for which
        sensitivity or resistance is indicated (With PubChem ID if
@@ -110,10 +110,10 @@ The rows in the following table describe the minimal components of a CIViC Evide
        described/explored with direct link to PubMed.
      - 24185512
      - CIViC (PubMed)
-   * - :ref:`evidence-clinical_trial`
-     - Lorem Ipsum
-     - Lorem Ispum
-     - Lorem Ipsum
+   * - :ref:`evidence-clinical-trial`
+     - 
+     - 
+     - 
    * - :ref:`evidence-evidence_rating`
      - A rating on a 5-star scale, portraying the curators
        trust in the experiments from which the evidence is curated. Refer

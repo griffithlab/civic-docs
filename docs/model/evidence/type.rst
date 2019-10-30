@@ -35,4 +35,4 @@ Five Evidence Types are currently supported: Predictive (i.e. Therapeutic), Diag
      - |cog|
      - Evidence pertains to a variant's causing alteration or non-alteration of the gene product function
 
-Extensive documentation for curating Evidence types is provided on the :ref:`Curating Evidence page <curating-evidence-genearl>`. Be sure to closly study the examples for each type.
+Extensive documentation for curating Evidence types is provided on the :ref:`Curating Evidence page <curating-evidence-general>`. Be sure to closly study the examples for each type.

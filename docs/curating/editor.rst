@@ -14,27 +14,19 @@ Once new content is generated or edits are made to existing content within the C
 - Proven CIViC curation track record for promotion to editor:
 
   - At least 10 publication queue suggestions (Silver suggester badge)
-  - Submit at least 10 revisions (at least 5 to gene or variant summaries) (Silver
-    reviser badge)
-  - Submit at least 10 new submitted evidence statements (5 must be accepted
-    before promotion) (silver submitter badger)
+  - Submit at least 10 revisions (at least 5 to gene or variant summaries) (Silver reviser badge)
+  - Submit at least 10 new submitted evidence statements (5 must be accepted before promotion) (silver submitter badger)
   - Completed profile (Bronze biographer)
   - Review and understand CIViC help documentation
 
 **Application process:**
 
-- An existing curator is nominated or self-nominated by contacting
-help@civicdb.org.
+- An existing curator is nominated or self-nominated by contacting help@civicdb.org.
 
-  - Please provide candidate's full name, affiliation, CV,
-contact info and CIViC profile id/name.
+  - Please provide candidate's full name, affiliation, CV, contact info and CIViC profile id/name.
 
 **Approval process:**
 
-- At least 2 existing editorial members and one administrator will review
-application materials, profile, and CIViC curation track record, including
-review of submitted evidence, revisions, and publication.
-- Application reviewers will agree to either promote, provisionally reject, or reject the
-application.
-- A provisional rejection may be overcome if the curator
-demonstrates additional contributions in one of the categories above.
+- At least 2 existing editorial members and one administrator will review application materials, profile, and CIViC curation track record, including review of submitted evidence, revisions, and publication.
+- Application reviewers will agree to either promote, provisionally reject, or reject the application.
+- A provisional rejection may be overcome if the curator demonstrates additional contributions in one of the categories above.
