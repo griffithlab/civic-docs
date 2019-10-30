@@ -74,6 +74,7 @@ Curating Levels
 Each evidence statement is the result of an experiment, trial or study in published literature. It is important to capture the nature of these experiments in the evidence entry. Evidence levels allow for the subject of an evidence item to be presented in a simple, standardized fashion. The evidence level is also an indication of how close each assertion is to actual application in the clinic. Please, note that while evidence statements of all levels are acceptable in CIViC, by far the highest priority are levels A and B, followed by C, D, E. Our top priority is to document the evidence for application of variant interpretations to real patients in the clinic today. The more time and development needed to determine the relevance of a variant to real patients in the clinic, the lower the priority for curation. Reviewing and approving evidence items requires a serious time committment by the community. Please keep this in mind and try to direct your efforts to the most immediately clinically relevant evidence first.
 
 .. rubric:: A-Level Evidence Example
+
 Below is an example of an `A-level (validated) Evidence Item <https://civicdb.org/links/evidence/1409>`__ for the *BRAF* - V600E variant. In this example, the Evidence Item is describing the Phase 3 randomized clinical trial that was submitted to the FDA for therapeutic approval of Vemurafenib with Dacarbazine for treatment of untreated, metastatic melanoma.
 
 .. figure:: /images/figures/evidence-summary_EID1409.png
@@ -117,6 +118,7 @@ Evidence Statements should include the gene/variant being evaluated, the study p
 Categorical variants (sometimes called bucket variants colloquially) often appear in B-level Evidence Items describing clinical trials, which pool together patient populations with mutations of a certain class (e.g. “PIK3CA mutation”), in order to attain a disease specific, statistically significant, clinical result across the patient population (e.g. Trastuzumab resistance in HER2 positive breast cancer).
 
 .. rubric:: C-Level Evidence Example
+
 Below is an example of a `C-level (case study) Evidence Item <https://civicdb.org/links/evidence/757>`__ for the *BRAF* - V600E variant. In this example, the Evidence Item is describing a single patient with the *BRAF* - V600E variant who demonstrated sensitivity/response to Pictilisib in the disease context of melanoma. This Evidence Item was classified as a Case Study because it described results for a single patient with advanced melanoma who had been enrolled in a larger Phase I clinical trial that evaluated 60 patients with advanced solid tumors and any *BRAF* variant for sensitivity to Pictilisib.
 
 .. figure:: /images/figures/evidence-summary_EID757.png
@@ -125,6 +127,7 @@ Below is an example of a `C-level (case study) Evidence Item <https://civicdb.or
    Figure 3: Screenshot of an C-level (case study) evidence item summary
 
 .. rubric:: C-Level Curation Practices
+
 C-level Evidence Items should describe a specific variant and likely will not apply to a categorical variant.
 
 In some cases a clinical trial employing a categorical or bucket variant (e.g. EGFR mutation) will contain additional supplementary information on individual patient mutations and outcomes (e.g. CR, PR, SD or PD as best response). In such cases, along with the B-level Evidence Item based on the categorical variant, individual C-level case study Evidence Items can be curated for each listed variant.
@@ -143,6 +146,7 @@ Below is an example of a `D-level (Preclinical) Evidence Item <https://civicdb.o
    Figure 4: Screenshot of an D-level (preclinical) evidence item summary
 
 .. rubric:: D-Level Curation Practices
+
 D-level Evidence Items typically describe animal models or cell line studies. The sample size for these studies can influence the Trust Rating, whereby increased numbers of mice or independent biological replicates used should increase the Trust Rating.
 
 A concise description of the experiments performed should be prepared by the curator, supporting the Evidence Item Clinical Significance, and describing the controls that were used, and the significant findings that were observed. 
