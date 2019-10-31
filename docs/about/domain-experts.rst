@@ -77,7 +77,7 @@ Peter Horak
    **Role:** Editor |br|
    **Area of Expertise:** Clinical Scientist
 
-Dr. Horak is a medical oncologist at the National Center for Tumor Diseases in Heidelberg, Germany. He is involved in the comprehensive genomic analysis of cancer patient cohorts from the precision oncology platform of the German Cancer Consortium - NCT MASTER (https://www.nct-heidelberg.de/forschung/nct-master.html; https://dktk.dkfz.de/en/home). He received his MD and PhD from the Medical University of Vienna, Austria.
+Dr. Horak is a medical oncologist at the National Center for Tumor Diseases in Heidelberg, Germany. He is involved in the comprehensive genomic analysis of cancer patient cohorts from the precision oncology platform of the German Cancer Consortium - `NCT MASTER <https://www.nct-heidelberg.de/forschung/nct-master.html>`__. He received his MD and PhD from the Medical University of Vienna, Austria.
 |br|
 |br|
 |br|
