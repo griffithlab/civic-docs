@@ -28,7 +28,7 @@ Variant annotation for single nucleotide variants (SNV) and small insertion/dele
 
    Figure 1: Example SNVs and small indels
 
-When selecting a representative variant, utilize the most specific and recurrent variant, whenever possible. For example, there are more than 70 insertions listed in COSMIC [6] that lead to the highly recurrent NPM1 W288fs mutation; however, one 4bp insertion (also known as NPM1-A) accounts for more than 90% of all variant entries. Therefore, the coordinates associated with the NPM1-A variant were chosen as the representative coordinates for the NPM1 W288fs variant in CIViC.
+When selecting a representative variant, utilize the most specific and recurrent variant, whenever possible. For example, there are more than 70 insertions listed in COSMIC [6] that lead to the highly recurrent *NPM1* W288fs mutation; however, one 4bp insertion (also known as *NPM1-A*) accounts for more than 90% of all variant entries. Therefore, the coordinates associated with the *NPM1-A* variant were chosen as the representative coordinates for the *NPM1* W288fs variant in CIViC.
 
 For complex variants such as SNVs in genes involved in fusions (e.g., EML4-ALK C1156Y), enter the genomic position of the SNV.
 
@@ -36,12 +36,12 @@ Categorical variants involving a single amino acid can be indicated by using the
 
 Curation Practice for Categorical and Large-scale Variants 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Variant annotations for large-scale rearrangements or categorical variants aim to utilize the minimum genomic space that encompasses the range of variants observed for that gene. For example, although PIK3CA amplification can encompass much larger genomic coordinates, the outermost coordinates of the gene PIK3CA are used to define the start and stop coordinates. Similarly, categorical variants that contain mutations within the same domain or exon use the outermost coordinates of that domain or exon. Fusion coordinates are based on the closest exon boundary included in the fusion. Although multiple breakpoints can occur, the most common breakpoint is prefered for the representative coordinate.
+Variant annotations for large-scale rearrangements or categorical variants aim to utilize the minimum genomic space that encompasses the range of variants observed for that gene. For example, although *PIK3CA* amplification can encompass much larger genomic coordinates, the outermost coordinates of the gene *PIK3CA* are used to define the start and stop coordinates. Similarly, categorical variants that contain mutations within the same domain or exon use the outermost coordinates of that domain or exon. Fusion coordinates are based on the closest exon boundary included in the fusion. Although multiple breakpoints can occur, the most common breakpoint is prefered for the representative coordinate.
 
 .. figure:: /images/figures/VariantCoordinateCuration_Large_alterations_alt.png
    :alt: Example categorical and large-scale variants
 
-   Figure 2: Example PIK3CA amplification
+   Figure 2: Example *PIK3CA* amplification
 
 Use coordinates that would encompass the most variants that fit the variant name / description to aid others using coordinates to find relevant and similar variants.
 

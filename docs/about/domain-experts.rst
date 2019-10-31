@@ -28,7 +28,7 @@ Ron Bose
    **Role:** Editor |br|
    **Area of Expertise:** Research Scientist
 
-Dr. Bose is Assistant Professor of Medicine with board certifications in medical oncology and internal medicine at Washington University School of Medicine. His lab studies how dysregulation of signal transduction pathways impacts the development of human cancers. In particular his focus is on the HER2 receptor tyrosine kinase, a member of the EGFR growth factor receptor family, a gene amplified and activated in about 20% of human breast cancer cases. His lab discovered that HER2 activating mutations can be found in many solid tumors, including breast cancer.
+Dr. Bose is Assistant Professor of Medicine with board certifications in medical oncology and internal medicine at Washington University School of Medicine. His lab studies how dysregulation of signal transduction pathways impacts the development of human cancers. In particular his focus is on the *HER2* receptor tyrosine kinase, a member of the *EGFR* growth factor receptor family, a gene amplified and activated in about 20% of human breast cancer cases. His lab discovered that *HER2* activating mutations can be found in many solid tumors, including breast cancer.
 |br|
 
 Arpad Danos

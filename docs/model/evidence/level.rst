@@ -115,7 +115,7 @@ Greater than five patients are typically required for an Evidence Item to be con
 
 Evidence Statements should include the gene/variant being evaluated, the study population, disease state, study size, statistical significance (e.g., p-value, confidence interval), duration of the study, and other relevant information that is required to assess the evidence for variant interpretation.
 
-Categorical variants (sometimes called bucket variants colloquially) often appear in B-level Evidence Items describing clinical trials, which pool together patient populations with mutations of a certain class (e.g. “PIK3CA mutation”), in order to attain a disease specific, statistically significant, clinical result across the patient population (e.g. Trastuzumab resistance in HER2 positive breast cancer).
+Categorical variants (sometimes called bucket variants colloquially) often appear in B-level Evidence Items describing clinical trials, which pool together patient populations with mutations of a certain class (e.g. “*PIK3CA* mutation”), in order to attain a disease specific, statistically significant, clinical result across the patient population (e.g. Trastuzumab resistance in *HER2* positive breast cancer).
 
 .. rubric:: C-Level Evidence Example
 
@@ -130,7 +130,7 @@ Below is an example of a `C-level (case study) Evidence Item <https://civicdb.or
 
 C-level Evidence Items should describe a specific variant and likely will not apply to a categorical variant.
 
-In some cases a clinical trial employing a categorical or bucket variant (e.g. EGFR mutation) will contain additional supplementary information on individual patient mutations and outcomes (e.g. CR, PR, SD or PD as best response). In such cases, along with the B-level Evidence Item based on the categorical variant, individual C-level case study Evidence Items can be curated for each listed variant.
+In some cases a clinical trial employing a categorical or bucket variant (e.g. *EGFR* mutation) will contain additional supplementary information on individual patient mutations and outcomes (e.g. CR, PR, SD or PD as best response). In such cases, along with the B-level Evidence Item based on the categorical variant, individual C-level case study Evidence Items can be curated for each listed variant.
 
 Evidence Items involving fewer than five patients are typically considered to be C-level Evidence Items.
 

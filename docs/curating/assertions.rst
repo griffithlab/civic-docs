@@ -16,14 +16,14 @@ The CIViC Assertion contains specific Variant Origin fields which are filled out
 
 The Assertion contains a one sentence Assertion Statement which acts as a summary (“Non-small cell lung cancer with EGFR L858R mutation is sensitive to erlotinib or gefitinib” in Figure 1 above). 
 
-For higher AMP-ASCO-CAP Tier (Li et al. 2017) Assertions, the more detailed Assertion Description section should list major practice guidelines and approvals associated with the Clinical Significance. For drug treatments this should contain recommended treatment line and cancer stage (e.g. “NCCN guidelines recommend (category 1) erlotinib and gefitinib for NSCLC with sensitizing EGFR mutations, along with afatinib and osimertinib.” in Figure 1)
+For higher AMP-ASCO-CAP Tier (Li et al. 2017) Assertions, the more detailed Assertion Description section should list major practice guidelines and approvals associated with the Clinical Significance. For drug treatments this should contain recommended treatment line and cancer stage (e.g. “NCCN guidelines recommend (category 1) erlotinib and gefitinib for NSCLC with sensitizing *EGFR* mutations, along with afatinib and osimertinib.” in Figure 1)
 
 .. figure:: /images/figures/CIViC_add-assertion-screenshot_v1.png
    :alt: Add Assertion form screenshot
 
    Figure 3: The Assertion Submission form is accessible by clicking the Add tab at the upper right corner of the user interface.
 
-The CIViC Assertion is supported by Evidence Items (EIDs) for the Assertion Variant or related CIViC Variants. For instance, an Assertion on erlotinib sensitivity of EGFR L858R lung cancer may be supported by Evidence Items with the categorical CIViC Variant (sometimes colloquially called “bucket variant”) EGFR MUTATION. Note that if all of the supporting EIDs were of the categorical type, with no supporting EID specific to L858R, then an L858R Assertion would not be recommended.   
+The CIViC Assertion is supported by Evidence Items (EIDs) for the Assertion Variant or related CIViC Variants. For instance, an Assertion on erlotinib sensitivity of *EGFR* L858R lung cancer may be supported by Evidence Items with the categorical CIViC Variant (sometimes colloquially called “bucket variant”) *EGFR* MUTATION. Note that if all of the supporting EIDs were of the categorical type, with no supporting EID specific to L858R, then an L858R Assertion would not be recommended.   
 
 The Supporting Evidence grid allows users to associate Evidence Items with Assertions. This can be accomplished by filtering on the provided fields (e.g., EID, Gene, Variant) and selecting the yellow plus sign on the right. 
 
@@ -55,7 +55,7 @@ Assertions should should reflect the current state of practice guidelines and ap
 
 Predictive Assertions
 ~~~~~~~~~~~~~~~~~~~~~
-The Predictive Assertion screenshot below (Figure 5) describes that BRAF V600E confers sensitivity to combination therapy of dabrafenib and trametinib for patients with melanoma. The AMP-ASCO-CAP Category is Tier I - Level A for this CIViC Variant, Disease and Drug Sensitivity Assertion. This AMP-ASCO-CAP Tiering is a consequence of the presence of this variant and treatment in the Melanoma NCCN Guidelines (v2.2018).
+The Predictive Assertion screenshot below (Figure 5) describes that *BRAF* V600E confers sensitivity to combination therapy of dabrafenib and trametinib for patients with melanoma. The AMP-ASCO-CAP Category is Tier I - Level A for this CIViC Variant, Disease and Drug Sensitivity Assertion. This AMP-ASCO-CAP Tiering is a consequence of the presence of this variant and treatment in the Melanoma NCCN Guidelines (v2.2018).
 
 .. figure:: /images/figures/CIViC_assertion-summary-AID7.png
    :alt: Screenshot of AID7, a predictive assertion
@@ -74,7 +74,7 @@ Lower AMP-ASCO-CAP Tier Assertions can be written in the absence of practice gui
 
 Prognostic Assertions
 ~~~~~~~~~~~~~~~~~~~~~
-Figure 6 shows a Prognostic Assertion with an exemplary Assertion Summary and Assertion Description. In this example, the Assertion describes that the BRAF V600E Variant confers poor outcome for patients with colorectal cancer. This variant has an associated FDA companion diagnostic test, is listed in the NCCN Guidelines for colorectal cancer (v2.2017), and falls under the Tier I - Level A AMP category.
+Figure 6 shows a Prognostic Assertion with an exemplary Assertion Summary and Assertion Description. In this example, the Assertion describes that the *BRAF* V600E Variant confers poor outcome for patients with colorectal cancer. This variant has an associated FDA companion diagnostic test, is listed in the NCCN Guidelines for colorectal cancer (v2.2017), and falls under the Tier I - Level A AMP category.
 
 .. figure:: /images/figures/CIViC_assertion-summary-AID20.png
    :alt: Screenshot of AID20, a prognostic assertion
