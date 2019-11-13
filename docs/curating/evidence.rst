@@ -2,7 +2,7 @@
 
 Curating Evidence
 =================
-Evidence Items (EIDs) form the fundamental unit of the CIViC knowledgebase. EIDs derive structured clinical statements from peer reviewed publications and ASCO abstracts, which act as evidence sources for Evidence Items. The Evidence Item (EID) links back to its source. EIDs are hand-curated units of knowledge, and one evidence source may supply enough data to create multiple EIDs. EIDs are displayed throughout the CIViC application, for example as a summary (Figure 1) and as a data table row (Figure 3).
+Evidence Items (EIDs) form the fundamental unit of the CIViC knowledgebase. EIDs derive structured clinical statements from peer reviewed publications and ASCO abstracts, which act as evidence sources for Evidence Items. The EID links back to its source. EIDs are hand-curated units of knowledge, and one evidence source may supply enough data to create multiple EIDs. EIDs are displayed throughout the CIViC application, for example as a summary (Figure 1) and as a data table row (Figure 3).
 
 .. figure:: /images/figures/evidence-summary_EID6568.png
    :alt: Screenshot of an evidence item summary
@@ -34,6 +34,7 @@ Evidence Items should generally be prepared from primary literature rather than 
 When curating new evidence, the curator should review the existing evidence already curated into CIViC for that Variant to look for the following issues:
 
 - For clinical trials and case reports (Levels A, B, and C), overlapping patient populations (i.e. the same patient treatment and outcome described in multiple reports) should be avoided, or carefully noted to alert users of this nuance and avoid conclusions that mistake these studies as independent. Note also that reports describing different phases of the same patient treatment (i.e. erlotinib and subsequently afatinib), or different clinically relevant conclusions (i.e. predictive evidence and simultaneous diagnostic evidence) are independent/non-overlapping entities.
+
 - For Predisposing EIDs describing germline variants, the same patient may appear in multiple studies. Curators should be careful to note these cases by reviewing existing germline EIDs for the same variant in CIViC. 
 
 Disease stage, prior treatments, and other experimental details influencing evidence interpretation should be captured within an Evidence Item to maximize user comprehension of the underlying study and the appropriate context in which it is relevant. Such details are critical parts of clinical guidelines and can impact which clinical guidelines should be used as well as drug sensitivities (see `EID1008 <https://civicdb.org/links/evidence/1008>`__ and `EID1009 <https://civicdb.org/links/evidence/1009>`__).
@@ -41,15 +42,16 @@ Disease stage, prior treatments, and other experimental details influencing evid
 Five types of EID exist in CIViC (Figure 4), giving structured clinical annotation to a Variant. Three types of clinical statements, Predictive/Therapeutic, Prognostic and Diagnostic, are usually associated with somatic variants, while Predisposing evidence is generally linked to germline variation. Functional studies are often performed in vitro, so associated EIDs will have the Unknown field selected for Variant Origin.
 
 .. figure:: /images/figures/CIViC_evidence-item-primary-fields_v3a.png
-   :alt: Structured annotation comprising the five types of CIViC Evidence Item (EID)
+   :alt: Structured annotation comprising the five types of CIViC Evidence Item
 
-   Figure 4: Structured annotation comprising the five types of CIViC Evidence Item (EID)
+   Figure 4: Structured annotation comprising the five types of CIViC Evidence Item
 
 
 Predictive Evidence
 ~~~~~~~~~~~~~~~~~~~
 Predictive/Therapeutic Evidence Items (EIDs) are structured to capture variant annotation for drug sensitivity, resistance,  
-Below is an example of an Evidence Item that illustrates the Predictive Evidence Type. This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with *HER2*-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
+
+Below is an example of an EID that illustrates the Predictive Evidence Type. This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with *HER2*-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
 
 
 .. figure:: /images/figures/evidence-summary_EID1077.png
@@ -75,7 +77,7 @@ Extensive guidelines, use cases, and examples for curation of predictive evidenc
 
 Diagnostic Evidence
 ~~~~~~~~~~~~~~~~~~~
-Below is an example of an Evidence Item that illustrates the Diagnostic Evidence Type. This example describes the World Health Organization guidelines for classifying chronic myelomonocytic leukemia (CMML). Specifically, if a patient has a PCM1-JAK2 fusion or a rearrangement involving PDGFRA, PDGFRB, or FGFR1, especially in the setting of eosinophilia, the patient does not have CMML.
+Below is an example of an EID that illustrates the Diagnostic Evidence Type. This example describes the World Health Organization guidelines for classifying chronic myelomonocytic leukemia (CMML). Specifically, if a patient has a PCM1-JAK2 fusion or a rearrangement involving PDGFRA, PDGFRB, or FGFR1, especially in the setting of eosinophilia, the patient does not have CMML.
 
 .. figure:: /images/figures/evidence-summary_EID1077.png
    :alt: Screenshot of a diagnostic Evidence Item summary
