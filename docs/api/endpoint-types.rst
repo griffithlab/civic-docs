@@ -12,22 +12,8 @@ The index endpoints provide high level overview information about a collection o
     curl https://civicdb.org/api/genes
 
 .. rubric:: Example /genes Response (partial)
-.. code-block:: json
-   :linenos: 
-
-   {
-     "_meta": {
-         "current_page": 1,
-         "per_page": 25,
-         "total_pages": 13,
-         "total_count": 312,
-         "links": {
-             "next": "https://civicdb.org/api/genes?count=25&page=2",
-             "previous": null
-         }
-     },
-     "records": ["... 25 gene objects ..."]
-   }
+.. command-output:: curl -s https://civicdb.org/api/genes?count=1 | jq '.'
+   :shell:
 
 Meta Attribute
 ~~~~~~~~~~~~~~
@@ -66,32 +52,8 @@ Detail endpoints return the full CIViC record for a single entity, specified exp
 .. rubric:: Example /genes Detail Request
 .. parsed-literal::
 
-    curl https://civicdb.org/api/genes/19
+    curl https://civicdb.org/api/genes/533
 
-.. rubric:: Example /genes Detail Response (partial)
-
-.. code-block:: json
-   :linenos: 
-
-   {
-      "id": 19,
-      "name": "EGFR",
-      "entrez_id": 1956,
-      "description": "EGFR is widely recognized for its importance in cancer. Amplification and mutations have been shown to be driving events in many cancer types. Its role in non-small cell lung cancer, glioblastoma and basal-like breast cancers has spurred many research and drug development efforts. Tyrosine kinase inhibitors have shown efficacy in EGFR amplfied tumors, most notably gefitinib and erlotinib. Mutations in EGFR have been shown to confer resistance to these drugs, particularly the variant T790M, which has been functionally characterized as a resistance marker for both of these drugs. The later generation TKI's have seen some success in treating these resistant cases, and targeted sequencing of the EGFR locus has become a common practice in treatment of non-small cell lung cancer. Overproduction of ligands is another possible mechanism of activation of EGFR. ERBB ligands include EGF, TGF-a, AREG, EPG, BTC, HB-EGF, EPR and NRG1-4 (for detailed information please refer to the respective ligand section). In ligand-activated cancers, Cetuximab appears to be more effective than tyrosine-kinase inhibitors (Arteaga et. al.).",
-      "variants": [ "213 items" ],
-      "aliases": [
-            "EGFR",
-            "mENA",
-            "PIG61",
-            "NISBD2",
-            "HER1",
-            "ERBB1",
-            "ERBB"
-      ],
-      "type": "gene",
-      "lifecycle_actions": { "2 items" },
-      "sources": [ "3 items" ],
-      "provisional_values": {},
-      "errors": {}
-   }
-
+.. rubric:: Example /genes Detail Response
+.. command-output:: curl -s https://civicdb.org/api/genes/533 | jq '.'
+   :shell:
