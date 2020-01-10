@@ -39,8 +39,11 @@ release = u''
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_fontawesome'
+    'sphinx_fontawesome',
+    'sphinxcontrib.programoutput',
 ]
+
+programoutput_prompt_template = "{output}"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
