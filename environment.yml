@@ -4,6 +4,7 @@ dependencies:
 - pip=8.1.1=py35_0
 - python=3.5.2
 - readline=6.2=2
+- jq
 - sqlite
 - tk
 - wheel
