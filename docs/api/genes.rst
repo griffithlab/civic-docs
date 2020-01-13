@@ -34,7 +34,7 @@ This endpoint returns a listing of genes in CIViC that contain at least one evid
     curl https://civicdb.org/api/genes?count=1
 
 .. rubric:: Example Response
-.. command-output:: curl -s https://civicdb.org/api/genes?count=1 | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/genes?count=1 | python -m json.tool
    :shell:
 
 Get details for a specific gene
@@ -67,7 +67,7 @@ Note that the default behavior of this endpoint is to use internal CIViC ids. If
    curl https://civicdb.org/api/genes/AXL?identifier_type=entrez_symbol
 
 .. rubric:: Example Response
-.. command-output:: curl -s https://civicdb.org/api/genes/AXL?identifier_type=entrez_symbol | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/genes/AXL?identifier_type=entrez_symbol | python -m json.tool
    :shell:
 
 Get several genes at once via an identifier
@@ -98,5 +98,5 @@ The endpoint can be used to fetch overview information for multiple genes at the
    curl https://civicdb.org/api/genes/AXL,CDK2?identifier_type=entrez_symbol
 
 .. rubric:: Example Response
-.. command-output:: curl -s https://civicdb.org/api/genes/AXL,CDK2?identifier_type=entrez_symbol | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/genes/AXL,CDK2?identifier_type=entrez_symbol | python -m json.tool
    :shell:

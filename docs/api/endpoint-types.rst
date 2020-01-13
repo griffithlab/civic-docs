@@ -55,5 +55,5 @@ Detail endpoints return the full CIViC record for a single entity, specified exp
     curl https://civicdb.org/api/genes/533
 
 .. rubric:: Example /genes Detail Response
-.. command-output:: curl -s https://civicdb.org/api/genes/533 | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/genes/533 | python -m json.tool
    :shell:

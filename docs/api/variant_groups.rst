@@ -34,7 +34,7 @@ This endpoint returns a listing of variant groups in CIViC. This index style end
    curl https://civicdb.org/api/variant_groups?count=1
 
 .. rubric:: Example Response
-.. command-output:: curl -s https://civicdb.org/api/variant_groups?count=1 | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/variant_groups?count=1 | python -m json.tool
    :shell:
 
 Get details for a specific variant group
@@ -53,5 +53,5 @@ This endpoint retrieves details about a specific variant group, given its intern
    curl https://civicdb.org/api/variant_groups/21
 
 .. rubric:: Example Response
-.. command-output:: curl -s https://civicdb.org/api/variant_groups/21 | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/variant_groups/21 | python -m json.tool
    :shell:

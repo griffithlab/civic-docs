@@ -34,7 +34,7 @@ This endpoint returns a listing of assertions in CIViC. This index style endpoin
    curl https://civicdb.org/api/assertions?count=1
 
 .. rubric:: Example Response
-.. command-output:: curl -s https://civicdb.org/api/assertions?count=1 | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/assertions?count=1 | python -m json.tool
    :shell:
 
 Get details for a specific assertion
@@ -53,5 +53,5 @@ This endpoint retrieves details about a specific assertion, given its internal C
    curl https://civicdb.org/api/assertions/9
 
 .. rubric:: Example Response
-.. command-output:: curl  -s https://civicdb.org/api/assertions/9 |  jq '.'
+.. command-output:: curl  -s https://civicdb.org/api/assertions/9 |  python -m json.tool
    :shell:

@@ -34,7 +34,7 @@ This endpoint returns a listing of evidence items in CIViC. This index style end
    curl https://civicdb.org/api/evidence_items?count=1
 
 .. rubric:: Example Response
-.. command-output:: curl -s https://civicdb.org/api/evidence_items?count=1 | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/evidence_items?count=1 | python -m json.tool
    :shell:
 
 Get details for a specific evidence item
@@ -53,5 +53,5 @@ This endpoint retrieves details about a specific evidence item, given its intern
    curl https://civicdb.org/api/evidence_items/512
 
 .. rubric:: Example Response
-.. command-output:: curl -s https://civicdb.org/api/evidence_items/512 | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/evidence_items/512 | python -m json.tool
    :shell:

@@ -34,7 +34,7 @@ This endpoint returns a listing of variants in CIViC that contain at least one e
    curl https://civicdb.org/api/variants?count=1
 
 .. rubric:: Example Response
-.. command-output:: curl -s https://civicdb.org/api/variants?count=1 | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/variants?count=1 | python -m json.tool
    :shell:
 
 Get details for a specific variant
@@ -53,5 +53,5 @@ This endpoint retrieves details about a specific variant, given its internal CIV
    curl https://civicdb.org/api/variants/13
 
 .. rubric:: Example Response
-.. command-output:: curl -s https://civicdb.org/api/variants/13 | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/variants/13 | python -m json.tool
    :shell:
