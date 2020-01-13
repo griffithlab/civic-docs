@@ -10,7 +10,7 @@ genes that have similar clinical consequences.
 
 Example uses:
 
-- Variants that confer resistance/sensitivity to a class of drugs (e.g., EGFR
+- Variants that confer resistance/sensitivity to a class of drugs (e.g., *EGFR*
   TKI Resistance)
 - Categorical or Bucket Variants (e.g., BRAF V600)
 - Variants with strong data to support a very similar effect on protein function
@@ -27,7 +27,7 @@ FGFR2 (or FGFR3) is involved in a fusion with various 3’ partner genes, and
 ‘Imatinib Resistance Mutations’ is a group of variants that confer resistance
 to imatinib treatment. A variant group may also contain variants from multiple
 genes. For example, the group ‘EGFR TKI Resistance’ consists of variants in
-EGFR, MET, and KRAS.
+*EGFR*, MET, and *KRAS*.
 
 .. rubric:: Variant Group Attributes
 

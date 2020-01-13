@@ -15,7 +15,7 @@ Resource Style Links
 
 .. rubric:: Example Resource Style Link
 
-To link to the CIViC page for the Entrez Gene 1956 (EGFR) with the resource
+To link to the CIViC page for the Entrez Gene 1956 (*EGFR*) with the resource
 style format:
 
 .. parsed-literal::
@@ -37,7 +37,7 @@ Query Parameter Links
 
 .. rubric:: Example Query Parameter Link
 
-To link to the CIViC page for the variant with the CIViC internal ID 12 (BRAF
+To link to the CIViC page for the variant with the CIViC internal ID 12 (*BRAF*
 V600E) with the query parameter format:
 
 .. parsed-literal::
