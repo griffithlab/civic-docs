@@ -9,10 +9,6 @@ dependencies:
 - wheel
 - zlib
 - requests
-- autoconf
-- automake
-- libtool
 - pip:
-  - jq
   - sphinx_fontawesome
-  - sphinxcontrib-programoutput
+  - git+git://github.com/griffithlab/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput
