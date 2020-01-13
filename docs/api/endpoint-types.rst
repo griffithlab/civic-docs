@@ -12,7 +12,7 @@ The index endpoints provide high level overview information about a collection o
     curl https://civicdb.org/api/genes
 
 .. rubric:: Example /genes Response (partial)
-.. command-output:: curl -s https://civicdb.org/api/genes?count=1 | jq '.'
+.. command-output:: curl -s https://civicdb.org/api/genes?count=1 | python -m json.tool
    :shell:
 
 Meta Attribute
