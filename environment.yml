@@ -10,6 +10,7 @@ dependencies:
 - zlib
 - requests
 - autoconf
+- automake
 - pip:
   - jq
   - sphinx_fontawesome
