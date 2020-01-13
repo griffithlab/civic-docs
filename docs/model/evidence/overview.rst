@@ -85,10 +85,10 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - 
    * - :ref:`evidence-drug`
      - For predictive evidence, indicates the therapy for which
-       sensitivity or resistance is indicated (With PubChem ID if
+       sensitivity or resistance is indicated (With NCIt ID if
        available).
-     - Tamoxifen, Raloxifene (PubChem CIDs: 2733526, 5053).
-     - CIViC (PubChem)
+     - Tamoxifen, Raloxifene (NCIt IDs: C62078, C62078).
+     - CIViC (NCIt)
    * - Drug Interaction Type
      - For predictive evidence involving more than
        one drug, specifies the relationship between these drugs by
