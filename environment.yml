@@ -12,7 +12,7 @@ dependencies:
 - autoconf
 - automake
 - libtool
-- jq
 - pip:
+  - jq
   - sphinx_fontawesome
   - sphinxcontrib-programoutput
