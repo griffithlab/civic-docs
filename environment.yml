@@ -9,6 +9,7 @@ dependencies:
 - wheel
 - zlib
 - requests
+- autoconf
 - pip:
   - jq
   - sphinx_fontawesome
