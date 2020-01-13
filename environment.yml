@@ -11,3 +11,4 @@ dependencies:
 - requests
 - pip:
   - sphinx_fontawesome
+  - sphinxcontrib-programoutput
