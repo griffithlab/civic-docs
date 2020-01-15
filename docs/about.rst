@@ -24,6 +24,7 @@ We provide CIViC data freely to all under the `Creative Commons Public Domain De
    :caption: Contents:
 
    about/participating
+   about/meetings
    about/faq
    about/domain-experts
    about/partners
