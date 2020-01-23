@@ -41,6 +41,7 @@ release = u''
 extensions = [
     'sphinx_fontawesome',
     'sphinxcontrib.programoutput',
+    'sphinxcontrib.images',
 ]
 
 programoutput_prompt_template = "{output}"
@@ -141,7 +142,6 @@ latex_documents = [
      u'The McDonnell Genome Institute at Washington University School of Medicine', 'manual'),
 ]
 
-
 # -- Options for manual page output ------------------------------------------
 
 # One entry per manual page. List of tuples
@@ -177,6 +177,12 @@ epub_title = project
 # A unique identification for the text.
 #
 # epub_uid = ''
+
+
+# -- Options for images plugin ------------------------------------------
+images_config = {
+    'override_image_directive': True
+}
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
