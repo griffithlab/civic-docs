@@ -13,6 +13,8 @@ Diagnostic clinical relevance to be entered in CIViC. New curators should
 generally avoid proposing new variants that are unlike any already in
 CIViC.
 
+.. image:: /images/figures/CIViC_variant-fields_v2b.png
+
 **Variant Attributes**
 
 .. list-table::
