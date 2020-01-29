@@ -7,21 +7,21 @@ Quick Search
 ------------
 The quick search bar is located on every page of CIViC. On the home page it is found here:
 
-.. image:: /images/figures/quick-search_header.png
+.. thumbnail:: /images/figures/quick-search_header.png
 
 And on all sub-pages it may be found here:
 
-.. image:: /images/figures/quick-search_subheader.png
+.. thumbnail:: /images/figures/quick-search_subheader.png
 
 Any text typed into the quick search box will be matched against Gene and Variant names. Search results displayed beneath the entry box may be navigated using the arrow keys. Navigate to a selected entity by pressing the Return/Enter or Tab key.
 
-.. image:: /images/figures/quick-search_results.png
+.. thumbnail:: /images/figures/quick-search_results.png
 
 Advanced Search
 ---------------
 CIViC provides a method for performing complex searches for all of its major entities: Evidence, Assertions, Genes, Variants, and Sources. Click on the Search button, available on all CIViC pages, to load this advanced search interface.
 
-.. image:: /images/figures/advanced-search.png
+.. thumbnail:: /images/figures/advanced-search.png
 
 Tabs at the top of the interface switch between search interfaces for CIViC's major entities **(A)**. Example search buttons **(B)**, pre-populate the query builder with a variety of examples intended to showcase how users may build their own searches. Click on these to get an idea of the kinds of queries that can be constructed.
 

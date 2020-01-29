@@ -17,7 +17,7 @@ The CIViC Ecosystem of Collaborators, Moderators, and Other Stakeholders
 
 The CIViC project aims to facilitate a collaborative ecosystem of research scientists, clinical scientists, and patient advocates dedicated to curating an accurate and relevant database of clinical interpretations of cancer variants. The diagram below shows how the various stakeholders in the CIViC ecosystem collaborate to curate and utilize the database.
 
-.. image:: images/GP-125_CIViC_main-process_v5b.png
+.. thumbnail:: images/GP-125_CIViC_main-process_v5b.png
 
 .. toctree::
    :maxdepth: 2

@@ -11,9 +11,7 @@ In order to be listed in CIViC a Gene must have at least one clinical Evidence I
 
 .. rubric:: Gene Attributes
 
-.. image:: ../images/figures/CIViC_gene-fields_v1b.png
-   :align: center
-   :scale: 50%
+.. thumbnail:: /images/figures/CIViC_gene-fields_v1b.png
 
 .. list-table::
    :widths: 15 75 10

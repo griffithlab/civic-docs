@@ -51,7 +51,7 @@ An important final product of the CIViC curation process is the Assertion. Gene 
 
 CIViC content can be edited by clicking on the pencil icon as displayed for an example Variant here:
 
-.. image:: ../images/figures/CIViC_edit_variant_screenshot.png
+.. thumbnail:: ../images/figures/CIViC_edit_variant_screenshot.png
 
 Gene, Variant, Variant Group and Evidence entities can all be edited. These edits may be expansive major updates to incorporate new evidence, error corrections, improvements to readability and style, or minor grammar and typo fixes. All such edits are welcome.
 

@@ -6,19 +6,19 @@ CIViC Process and Ecosystem Figures
 -----------------------------------
 Process figures show the activity related to curating, editing, and using CIViC, and its relationships to external data/knowledge sources, or other processes in the biocuration ecosystem.
 
-.. |main-process-figure| image:: /images/figures/GP-125_CIViC_main-process_v5b.png
+.. |main-process-figure| thumbnail:: /images/figures/GP-125_CIViC_main-process_v5b.png
 
-.. |simplified-process-figure| image:: /images/figures/GP-127_CIViC_simplified-overview_v2d.png
+.. |simplified-process-figure| thumbnail:: /images/figures/GP-127_CIViC_simplified-overview_v2d.png
 
-.. |curation-funnel-figure| image:: /images/figures/GP-103_Biothings_Overview_v3b.png
+.. |curation-funnel-figure| thumbnail:: /images/figures/GP-103_Biothings_Overview_v3b.png
 
-.. |adding-updating-evidence| image:: /images/figures/CIViC_adding-updating-evidence_v1d.png
+.. |adding-updating-evidence| thumbnail:: /images/figures/CIViC_adding-updating-evidence_v1d.png
 
-.. |add-evidence-update-assertion| image:: /images/figures/CIViC_add-evidence-update-assertion_v1b.png
+.. |add-evidence-update-assertion| thumbnail:: /images/figures/CIViC_add-evidence-update-assertion_v1b.png
 
-.. |assertion-types_predisposing| image:: /images/figures/CIViC_assertion-types_predisposing_v1a.png
+.. |assertion-types_predisposing| thumbnail:: /images/figures/CIViC_assertion-types_predisposing_v1a.png
 
-.. |assertion-types_non-predisposing| image:: /images/figures/CIViC_assertion-types_non-predisposing_v1a.png
+.. |assertion-types_non-predisposing| thumbnail:: /images/figures/CIViC_assertion-types_non-predisposing_v1a.png
 
 .. list-table::
    :class: image-table
@@ -44,17 +44,17 @@ CIViC Model Figures
 -------------------
 These figures provide details about CIViC's knowledge model, showing how the various entities in CIViC are related and how they may be associated to external data sources or user input.
 
-.. |gene-fields| image:: ../images/figures/CIViC_gene-fields_v1b.png
+.. |gene-fields| thumbnail:: ../images/figures/CIViC_gene-fields_v1b.png
 
-.. |evidence-item-fields| image:: ../images/figures/CIViC_evidence-item-fields_v2b.png
+.. |evidence-item-fields| thumbnail:: ../images/figures/CIViC_evidence-item-fields_v2b.png
 
-.. |assertion-fields| image:: ../images/figures/CIViC_assertion-fields_v1k.png
+.. |assertion-fields| thumbnail:: ../images/figures/CIViC_assertion-fields_v1k.png
 
-.. |variant-fields| image:: ../images/figures/CIViC_variant-fields_v1b.png
+.. |variant-fields| thumbnail:: ../images/figures/CIViC_variant-fields_v1b.png
 
-.. |variant-group-fields| image:: ../images/figures/CIViC_variant-group-fields_v1a.png
+.. |variant-group-fields| thumbnail:: ../images/figures/CIViC_variant-group-fields_v1a.png
 
-.. |source-fields| image:: ../images/figures/CIViC_source-fields_v1a.png
+.. |source-fields| thumbnail:: ../images/figures/CIViC_source-fields_v1a.png
 
 .. list-table::
    :class: image-table
@@ -81,21 +81,21 @@ We've provided the CIViC branding images below to assist in referencing CIViC in
 As these images convey the unique CIViC brand, we have released them under the more limited `Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-IND 4.0) <https://creativecommons.org/licenses/by-nd/4.0/>`_, allowing you to copy and redistribute the images but not modify or build upon them.
 
 
-.. |civic-logo-light-bg-lg| image:: /images/branding/CIViC_logo_for-light-bg_LG_v5a.png
+.. |civic-logo-light-bg-lg| thumbnail:: /images/branding/CIViC_logo_for-light-bg_LG_v5a.png
 
-.. |civic-logo-light-bg-md| image:: /images/branding/CIViC_logo_for-light-bg_MD_v5a.png
+.. |civic-logo-light-bg-md| thumbnail:: /images/branding/CIViC_logo_for-light-bg_MD_v5a.png
 
-.. |civic-logo-light-bg-sm| image:: /images/branding/CIViC_logo_for-light-bg_SM_v5a.png
+.. |civic-logo-light-bg-sm| thumbnail:: /images/branding/CIViC_logo_for-light-bg_SM_v5a.png
 
-.. |civic-logo-light-bg-xs| image:: /images/branding/CIViC_logo_for-light-bg_XS_v5a.png
+.. |civic-logo-light-bg-xs| thumbnail:: /images/branding/CIViC_logo_for-light-bg_XS_v5a.png
 
-.. |civic-logo-dark-bg-lg| image:: /images/branding/CIViC_logo_for-dark-bg_LG_v5a.png
+.. |civic-logo-dark-bg-lg| thumbnail:: /images/branding/CIViC_logo_for-dark-bg_LG_v5a.png
 
-.. |civic-logo-dark-bg-md| image:: /images/branding/CIViC_logo_for-dark-bg_MD_v5a.png
+.. |civic-logo-dark-bg-md| thumbnail:: /images/branding/CIViC_logo_for-dark-bg_MD_v5a.png
 
-.. |civic-logo-dark-bg-sm| image:: /images/branding/CIViC_logo_for-dark-bg_SM_v5a.png
+.. |civic-logo-dark-bg-sm| thumbnail:: /images/branding/CIViC_logo_for-dark-bg_SM_v5a.png
 
-.. |civic-logo-dark-bg-xs| image:: /images/branding/CIViC_logo_for-dark-bg_XS_v5a.png
+.. |civic-logo-dark-bg-xs| thumbnail:: /images/branding/CIViC_logo_for-dark-bg_XS_v5a.png
 
 .. list-table::
    :class: image-table

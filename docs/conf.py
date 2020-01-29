@@ -181,7 +181,7 @@ epub_title = project
 
 # -- Options for images plugin ------------------------------------------
 images_config = {
-    'override_image_directive': True
+    'override_image_directive': False
 }
 
 # A list of files that should not be packed into the epub file.
