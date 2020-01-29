@@ -8,9 +8,7 @@ Understanding Gene Summaries
 
 A CIViC Gene Summary should be created to provide a high-level overview of clinical relevance of cancer variants for the gene. Gene Summaries should focus on emphasizing the clinical relevance from a molecular perspective and should not describe the biological function of the gene unless necessary to contextualize its clinical relevance in cancer. Gene Summaries should include relevant cancer subtypes, specific treatments for the gene’s associated variants, pathway interactions, functional alterations caused by the variants in the gene, and normal/abnormal functions of the gene with associated roles in oncogenesis (Supplementary Figure 1). A CIViC Gene Summary should generally be limited to one or two paragraphs and cite relevant reviews to further support the gene’s clinical relevance in cancer.
 
-.. image:: ../../images/figures/CIViC_gene_screenshot.png
-   :align: center
-   :scale: 30%
+.. thumbnail:: ../../images/figures/CIViC_gene_screenshot.png
 
 Curating Gene Summaries
 ----------------------------

@@ -1,9 +1,7 @@
 Sources
 =======
 
-.. image:: ../images/figures/CIViC_source-fields_v1a.png
-   :align: right
-   :scale: 50%
+.. thumbnail:: ../images/figures/CIViC_source-fields_v1a.png
 
 .. toctree::
    :maxdepth: 2

@@ -6,7 +6,7 @@ Tabular lists of entities, displayed in data grids, comprise a major part of the
 Evidence Grid
 -------------
 
-.. image:: /images/figures/CIViC_evidence-grid-features_v1d.png
+.. thumbnail:: /images/figures/CIViC_evidence-grid-features_v1d.png
 
 The evidence grid displays lists of evidence items, and provides various methods to filter subsets of evidence items of interest to the user. 
 
@@ -40,7 +40,7 @@ The evidence grid displays lists of evidence items, and provides various methods
 Assertion Grid
 --------------
 
-.. image:: /images/figures/CIViC_assertion-grid-features_v1a.png
+.. thumbnail:: /images/figures/CIViC_assertion-grid-features_v1a.png
 
 Assertion grids display lists of assertion items, and provide various methods to filter subsets of assertions of interest to the user.
 
@@ -70,7 +70,7 @@ Assertion grids display lists of assertion items, and provide various methods to
 Activity Grid
 -------------
 
-.. image:: /images/figures/CIViC_activity-grid_v1a.png
+.. thumbnail:: /images/figures/CIViC_activity-grid_v1a.png
 
 .. list-table::
    :widths: 25  75
