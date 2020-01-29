@@ -11,4 +11,5 @@ dependencies:
 - requests
 - pip:
   - sphinx_fontawesome
+  - sphinxcontrib.images
   - git+git://github.com/griffithlab/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput
