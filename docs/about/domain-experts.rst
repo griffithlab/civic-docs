@@ -43,7 +43,7 @@ Arpad Danos
 
 Dr. Danos is a Postdoctoral Researcher in the Griffith Lab, with research interests in developing data and knowledge models which can describe and give structure to clinical and preclinical cancer variant knowledge, and in developing standards to enable efficient trasnfer and communication of this information between groups who are generating and curating this data, as well as with the medical and research community at large, in order to address the curation bottleneck which has arisen with increasing incorporation of NGS technology into clinical as well as research contexts. Dr. Danos is also interested in elucidation of the regulatory structure of the genome, and the role of non-coding mutations in cancer.
 
-Obi Grifith
+Obi Griffith
 -----------
 .. sidebar:: `obigriffith <https://civicdb.org/users/3/profile>`_
 
@@ -78,6 +78,8 @@ Peter Horak
    **Area of Expertise:** Clinical Scientist
 
 Dr. Horak is a medical oncologist at the National Center for Tumor Diseases in Heidelberg, Germany. He is involved in the comprehensive genomic analysis of cancer patient cohorts from the precision oncology platform of the German Cancer Consortium - `NCT MASTER <https://www.nct-heidelberg.de/forschung/nct-master.html>`__. He received his MD and PhD from the Medical University of Vienna, Austria.
+|br|
+|br|
 |br|
 |br|
 |br|
@@ -172,15 +174,7 @@ Alex Wagner
    **Role:** Editor |br|
    **Area of Expertise:** Research Scientist
 
-Dr. Wagner is an NCI Postdoctoral Fellow training at the McDonnell Genome Institute at Washington University School of Medicine. His research interests are focused on the collaborative clinical interpretation of sequence variants in cancers.
-|br|
-|br|
-|br|
-|br|
-|br|
-|br|
-|br|
-|br|
+Dr. Wagner is an Instructor at Washington University School of Medicine, where he leads the development of tools and standards for advancing precision medicine and our knowledge of genomic alterations in cancers. He is also co-director of the international Variant Interpretation for Cancer Consortium (VICC; cancervariants.org) and co-leads the Variant Representation group of the Global Alliance for Genomics and Health (ga4gh.org). In this capacity, he works as a lead developer of the GA4GH Variation Representation Specification (VRS, “verse”), a computational framework for precisely representing and sharing variation across systems (vr-spec.readthedocs.io). Dr. Wagner also holds key roles in the American Society of Hematology Somatic Working Group and the ClinGen Somatic Hematologic Cancer Taskforce.
 
 Lukas Wartman
 -------------
