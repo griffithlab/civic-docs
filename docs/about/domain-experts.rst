@@ -81,6 +81,8 @@ Dr. Horak is a medical oncologist at the National Center for Tumor Diseases in H
 |br|
 |br|
 |br|
+|br|
+|br|
 
 Raymond Kim
 -----------
@@ -129,8 +131,6 @@ Damian Rieke
    **Area of Expertise:** Clinical Scientist
 
 Damian Rieke is a physician and researcher at the Charité Comprehensive Cancer Center and the Department for Hematology, Oncology and Tumor Immunology at Charité - University Medicine Berlin in Berlin, Germany. His main areas of interest include the development of targeted therapy strategies and the targeted use of immune therapeutics as well as their application in clinic.
-|br|
-|br|
 |br|
 |br|
 |br|
