@@ -1,7 +1,7 @@
 Introduction to CIViC
 =====================
 
-To get started using and contributing to CIViC, we recommend that you :doc:`review the Video Tutorials <using/videos>`. These videos cover CIViC and its goals; finding documentation and help resources; browsing and searching knowledgebase contents; adding new evidence, variant summaries, coordinates, gene summaries, and assertions to CIViC; and editing existing CIViC content.
+The Clinical Interpretation of Variants in Cancer (CIViC) knowledgebase is a free and open resource for public use, available online at `civicdb.org <http://civicdb.org>`_. To get started using and contributing to CIViC, we recommend that you :doc:`review the Video Tutorials <using/videos>`. These videos cover CIViC and its goals; finding documentation and help resources; browsing and searching knowledgebase contents; adding new evidence, variant summaries, coordinates, gene summaries, and assertions to CIViC; and editing existing CIViC content.
 
 For a primer on the fundamentals of cancer variant interpretation, we highly recommend that new users start by reading the CIViC paper and these recently published Standards and Guidelines proposals:
 
