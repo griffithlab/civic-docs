@@ -25,13 +25,13 @@ Population frequencies should be based on current population databases (e.g., `g
    * - Origin
      - Symbol
      - Description
-   * - Somatic Mutation
-     - |ellipsis-v|
-     - Highest priority variants in CIViC. May include presumed somatic variants largely driven by the usage in the original publication but should be approached with caution in instances of tumor-only analysis. Includes fusions.
-   * - Germline Mutation
+   * - Somatic
      - |ellipsis-h|
+     - Highest priority variants in CIViC. May include presumed somatic variants largely driven by the usage in the original publication but should be approached with caution in instances of tumor-only analysis. Includes fusions.
+   * - Rare Germline
+     - |ellipsis-v|
      - Consist of heritable rare variants. Generally, <1% of the population relevant to the publication being cited.
-   * - Germline Polymorphism
+   * - Common Germline
      - |signal|
      - Defined as variants with >1% allele frequency in the population relevant to the publication where the evidence is derived. Are welcome in CIViC, however, generally considered low priority for curation efforts.
    * - Unknown
@@ -45,7 +45,7 @@ Population frequencies should be based on current population databases (e.g., `g
 .. list-table::
    :widths: 25 75
 
-   * - Somatic Mutation
+   * - Somatic
      - `DNAJB1-PRKACA (EID532)
        <https://civic.genome.wustl.edu/events/genes/17/summary/variants/31/summary/evidence/532/summary#evidence>`_, 
        `BRAF V600E (EID1409)
@@ -54,13 +54,13 @@ Population frequencies should be based on current population databases (e.g., `g
        <https://civic.genome.wustl.edu/events/genes/30/summary/variants/75/summary/evidence/993/summary#evidence>`_,
        `EGFR Amplification (EID473)
        <https://civic.genome.wustl.edu/events/genes/19/summary/variants/190/summary/evidence/473/summary#evidence>`_
-   * - Germline Mutation
+   * - Rare Germline
+     - `BRCA2 Mutation (EID1371)
+       <https://civic.genome.wustl.edu/events/genes/7/summary/variants/186/summary/evidence/1371/summary#evidence>`_
+   * - Common Germline
      - `GSTP1 I105V (EID670)
        <https://civic.genome.wustl.edu/events/genes/2473/summary/variants/259/summary/evidence/670/summary#evidence>`_,
-       `BRCA2 Mutation (EID1371)
-       <https://civic.genome.wustl.edu/events/genes/7/summary/variants/186/summary/evidence/1371/summary#evidence>`_
-   * - Germline Mutation
-     - `UGT1A1*28 (EID1792)
+       `UGT1A1*28 (EID1792)
        <https://civic.genome.wustl.edu/events/genes/12422/summary/variants/729/summary/evidence/1792/summary#evidence>`_
    * - Unknown
      - `FANCC Loss-of-function (EID1307)
