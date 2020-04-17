@@ -30,6 +30,8 @@ Variant annotation for single nucleotide variants (SNV) and small insertion/dele
 
 When selecting a representative variant, utilize the most specific and recurrent variant, whenever possible. For example, there are more than 70 insertions listed in COSMIC [6] that lead to the highly recurrent *NPM1* W288fs mutation; however, one 4bp insertion (also known as *NPM1-A*) accounts for more than 90% of all variant entries. Therefore, the coordinates associated with the *NPM1-A* variant were chosen as the representative coordinates for the *NPM1* W288fs variant in CIViC.
 
+For complex variants such an DelIns variants (combination of both deleted and inserted bases) you should follow the logic of the HGVS nomenclature. Specifically, use the start/stop coordinates to indicate the reference genome position of bases deleted as you would for a small deletion. Then, under Reference Base(s) show the corresponding sequence of bases deleted. Finally, under Variant Base(s) show the sequence of bases inserted (e.g. NC_000003.11:g.10183874_10183881delinsCG would be Chr: 3, Start: 10183874, Stop: 10183881, Ref Bases: ACGGGCCC, Var Bases: CG).
+
 For complex variants such as SNVs in genes involved in fusions (e.g., EML4-ALK C1156Y), enter the genomic position of the SNV.
 
 Categorical variants involving a single amino acid can be indicated by using the three or two base pairs of the corresponding triplet codon that could result in a SNV at that site (see BRAF V600).
