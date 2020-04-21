@@ -19,9 +19,11 @@ Past Meetings & Events
 :Sign Up: `Eventbrite: Cancer Variant Interpretation Hackathon and Curation Jamboree <https://www.eventbrite.com/e/cancer-variant-interpretation-hackathon-and-curation-jamboree-tickets-48287431006?aff=General>`_
 
 .. rubric:: Description
+
 A hackathon and curation jamboree will be held as a pre-meeting of ASHG, led by the CIViC project team, in collaboration with the ClinGen Somatic working group, and hosted by the Scripps Research Institute. The focus of this meeting will be to continue to develop community consensus on data standards for interpretation of variants in cancer, engage software developers for improved variant interpretation software, engage clinical experts for curation of content and enhance integration and interoperability of resources. Additional related topics will be proposed by meeting participants.
 
 .. rubric:: Meeting Goals
+
 - Establish community standards and best practices for curation and representation of clinically actionable variants in cancer.
 - Further curation of clinically actionable variants in cancer.
 - Further development of the CIViC web interface for expert crowdsourcing the curation of clinically actionable variants.
@@ -45,6 +47,7 @@ A hackathon and curation jamboree will be held as a pre-meeting of ASHG, led by 
 :More Info: `NGS in Molecular Pathology Symposium <http://pardot.cartagenia.com/l/104652/2016-08-17/cr37m>`_
 
 .. rubric:: Description
+
 Precision medicine refers to the use of prevention and treatment strategies that are tailored to the unique features of each individual and their disease. In the context of cancer this might involve the identification of specific mutations shown to predict response to a targeted therapy. The biomedical literature describing these associations is large and growing rapidly. Currently these interpretations exist largely in private or encumbered databases resulting in extensive repetition of effort. Realizing precision medicine requires this information to be centralized, debated and interpreted for application in the clinic. CIViC is an open access, open source, community-driven web resource for Clinical Interpretation of Variants in Cancer. Our goal is to enable precision medicine by providing an educational forum for dissemination of knowledge and active discussion of the clinical significance of cancer genome alterations. This hackathon and jamboree were held to help establish community standards in this space, introduce and engage users with the existing CIViC resource, engage in variant curation activities, and improve the features, user-friendliness and utility of the CIViC curation interface.
 
 .. rubric:: Goals
