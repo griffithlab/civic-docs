@@ -44,7 +44,7 @@ Arpad Danos
 Dr. Danos is a Postdoctoral Researcher in the Griffith Lab, with research interests in developing data and knowledge models which can describe and give structure to clinical and preclinical cancer variant knowledge, and in developing standards to enable efficient trasnfer and communication of this information between groups who are generating and curating this data, as well as with the medical and research community at large, in order to address the curation bottleneck which has arisen with increasing incorporation of NGS technology into clinical as well as research contexts. Dr. Danos is also interested in elucidation of the regulatory structure of the genome, and the role of non-coding mutations in cancer.
 
 Obi Griffith
------------
+------------
 .. sidebar:: `obigriffith <https://civicdb.org/users/3/profile>`_
 
    .. image:: https://secure.gravatar.com/avatar/4c468e9a95d6135e02eb66ee5f2fb574.png?d=identicon&r=pg&s=128
