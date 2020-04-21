@@ -21,9 +21,9 @@ Multiple transcripts can often be expressed for a single gene. For this reason, 
 Curation Practice for SNVs and Small Indels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Variant annotation for single nucleotide variants (SNV) and small insertion/deletions (indels) follow a 1-based coordinate system and utilize left-shifted normalization. Reference positions are indicated in green and variant positions in purple. Below in Figure 1, each representation is the text that would be entered into the CIViC Reference Base and Variant Base fields in the Variant Suggested Revision form.
+Variant annotation for single nucleotide variants (SNV) and small insertion/deletions (indels) follow a 1-based coordinate system and utilize left-shifted normalization. Reference positions are indicated in green and variant positions in blue. Below in Figure 1, each representation is the text that would be entered into the CIViC Reference Base and Variant Base fields in the Variant Suggested Revision form.
 
-.. figure:: /images/figures/VariantCoordinateCuration_SNVs_small_indels_alt.png
+.. figure:: /images/figures/VariantCoordinateCuration_SNVs_small_indels_complex_alt.png
    :alt: Example SNVs and small indels
 
    Figure 1: Example SNVs and small indels
@@ -58,9 +58,9 @@ Coordinates represent the entire putative fusion transcript including start to e
 Curation Practice for representative transcripts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Genes often have multiple transcript representations. CIViC utilizes Ensembl v75 for transcript annotations. The representative transcript for *WT1* depicted in purple below was chosen because it has the widest outer coordinates with the most common exons compared to the other transcripts depicted in green. This transcript is further highlighted by \*\*\* because it is also designated as the “canonical transcript” by Ensembl using select criteria defined in their `glossary of terms <http://useast.ensembl.org/Help/Glossary>`__.
+Genes often have multiple transcript representations. CIViC utilizes Ensembl v75 for transcript annotations. The representative transcript for *WT1* depicted in blue below was chosen because it has the widest outer coordinates with the most common exons compared to the other transcripts depicted in green. This transcript is further highlighted by \*\*\* because it is also designated as the “canonical transcript” by Ensembl using select criteria defined in their `glossary of terms <http://useast.ensembl.org/Help/Glossary>`__.
 
-.. figure:: /images/figures/WT1-transcript.jpg
+.. figure:: /images/figures/WT1-transcript.png
    :alt: Example representative transcript for *WT1*
 
    Figure 3: Example representative transcript for *WT1*
