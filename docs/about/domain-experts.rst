@@ -13,7 +13,7 @@ Erica Barnell
    **Role:** Editor |br|
    **Area of Expertise:** Research Scientist
 
-Erica Barnell is an MD/PhD candidate at the Washington University School of Medicine with PhD in Molecular Genetics and Genomics. Thesis work being completed in the Griffith Lab at the McDonnell Genome Institute to advance bioinformatic tools in the precision oncology space. Co-founded and current Chief Science Officer at Geneoscopy LLC, which is a life-sciences start-up company that leverages eukaryotic biomarkers to noninvasively diagnose, assess, and treat gastrointestinal disease.
+Erica Barnell is an MD/PhD candidate at the Washington University School of Medicine with a PhD in Molecular Genetics and Genomics. Thesis work was completed in the Griffith Lab at the McDonnell Genome Institute to advance bioinformatic tools in the precision oncology space. Co-founded and current Chief Science Officer at Geneoscopy LLC, which is a life-sciences start-up company that leverages eukaryotic biomarkers to noninvasively diagnose, assess, and treat gastrointestinal disease.
 |br|
 |br|
 |br|

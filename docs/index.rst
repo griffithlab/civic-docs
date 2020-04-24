@@ -20,6 +20,10 @@ The CIViC project aims to facilitate a collaborative ecosystem of research scien
 
 .. thumbnail:: images/GP-125_CIViC_main-process_v5b.png
 
+Using the CIViC Help Docs
+-------------------------
+Navigate the CIViC Help Docs with the navigation menu to the left of each page or the Table of Contents below. :doc:`About <about>` pages provide a high level overview of the CIViC resource. :doc:`Using CIViC <using>` pages provide detailed instructions (including videos) on how to browse, search, and use CIViC data. :doc:`Curating CIViC <curating>` pages provide general instruction on curating content in the knowledgebase and :doc:`CIViC Knowledge Model <model>` pages provide detailed definitions and curation instruction for each concept/field in CIViC. Finally, :doc:`CIViC API <api>` and :doc:`Get Help <help>` pages provide additional guidance on using the CIViC API and getting more help.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:

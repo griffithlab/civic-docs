@@ -7,11 +7,11 @@ Precision medicine refers to the use of prevention and treatment strategies that
 
 .. rubric:: How our Collaborative Process is Different
 
-All content created in CIViC is, and will continue to be, freely available, without restriction with a `Public Domain License <https://creativecommons.org/publicdomain/zero/1.0/>`_. Anyone can contribute to CIViC by simply registering for an account. Users join the community with "Curator" level privileges that allow them to comment or propose additions or revisions on any knowledge in CIViC. Proposed additions and revisions are then reviewed by users with "Editor" level privileges before entering the public CIViC record. Community curators work together with editors towards comprehensive and accurate interpretations of the clinical relevance of variants in cancer.
+All content created in CIViC is, and will continue to be, freely available, without restriction with a `Public Domain License <https://creativecommons.org/publicdomain/zero/1.0/>`_. Anyone can contribute to CIViC by simply registering for an account. Users join the community with "Curator" level privileges that allow them to comment or propose additions or revisions on any knowledge in CIViC. Proposed additions and revisions are then reviewed by users with "Editor" level privileges before gaining "Accepted" status. Submitted content, not yet accepted, should be interpreted/used with caution. Community Curators work together with Editors towards comprehensive and accurate interpretations of the clinical relevance of variants in cancer.
 
 .. rubric:: Contributing to CIViC
 
-CIViC provides an open forum for community contributions. Anyone can create an account to flag problems, add comments, propose revisions to existing content, or submit new evidence, assertions, or summaries. All proposed additions/revisions enter a pending state until considered for approval by a CIViC editor. All content contributed and accepted is immediately considered public domain knowledge. For more details on how to contribute please read our :doc:`curating <curating>` docs.
+CIViC provides an open forum for community contributions. Anyone can create an account to flag problems, add comments, propose revisions to existing content, or submit new evidence, assertions, or summaries. All proposed additions/revisions enter a pending state until considered for approval/acceptance by a CIViC editor. All content contributed and accepted is immediately considered public domain knowledge. For more details on how to contribute please read our :doc:`curating <curating>` docs.
 
 .. rubric:: Using CIViC Data
 
