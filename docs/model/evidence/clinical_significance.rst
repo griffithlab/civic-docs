@@ -99,7 +99,7 @@ The available options for clinical significance depend on the evidence type sele
      - Definition
    * - Gain of Function
      - |arrow-circle-up|
-     - A sequence variant whereby new or enhanced function is conferred on the gene product
+     - A sequence variant whereby enhanced function is confered on the gene product
    * - Loss of Function
      - |arrow-circle-down|
      - A sequence variant whereby the gene product has diminished or abolished function
@@ -108,7 +108,10 @@ The available options for clinical significance depend on the evidence type sele
      - A sequence variant whereby the function of the gene product is unchanged
    * - Neomorphic
      - |exclamation-circle|
-     - TBD
+     - Sequence variant creates a novel function
+   * - Dominant Negative
+     - |exclamation-circle|
+     - Sequence variant abolishes wild type allele function
    * - Unknown
      - |sign-out|
      - A functional variant that cannot be precisely defined by gain-of-function, loss-of-function, or unaltered function
