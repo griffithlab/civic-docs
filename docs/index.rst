@@ -6,6 +6,7 @@ The Clinical Interpretation of Variants in Cancer (CIViC) knowledgebase is a fre
 For a primer on the fundamentals of cancer variant interpretation, we highly recommend that new users start by reading the CIViC paper and these recently published Standards and Guidelines proposals:
 
 - `CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer. <http://www.nature.com/ng/journal/v49/n2/full/ng.3774.html>`_
+- `Standard operating procedure for curation and clinical interpretation of variants in cancer. <https://www.ncbi.nlm.nih.gov/pubmed/31779674>`_
 - `ACMG/AMP - Standards and guidelines for the interpretation of sequence variants. <https://www.ncbi.nlm.nih.gov/pubmed/25741868>`_
 - `ClinGen - Somatic cancer variant curation and harmonization through consensus minimum variant level data (MVLD). <https://www.ncbi.nlm.nih.gov/pubmed/27814769>`_
 - `AMP/ASCO/CAP - Standards and guidelines for the interpretation and reporting of sequence variants in cancer. <https://www.ncbi.nlm.nih.gov/pubmed/27993330>`_
