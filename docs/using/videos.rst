@@ -1,6 +1,6 @@
 Instructional Videos
 ====================
-The following videos offer overviews of the CIViC application, and are recommended
+The following videos offer overviews of the CIViC application and are recommended
 viewing for users wishing to gain a quick understanding of basic CIViC
 interface elements and workflows.
 
