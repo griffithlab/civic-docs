@@ -199,9 +199,9 @@ Functional Evidence Items may be used to support certain ACMG codes (e.g. PM1). 
 
 In some cases, Functional Evidence Items may appear as supporting evidence for a Predisposing Assertion, for instance in support of a PM1 evidence code.
 
-.. rubric:: Functional Evidence from Clinical Trials
+.. rubric:: Curating Evidence from Clinical Trials
 
-When curating evidence obtained from clinical trials on performed with groups of patients, where data is pooled by mutation type (e.g. *EGFR* MUTATION), Level B clinical results may be obtained, which may report a statistically significant difference on a clinically relevant parameter such as partial response (PR) between wildtype vs. mutant patients. In addition, the publication may sometimes give outcomes on important individual patient parameters, such as variant, age, sex, best response, overall survival, etc. In these cases, this aggregate of data may be integrated into multiple Evidence Items in the following manner (THe figure below is loosely based on a data set in CIViC obtained from PMID:21531810, which can be seen in CIViC on `its Evidence Source page <https://civicdb.org/sources/1503/summary>`__).
+When curating evidence obtained from clinical trials performed with groups of patients, where data is pooled by mutation type (e.g. *EGFR* MUTATION), Level B clinical results may be obtained, which may report a statistically significant difference on a clinically relevant parameter such as partial response (PR) between wildtype vs. mutant patients. In addition, the publication may sometimes give outcomes on important individual patient parameters, such as variant, age, sex, best response, overall survival, etc. In these cases, this aggregate of data may be integrated into multiple Evidence Items in the following manner (The figure below is loosely based on a data set in CIViC obtained from PMID:21531810, which can be seen in CIViC on `its Evidence Source page <https://civicdb.org/sources/1503/summary>`__).
 
 .. figure:: /images/figures/clinical-evidence-extraction_FPO.png
    :alt: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
