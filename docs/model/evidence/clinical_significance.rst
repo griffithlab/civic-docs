@@ -99,7 +99,7 @@ The available options for clinical significance depend on the evidence type sele
      - Definition
    * - Gain of Function
      - |arrow-circle-up|
-     - A sequence variant whereby enhanced function is confered on the gene product
+     - A sequence variant whereby enhanced function is conferred on the gene product
    * - Loss of Function
      - |arrow-circle-down|
      - A sequence variant whereby the gene product has diminished or abolished function
