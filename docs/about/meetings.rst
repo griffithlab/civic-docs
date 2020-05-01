@@ -1,6 +1,6 @@
 Meetings & Events
 =================
-The CIViC team regularly holds curation jamborees and development hackathons. At curation jamborees, we work with attendees on actual CIViC curation tasks, both educating users and improving the knowledgebase with group curation. During development hackathons, we assist developers integrate their applications and knowledgebases with CIViC via the API, or help developers work on the CIViC codebase by implementing features or fixing bugs.
+The CIViC team regularly holds curation jamborees and development hackathons. At curation jamborees, we work with attendees on actual CIViC curation tasks, both educating users and improving the knowledgebase with group curation. During development hackathons, we help developers to integrate their applications and knowledgebases with CIViC via the API, or help developers work on the CIViC codebase by implementing features or fixing bugs.
 
 Upcoming Meetings & Events
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -20,7 +20,7 @@ Past Meetings & Events
 
 .. rubric:: Description
 
-A hackathon and curation jamboree will be held as a pre-meeting of ASHG, led by the CIViC project team, in collaboration with the ClinGen Somatic working group, and hosted by the Scripps Research Institute. The focus of this meeting will be to continue to develop community consensus on data standards for interpretation of variants in cancer, engage software developers for improved variant interpretation software, engage clinical experts for curation of content and enhance integration and interoperability of resources. Additional related topics will be proposed by meeting participants.
+A hackathon and curation jamboree were held as a pre-meeting of ASHG, led by the CIViC project team, in collaboration with the ClinGen Somatic working group, and hosted by the Scripps Research Institute. The focus of this meeting was to continue to develop community consensus on data standards for interpretation of variants in cancer, engage software developers for improved variant interpretation software, engage clinical experts for curation of content and enhance integration and interoperability of resources. Additional related topics were proposed by meeting participants.
 
 .. rubric:: Meeting Goals
 
@@ -31,10 +31,10 @@ A hackathon and curation jamboree will be held as a pre-meeting of ASHG, led by 
 - Enhance integration and interoperability of resources through standardization of entities, improvement of APIs, and use of ontologies.
 - Improve drug normalization in variant interpretation knowledgebases.
 - Further develop text-mining strategies for identifying evidence of clinically actionable variants (e.g., CIViCmine).
-- Improved/enhanced integration of MyVariant.info into CIViC.
+- Improve/enhance integration of MyVariant.info into CIViC.
 - Integrate ClinGen Allele Registry’s variant normalization into MyVariant.info.
-- Standard operating procedures for developing somatic assertions.
-- Development of standard operating procedures for classifying somatic variant oncogenicity.
+- Develop standard operating procedures for curating somatic assertions.
+- Develop standard operating procedures for classifying somatic variant oncogenicity.
 - Develop prototype data models for representing compound/complex variants.
 - Examine ways to incentivize the curation community, e.g. Zenodo, bioCADDIE for citable records
                   
@@ -48,7 +48,7 @@ A hackathon and curation jamboree will be held as a pre-meeting of ASHG, led by 
 
 .. rubric:: Description
 
-Precision medicine refers to the use of prevention and treatment strategies that are tailored to the unique features of each individual and their disease. In the context of cancer this might involve the identification of specific mutations shown to predict response to a targeted therapy. The biomedical literature describing these associations is large and growing rapidly. Currently these interpretations exist largely in private or encumbered databases resulting in extensive repetition of effort. Realizing precision medicine requires this information to be centralized, debated and interpreted for application in the clinic. CIViC is an open access, open source, community-driven web resource for Clinical Interpretation of Variants in Cancer. Our goal is to enable precision medicine by providing an educational forum for dissemination of knowledge and active discussion of the clinical significance of cancer genome alterations. This hackathon and jamboree were held to help establish community standards in this space, introduce and engage users with the existing CIViC resource, engage in variant curation activities, and improve the features, user-friendliness and utility of the CIViC curation interface.
+Precision medicine refers to the use of prevention and treatment strategies that are tailored to the unique features of each individual and their disease. In the context of cancer this might involve the identification of specific mutations shown to predict response to a targeted therapy. The biomedical literature describing these associations is large and growing rapidly. Currently these interpretations exist largely in private or encumbered databases resulting in extensive repetition of effort. Realizing precision medicine requires this information to be centralized, debated and interpreted for application in the clinic. CIViC is an open access, open source, community-driven web resource for Clinical Interpretation of Variants in Cancer. Our goal is to enable precision medicine by providing an educational forum for dissemination of knowledge and active discussion of the clinical significance of cancer genome alterations. This hackathon and jamboree was held to help establish community standards in this space, introduce and engage users with the existing CIViC resource, engage in variant curation activities, and improve the features, user-friendliness and utility of the CIViC curation interface.
 
 .. rubric:: Goals
 
@@ -63,5 +63,4 @@ The 2016 CIViC hackathon and jamboree took the form of an unconference with some
 .. rubric:: Who Attended
 
 :Hackathon: Software developers, engineers and computational biologists interested in learning and applying back-end and front-end web development skills. Prerequisites: Familiarity with either Ruby/Rails (back-end) or Javascript/Angular (front-end) would be beneficial.
-:Jamboree: Pathologists and oncologists (certified or in training), genome scientists, interested in the problem of sequence variant interpretation for cancer precision medicine. Prerequisites: Basic understanding of the genetic basis of cancer.
-                
+:Jamboree: Pathologists and oncologists (certified or in training), genome scientists, and other researchers interested in the problem of sequence variant interpretation for cancer precision medicine. Prerequisites: Basic understanding of the genetic basis of cancer.
