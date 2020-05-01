@@ -33,7 +33,7 @@ Occasionally, especially after adding or moving a page or modifying the configur
 
 ```
 rm -rf ./_build/*
-make build
+make html
 ```
 
 Then restart sphinx-autobuild:
