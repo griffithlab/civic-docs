@@ -24,7 +24,7 @@ How to Contribute
 There are several ways you can make a contribution to this important problem:
 
 
-- **Add:** Propose a new genomic variant (e.g. single nucleotide substitution, structural variant, gene fusion, etc.), add evidence statements that support clinical actions associated with such variants, or help create a synthesized interpretation or summary of the corpus of evidence for a variant.
+- **Add:** Propose a new genomic variant (e.g. single nucleotide substitution, structural variant, gene fusion, etc.), add evidence statements that support clinical actions associated with such variants, suggest publications that should be curated, or help create a synthesized interpretation or summary of the corpus of evidence for a variant.
 
 - **Approve:** Community Editors and Moderators may approve submitted evidence items, after which the community may view and edit the item.
 
