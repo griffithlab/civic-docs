@@ -8,7 +8,7 @@ CIViC Principles
 
 - **Interdisciplinary.** An interdisciplinary approach is needed to combine the expertise of genome scientists and health care providers, whose efforts are often isolated.
 
-- Content should be created with transparency, kept current, be comprehensive, track provenance, and acknowledge the efforts of creators.
+- **Transparency.** Content should be created with transparency, kept current, be comprehensive, track provenance, and acknowledge the efforts of creators.
 
 - **Computationally accessible.** The interface should be both structured enough to allow computational data mining (via APIs) and agile enough to handle the product of openly debated, human interpretation.
 
