@@ -16,6 +16,9 @@ CIViC Principles
 
 - To encourage both academic and commercial engagement CIViC is released with minimal restrictions under a `Creative Commons Public Domain Dedication, CC0 1.0 Universal License <https://creativecommons.org/publicdomain/zero/1.0/>`_. No fees or exclusive access will be introduced. While sharing improvements is strongly encouraged, the data can be adopted and used for nearly any purpose including the creation of commercial applications derived from the knowledge. We require only that attribution be given to the community that created the content.
 
+.. figure:: /images/figures/CIViC_principles__shorter.png
+   :alt: CIViC Principles
+
 How to Contribute
 ~~~~~~~~~~~~~~~~~
 There are several ways you can make a contribution to this important problem:
