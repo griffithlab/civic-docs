@@ -63,7 +63,7 @@ May I enter unpublished results from n-of-1 observations?
 At this time, a publication or abstract is considered a minimum requirement for all evidence statements in CIViC. N-of-1 results from early stage clinical trials or patients treated under compassionate use doctrines are allowed, but only if a case report has been published in a peer reviewed journal. We are considering options for centers that wish to use a local instance of CIViC to capture unpublished individual patient observations. We are also considering other source types including clinical trial records, and ClinVar records.
 
 Why must my contributions be approved by an editor?
------------------------------------------------------
+---------------------------------------------------
 In an effort to ensure quality (and prevent automated spam), we require that edits be submitted to the review queue before they are shown as accepted. Editors are used for this review step to protect the CIViC resource and will approve your revisions as soon as possible. An editor may comment on your proposed addition or revision. You will be able to see your new content in a pending state while it awaits review. To expedite the review process, we encourage you to submit high quality evidence (evidence level of validated or clinical) as the top priority. Similarly, proposing evidence statements for a new variant or gene may take longer for the community to review.
 
 What is a Disease Ontology ID (DOID)?
@@ -91,7 +91,7 @@ What is MyGene.info?
 `MyGene.info <http://mygene.info>`_ is a web service that allows simple query and retrieval of gene annotation data. We use it in CIViC to automatically import gene details from `Entrez Gene <http://www.ncbi.nlm.nih.gov/gene>`_ such as gene name, synonyms, protein domains and pathways.
 
 Is there an API that I can access?
------------------------------
+----------------------------------
 Yes! Please review the :doc:`API documentation <../api>` for more details.
 
 What is the difference between "Supports a Negative association" and "Does not support a Positive association"?
