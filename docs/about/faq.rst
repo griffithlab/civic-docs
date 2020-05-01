@@ -6,7 +6,7 @@ FAQ
 
 How do I cite CIViC?
 --------------------
-A `manuscript describing CIViC <http://www.nature.com/ng/journal/v49/n2/full/ng.3774.html>`_ has been published in Nature Genetics. `(PMID: 28138153) <https://www.ncbi.nlm.nih.gov/pubmed/28138153>`_
+A `manuscript describing CIViC <http://www.nature.com/ng/journal/v49/n2/full/ng.3774.html>`_ has been published in Nature Genetics (`PMID: 28138153 <https://www.ncbi.nlm.nih.gov/pubmed/28138153>`_). Please cite:
 
     Griffith M\ :sup:`*,†`, Spies NC\ :sup:`*`, Krysiak K\ :sup:`*`, McMichael JF, Coffman AC, Danos AM, Ainscough BJ, Ramirez CA, Rieke DT, Kujan L, Barnell EK, Wagner AH, Skidmore ZL, Wollam A, Liu CJ, Jones MR, Bilski RL, Lesurf R, Feng YY, Shah NM, Bonakdar M, Trani L, Matlock M, Ramu A, Campbell KM, Spies GC, Graubert AP, Gangavarapu K, Eldred JM, Larson DE, Walker JR, Good BM, Wu C, Su AI, Dienstmann R, Margolin AA, Tamborero D, Lopez-Bigas N, Jones SJ, Bose R, Spencer DH Wartman LD, Wilson RK, Mardis ER, Griffith OL\ :sup:`†`. 2016. *CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer.* Nat Genet. 49, 170–174 (2017); doi: `doi.org/10.1038/ng.3774 <http://dx.doi.org/10.1038/ng.3774>`_. :sup:`*`\ These authors contributed equally to this work. :sup:`†`\ Corresponding author.
      
@@ -20,15 +20,15 @@ Precision medicine refers to the customization of healthcare strategies to the i
 
 Why use a crowdsourcing model for variant curation?
 ---------------------------------------------------
-The rapid expansion of biomedical literature presents an intractable challenge for investigators and clinicians to efficiently interpret and synthesize the complete array of knowledge available for each cancer-associated genomic variant into a clinically-relevant evidence statements. Efforts to curate the clinical importance of variants have been undertaken by a diverse, but fragmented, community of individuals. Crowdsourcing leverages the resources of individuals to produce a centralized, open-sourced platform for this diverse community to discuss and share findings in their respective specialities. CIViC also serves as a platform for contributors keep up to date on recent advances.
+The rapid expansion of biomedical literature presents an intractable challenge for investigators and clinicians to efficiently interpret and synthesize the complete array of knowledge available for each cancer-associated genomic variant into clinically-relevant evidence statements. Efforts to curate the clinical importance of variants have been undertaken by a diverse, but fragmented, community of individuals. Crowdsourcing leverages the resources of individuals to produce a centralized, open-sourced platform for this diverse community to discuss and share findings in their respective specialities. CIViC also serves as a platform for contributors keep up to date on recent advances.
 
 Who is CIViC designed for?
 --------------------------
-CIViC is intended to bring together a diverse group of individuals interested in the clinical application and advancement of cancer genomics including health professionals (oncologists, pathologists and other clinicians), researchers (cancer genome and data scientists), and patient advocates.
+CIViC is intended to bring together a diverse group of individuals interested in the clinical application and advancement of cancer genomics including health professionals (oncologists, pathologists and other clinicians), researchers (cancer genome and data scientists), and patient advocates. CIViC does not provide any medical or healthcare products, services or advice, and is not for medical emergencies or urgent situations. Information contained on this website is not a substitute for a doctor's medical judgment or advice. Patients should always discuss their specific, individual health concerns with a doctor or health care professional.
 
 What are the characteristics of an 'ideal' CIViC curator/editor?
 ----------------------------------------------------------------
-Here are some guidelines: CIViC curatiors should express a strong interest in clinical cancer genomics. Curators should have expertise in relevant academic fields including basic cancer biology, oncology, genomics, clinical informatics, etc and ideally are training for or have already obtained a medical degree (e.g. PhD or MD). Additionally, we expect curators to be open to sharing information with the community, be respectful of other contributors, professional, truthful, ethical, and unbiased. There is sometimes pressure in academia to present one's research findings in a clinically relevant context. When CIViC evidence statements are created, the curator should aspire to conduct an objective assessment of how well the data supports any assertion of clinical relevance. All aspects of the CIViC project are open to debate and amendment, including these guidelines.
+CIViC curatiors should express a strong interest in clinical cancer genomics. Curators should have expertise in relevant academic fields including basic cancer biology, oncology, genomics, clinical informatics, etc and ideally are training for or have already obtained a medical degree (e.g. PhD or MD). Additionally, we expect curators to be open to sharing information with the community, be respectful of other contributors, professional, truthful, ethical, and unbiased. There is sometimes pressure in academia to present one's research findings in a clinically relevant context. When CIViC evidence statements are created, the curator should conduct an objective assessment of how well the data supports any assertion of clinical relevance. All aspects of the CIViC project are open to debate and amendment, including these guidelines.
 
 What is a *Variant*?
 --------------------
@@ -40,7 +40,7 @@ Variant descriptions will be accepted into CIViC provided there is evidence link
 
 What is an Evidence Statement?
 ------------------------------
-An evidence statement is an assertion about the clinical relevance of a variant that has been determined by an experiment, trial, or study from a published literature source. It captures a variant's impact on clinical action, which can be predictive of therapy, correlated with prognostic outcome, inform disease diagnosis (i.e. cancer type or subtype), or predispose a person to get cancer in the first place. A single citation can be the source of multiple evidence statments, but each evidence statment has only one source. A single evidence statement should correspond to only one clinical interpretation and disease. For example, if a paper describes both a predictive and prognostic relevance for a variant, two evidence statements should be created. If two publications draw the same conclusions about the clinical relevance of a variant, these should also be entered as two evidence statements.
+An evidence statement is a brief description of the clinical relevance of a variant that has been determined by an experiment, trial, or study from a published literature source. It captures a variant's impact on clinical action, which can be predictive of therapy, correlated with prognostic outcome, inform disease diagnosis (i.e. cancer type or subtype), or predict predisposition to cancer in the first place. A single citation can be the source of multiple evidence statments, but each evidence statment has only one source. A single evidence statement should correspond to only one clinical interpretation and disease. For example, if a paper describes both predictive and prognostic relevance for a variant, two evidence statements should be created. If two publications draw the same conclusions about the clinical relevance of a variant, these should also be entered as two evidence statements.
 
 How is this information organized?
 ----------------------------------
@@ -56,15 +56,15 @@ The :doc:`curation pages <../curating>` detail the curation and editing process,
 
 My favorite Gene/Variant is not in CIViC?!?
 -------------------------------------------
-The extensive manual curation required to add evidence statements means that there might not yet be a published evidence statement for every variant or gene of interest. This is precisely why we need community-driven efforts to grow this database. For a gene or variant to appear in CIViC, it must have an evidence statement associated with it. To add evidence statements and begin the discussion about your gene/variant of interest, go :doc:`here <../curating>`!
+The extensive manual curation required to add evidence statements means that there might not yet be an evidence statement for every variant or gene of interest. This is precisely why we need community-driven efforts to grow this database. For a gene or variant to appear in CIViC, it must have an evidence statement associated with it. To add evidence statements and begin the discussion about your gene/variant of interest, go :doc:`here <../curating>`!
 
 May I enter unpublished results from n-of-1 observations?
 ---------------------------------------------------------
 At this time, a publication or abstract is considered a minimum requirement for all evidence statements in CIViC. N-of-1 results from early stage clinical trials or patients treated under compassionate use doctrines are allowed, but only if a case report has been published in a peer reviewed journal. We are considering options for centers that wish to use a local instance of CIViC to capture unpublished individual patient observations. We are also considering other source types including clinical trial records, and ClinVar records.
 
-Why must my contributions be approved by a moderator?
+Why must my contributions be approved by an editor?
 -----------------------------------------------------
-In an effort to ensure quality (and prevent automated spam), we require that edits be submitted to the review queue before they are shown as accepted. Moderators are used for this review step to protect the CIViC resource and will approve your revisions as soon as possible. An editor, moderator or administrator may comment on your proposed addition or revision. You will be able to see your new content in a pending state while it awaits review. To expedite the review process, we encourage you to submit high quality evidence (evidence level of validated or clinical) as the top priority. Similarly, proposing evidence statements for a new variant or gene may take longer for the community to review.
+In an effort to ensure quality (and prevent automated spam), we require that edits be submitted to the review queue before they are shown as accepted. Editors are used for this review step to protect the CIViC resource and will approve your revisions as soon as possible. An editor may comment on your proposed addition or revision. You will be able to see your new content in a pending state while it awaits review. To expedite the review process, we encourage you to submit high quality evidence (evidence level of validated or clinical) as the top priority. Similarly, proposing evidence statements for a new variant or gene may take longer for the community to review.
 
 What is a Disease Ontology ID (DOID)?
 -------------------------------------
@@ -72,11 +72,11 @@ To provide a structured representation of the diseases associated with evidence 
 
 Where does this information come from? Can I submit my abstract?
 ----------------------------------------------------------------
-The information in CIViC is derived from peer-reviewed, published literature. Every evidence item currently requires a citation from a PubMed ID. This means that conference abstracts are not supported until they are peer-reviewed, published, and a PubMed ID is assigned.
+The information in CIViC is derived from peer-reviewed, published literature. Every evidence item currently requires a citation from PubMed or ASCO Meetings. This means that abstracts are not supported until they are peer-reviewed, published, and a PubMed or ASCO ID is assigned.
 
 What if a drug is shown to have a negative effect on patients with a variant? Or the study was inconclusive?
 ------------------------------------------------------------------------------------------------------------
-The knowledge model, specifically the Evidence Direction field, is used to indicate whether the study supports or refutes (including inconclusive determinations) any interaction between the variant and a clinical action or result. The Clinical Significance field indicates the type of effect the variant is determined to have on clinical results within the evidence statement as having a positive, negative or neutral/no impact. These descriptions provide human readible interpretations of evidence statements that either support or refute sensitivity or resistance predictions to therapeutics (or other clinical outcomes). For more detailed definitions and specific examples, please review the knowledge model :doc:`here <../model>`.
+The knowledge model, specifically the Evidence Direction field, is used to indicate whether the study supports or refutes (including inconclusive determinations) any interaction between the variant and a clinical action or result. The Clinical Significance field indicates the type of effect the variant is determined to have on clinical results, for example, having a positive, negative or neutral/no impact. These descriptions provide human readable interpretations of evidence statements that either support or refute sensitivity or resistance predictions to therapeutics (or other clinical outcomes). For more detailed definitions and specific examples, please review the knowledge model :doc:`here <../model>`.
 
 My evidence statement disagrees with evidence from another source, should I still add it?
 -----------------------------------------------------------------------------------------
@@ -84,13 +84,13 @@ Absolutely. CIViC is a forum for discussion of disagreements in the field or lit
 
 I don't want to add evidence statements, can I still contribute?
 ----------------------------------------------------------------
-Yes. Evaluation of the literature is a collaborative effort. If you don't want to add new evidence you can rate, edit or discuss existing evidence. You can also help to make sure the Variant Summary is an effective, consise, and accurate summary of the current set of evidence statements for each variant. You can also add promising publications to the source suggestion queue.
+Yes. Evaluation of the literature is a collaborative effort. If you don't want to add new evidence, you can edit or discuss existing evidence. You can also help to make sure the Variant Summary is an effective, consise, and accurate summary of the current set of evidence statements for each variant. You can also add promising publications to the source suggestion queue.
 
 What is MyGene.info?
 --------------------
-`MyGene.info <http://mygene.info>`_ is a web service that allows simple query and retrieval of gene annotation data. We use it in CIViC to automatically import gene details from `Entrez Gene <http://www.ncbi.nlm.nih.gov/gene>`_ such as gene name, synonyms, protein domains and pathways. MyGene.info was created and is maintained by the `Su Lab at the Scripps Research Institute <http://sulab.org/>`_.
+`MyGene.info <http://mygene.info>`_ is a web service that allows simple query and retrieval of gene annotation data. We use it in CIViC to automatically import gene details from `Entrez Gene <http://www.ncbi.nlm.nih.gov/gene>`_ such as gene name, synonyms, protein domains and pathways.
 
-Is there an API I can access?
+Is there an API that I can access?
 -----------------------------
 Yes! Please review the :doc:`API documentation <../api>` for more details.
 
@@ -100,7 +100,7 @@ This can be confusing. We have reserved "Does not support - Positive" for statem
 
 Where do I begin to curate evidence statements? Are certain evidence types or genes a priority?
 -----------------------------------------------------------------------------------------------
-The evidence statements that make up CIViC are generated from peer-reviewed, published literature. Our top priority is high quality (4+ star rating) Evidence Level A and B statements that associate specific variants with clinical outcomes using well powered patient cohorts. To help direct users towards genes known to be associated with clinical outcomes, we have compiled a list of high priority genes which you can download `here <https://github.com/genome/civic-server/tree/master/public/downloads/RankedCivicGeneCandidates.tsv>`_. This list is based on a survey of 90 commerically available clinical gene panels developed by 40 distinct institutes and companies. If many independent groups feel that a gene is important to profile on their assay, it might be important. CIViC aims to spell out, with complete provenance, the evidence that each of these genes really is clinically important and why/how.<../p>
+The evidence statements that make up CIViC are generated from peer-reviewed, published literature. Our top priority is high quality (4+ star rating) Evidence Level A and B statements that associate specific variants with clinical outcomes using well powered patient cohorts. To help direct users towards genes known to be associated with clinical outcomes, we have compiled a list of high priority genes which you can download `here <https://github.com/genome/civic-server/tree/master/public/downloads/RankedCivicGeneCandidates.tsv>`_. This list is based on a survey of 90 commerically available clinical gene panels developed by 40 distinct institutes and companies. If many independent groups feel that a gene is important to profile on their assay, it might be important. CIViC aims to spell out, with complete provenance, the evidence that each of these genes really is clinically important and why/how.
 
 Can I use a review article to create an evidence statement?
 -----------------------------------------------------------
