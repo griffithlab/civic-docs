@@ -26,7 +26,7 @@ There are several ways you can make a contribution to this important problem:
 
 - **Add:** Add evidence statements that support clinical actions associated with genomic variants (e.g. single nucleotide substitution, structural variant, gene fusion, etc.), add summaries of the corpus of evidence for a variant, suggest publications that should be curated, or help create a synthesized interpretation (i.e., Assertion) of the evidence supporting a variant in the context of a disease and its clinical implications.
 
-- **Approve:** Community Editors may approve submitted content or suggested changes (edits), after which the community may view and edit the content.
+- **Approve:** Community Editors may approve submitted content and elevate the status of this content or approve suggest changes (edits), improving the existing content.
 
 - **View:** Make use of the community-created content in your own research by browsing, searching, and examining detailed evidence items. All CIViC data and source code are provided freely for almost any use.
 
