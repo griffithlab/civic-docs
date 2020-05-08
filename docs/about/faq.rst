@@ -20,7 +20,7 @@ Precision medicine refers to the customization of healthcare strategies to the i
 
 Why use a crowdsourcing model for variant curation?
 ---------------------------------------------------
-The rapid expansion of biomedical literature presents an intractable challenge for investigators and clinicians to efficiently interpret and synthesize the complete array of knowledge available for each cancer-associated genomic variant into clinically-relevant evidence statements. Efforts to curate the clinical importance of variants have been undertaken by a diverse, but fragmented, community of individuals. Crowdsourcing leverages the resources of individuals to produce a centralized, open-sourced platform for this diverse community to discuss and share findings in their respective specialities. CIViC also serves as a platform for contributors keep up to date on recent advances.
+The rapid expansion of biomedical literature presents an intractable challenge for investigators and clinicians to efficiently interpret and synthesize the complete array of knowledge available for each cancer-associated genomic variant for clinically-relevant use. Efforts to curate the clinical importance of variants have been undertaken by a diverse, but fragmented, community of individuals. Crowdsourcing leverages the resources of individuals to produce a centralized, open-sourced platform for this diverse community to discuss and share findings in their respective specialities. CIViC also serves as a platform for contributors keep up to date on recent advances.
 
 Who is CIViC designed for?
 --------------------------
