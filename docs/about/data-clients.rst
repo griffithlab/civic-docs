@@ -3,6 +3,7 @@ Data Clients
 Data clients are academic and commercial resources that use CIViC data (for example by integrating CIViC interpretations into their own tool). The current list of CIViC data clients includes:
 
 - `Agilent's Alissa Clinical Informatics Platform <https://www.agilent.com/en/products/software-informatics/clinical-informatics-(alissa-platform)>`_
+- `BioDiscovery NxClinical <https://www.biodiscovery.com/products/NxClinical>`_
 - `Biogazelle <https://www.biogazelle.com/>`_
 - `BioGPS <http://biogps.org/plugin/1238/civic/>`_
 - `Cambridgene <http://www.cambridgene.com/>`_
