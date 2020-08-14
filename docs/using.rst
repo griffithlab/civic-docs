@@ -1,7 +1,7 @@
 Using CIViC
 ===========
 
-The pages in this section primarily describes how the CIViC user interface works. We describe here how to browse the knowledgebase, find and view users, how various interface controls like data grids function, etc. This section does not deal with the actual process of performing curation, only how the user interface works to facilitae curation. For details on the process of curation, please read the :doc:`../curating` section.
+The pages in this section primarily describe how the CIViC user interface works. We describe here how to: browse the knowledgebase, perform searches, use various interface controls like data grids, find and view users/organizations, work with comments, make use of notifications and mentions, track community contributions, access data releases, and view knowledgebase statistics. This section does not deal with the actual process of performing curation, only how the user interface works to facilitate curation. For details on the process of curation, please read the :doc:`../curating` section.
 
 
 .. toctree::
