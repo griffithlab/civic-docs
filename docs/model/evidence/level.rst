@@ -1,10 +1,10 @@
 .. _evidence-level:
 
-Level
+Evidence Level
 ==============
 
-Understanding Levels
---------------------
+Understanding Evidence Levels
+-----------------------------
 The evidence level describes the robustness of the study supporting the evidence item. Five different evidence levels are supported: “A - Validated association”, “B - Clinical evidence”, “C - Case study”, “D - Preclinical evidence”, and “E - Inferential association”. Evidence items with validated associations (A) have a proven or clinical consensus on the variant association in human medicine. Typically these evidence items describe Phase III clinical trials or have associated companion diagnostics. Clinical evidence (B) are typically large clinical trials or other primary patient data supporting the clinical association. These evidence items usually include more than 5 patients supporting the claim made in the evidence statement. Case studies (C) are individual case reports from clinical journals. Preclinical evidence (D) is derived from in vivo or in vitro experiments (e.g., cell lines or mouse models) that support clinical claims. Finally, inferential associations (E) indirectly associate the variant to the provided clinical evidence.
 
 .. role:: green
