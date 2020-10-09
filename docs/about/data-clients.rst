@@ -29,6 +29,7 @@ Data clients are academic and commercial resources that use CIViC data (for exam
 - `NDEx - The Network Data Exchange <http://www.ndexbio.org>`_
 - `OncoMX <https://www.oncomx.org/>`_
 - `PathOS - Peter MacCallum Cancer Centre <https://www.petermac.org/about/signature-centres/centre-clinical-cancer-genomics/molecular-diagnostic-software>`_
+- `ProteinPaint <https://pecan.stjude.cloud/proteinpaint>`_
 - `Smart Cancer Navigator <https://smart-cancer-navigator.github.io/app>`_
 - `SoftGenetics - Geneticist Assistant NGS Interpretative Workbench <https://softgenetics.com/>`_
 - `SolveBio <https://www.solvebio.com/>`_
