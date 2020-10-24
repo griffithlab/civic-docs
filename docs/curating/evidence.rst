@@ -49,7 +49,7 @@ Five types of EID exist in CIViC (Figure 4), giving structured clinical annotati
 
 Predictive Evidence
 ~~~~~~~~~~~~~~~~~~~
-Predictive/Therapeutic Evidence Items (EIDs) are structured to capture variant annotation for drug sensitivity, resistance,  
+Predictive/Therapeutic Evidence Items (EIDs) capture evidence supporting or refuting the role of a variant in confering drug sensitivity or resistance in the context of a disease. 
 
 Below is an example of an EID that illustrates the Predictive Evidence Type. This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with *HER2*-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
 
