@@ -182,6 +182,9 @@ Curation Guidelines for Specific Sequence Ontology Types
    * - 3_prime_UTR_variant
      - A UTR variant of the 3' UTR.
      -
+   * - synonymous_variant
+     - A sequence variant where there is no resulting change to the encoded amino acid.
+     -
    * - N/A
      -
      - The Sequence Ontology does not currently describe expression
