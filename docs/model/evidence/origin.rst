@@ -18,7 +18,7 @@ Fusions are often observed in the transcriptome but are usually accompanied by a
 
 Population frequencies should be based on current population databases (e.g., gnomAD_) rather than the original report.
 
-.. gnomAD: https://gnomad.broadinstitute.org
+.. _gnomAD: https://gnomad.broadinstitute.org
 
 .. list-table::
    :widths: 25 5 70

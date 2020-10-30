@@ -1,5 +1,5 @@
 Curating and Suggesting Sources
-------------------
+-------------------------------
 
 All curated CIViC Evidence, Assertions, Variant Summaries, and Gene Summaries are based on peer-reviewed sources from the biomedical literature, currently limited to those publications indexed in PubMed or the ASCO Meeting Library. As soon as any publication is cited in CIViC, a separate Source Record is created and can be browsed or searched within the CIViC knowledgebase. Each Source Record includes details about the publication such as title, authors, abstract, and journal, as well as a table linking to all CIViC evidence curated for that source. Comments can be added to any Source Record at any time. Source comments are a useful place to document general or specific notes to aid current and future curation. For example, if a source has an overlapping patient population with another study already curated within CIViC, this can be documented in the comments. In other cases, the reference sequence used for determining variant coordinates might be recorded.
 
