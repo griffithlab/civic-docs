@@ -1,3 +1,5 @@
+.. _variant-types:
+
 Types
 =====
 Variant Type(s) are used to classify variants by Sequence Ontology terms.
