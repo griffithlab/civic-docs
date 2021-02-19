@@ -150,7 +150,7 @@ Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/events/ge
 .. figure:: /images/figures/evidence-summary_EID5546.png
    :alt: Screenshot of a predisposing Evidence Item summary
 
-   Figure 6: Screenshot of a predisposing Evidence Item summary
+   Figure 9: Screenshot of a predisposing Evidence Item summary
 
 Predisposing Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -170,7 +170,7 @@ Below is an example of an Evidence Item that describes a Functional Evidence Typ
 .. figure:: /images/figures/evidence-summary_EID7337.png
    :alt: Screenshot of a functional Evidence Item summary
 
-   Figure 7: Screenshot of a functional Evidence Item summary
+   Figure 10: Screenshot of a functional Evidence Item summary
 
 Functional Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -206,7 +206,7 @@ When curating evidence obtained from clinical trials performed with groups of pa
 .. figure:: /images/figures/clinical-evidence-extraction_FPO.png
    :alt: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
 
-   Figure 7: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
+   Figure 11: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
 
 Statistical results may be obtained from the study to annotate a Categorical (sometimes colloquially called bucket-type) CIViC Variant, which pools together a category of sequence variants (for example *EGFR* MUTATION). Significantly longer progression free survival (PFS) may be observed in the mutant group (grouped under the Categorical CIViC Variant) vs. the wildtype group, when given a certain drug. In this case, this result may be reported in a CIViC Level B Evidence Item under the CIViC Categorical Variant *EGFR* MUTATION, with Evidence Direction and Clinical Significance “Suggests Sensitivity/Response” to the drug used.
 
