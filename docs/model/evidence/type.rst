@@ -32,7 +32,7 @@ Six Evidence Types are currently supported: Predictive (i.e. Therapeutic), Diagn
      - |exclamation-triangle|
      - Evidence pertains to a germline variant's role in conferring susceptibility to disease (including pathogenicity evaluations)
    * - Oncogenic
-     - ||
+     - |certificate|
      - Evidence pertains to a somatic variant's involvement in tumor pathogenesis as described by the Hallmarks of Cancer
    * - Functional
      - |cog|
