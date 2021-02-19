@@ -51,7 +51,7 @@ Predictive Evidence
 ~~~~~~~~~~~~~~~~~~~
 Predictive/Therapeutic Evidence Items (EIDs) capture evidence supporting or refuting the role of a variant in conferring drug sensitivity or resistance in the context of a disease. 
 
-Below is an example of an EID that illustrates the Predictive Evidence Type. This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with *HER2*-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
+Below is an example of an EID that illustrates the Predictive Evidence Type (Figure 5). This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with *HER2*-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
 
 
 .. figure:: /images/figures/evidence-summary_EID1077.png
@@ -84,8 +84,8 @@ Below is an example of an EID that illustrates the Diagnostic Evidence Type. Thi
 
    Figure 6: Screenshot of a diagnostic Evidence Item summary
 
-Diagnostic Evidence Curation Practice
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Diagnostic Evidence Curation Practices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Diagnostic Evidence Items should only be used if the variant assists in labeling the patient with a specific disease or disease subtype and should not be used to denote that the particular variant is prevalent in a specific disease.
 
 Generally, Diagnostic Evidence Items describe variants that can help accurately diagnose a cancer type or subtype with high sensitivity and specificity, for which diagnoses may otherwise be challenging.
@@ -107,8 +107,8 @@ Below is an example of an Evidence Item that describes a Prognostic Evidence Typ
 
    Figure 7: Screenshot of a prognostic Evidence Item summary
 
-Prognostic Evidence Curation Practice
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Prognostic Evidence Curation Practices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Prognostic Evidence Items should include the measured outcome (e.g., overall survival, complete response, partial response), number of subjects and applicable statistics.
 
 If described in the literature, a definition of the measured outcome should be given.
@@ -117,43 +117,21 @@ Prognostic evidence is characterized by either better outcomes for patient subpo
 
 In some cases, a variant subpopulation with worse outcome may benefit from subsequent therapy targeted to that variant (e.g., *HER2* amplification in breast cancer).
 
-Guidelines, use cases, and examples for curation of prognostic evidence are given in Figure 7 and Table 1.
+Guidelines, use cases, and examples for curation of prognostic evidence are given in Figure 10 and Table 1.
 
-Curation Scenarios
-~~~~~~~~~~~~~~~~~~
-The table below (Table 1) gives an in depth set of cases for assigning the Clinical Significance to an Evidence Item (EID) where either the "supports" or "does not support" Evidence Direction is used in combination with a Predictive/Therapeutic, Diagnostic or Prognostic Clinical Significance annotation.
-
-Note that "Reduced Sensitivity" Clinical Significance is used to compare the variant of interest to a known, sensitizing variant. It is not used to compare the efficacy of one drug for a variant against a different drug for the same variant. In the latter case, the curator may simply make a Predictive evidence item with independently evaluates the efficacy of the drug against the variant of interest. 
-
-The "Sensitivity/Response" annotation is used to assess sensitizing variants, which are usually in the form of a primary sensitizing somatic mutation (e.g SNV, amplification, deletion, etc).
-
-The "Resistance" annotation is used in situations where the variant of interest has been observed to induce resistance in a context where, in the absence of the variant, the system being assayed would be deemed sensitive which induce resistance to treatment (e.g. T790M mutation in cis with a  background variant of *EGFR* L858R). In cases where a variant fails to induce sensitivity, then that variant is best annotated with "Does not Support Sensitivity".       
-
-.. figure:: /images/figures/CIViC_attributes-curation-table_thumbnail_v1b.png
-   :alt: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations
-
-   Table 1: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations. :download:`Download a more readable PDF version here <../images/figures/CIViC_attributes-curation-table_v1b.pdf>`
-
-Both Predictive and Prognostic evidence types may be obtained from the same data set in some cases. Figure 8, displayed below, gives hypothetical examples of predictive and prognostic structured annotation derived from patient data.
-
-.. figure:: /images/figures/CIViC_interpreting-predictive-prognostic-clinical-trials_v1d.png
-   :alt: Examples for deriving Predictive and Prognostic Evidence Items (EIDs) from hypothetical clinical trial data.
-
-   Figure 8: Examples for deriving Predictive and Prognostic Evidence Items from hypothetical clinical trial data.
-
-Predisposing Evidence Type
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+Predisposing Evidence
+~~~~~~~~~~~~~~~~~~~~~
 Predisposing Evidence Items are designed to capture clinical information associated with germline variants relevant for cancer. This EID type is closely associated with `ACMG Codes. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/>`__ The general format for a predisposing EID is a summary of the reported data relevant to the variant and disease of interest, followed by an enumeration of ACMG Codes derived from the reported information, which a brief justification for the presence of each code. 
 
-Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/events/genes/58/summary/variants/1810/summary/evidence/5134/summary#evidence>`__) that describes a Predisposing Evidence Type. This example describes a study where the VHL - R167Q (c.500G>A) Variant was described in a set of patients and evidence for the PP1 ACMG-AMP criteria was documented. Hemangioblastoma and pheochromocytoma were seen in patients and are reported as Associated Phenotypes, while the Disease is Von Hippel-Lindau Disease.
+Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/events/genes/58/summary/variants/1810/summary/evidence/5134/summary#evidence>`__) that describes a Predisposing Evidence Type (Figure 8). This example describes a study where the VHL - R167Q (c.500G>A) Variant was described in a set of patients and evidence for the PP1 ACMG-AMP criteria was documented. Hemangioblastoma and pheochromocytoma were seen in patients and are reported as Associated Phenotypes, while the Disease is Von Hippel-Lindau Disease.
 
 .. figure:: /images/figures/evidence-summary_EID5546.png
    :alt: Screenshot of a predisposing Evidence Item summary
 
-   Figure 9: Screenshot of a predisposing Evidence Item summary
+   Figure 8: Screenshot of a predisposing Evidence Item summary
 
-Predisposing Curation Practices
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Predisposing Evidence Curation Practices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Typically, but not always, Predisposing Evidence Items are written for rare or common germline variants. In rare circumstances, the patient can have a predisposing variant that develops as a result of a somatic mutation or mosaicism during embryogenesis that is widespread but not necessarily heritable.
 
 ACMG-AMP evidence codes (Richards et al. 2015) (ACMG criteria) are derived from the evidence presented in the specific Source and are listed at the end of the Evidence Statement with a brief justification for each code’s use.
@@ -163,17 +141,26 @@ The above Predisposing Evidence Item (EID) lists the ACMG code PP1 as derived fr
 
 In some instances, a publication will contain relevant germline variant evidence for curation into CIViC and EID creation, but that evidence will not be sufficient to fulfill any of the ACMG criteria (especially in some cases where the gene or disease-specific criteria may be more stringent). In this case Curators should indicate this at the end of the Evidence Statement, by adding a brief statement such as “No ACMG criteria met”, in order to indicate to Editors and future Users that the evidence had been analyzed for the presence of ACMG codes during the curation process.
 
-Functional Evidence Type
-~~~~~~~~~~~~~~~~~~~~~~~~
-Below is an example of an Evidence Item that describes a Functional Evidence Type. This example summarizes the impact of a novel *KIAA1549-BRAF* fusion event on the function of the *BRAF* protein. Specifically, the fusion product showed gain of function activity in cell lines relative to wildtype kinase. This activity was also demonstrated to be comparable to a known gain of function variant, *BRAF V600E*.
+Oncogenic Evidence
+~~~~~~~~~~~~~~~~~~
+Coming soon...
+
+
+Oncogenic Evidence Curation Practices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Coming soon...
+
+Functional Evidence
+~~~~~~~~~~~~~~~~~~~
+Below is an example of an Evidence Item that describes a Functional Evidence Type (Figure 9). This example summarizes the impact of a novel *KIAA1549-BRAF* fusion event on the function of the *BRAF* protein. Specifically, the fusion product showed gain of function activity in cell lines relative to wildtype kinase. This activity was also demonstrated to be comparable to a known gain of function variant, *BRAF V600E*.
 
 .. figure:: /images/figures/evidence-summary_EID7337.png
    :alt: Screenshot of a functional Evidence Item summary
 
-   Figure 10: Screenshot of a functional Evidence Item summary
+   Figure 9: Screenshot of a functional Evidence Item summary
 
-Functional Curation Practices
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Functional Evidence Curation Practices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Functional Evidence Items should describe how the variant alters biological function from the reference state. This can include a change in function or lack of change in function.
 
 Clinical Significance for Functional Evidence Types adhere to the following rules:
@@ -199,7 +186,30 @@ Functional Evidence Items may be used to support certain ACMG codes (e.g. PM1). 
 
 In some cases, Functional Evidence Items may appear as supporting evidence for a Predisposing Assertion, for instance in support of a PM1 evidence code.
 
-.. rubric:: Curating Evidence from Clinical Trials
+Curation Scenarios
+~~~~~~~~~~~~~~~~~~
+The table below (Table 1) gives an in depth set of cases for assigning the Clinical Significance to an Evidence Item (EID) where either the "supports" or "does not support" Evidence Direction is used in combination with  a Predictive/Therapeutic, Diagnostic or Prognostic Clinical Significance annotation.
+
+Note that "Reduced Sensitivity" Clinical Significance is used to compare the variant of interest to a known, sensitizing variant. It is not used to compare the efficacy of one drug for a variant against a different drug  for the same variant. In the latter case, the curator may simply make a Predictive evidence item with independently evaluates the efficacy of the drug against the variant of interest.
+
+The "Sensitivity/Response" annotation is used to assess sensitizing variants, which are usually in the form of a primary sensitizing somatic mutation (e.g SNV, amplification, deletion, etc).
+
+The "Resistance" annotation is used in situations where the variant of interest has been observed to induce resistance in a context where, in the absence of the variant, the system being assayed would be deemed sensitive which induce resistance to treatment (e.g. T790M mutation in cis with a  background variant of *EGFR* L858R). In cases where a variant fails to induce sensitivity, then that variant is best annotated with "Does not       Support Sensitivity".
+
+.. figure:: /images/figures/CIViC_attributes-curation-table_thumbnail_v1b.png
+   :alt: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations
+
+   Table 1: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations. :download:`Download a     more readable PDF version here <../images/figures/CIViC_attributes-curation-table_v1b.pdf>`
+
+Both Predictive and Prognostic evidence types may be obtained from the same data set in some cases. Figure 10, displayed below, gives hypothetical examples of predictive and prognostic structured annotation derived from   patient data.
+
+.. figure:: /images/figures/CIViC_interpreting-predictive-prognostic-clinical-trials_v1d.png
+   :alt: Examples for deriving Predictive and Prognostic Evidence Items (EIDs) from hypothetical clinical trial data.
+
+   Figure 10: Examples for deriving Predictive and Prognostic Evidence Items from hypothetical clinical trial data.
+
+Curating Evidence from Clinical Trials
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When curating evidence obtained from clinical trials performed with groups of patients, where data is pooled by mutation type (e.g. *EGFR* MUTATION), Level B clinical results may be obtained, which may report a statistically significant difference on a clinically relevant parameter such as partial response (PR) between wildtype vs. mutant patients. In addition, the publication may sometimes give outcomes on important individual patient parameters, such as variant, age, sex, best response, overall survival, etc. In these cases, this aggregate of data may be integrated into multiple Evidence Items in the following manner (The figure below is loosely based on a data set in CIViC obtained from PMID:21531810, which can be seen in CIViC on `its Evidence Source page <https://civicdb.org/sources/1503/summary>`__).
 
