@@ -3,7 +3,7 @@ Evidence Overview
 
 The following figure shows the attributes of a CIViC Evidence Item, and the options or values available for each.
 
-.. thumbnail:: /images/figures/CIViC_evidence-item-fields_v1b.png
+.. thumbnail:: /images/figures/CIViC_evidence-item-fields_v3c.png
 
 The rows in the following table describe the minimal components of a CIViC Evidence Item. Several Evidence Statements are synthesized at the Variant level into Variant Summaries but each Evidence Statement is directly linked to a single article in PubMed. *More specific guidelines about Evidence Item components can be found in additional help tabs*.
 
