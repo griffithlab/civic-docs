@@ -3,7 +3,7 @@ Evidence Overview
 
 The following figure shows the attributes of a CIViC Evidence Item, and the options or values available for each.
 
-.. thumbnail:: /images/figures/CIViC_evidence-item-fields_v1b.png
+.. thumbnail:: /images/figures/CIViC_evidence-item-fields_v3c.png
 
 The rows in the following table describe the minimal components of a CIViC Evidence Item. Several Evidence Statements are synthesized at the Variant level into Variant Summaries but each Evidence Statement is directly linked to a single article in PubMed. *More specific guidelines about Evidence Item components can be found in additional help tabs*.
 
@@ -49,8 +49,8 @@ The rows in the following table describe the minimal components of a CIViC Evide
    * - :ref:`evidence-type`
      - Category of clinical action/relevance implicated by
        event. Refer to the additional documentation on evidence types for
-       details on how to enter evidence of each of the four types:
-       Predictive, Prognostic, Predisposing and Diagnostic. See 'Evidence
+       details on how to enter evidence of each of the six types:
+       Predictive, Prognostic, Diagnostic, Predisposing, Oncogenic and Functional. See 'Evidence
        Type' tab for more information.
      - Predictive - The variant is
        predictive of sensitivity or resistance to a therapeutic.
@@ -62,8 +62,8 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - Supports - the evidence supports the clinical significance.
      - CIViC
    * - :ref:`evidence-clinical-significance`
-     - The association with diagnostic/prognostic end
-       point or treatment. See 'Evidence Type' tab for more information.
+     - The impact of the variant for predictive, prognostic, diagnostic, or functional evidence types.
+       See 'Evidence Type' tab for more information.
      - Resistant or Non-response - mutation is associated with resistance
        to therapy.
      - CIViC
@@ -80,9 +80,9 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - Estrogen-receptor positive breast cancer (DOID: 0060075).
      - CIViC (Disease Ontology)
    * - :ref:`evidence-associated_phenotype`
-     - 
-     - 
-     - 
+     - Specific phenotypes associated with the evidence statement.
+     - Pancreatic cysts (HP:0001737).
+     - The Human Phenotype Ontology (HPO)
    * - :ref:`evidence-drug`
      - For predictive evidence, indicates the therapy for which
        sensitivity or resistance is indicated (With NCIt ID if
@@ -111,9 +111,9 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - 24185512
      - CIViC (PubMed)
    * - :ref:`evidence-clinical-trial`
-     - 
-     - 
-     - 
+     - Clinical trial associated with the evidence item. 
+     - NCT01154140
+     - ClinicalTrials.gov
    * - :ref:`evidence-evidence_rating`
      - A rating on a 5-star scale, portraying the curators
        trust in the experiments from which the evidence is curated. Refer
