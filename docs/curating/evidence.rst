@@ -163,14 +163,31 @@ The above Predisposing Evidence Item (EID) lists the ACMG code PP1 as derived fr
 
 In some instances, a publication will contain relevant germline variant evidence for curation into CIViC and EID creation, but that evidence will not be sufficient to fulfill any of the ACMG criteria (especially in some cases where the gene or disease-specific criteria may be more stringent). In this case Curators should indicate this at the end of the Evidence Statement, by adding a brief statement such as “No ACMG criteria met”, in order to indicate to Editors and future Users that the evidence had been analyzed for the presence of ACMG codes during the curation process.
 
+Oncogenic Evidence Type
+~~~~~~~~~~~~~~~~~~~~~~~~
+Oncogenic Evidence Items (EIDs) capture clinically relevant information associated with a somatic variant’s involvement in tumor pathogenesis as described by the `Hallmarks of Cancer: The Next Generation. <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__ An Evidence Statement for an Oncogenic EID includes a summary of the reported data relevant to the variant and disease of interest by describing assays performed and experimental results.  The Comments for an Oncogenic EID may contain `Oncogenicity Codes <https://cancervariants.org/assets/docs/SOP_onc-path_interp_latest.pdf>`__.
+
+Below is an example of an Evidence Item with an Oncogenic Evidence Type (Figure 7). This EID describes a study wherein *KRAS Q61H* was transfected into cells resulting in the oncogenic property of multilayered growth. Oncogenicity code OS2 was applied in the comments because a well established in vitro experiment (focus formation assay) supported an oncogenic effect of this variant.
+
+.. figure:: /images/figures/staging_evidence-summary6046.png
+   :alt: Screenshot of an Oncogenic Evidence Item summary
+  
+   Figure 7: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment 
+
+Oncogenic Curation Practices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Oncogenic Evidence Type describes literature derived evidence pertaining to a somatic variant’s role in tumor formation, growth, survival or metastasis, as summarized by Hanahan and Weinberg in `Hallmarks of Cancer: The Next Generation <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__. Disease type should be specified, as oncogenic effects may depend on cellular context. For cases where a disease type is difficult to ascertain, such as experiments in highly de-differentiated cell lines, the Disease Ontology term ‘Cancer’ can be used. Oncogenic EIDs use ‘N/A’ for Evidence Direction and Clinical Significance because assessments of a variant’s overall oncogenicity generally will not be possible at the single evidence item level. The Evidence Statement should contain a summary of the experiments or findings suggesting an oncogenic or benign variant effect. 
+
+The Oncogenic Evidence Item may be associated with `Oncogenicity Codes <https://cancervariants.org/assets/docs/SOP_onc-path_interp_latest.pdf>`__ developed by the Knowledge Curation and Interpretation Standards (KCIS) working group of the VICC in collaboration with ClinGen working groups. Oncogenicity codes assess oncogenicity of a given somatic variant in a mechanism similar to that used in the 2015 ACMG/AMP Guidelines for germline pathogenicity. Enumeration of Oncogenicity Codes derived from the literature along with a brief justification for the presence of each code can be included as a comment (this recommendation will be revised upon formal publication of the Oncogenicity Codes).
+
 Functional Evidence Type
 ~~~~~~~~~~~~~~~~~~~~~~~~
-Below is an example of an Evidence Item that describes a Functional Evidence Type. This example summarizes the impact of a novel *KIAA1549-BRAF* fusion event on the function of the *BRAF* protein. Specifically, the fusion product showed gain of function activity in cell lines relative to wildtype kinase. This activity was also demonstrated to be comparable to a known gain of function variant, *BRAF V600E*.
+Below is an example of a Evidence Item that describes a Functional Evidence Type. The authors performed an experiment to determine the impact on the variant on normal protein function related to cell cycle arrest. Transfection of wildtype *CDK2NA* arrests the cell cycle in CDK2NA deficient cells, whereas transfection of *CDK2NA* D108Y does not impact cell cycle progression in the CDK2NA deficient cells. This result indicates the innate ability of CDKN2A to arrest cell cycle has been lost as a result of the presence of the variant.
 
-.. figure:: /images/figures/evidence-summary_EID7337.png
-   :alt: Screenshot of a functional Evidence Item summary
+.. figure:: /images/figures/evidence-summary_7551.png
+   :alt: Screenshot of a Functional Evidence Item summary
 
-   Figure 7: Screenshot of a functional Evidence Item summary
+   Figure 8: Screenshot of a Functional Evidence Item summary
 
 Functional Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -206,7 +223,7 @@ When curating evidence obtained from clinical trials performed with groups of pa
 .. figure:: /images/figures/clinical-evidence-extraction_FPO.png
    :alt: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
 
-   Figure 7: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
+   Figure 9: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
 
 Statistical results may be obtained from the study to annotate a Categorical (sometimes colloquially called bucket-type) CIViC Variant, which pools together a category of sequence variants (for example *EGFR* MUTATION). Significantly longer progression free survival (PFS) may be observed in the mutant group (grouped under the Categorical CIViC Variant) vs. the wildtype group, when given a certain drug. In this case, this result may be reported in a CIViC Level B Evidence Item under the CIViC Categorical Variant *EGFR* MUTATION, with Evidence Direction and Clinical Significance “Suggests Sensitivity/Response” to the drug used.
 
