@@ -39,12 +39,12 @@ When curating new evidence, the curator should review the existing evidence alre
 
 Disease stage, prior treatments, and other experimental details influencing evidence interpretation should be captured within an Evidence Item to maximize user comprehension of the underlying study and the appropriate context in which it is relevant. Such details are critical parts of clinical guidelines and can impact which clinical guidelines should be used as well as drug sensitivities (see `EID1008 <https://civicdb.org/links/evidence/1008>`__ and `EID1009 <https://civicdb.org/links/evidence/1009>`__).
 
-Five types of EID exist in CIViC (Figure 4), giving structured clinical annotation to a Variant. Three types of clinical statements, Predictive/Therapeutic, Prognostic and Diagnostic, are usually associated with somatic variants, while Predisposing evidence is generally linked to germline variation. Functional studies are often performed in vitro, so associated EIDs will have the Unknown field selected for Variant Origin.
+Six types of EID exist in CIViC (Figure 4), giving structured clinical annotation to a Variant. Three types of clinical statements, Predictive/Therapeutic, Prognostic and Diagnostic, are usually associated with somatic variants, while Predisposing evidence is generally linked to germline variation. Functional studies are often performed in vitro, so associated EIDs will have the Unknown field selected for Variant Origin.
 
-.. figure:: /images/figures/CIViC_evidence-item-primary-fields_v3a.png
+.. figure:: /images/figures/CIViC_evidence-item-primary-fields_temp.png
    :alt: Structured annotation comprising the five types of CIViC Evidence Item
 
-   Figure 4: Structured annotation comprising the five types of CIViC Evidence Item
+   Figure 4: Structured annotation comprising the six types of CIViC Evidence Item
 
 
 Predictive Evidence
@@ -55,9 +55,9 @@ Below is an example of an EID that illustrates the Predictive Evidence Type (Fig
 
 
 .. figure:: /images/figures/evidence-summary_EID1077.png
-   :alt: Screenshot of a predictive Evidence Item summary
+   :alt: Screenshot of a Predictive Evidence Item summary
 
-   Figure 5: Screenshot of a predictive Evidence Item summary
+   Figure 5: Screenshot of a Predictive Evidence Item summary
 
 Predictive Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -73,16 +73,16 @@ The duration of exposure to the drug and confounding interactions (e.g., wash-ou
 
 Assigning a Clinical Significance of Sensitivity/Response can depend on factors such as response rate, which will vary significantly with disease and treatment. In some cases a response rate of 15% may represent a significant improvement, and merit a valuation of Sensitivity/Response. A general guideline for CIViC curation is to follow the author’s published (and peer-reviewed) interpretations and conclusions of the results.
 
-Extensive guidelines, use cases, and examples for curation of predictive evidence are given in Figure 7 and Table 1.
+Extensive guidelines, use cases, and examples for curation of predictive evidence are given in Figure 11 and Table 1.
 
 Diagnostic Evidence
 ~~~~~~~~~~~~~~~~~~~
 Below is an example of an EID that illustrates the Diagnostic Evidence Type. This example describes the World Health Organization guidelines for classifying chronic myelomonocytic leukemia (CMML). Specifically, if a patient has a PCM1-JAK2 fusion or a rearrangement involving PDGFRA, PDGFRB, or FGFR1, especially in the setting of eosinophilia, the patient does not have CMML.
 
-.. figure:: /images/figures/evidence-summary_EID1077.png
-   :alt: Screenshot of a diagnostic Evidence Item summary
+.. figure:: /images/figures/evidence-summary_EID1427.png
+   :alt: Screenshot of a Diagnostic Evidence Item summary
 
-   Figure 6: Screenshot of a diagnostic Evidence Item summary
+   Figure 6: Screenshot of a Diagnostic Evidence Item summary
 
 Diagnostic Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,9 +103,9 @@ Prognostic Evidence
 Below is an example of an Evidence Item that describes a Prognostic Evidence Type. This example describes a 406-patient trial whereby observation of any somatic TP53 mutation in chronic lymphoblastic leukemia conferred poor prognosis relative to wildtype TP53.
 
 .. figure:: /images/figures/evidence-summary_EID1507.png
-   :alt: Screenshot of a prognostic Evidence Item summary
+   :alt: Screenshot of a Prognostic Evidence Item summary
 
-   Figure 7: Screenshot of a prognostic Evidence Item summary
+   Figure 7: Screenshot of a Prognostic Evidence Item summary
 
 Prognostic Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -117,7 +117,7 @@ Prognostic evidence is characterized by either better outcomes for patient subpo
 
 In some cases, a variant subpopulation with worse outcome may benefit from subsequent therapy targeted to that variant (e.g., *HER2* amplification in breast cancer).
 
-Guidelines, use cases, and examples for curation of prognostic evidence are given in Figure 10 and Table 1.
+Guidelines, use cases, and examples for curation of prognostic evidence are given in Figure 11 and Table 1.
 
 Predisposing Evidence
 ~~~~~~~~~~~~~~~~~~~~~
@@ -128,7 +128,7 @@ Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/events/ge
 .. figure:: /images/figures/evidence-summary_EID5546.png
    :alt: Screenshot of a predisposing Evidence Item summary
 
-   Figure 8: Screenshot of a predisposing Evidence Item summary
+   Figure 8: Screenshot of a Predisposing Evidence Item summary
 
 Predisposing Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -145,15 +145,15 @@ Oncogenic Evidence Type
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Oncogenic Evidence Items (EIDs) capture clinically relevant information associated with a somatic variant’s involvement in tumor pathogenesis as described by the `Hallmarks of Cancer: The Next Generation. <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__ An Evidence Statement for an Oncogenic EID includes a summary of the reported data relevant to the variant and disease of interest by describing assays performed and experimental results.  The Comments for an Oncogenic EID may contain `Oncogenicity Codes <https://cancervariants.org/assets/docs/SOP_onc-path_interp_latest.pdf>`__.
 
-Below is an example of an Evidence Item with an Oncogenic Evidence Type (Figure 7). This EID describes a study wherein *KRAS Q61H* was transfected into cells resulting in the oncogenic property of multilayered growth. Oncogenicity code OS2 was applied in the comments because a well established in vitro experiment (focus formation assay) supported an oncogenic effect of this variant.
+Below is an example of an Evidence Item with an Oncogenic Evidence Type (Figure 9). This EID describes a study wherein *KRAS Q61H* was transfected into cells resulting in the oncogenic property of multilayered growth. Oncogenicity code OS2 was applied in the comments because a well established in vitro experiment (focus formation assay) supported an oncogenic effect of this variant.
 
 .. figure:: /images/figures/staging_evidence-summary6046.png
    :alt: Screenshot of an Oncogenic Evidence Item summary
   
-   Figure 7: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment 
+   Figure 9: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment 
 
-Oncogenic Curation Practices
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Oncogenic Evidence Curation Practices
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The Oncogenic Evidence Type describes literature derived evidence pertaining to a somatic variant’s role in tumor formation, growth, survival or metastasis, as summarized by Hanahan and Weinberg in `Hallmarks of Cancer: The Next Generation <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__. Disease type should be specified, as oncogenic effects may depend on cellular context. For cases where a disease type is difficult to ascertain, such as experiments in highly de-differentiated cell lines, the Disease Ontology term ‘Cancer’ can be used. Oncogenic EIDs use ‘N/A’ for Evidence Direction and Clinical Significance because assessments of a variant’s overall oncogenicity generally will not be possible at the single evidence item level. The Evidence Statement should contain a summary of the experiments or findings suggesting an oncogenic or benign variant effect. 
 
 The Oncogenic Evidence Item may be associated with `Oncogenicity Codes <https://cancervariants.org/assets/docs/SOP_onc-path_interp_latest.pdf>`__ developed by the Knowledge Curation and Interpretation Standards (KCIS) working group of the VICC in collaboration with ClinGen working groups. Oncogenicity codes assess oncogenicity of a given somatic variant in a mechanism similar to that used in the 2015 ACMG/AMP Guidelines for germline pathogenicity. Enumeration of Oncogenicity Codes derived from the literature along with a brief justification for the presence of each code can be included as a comment (this recommendation will be revised upon formal publication of the Oncogenicity Codes).
@@ -167,7 +167,7 @@ Below is an example of a Evidence Item that describes a Functional Evidence Type
    :alt: Screenshot of a Functional Evidence Item summary
 
 
-   Figure 8: Screenshot of a Functional Evidence Item summary
+   Figure 10: Screenshot of a Functional Evidence Item summary
 
 
 Functional Evidence Curation Practices
@@ -212,12 +212,12 @@ The "Resistance" annotation is used in situations where the variant of interest 
 
    Table 1: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations. :download:`Download a     more readable PDF version here <../images/figures/CIViC_attributes-curation-table_v1b.pdf>`
 
-Both Predictive and Prognostic evidence types may be obtained from the same data set in some cases. Figure 10, displayed below, gives hypothetical examples of predictive and prognostic structured annotation derived from   patient data.
+Both Predictive and Prognostic evidence types may be obtained from the same data set in some cases. Figure 11, displayed below, gives hypothetical examples of predictive and prognostic structured annotation derived from   patient data.
 
 .. figure:: /images/figures/CIViC_interpreting-predictive-prognostic-clinical-trials_v1d.png
    :alt: Examples for deriving Predictive and Prognostic Evidence Items (EIDs) from hypothetical clinical trial data.
 
-   Figure 10: Examples for deriving Predictive and Prognostic Evidence Items from hypothetical clinical trial data.
+   Figure 11: Examples for deriving Predictive and Prognostic Evidence Items from hypothetical clinical trial data.
 
 Curating Evidence from Clinical Trials
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -228,7 +228,7 @@ When curating evidence obtained from clinical trials performed with groups of pa
    :alt: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
 
 
-   Figure 9: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
+   Figure 12: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
 
 
 Statistical results may be obtained from the study to annotate a Categorical (sometimes colloquially called bucket-type) CIViC Variant, which pools together a category of sequence variants (for example *EGFR* MUTATION). Significantly longer progression free survival (PFS) may be observed in the mutant group (grouped under the Categorical CIViC Variant) vs. the wildtype group, when given a certain drug. In this case, this result may be reported in a CIViC Level B Evidence Item under the CIViC Categorical Variant *EGFR* MUTATION, with Evidence Direction and Clinical Significance “Suggests Sensitivity/Response” to the drug used.
