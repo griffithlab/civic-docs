@@ -145,7 +145,7 @@ Oncogenic Evidence Type
 ~~~~~~~~~~~~~~~~~~~~~~~~
 Oncogenic Evidence Items (EIDs) capture clinically relevant information associated with a somatic variant’s involvement in tumor pathogenesis as described by the `Hallmarks of Cancer: The Next Generation. <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__ An Evidence Statement for an Oncogenic EID includes a summary of the reported data relevant to the variant and disease of interest by describing assays performed and experimental results.  The Comments for an Oncogenic EID may contain `Oncogenicity Codes <https://cancervariants.org/assets/docs/SOP_onc-path_interp_latest.pdf>`__.
 
-Below is an example of an Evidence Item with an Oncogenic Evidence Type (Figure 9). This EID describes a study wherein *KRAS Q61H* was transfected into cells resulting in the oncogenic property of multilayered growth. Oncogenicity code OS2 was applied in the comments because a well established in vitro experiment (focus formation assay) supported an oncogenic effect of this variant.
+Below is an example of an Evidence Item with an Oncogenic Evidence Type (Figure 9). This EID describes a study wherein KRAS Q61H was transfected into cells resulting in the oncogenic property of multilayered growth. Oncogenicity code OS2 was applied in the comments because a well established in vitro experiment (focus formation assay) supported an oncogenic effect of this variant.
 
 .. figure:: /images/figures/staging_evidence-summary6046.png
    :alt: Screenshot of an Oncogenic Evidence Item summary
@@ -160,8 +160,9 @@ The Oncogenic Evidence Item may be associated with `Oncogenicity Codes <https://
 
 Functional Evidence Type
 ~~~~~~~~~~~~~~~~~~~~~~~~
-Below is an example of a Evidence Item that describes a Functional Evidence Type. The authors performed an experiment to determine the impact on the variant on normal protein function related to cell cycle arrest. Transfection of wildtype *CDKN2A* arrests the cell cycle in CDKN2A deficient cells, whereas transfection of *CDKN2A* D108Y does not impact cell cycle progression in the CDKN2A deficient cells. This result indicates the innate ability of CDKN2A to arrest cell cycle has been lost as a result of the presence of the variant.
+The Functional Evidence Type describes data from in vivo or in vitro experiments that assess the impact of a variant at the protein level. Functional Evidence is fundamentally disease agnostic as the biological function of a protein is constant regardless of cell context. The variant origin for this evidence type is anticipated to primarily be N/A and entries should be classified under the Evidence Level of D - Preclinical. Variant impact on protein structure, folding, binding, activity, activation, phosphorylation, and downstream pathway signaling are all types of evidence that fall under the Functional Evidence Type. 
 
+Below is an example of a Evidence Item that describes a Functional Evidence Type (Figure 10). The authors performed an experiment to determine the impact of the variant on normal protein function related to cell cycle arrest. Expression of wildtype CDKN2A arrests the cell cycle in CDKN2A deficient cells, whereas expression of CDKN2A D108Y does not impact cell cycle progression in the CDKN2A deficient cells. This results indicates the innate ability of CDKN2A  to arrest cell cycle progression has been lost as a result of the presence of the protein variant.
 
 .. figure:: /images/figures/evidence-summary_7551.png
    :alt: Screenshot of a Functional Evidence Item summary
@@ -172,9 +173,9 @@ Below is an example of a Evidence Item that describes a Functional Evidence Type
 
 Functional Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Functional Evidence Items should describe how the variant alters biological function from the reference state. This can include a change in function or lack of change in function.
+Functional Evidence Items describe how the variant alters (or does not alter) biological function from the reference state. The Evidence Statement should include details on the experimental conditions (e.g., specification of cell type and/or model system, expression vector, vector entry system, and selection method) and the results related to the potential impact on function (including statistics, if applicable).
 
-Clinical Significance for Functional Evidence Types adhere to the following rules:
+Clinical Significance for Functional Evidence Types adhere to the following rules related to Muller's Morphs:
 
 .. list-table::
    :widths: 20 80
@@ -193,9 +194,7 @@ Clinical Significance for Functional Evidence Types adhere to the following rule
    * - Unknown
      - A variant that cannot be precisely defined by gain-of-function, loss-of-function, or unaltered function.
 
-Functional Evidence Items may be used to support certain ACMG codes (e.g. PM1). In these cases, the ACMG code should be listed in the Evidence Statement along with a brief justification for its inclusion.
-
-In some cases, Functional Evidence Items may appear as supporting evidence for a Predisposing Assertion, for instance in support of a PM1 evidence code.
+Functional Evidence Items may be used to support certain ACMG codes (e.g. PM1). In these cases, the ACMG code should be listed in the Evidence Statement along with a brief justification for its inclusion. Functional Evidence Items may appear as supporting evidence for  Predisposing Assertions.
 
 Curation Scenarios
 ~~~~~~~~~~~~~~~~~~
