@@ -21,7 +21,7 @@ Once new content is generated or edits are made to existing content within the C
 
 **Application process:**
 
-- An existing curator is nominated or self-nominated by contacting help@civicdb.org.
+- An existing curator is nominated or self-nominated by  `sending an email to the civic-help email list <mailto:help@civicdb.org?subject=CIViC\ Help\ Editor>`_.
 
   - Please provide candidate's full name, affiliation, CV, contact info and CIViC profile id/name.
 
