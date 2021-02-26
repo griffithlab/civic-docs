@@ -45,4 +45,4 @@ The most surefire way to make sure you never get rate limited is to use the HTTP
 Reach Out To Us!
 ----------------
 
-If you have a use case that isn’t being addressed, think you need an increased rate limit, or have questions about efficiently using the CIViC API, please send us an email at help@civicdb.org and we’d be happy to chat! Our goal is to keep the API freely accessible to everyone and not to limit usage as much as possible.
+If you have a use case that isn’t being addressed, think you need an increased rate limit, or have questions about efficiently using the CIViC API, please `send an email to the civic-help email list <mailto:help@civicdb.org?subject=CIViC\ Help\ Request>`_ and we’d be happy to chat! Our goal is to keep the API freely accessible to everyone and not to limit usage as much as possible.
