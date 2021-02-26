@@ -7,7 +7,7 @@ Users may be included in Organizations, primarily in order to keep track of an o
 
 Joining Organizations
 ---------------------
-Currently, an administrator must assign a user to a organization. To request joining a organization, send an email to admin@civicdb.org.
+Currently, an administrator must assign a user to a organization. To request joining a organization, send an email to help@civicdb.org.
 
 Adding Organizations
 --------------------
