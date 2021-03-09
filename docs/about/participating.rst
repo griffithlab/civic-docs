@@ -4,15 +4,15 @@ Participating
 
 CIViC Principles
 ~~~~~~~~~~~~~~~~
-- **Community consensus.** The interpretations of clinical actionability required to enable precision medicine should be freely available and openly discussed across a diverse community. To facilitate consensus building, the interface must support direct contribution from members of the community.
+- **Community consensus.** The interpretations of clinical actionability required to enable precision medicine should be freely available and openly discussed across a diverse community. To facilitate consensus building, the interface must support direct contribution and conversation from members of the community.
 
-- **Interdisciplinary.** An interdisciplinary approach is needed to combine the expertise of genome scientists and health care providers, whose efforts are often isolated.
+- **Interdisciplinary.** An interdisciplinary approach is needed to combine the expertise of genomic scientists, health care providers, industry partners, and other stakeholders whose efforts are often isolated. CIViC is open to curation and use by all. Expert Editors represent diverse scientific and clinical backgrounds. 
 
 - **Transparency.** Content should be created with transparency, kept current, be comprehensive, track provenance, and acknowledge the efforts of creators.
 
-- **Computationally accessible.** The interface should be both structured enough to allow computational data mining (via APIs) and agile enough to handle the product of openly debated, human interpretation.
+- **Computationally accessible.** The interface should be both structured enough to allow computational data mining (via APIs) and agile enough to handle the product of openly debated human interpretation.
 
-- **Freely accessible.** CIViC is committed to providing unencumbered and efficient access to community-driven curation and interpretation of cancer mutations. Curated knowledge will remain free and can be accessed anonymously without login unless the user wishes to contribute to content. No fees will be introduced.
+- **Freely accessible.** CIViC is committed to providing unencumbered and efficient access to community-driven curation and interpretation of cancer variants. Curated knowledge will remain free and can be accessed anonymously without login unless the user wishes to contribute to content. No fees will be introduced.
 
 - **Open license.** CIViC will encourage both academic and commercial engagement through flexible licensing. CIViC is released with minimal restrictions under a `Creative Commons Public Domain Dedication, CC0 1.0 Universal License <https://creativecommons.org/publicdomain/zero/1.0/>`_. While sharing improvements is strongly encouraged, the data can be adopted and used for nearly any purpose including the creation of commercial applications derived from the knowledge.
 
@@ -21,20 +21,20 @@ CIViC Principles
 
 How to Contribute
 ~~~~~~~~~~~~~~~~~
-There are several ways you can make a contribution to this important problem:
+There are several ways you can make a contribution to this important cause:
 
-
-- **Add:** Add evidence statements that support clinical actions associated with genomic variants (e.g. single nucleotide substitution, structural variant, gene fusion, etc.), add summaries of the corpus of evidence for a variant, suggest publications that should be curated, or help create a synthesized interpretation (i.e., Assertion) of the evidence supporting a variant in the context of a disease and its clinical implications.
-
-- **Approve:** Community Editors may approve submitted content and elevate the status of this content or approve suggest changes (edits), improving the existing content.
 
 - **View:** Make use of the community-created content in your own research by browsing, searching, and examining detailed evidence items. All CIViC data and source code are provided freely for almost any use.
 
-- **Edit:** Submit a correction or addition to any details about a genomic event, evidence statement, or interpretation.
+- **Discuss:** Participate in an ongoing discussion in an effort to reach community consensus on the appropriate clinical action(s) for a genomic event via comments.
 
-- **Discuss:** Participate in an ongoing discussion in an effort to reach community consensus on the appropriate clinical action(s) for a genomic event.
+- **Flag:** Call Editor attention to Entities (Variants, Genes, Evidence, Assertions) that contain inaccuracies or inconsistencies.
 
-- **Apply/Reject:** Editors and Moderators may apply or reject the edits made by other community members, after taking into account community discussions and opinion.
+- **Suggest Revisions:** Submit a correction or addition to any details about a Gene, Variant, Evidence Etatement, or Assertion.
+
+- **Add:** Add evidence statements that support clinical actions associated with genomic variants (e.g., single nucleotide substitution, structural variant, gene fusion, etc.), summarize the corpus of evidence for a variant, suggest publications for curation, or create a 'state of the field' interpretation (i.e., Assertion) of the evidence supporting a variant in the context of a disease and its clinical implications.
+
+- **Approve/Reject:** Editors may approve or reject submitted Evidence, Assertions, and Revisions made by other community members, after taking into account community discussions and opinion.
   
 Before commenting, correcting, or creating, please visit the :doc:`Curating </curating>`, :doc:`Knowledge Model </model>`, and :doc:`FAQ <faq>` pages to learn more about the CIViC data model and `browse the existing content <https://civicdb.org/browse/variants>`_ for examples. Understand the data model but unsure of where to start? Check out our `list of high-priority gene <https://github.com/genome/civic-server/tree/master/public/downloads/RankedCivicGeneCandidates.tsv>`_ for inspiration.
 
