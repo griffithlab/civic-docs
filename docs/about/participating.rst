@@ -30,7 +30,7 @@ There are several ways you can make a contribution to this important cause:
 
 - **Flag:** Call Editor attention to Entities (Variants, Genes, Evidence, Assertions) that contain inaccuracies or inconsistencies.
 
-- **Suggest Revisions (Edit):** Submit a correction or addition to any details about a Gene, Variant, Evidence Etatement, or Assertion.
+- **Suggest Revisions (Edit):** Submit a correction or addition to any details about a Gene, Variant, Evidence Statement, or Assertion.
 
 - **Add:** Add evidence statements that support clinical actions associated with genomic variants (e.g., single nucleotide substitution, structural variant, gene fusion, etc.), summarize the corpus of evidence for a variant, suggest publications for curation, or create a 'state of the field' interpretation (i.e., Assertion) of the evidence supporting a variant in the context of a disease and its clinical implications.
 
