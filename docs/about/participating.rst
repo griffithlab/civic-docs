@@ -4,7 +4,7 @@ Participating
 
 CIViC Principles
 ~~~~~~~~~~~~~~~~
-- **Community consensus.** The interpretations of clinical actionability required to enable precision medicine should be freely available and openly discussed across a diverse community. To facilitate consensus building, the interface must support direct contribution and conversation from members of the community.
+- **Community consensus.** The interpretations of clinical actionability required to enable precision medicine should be freely available and openly discussed across a diverse community. To facilitate consensus building, the interface must support direct contribution and discussion from members of the community.
 
 - **Interdisciplinary.** An interdisciplinary approach is needed to combine the expertise of genomic scientists, health care providers, industry partners, and other stakeholders whose efforts are often isolated. CIViC is open to curation and use by all. Expert Editors represent diverse scientific and clinical backgrounds. 
 
