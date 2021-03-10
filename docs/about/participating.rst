@@ -24,7 +24,7 @@ How to Contribute
 There are several ways you can make a contribution to this important cause:
 
 
-- **View:** Make use of the community-created content in your own research by browsing, searching, and examining detailed evidence items. All CIViC data and source code are provided freely for almost any use.
+- **View:** Make use of the community-created content in your own research by browsing, searching, and examining detailed evidence items. All CIViC data and source code are provided freely.
 
 - **Discuss:** Participate in an ongoing discussion in an effort to reach community consensus on the appropriate clinical action(s) for a genomic event via comments.
 
