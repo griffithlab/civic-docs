@@ -1,7 +1,7 @@
 Instructional Videos
 ====================
 The following videos offer overviews of the CIViC application and are recommended viewing for users wishing to gain a quick understanding of basic CIViC
-interface elements and workflows. For a complete/current list of intructional videos please visit the `CIViC YouTube channel <https://www.youtube.com/playlist?list=PLImz36orVFPCQjx6wjMrYW-IPWGk8HrbX>`.
+interface elements and workflows. For a complete/current list of intructional videos please visit the `CIViC YouTube channel <https://www.youtube.com/playlist?list=PLImz36orVFPCQjx6wjMrYW-IPWGk8HrbX>`__.
 
 CIViC - Getting Started
 _______________________
