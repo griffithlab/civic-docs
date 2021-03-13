@@ -45,7 +45,7 @@ The table below includes an extensive set of example variants for many of the co
 Variant name                     Gene     Variant type                      Application and Notes
 ================================ ======== ================================ ======================================================================
 V600E                            *BRAF*   Missense Variant                 A specific amino acid change. Variant Name encapsulates all the nucleotide changes that could have produced it. Somatic variants are not typically described at the genome or transcript level in publications.
-S65W (c.194C>G)                  *VHL*    Missense Variant                 A specific amino acid change where the precise nucleotide change is provided or ascertainable. Protein change p. notation is implied, other HGVS notation (e.g. ‘ g.’ or ‘c.’) used  when applicable. This  degree of resolution is typically used for germline variants.
+S65W (c.194C>G)                  *VHL*    Missense Variant                 A specific amino acid change where the precise nucleotide change is provided or ascertainable. Protein change p. notation is implied, other HGVS notation (e.g. ‘g.’ or ‘c.’) used  when applicable. This  degree of resolution is typically used for germline variants.
 E709A and G719C                  *EGFR*   Missense Variant                 Multiple concomitant missense variants in the same gene (e.g. double mutants). Should not be used when patients with different mutations in the same gene are pooled and analyzed.
 V600E or V600K                   *BRAF*   Missense Variant                 Different specific missense variants in the same gene but different patients pooled together. The shorthand V600E/K should not be used.  
 (V600E or V600K) Amplification   *BRAF*   Missense Variant, 
@@ -79,17 +79,17 @@ EML4-ALK e6-e20                  *ALK*    Transcript Fusion                Fusio
 BCR-ABL T315I                    *ABL1*   Transcript Fusion,
                                           Missense Variant                 Complex genotype describing a concurrent fusion variant and a missense variant.  
 Fusion                           *ALK*    Transcript Fusion                Fusion with an unknown partner (common for fusions detected by methods like FISH).
-Rearrangement                    *MLL*    Structural Variant               A change in the structure genetic structure wherein a fusion protein is not necessarily implied to have been created (e.g. translocations, genetic fusions with a regulatory region).
-FLT3-ITD                         *FLT3*   In-frame Insertion               Imprecise insertion with shared consequences. 
+Rearrangement                    *MLL*    Structural Variant               A change in the genetic structure wherein a fusion protein is not necessarily implied to have been created (e.g. translocations, genetic fusions with a regulatory region).
+FLT3-ITD                         *FLT3*   In-frame Insertion               Imprecise internal tandem duplications (insertion) with shared consequences. 
 Exon 1-2 Deletion                *VHL*    Deletion {sequence feature}      Deletion of specific regions of a gene.
 Partial Deletion                 *VHL*    Deletion {sequence feature}      All partial deletions where boundaries are not specified. When the size of the deletion is known but the specific exons are not, “Partial deletion of 0.7 Kb” can be included in the Evidence Statement, but not the Variant Name.
 Deletion                         *VHL*    Deletion {sequence feature}      Presumed deletion of the whole gene. 
-Underexpression                  *ATRX*   N/A                              Reduced or eliminated expression of protein or mRNA products, as detected by assays such as western blots, RT PCR, IHC. Do not use if the causal genomic alteration is known; the alteration would be the variant name.
-Loss                             *ARID1A* N/A                              Broadest categorical variant in CIViC. Used when the source describes a mix of genetic and expression events or does not clarify how loss was ascertained. Do not use when authors expression assays are used to confirm genetic results (the genetic event would be the variant name). Loss can be used at the Assertion level to combine Underexpression and deleterious genetic variants.
+Underexpression                  *ATRX*   N/A                              Reduced or eliminated expression of protein or mRNA products, as detected by assays such as Western blots, RT PCR, IHC. Do not use if the causal genomic alteration is known; the alteration would be the variant name.
+Loss                             *ARID1A* N/A                              Broadest categorical variant in CIViC. Used when the source describes a mix of genetic and expression events or does not clarify how loss was ascertained. Do not use when expression assays are used to confirm genetic results (the genetic event would be the variant name). Loss can be used at the Assertion level to combine Underexpression and deleterious genetic variants.
 Amplification                    *PIK3CA* Transcript Amplification         The number of gene copies is greater than two.
-Overexpression                   *ERRBB2* N/A                              Increased expression of protein or mRNA products, as detected by assays such as western blots, RT PCR, IHC. Do not use if the causal genomic alteration is known; the alteration would be the variant name.
-Splice Site (c.340+1G>A)         *VHL*    Splice Donor Variant             A splice variant that changes the 2 base region at the 5' end of an intron
-Splice Site (c.341-2A>C)         *VHL*    Splice Acceptor Variant          A splice variant that changes the 2 base region at the 3' end of an intron
+Overexpression                   *ERRBB2* N/A                              Increased expression of protein or mRNA products, as detected by assays such as Western blots, RT PCR, IHC. Do not use if the causal genomic alteration is known; the alteration would be the variant name.
+Splice Site (c.340+1G>A)         *VHL*    Splice Donor Variant             A splice variant that changes the 2 base pair region at the 5' end of an intron
+Splice Site (c.341-2A>C)         *VHL*    Splice Acceptor Variant          A splice variant that changes the 2 base pair region at the 3' end of an intron
 Splice Region (c.463+3A>G)       *VHL*    Splice Donor Region Variant      Splice region within 3-8 bases of the intron.
 Splice Region (c.464-4C>T)       *VHL*    Splice Region Variant            Splice region within 3-8 bases of the intron.
 Promoter Hypermethylation        *CDKN2A* N/A                              Epigenetic modification.
