@@ -47,9 +47,7 @@ Variant name                     Gene     Variant type                      Appl
 V600E                            *BRAF*   Missense Variant                 A specific amino acid change. Variant Name encapsulates all the nucleotide changes that could have produced it. Somatic variants are not typically described at the genome or transcript level in publications.
 S65W (c.194C>G)                  *VHL*    Missense Variant                 A specific amino acid change where the precise nucleotide change is provided or ascertainable. Protein change p. notation is implied, other HGVS notation (e.g. ‘ g.’ or ‘c.’) used  when applicable. This  degree of resolution is typically used for germline variants.
 E709A and G719C                  *EGFR*   Missense Variant                 Multiple concomitant missense variants in the same gene (e.g. double mutants). Should not be used when patients with different mutations in the same gene are pooled and analyzed.
-V600E or V600K                   *BRAF*   Missense Variant, 
-                                          Copy Number Gain 
-                                          {sequence feature}               Complex combination between two different types of variants in the same gene (e.g. missense and copy number gain).  Boolean order of operations and parentheses should be used when needed. 
+V600E or V600K                   *BRAF*   Missense Variant                 Different specific missense variants in the same gene but different patients pooled together. The shorthand V600E/K should not be used.  
 (V600E or V600K) Amplification   *BRAF*   Missense Variant, 
                                           Copy Number Gain 
                                           {sequence feature}               Complex combination between two different types of variants in the same gene (e.g. missense and copy number gain). Boolean order of operations and parentheses should be used when needed. 
