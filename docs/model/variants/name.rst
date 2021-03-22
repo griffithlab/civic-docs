@@ -25,13 +25,13 @@ When curating the Variant Name field, the most specific Variant Name described b
 
 **General Conventions:**
 
-- Title case should be used
+- Title case should be used.
 - Names and HGVS expressions should follow the HGVS 3’ rule. 
 - Protein changes should be written in 1-letter form and exclude the preceding 'p.'. 
-- HGVS for c. and g. nomenclature should be used and include the preceding 'c.' or 'g.' to differentiate it from protein nomenclature.
-- Shorthand should be avoided (e.g., Mutation instead of Mut,Expression instead of Exp) unless part of HGVS nomenclature (e.g., E746_T751delinsVA)
-- 'or' rather than '/' should be used to connect variants (e.g. G12 or G13, not G12/G13)
-- Frameshift Variant Names should use the shorter HGVS-like protein naming style (e.g., P86fs). The longer protein nomenclature, which includes predicted downstream protein consequences can be included as an alias (e.g., P86Afs*46)
+- HGVS for c. and g. nomenclature may be used and should include the preceding 'c.' or 'g.' to differentiate it from protein nomenclature.
+- Shorthand should be avoided (e.g., use Mutation instead of Mut, Expression instead of Exp, etc.) unless part of HGVS nomenclature (e.g., E746_T751delinsVA).
+- 'or' rather than '/' should be used to connect variants (e.g. G12 or G13, not G12/G13).
+- Frameshift Variant Names should use the shorter HGVS-like protein naming style (e.g., P86fs). The longer protein nomenclature, which includes predicted downstream protein consequences can be included as an alias (e.g., P86Afs*46).
 - Somatic variants are not typically described at the genome or transcript level in publications. Protein-effect level descriptions are appropriate for most somatic variants.
 - Categorical variants should be singular and exclude the gene name (e.g., Fusion, Rearrangement, Mutation, Frameshift rather than 'ALK Fusions').
 - Splice variants should not use IVS nomenclature.
