@@ -52,8 +52,8 @@ V600E or V600K                   *BRAF*   Missense Variant                 Diffe
                                           Copy Number Gain 
                                           {sequence feature}               Complex combination between two different types of variants in the same gene (e.g. missense and copy number gain). Boolean order of operations and parentheses should be used when needed. 
 V600                             *BRAF*   Protein Altering Variant         Categorical variant involving a single amino acid position with multiple possible changes. 
-Non-V600                         *BRAF*   Protein Altering Variant         Categorical variant excluding a common hotspot This variant describes all *BRAF* mutations that are not at the V600 locus. 
-*214C (c.641_642insC)            *VHL*    Stop Lost                        Use * rather than Ter to indicate a stop codon.
+Non-V600                         *BRAF*   Protein Altering Variant         Categorical variant excluding a common hotspot. This variant describes all *BRAF* mutations that are not at the V600 locus. 
+\*214C (c.641_642insC)            *VHL*    Stop Lost                        Use \* rather than Ter to indicate a stop codon.
 D770_N771insNPG                  *EGFR*   Conservative In-frame Insertion  In-frame insertion of one or more amino acids.
 V560del                          *KIT*    Conservative In-frame Deletion   In-frame deletion of one or more amino acids.
 E746_T751delinsVA                *EGFR*   Delins {sequence feature}        Replacement of one or more amino acids with one or more amino acids.
@@ -87,9 +87,9 @@ Deletion                         *VHL*    Deletion {sequence feature}      Presu
 Underexpression                  *ATRX*   N/A                              Reduced or eliminated expression of protein or mRNA products, as detected by assays such as Western blots, RT PCR, IHC. Do not use if the causal genomic alteration is known; the alteration would be the variant name.
 Loss                             *ARID1A* N/A                              Broadest categorical variant in CIViC. Used when the source describes a mix of genetic and expression events or does not clarify how loss was ascertained. Do not use when expression assays are used to confirm genetic results (the genetic event would be the variant name). Loss can be used at the Assertion level to combine Underexpression and deleterious genetic variants.
 Amplification                    *PIK3CA* Transcript Amplification         The number of gene copies is greater than two.
-Overexpression                   *ERRBB2* N/A                              Increased expression of protein or mRNA products, as detected by assays such as Western blots, RT PCR, IHC. Do not use if the causal genomic alteration is known; the alteration would be the variant name.
-Splice Site (c.340+1G>A)         *VHL*    Splice Donor Variant             A splice variant that changes the 2 base pair region at the 5' end of an intron
-Splice Site (c.341-2A>C)         *VHL*    Splice Acceptor Variant          A splice variant that changes the 2 base pair region at the 3' end of an intron
+Overexpression                   *ERBB2*  N/A                              Increased expression of protein or mRNA products, as detected by assays such as Western blots, RT PCR, IHC. Do not use if the causal genomic alteration is known; the alteration would be the variant name.
+Splice Site (c.340+1G>A)         *VHL*    Splice Donor Variant             A splice variant that changes the 2 base pair region at the 5' end of an intron.
+Splice Site (c.341-2A>C)         *VHL*    Splice Acceptor Variant          A splice variant that changes the 2 base pair region at the 3' end of an intron.
 Splice Region (c.463+3A>G)       *VHL*    Splice Donor Region Variant      Splice region within 3-8 bases of the intron.
 Splice Region (c.464-4C>T)       *VHL*    Splice Region Variant            Splice region within 3-8 bases of the intron.
 Promoter Hypermethylation        *CDKN2A* N/A                              Epigenetic modification.
