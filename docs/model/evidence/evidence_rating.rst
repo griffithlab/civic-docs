@@ -47,9 +47,9 @@ Curating Four-Star Evidence
 The example `Evidence Item below <https://cividb.org/links/evidence/1199>`__ describes a Phase 2A clinical trial with multiple arms that included evaluation of the therapeutic effect of pertuzumab and trastuzumab on 37 patients with *HER2* - Amplified colorectal cancer. The study was sufficiently powered to demonstrate an increase in patient response and remission provided their advanced, refractory state and relatively rare molecular alteration for that tumor type. The study was part of a clinical trial that was registered through the NIH and was published in the Journal of Clinical Oncology.
 
 .. figure:: /images/figures/evidence-summary_EID5981.png
-   :alt: Screenshot of EID5981's summary, a five-star Evidence Item
+   :alt: Screenshot of EID5981's summary, a four-star Evidence Item
 
-   Figure 2: Screenshot of EID5981's summary, a five-star Evidence Item
+   Figure 2: Screenshot of EID5981's summary, a four-star Evidence Item
 
 Evidence items with a 4-star rating should be strong, have well-supported evidence, well-controlled experiments, and convincing results. Any discrepancies from expected results are well-explained and not concerning.
 
@@ -60,9 +60,9 @@ Curating Three-Star Evidence
 The example `Evidence Item below <https://cividb.org/links/evidence/5982>`__ describes the same Phase 2A clinical trial from Supplementary Figure 23, but differs in the advanced solid tumor type being evaluated. In the subset of patients with bladder cancer, three of nine patients showed response to combination therapy with trastuzumab and pertuzumab, which supports sensitivity/response. Although this evidence item is derived from the same clinical trial, the reduction in Evidence Rating is representative of the smaller number of patients and large 95% confidence interval.
 
 .. figure:: /images/figures/evidence-summary_EID5982.png
-   :alt: Screenshot of EID5982's summary, a five-star Evidence Item
+   :alt: Screenshot of EID5982's summary, a three-star Evidence Item
 
-   Figure 3: Screenshot of EID5982's summary, a five-star Evidence Item
+   Figure 3: Screenshot of EID5982's summary, a three-star Evidence Item
 
 Evidence Items with a 3-star rating are convincing but not supported by a breadth of experiments. These Evidence Items be smaller scale projects, or novel results without many follow-up experiments. 
 
@@ -73,9 +73,9 @@ Curating Two-Star Evidence
 The example `Evidence Item below <https://cividb.org/links/evidence/5982>`__ describes a Phase II clinical trial that evaluated 29 patients with breast cancer who were being treated with either afatinib, lapatinib, or trastuzumab. In this study, 18 patients showed response to one of the therapeutics. The Evidence Rating for this evidence item was only 2 stars due to lack of evidence supporting the clinical claim (supports sensitivity/response). Specifically, the sample size was low for each of the three arms, there was no reported statistical significance. Additionally, the clinical endpoint for the study was objective response rate, which is not as strong of an endpoint as other metrics such as overall survival.
 
 .. figure:: /images/figures/evidence-summary_EID887.png
-   :alt: Screenshot of EID887's summary, a five-star Evidence Item
+   :alt: Screenshot of EID887's summary, a two-star Evidence Item
 
-   Figure 4: Screenshot of EID887's summary, a five-star Evidence Item
+   Figure 4: Screenshot of EID887's summary, a two-star Evidence Item
 
 Evidence items with a 2-star rating are not well supported by experimental data, and little follow-up data is available. 
 
@@ -86,9 +86,9 @@ Curating One-Star Evidence
 The example `Evidence Item below <https://cividb.org/links/evidence/895>`__ describes a B-level clinical study that evaluated 6 patients with *ERBB2* - Amplification for response to capecitabine, oxaliplatin, and chemoradiotherapy, with or without cetuximab. There was no difference in outcome between the 6 patients with the variant when compared to the 135 patients with no visible *ERBB2* - Amplification on *FISH* / *IHC*. The Evidence Item a heterogenous combination of variant detection methods, a low number of patients in the experimental arm (n=6) and overall low statistical power. Therefore, despite being a B-level Evidence Item, the curator assigned the EID a 1-star Evidence Rating.
 
 .. figure:: /images/figures/evidence-summary_EID895.png
-   :alt: Screenshot of EID895's summary, a five-star Evidence Item
+   :alt: Screenshot of EID895's summary, a one-star Evidence Item
 
-   Figure 5: Screenshot of EID895's summary, a five-star Evidence Item
+   Figure 5: Screenshot of EID895's summary, a one-star Evidence Item
 
 Evidence items with a 1-star rating contain claims that are not well-supported by experimental evidence. Typically, the results are not reproducible and/or have very small sample size. No follow-up is done to validate novel claims.
 
