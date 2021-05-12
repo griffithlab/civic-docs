@@ -46,7 +46,7 @@ These figures provide details about CIViC's knowledge model, showing how the var
 
 .. |gene-fields| thumbnail:: ../images/figures/CIViC_gene-fields_v1b.png
 
-.. |evidence-item-fields| thumbnail:: /images/figures/CIViC_evidence-item-fields_v3c.png
+.. |evidence-item-fields| thumbnail:: ../images/figures/CIViC_evidence-item-fields_v3c.png
 
 .. |assertion-fields| thumbnail:: ../images/figures/CIViC_assertion-fields_v1k.png
 
