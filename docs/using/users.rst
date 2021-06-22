@@ -98,4 +98,4 @@ Finding Users
 
 .. thumbnail:: /images/figures/community-user-search.png
 
-Locate users of interest by filtering by display name, organization role, area of expertise. Sorting and time-limit options are also provided. 
+Locate users of interest by filtering by display name, organization, role, area of expertise. Sorting and time-limit options are also provided. 

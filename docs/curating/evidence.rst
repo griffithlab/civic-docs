@@ -2,44 +2,43 @@
 
 Curating Evidence
 =================
-Evidence Items (EIDs) form the fundamental unit of the CIViC knowledgebase. EIDs derive structured clinical statements from peer reviewed publications and ASCO abstracts, which act as evidence sources for Evidence Items. The EID links back to its source. EIDs are hand-curated units of knowledge, and one evidence source may supply enough data to create multiple EIDs. EIDs are displayed throughout the CIViC application, for example as a summary (Figure 1) and as a data table row (Figure 3).
+Evidence Items (EIDs) form the fundamental unit of the CIViC knowledgebase. EIDs derive structured clinical statements from peer reviewed, PubMed-indexed publications and American Society of Clinical Oncology (ASCO) abstracts, which act as Sources for Evidence Items. EIDs link back to their sources. EIDs are hand-curated units of knowledge, and one evidence source may supply enough data to create multiple EIDs. EIDs are displayed throughout the CIViC application, for example as a summary (Figure 1) and as a data table row (Figure 3).
 
 .. figure:: /images/figures/evidence-summary_EID6568.png
-   :alt: Screenshot of an evidence item summary
+   :alt: Screenshot of an Evidence Item
 
-   Figure 1: Screenshot of an evidence item summary
-
-CIViC Evidence is added and curated via a moderation process that includes submitting, evaluating, accepting (or rejecting), and suggesting changes (Figure 2). CIViC Curators may add or suggest revisions to curated content at each step. Adding content involves submitting new Evidence Items or Assertions that subsequently undergo revision and review by CIViC Editors. Revision of content involves adding or revising the clinical summary and/or its associated features. Once changes are made within the CIViC database, the additions/revisions become visible directly or on a separate revision page depending on the type of submission. Curation is listed as a "submitted" (i.e., pending) until it is accepted by an Editor, who are given power to accept or reject Curator submissions. Curators may reject (but not accept) their own submissions/revisions.
+   Figure 1: Screenshot of an Evidence Item
+CIViC Evidence is added and curated via a moderation process that includes submitting, evaluating, accepting (or rejecting), and suggesting changes (Figure 2). CIViC Curators may add or suggest revisions to curated content at each step. Adding content involves submitting new Evidence Items or Assertions that subsequently undergo revision and Editor review. Revision of content involves adding or revising the clinical summary and/or its associated features. Once changes are made within the CIViC database, the additions/revisions become visible directly or on a separate revision page depending on the type of submission. Curation is listed as a "Submitted" (i.e., pending) until it is accepted by an Editor, who are given power to accept or reject Curator submissions. Curators may reject (but not accept) their own submissions/revisions.
 
 .. figure:: /images/figures/CIViC_adding-updating-evidence_v2a.png
    :alt: Overview of CIViC content creation process
 
    Figure 2: Overview of CIViC content creation process
 
-It is important to note that once evidence is submitted into CIViC as a new Evidence Item, then the EID is visible to the community in the unmoderated/non-reviewed state, and these EIDs are labeled in orange (Figure 3). This enables the public to comment or create moderations on the submitted evidence. It is also important to note that orange Evidence Items may be incomplete, not accurately fit into the CIViC data model, or contain problems which the moderation process is designed to capture and fix. Once a CIViC EID has been reviewed by editors, and all revisions reviewed and accepted, then the EID is accepted by an editor, and becomes labeled green.
+It is important to note that once evidence is submitted into CIViC as a new Evidence Item, then the EID is visible to the community in the unmoderated/non-reviewed state, and these EIDs are labeled in orange (Figure 3). This enables the public to comment or create moderations on the submitted evidence. It is also important to note that orange Evidence Items may be incomplete, not accurately fit into the CIViC data model, or contain problems which the moderation process is designed to capture and fix. Once a CIViC EID has been reviewed by editors, and all revisions reviewed and accepted, then the EID is accepted by an editor, and its label changes to green.
 
 .. figure:: /images/figures/CIViC_evidence-grid-features_v1d.png
    :alt: Evidence Item datagrid features
 
    Figure 3: Evidence Item datagrid features
 
-When an Evidence Item has a pending revision, then it is labeled with a blue exclamation mark icon (Figure 3). Note that revisions can be made to EIDs in both the Submitted/Unreviewed Status (orange) and the Accepted/Fully Reviewed Status (green).
+When an Evidence Item has a pending revision, it is labeled with a blue exclamation mark icon (Figure 3). Note that revisions can be made to EIDs in both the Submitted/Unreviewed Status (orange) and the Accepted Status (green).
 
 .. _curating-evidence-general:
 
 General Evidence Item Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Evidence Items should generally be prepared from primary literature rather than from review articles. It is recommended that curators use reviews to identify primary literature referenced in the review and to curate individual Evidence Items based on these cited articles. Review articles can also be used to develop Gene and Variant summaries.
+Evidence Items should generally be prepared from primary literature rather than from review articles. It is recommended that curators use reviews to identify potential primary literature referenced in the review and to curate individual Evidence Items based on these cited articles. Review articles can also be used to develop Gene and Variant summaries.
 
 When curating new evidence, the curator should review the existing evidence already curated into CIViC for that Variant to look for the following issues:
 
 - For clinical trials and case reports (Levels A, B, and C), overlapping patient populations (i.e. the same patient treatment and outcome described in multiple reports) should be avoided, or carefully noted to alert users of this nuance and avoid conclusions that mistake these studies as independent. Note also that reports describing different phases of the same patient treatment (i.e. erlotinib and subsequently afatinib), or different clinically relevant conclusions (i.e. predictive evidence and simultaneous diagnostic evidence) are independent/non-overlapping entities.
 
-- For Predisposing EIDs describing germline variants, the same patient may appear in multiple studies. Curators should be careful to note these cases by reviewing existing germline EIDs for the same variant in CIViC. 
+- For Predisposing EIDs, which generally describe germline variants, the same patient may appear in multiple studies. Curators should be careful to note these cases and review existing germline EIDs for the same variant in CIViC. 
 
-Disease stage, prior treatments, and other experimental details influencing evidence interpretation should be captured within an Evidence Item to maximize user comprehension of the underlying study and the appropriate context in which it is relevant. Such details are critical parts of clinical guidelines and can impact which clinical guidelines should be used as well as drug sensitivities (see `EID1008 <https://civicdb.org/links/evidence/1008>`__ and `EID1009 <https://civicdb.org/links/evidence/1009>`__).
+Disease stage, prior treatments, and other experimental details influencing evidence interpretation should be captured within the Evidence Statement to maximize user comprehension of the underlying study and the appropriate context in which it is relevant. Such details are critical parts of clinical guidelines and can impact which clinical guidelines should be used as well as drug sensitivities (see `EID1008 <https://civicdb.org/links/evidence/1008>`__ and `EID1009 <https://civicdb.org/links/evidence/1009>`__).
 
-Six types of EID exist in CIViC (Figure 4), giving structured clinical annotation to a Variant. Three types of clinical statements, Predictive/Therapeutic, Prognostic and Diagnostic, are usually associated with somatic variants, while Predisposing evidence is generally linked to germline variation. Functional studies are often performed *in vitro*, so associated EIDs will have the Unknown field selected for Variant Origin.
+Six types of EID exist in CIViC (Figure 4), giving structured clinical annotation to a Variant. Three types of clinical statements, Predictive/Therapeutic, Prognostic, Diagnostic and Oncogenic Evidence Types are usually associated with somatic variants, while Predisposing evidence is generally linked to germline variation. Functional studies are often performed *in vitro*, so associated EIDs will have the Unknown field selected for Variant Origin.
 
 .. figure:: /images/figures/CIViC_evidence-item-primary-fields_temp.png
    :alt: Structured annotation comprising the five types of CIViC Evidence Item
@@ -49,7 +48,7 @@ Six types of EID exist in CIViC (Figure 4), giving structured clinical annotatio
 
 Predictive Evidence
 ~~~~~~~~~~~~~~~~~~~
-Predictive/Therapeutic Evidence Items (EIDs) capture evidence supporting or refuting the role of a variant in conferring drug sensitivity or resistance in the context of a disease. 
+Predictive/Therapeutic Evidence Items (EIDs) capture evidence supporting or refuting the role of a variant in conferring drug sensitivity, resistance or adverse response in the context of a specific disease. 
 
 Below is an example of an EID that illustrates the Predictive Evidence Type (Figure 5). This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with *HER2*-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
 
@@ -67,7 +66,7 @@ The most current name of the Drug (excluding trade names) should be used in the 
 
 Drug Interaction Types are required anytime more than one drug is mentioned for a given study. If multiple drug interaction types are at play (e.g., combinations and substitutes), considering separating these concepts into more than one Evidence Item.
 
-If applicable, the Clinical Trial name and ID should be included in the Evidence Statement. Any clinical trial IDs available in PubMed for the Source linked to this Evidence Item will be automatically imported and linked to this Evidence Item when the PubMed Source is imported into CIViC.
+If applicable, the Clinical Trial name should be included in the Evidence Statement. Any clinical trial IDs available in PubMed for the Source linked to this Evidence Item will be automatically imported and linked to this Evidence Item when the PubMed Source is imported into CIViC.
 
 The duration of exposure to the drug and confounding interactions (e.g., wash-out periods, previous treatment, cancer stage) should be listed.
 
@@ -121,7 +120,7 @@ Guidelines, use cases, and examples for curation of prognostic evidence are give
 
 Predisposing Evidence
 ~~~~~~~~~~~~~~~~~~~~~
-Predisposing Evidence Items are designed to capture clinical information associated with germline variants relevant for cancer. This EID type is closely associated with `ACMG Codes. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/>`__ The general format for a predisposing EID is a summary of the reported data relevant to the variant and disease of interest, followed by an enumeration of ACMG Codes derived from the reported information, which a brief justification for the presence of each code. 
+Predisposing Evidence Items are designed to capture clinical information associated with germline variants relevant for cancer. This Evidence Type is closely associated with `ACMG Codes. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/>`__ The general format for a predisposing EID is a summary of the reported data relevant to the variant and disease of interest, followed by an enumeration of ACMG Codes derived from the reported information with a brief justification for the presence of each code. 
 
 Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/events/genes/58/summary/variants/1810/summary/evidence/5134/summary#evidence>`__) that describes a Predisposing Evidence Type (Figure 8). This example describes a study where the VHL - R167Q (c.500G>A) Variant was described in a set of patients and evidence for the PP1 ACMG-AMP criteria was documented. Hemangioblastoma and pheochromocytoma were seen in patients and are reported as Associated Phenotypes, while the Disease is Von Hippel-Lindau Disease.
 
@@ -198,7 +197,7 @@ Functional Evidence Items may be used to support certain ACMG codes (e.g. PM1). 
 
 Curation Scenarios
 ~~~~~~~~~~~~~~~~~~
-The table below (Table 1) gives an in depth set of cases for assigning the Clinical Significance to an Evidence Item (EID) where either the "supports" or "does not support" Evidence Direction is used in combination with  a Predictive/Therapeutic, Diagnostic or Prognostic Clinical Significance annotation.
+The table below (Table 1) gives an in depth set of cases for assigning the Clinical Significance to an Evidence Item (EID) where either the "Supports" or "Does Not Support" Evidence Direction is used in combination with  a Predictive/Therapeutic, Diagnostic or Prognostic Clinical Significance annotation.
 
 Note that "Reduced Sensitivity" Clinical Significance is used to compare the variant of interest to a known, sensitizing variant. It is not used to compare the efficacy of one drug for a variant against a different drug  for the same variant. In the latter case, the curator may simply make a Predictive evidence item with independently evaluates the efficacy of the drug against the variant of interest.
 
