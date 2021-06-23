@@ -1,61 +1,51 @@
 Curating Assertions
 ===================
-The CIViC Assertion (AID) functions as a summary of a body of evidence in the form of CIViC Evidence Items (EIDs) for a particular CIViC Variant. The Assertion also brings the unique function of incorporating information from practice guidelines (e.g. NCCN) and also integrating widely adopted clinical tiering systems (e.g. AMP-ASCO-CAP (`Li et al. 2017 <https://paperpile.com/c/hW1INu/jFZK>`__) and ACMG-AMP (`Richards et al. 2015 <https://paperpile.com/c/hW1INu/n8Pq>`__).
+The CIViC Assertion (AID) functions as a summary of clinical evidence for a variant, disease and specific predictive (therapeutic), prognostic, diagnostic or predisposing clinical significance supported by Evidence Items (EIDs) appearing in CIViC, along with evidence drawn from other sources, such as databases of variant population frequency. The Assertion is designed to incorporate information from practice guidelines (e.g., NCCN) and also integrates widely adopted clinical tiering systems (e.g., AMP-ASCO-CAP (`Li et al. 2017 <https://paperpile.com/c/hW1INu/jFZK>`__) and ACMG-AMP (`Richards et al. 2015 <https://paperpile.com/c/hW1INu/n8Pq>`__) into structured fields.
 
 .. figure:: /images/figures/CIViC_assertion-summary-screenshot_overview_v1a.jpg
    :alt: Overview of an Assertion summary view
 
-   Figure 1: The Assertion contains a brief one sentence summary and a longer Assertion Statement. It shows information on the CIViC Variant to which it applies. At the bottom section one sees the list of EIDs which support the Assertion. Selecting any supporting EID opens up that EID page
+   Figure 1: The Assertion contains a brief one sentence summary and a longer Assertion Description. It also displays fields describing the CIViC Variant to which it applies. The bottom of the Assertion view shows a list of CIViC Evidence Items (EIDs) which support the Assertion. Selecting any supporting EID opens up that EID page.
 
 .. figure:: /images/figures/CIViC_assertion-fields_v1k.png
    :alt: Assertion fields
 
    Figure 2: Fields in the Assertion
 
-The CIViC Assertion contains specific Variant Origin fields which are filled out during Assertion creation.
+The Assertion contains a one sentence **Assertion Summary** which states the specific variant, disease, and clinical significance with drug if applicable (e.g. “Non-small cell lung cancer with EGFR L858R mutation is sensitive to erlotinib or gefitinib” in Figure 1 above). 
 
-The Assertion contains a one sentence Assertion Statement which acts as a summary (“Non-small cell lung cancer with EGFR L858R mutation is sensitive to erlotinib or gefitinib” in Figure 1 above). 
-
-For higher AMP-ASCO-CAP Tier (Li et al. 2017) Assertions, the more detailed Assertion Description section should list major practice guidelines and approvals associated with the Clinical Significance. For drug treatments this should contain recommended treatment line and cancer stage (e.g. “NCCN guidelines recommend (category 1) erlotinib and gefitinib for NSCLC with sensitizing *EGFR* mutations, along with afatinib and osimertinib.” in Figure 1)
+Beneath the Summary is the **Assertion Description**, which contains background clinical information specific to the variant, disease, and predictive (therapeutic), prognostic, diagnostic or predisposing clinical significance. EIDs supporting the Assertion clinical significance may be listed in this description, and referenced using CURIE identifiers (e.g., civic:EID1234). For Assertions with a higher AMP-ASCO-CAP Tier (Li et al. 2017), the Assertion Description section should list major practice guidelines and approvals associated with the clinical significance. For drug treatments, this may contain a brief restatement of guideline recommended treatment line and cancer stage (e.g. “NCCN guidelines recommend (category 1) erlotinib and gefitinib for NSCLC with sensitizing *EGFR* mutations, along with afatinib and osimertinib.” in Figure 1)
 
 .. figure:: /images/figures/CIViC_add-assertion-screenshot_v1.png
    :alt: Add Assertion form screenshot
 
-   Figure 3: The Assertion Submission form is accessible by clicking the Add tab at the upper right corner of the user interface.
+   Figure 3: The Assertion submission form is accessible by selecting the Add tab at the upper right corner of the user interface. All editable fields of the Assertion are available in this view. The supporting evidence grid at the bottom of the page allows users to associate Evidence Items (EIDs) with the Assertion, which is accomplished by filtering on the provided fields (e.g., EID, Gene, Variant) and selecting the yellow plus sign on the right. 
 
-The CIViC Assertion is supported by Evidence Items (EIDs) for the Assertion Variant or related CIViC Variants. For instance, an Assertion on erlotinib sensitivity of *EGFR* L858R lung cancer may be supported by Evidence Items with the categorical CIViC Variant (sometimes colloquially called “bucket variant”) *EGFR* MUTATION. Note that if all of the supporting EIDs were of the categorical type, with no supporting EID specific to L858R, then an L858R Assertion would not be recommended.   
+The CIViC Assertion is supported by CIViC Evidence Items (EIDs) which describe the same variant, disease and clinical significance as the given Assertion. The  Assertion may also be supported by EIDs written for a more generalized variant. For example an Assertion regarding erlotinib sensitivity of *EGFR* L858R lung cancer may be supported in part by EIDs written for a more general variant such as the *EGFR* Mutation categorical/bucket variant. Note that an Assertion for a specific variant such as *EGFR* L858R cannot be entirely supported by EIDs based on more general variant types such as Mutation, and requires some supporting EIDs of the same specific variant type. Similar principles apply to the Disease, where an Assertion for a specific disease type may in part be supported by EIDs for a more general disease class (e.g. Cancer, DOID 162). Note that cited guidelines should be disease specific.    
 
-The Supporting Evidence grid allows users to associate Evidence Items with Assertions. This can be accomplished by filtering on the provided fields (e.g., EID, Gene, Variant) and selecting the yellow plus sign on the right. 
-
-A sufficient amount of evidence should be added to an Assertion so that the collection of Evidence Items represents that state of the field for the disease, variant, and type of Evidence Statement.
-
-As new evidence emerges which is relevant to a CIViC Variant which already has an accepted Assertion, then additional Evidence Items (EIDs) can be curated from this new evidence and added to the Supporting EIDs for the existing Assertion, potentially raising its ACMG classification or AMP Tier and Level.
-
-All Evidence Items relevant to the Assertion should associated, even if they disagree with the Assertion Summary. Disagreements can be discussed in the Description section and rationale for discounting discrepant evidence should be recounted.
-
+A sufficient amount of evidence should be added to an Assertion so that the collection of Evidence Items represents the 'state of the field' for the Disease, Variant, and Clinical Significance. As new evidence emerges which is relevant to a CIViC Variant with an accepted Assertion, then additional Evidence Items can be curated from this new evidence, and added to the Supporting EIDs for the existing Assertion, potentially raising its ACMG-AMP classification or AMP-ASCO-CAP Tier and Level.
 
 .. figure:: /images/figures/CIViC_assertion-types_v2a.png
    :alt: CIViC Assertion curation by Assertion Type
 
    Figure 4:  CIViC Assertion curation by Assertion type
 
-CIViC Assertions summarize a collection of Evidence Items which reflect the state of literature for the given variant and disease. For Assertion Types typically associated with somatic variants (Predictive, Prognostic, or Diagnostic), AMP-ASCO-CAP 2017 guidelines are followed to associate the Assertion with an AMP Tier and Level, which involves consideration of practice guidelines as well as regulatory approvals associated with specific drugs, as well as consideration of available clinical evidence in the absence of explicit regulatory or practice guidelines. (Figure 4A)
+CIViC Assertions summarize a collection of Evidence Items, along with certain evidence drawn from sources other than publications or meeting abstracts, which together reflect the state of literature and clinical knowledge for the given variant and disease. For Assertion Types dealing with actionable clinical information, (Predictive/Therapeutic, Prognostic, or Diagnostic), AMP-ASCO-CAP 2017 guidelines are followed to associate the Assertion with an AMP Tier and Level. For the highest tier Assertions, this involves consideration of practice guidelines as well as regulatory approvals for drug use in the specific context of the variant and disease. In the absence of explicit regulatory or practice guidelines, the supporting clinical and case study Evidence Items should be used to guide application of AMP Tier and Level (Figure 4A). 
 
-CIViC Predisposing Assertions utilize ACMG-AMP 2015 guidelines to generate a 5-tier pathogenicity valuation for a variant in a given disease context, which is supported by a collection of CIViC Evidence Items, along with other data. ACMG evidence codes for an Assertion are supplied by a collection of supporting CIViC Evidence Items (e.g., PP1 from co-segregation data available in a specific publication), and additionally are derived from Variant data (e.g., PM2 from population databases such as gnomAD). ACMG evidence codes are then combined at the Assertion level to generate a disease-specific pathogenicity classification for the Assertion. (Figure 4B)
+Lower AMP-ASCO-CAP Tier Assertions can be written for variants that are not supported by practice guidelines or extensive clinical evidence, relying on case study or preclinical data. The supporting EIDs should reflect the state of the field regarding the emerging knowledge in such cases, and AMP Tier should be assigned based on the curator and editor’s overviews of the field. It is recommended to consult recent reviews in this case.
 
-Assertions should should reflect the current state of practice guidelines and approvals:
+CIViC Predisposing Assertions utilize ACMG-AMP 2015 guidelines to generate a 5-tier pathogenicity valuation for a variant in a given disease context, which is supported by a collection of CIViC Evidence Items, along with other data. ACMG evidence codes for an Assertion are supplied by a collection of supporting CIViC Evidence Items (e.g., PP1 from co-segregation data available in a specific publication), and additionally are derived from Variant data (e.g., PM2 from population databases such as gnomAD). ACMG evidence codes are then combined at the Assertion level to generate a disease-specific pathogenicity classification for the Assertion (Figure 4B and Figure 8).
 
-- Practice guidelines, which are standard for the field from which the Assertion is derived, should be thoroughly consulted. Approved disease stage, and approved treatment lines should be outlined in the Assertion Description, if applicable.
-- Approved companion diagnostics (e.g. Vysis Break-Apart Fish diagnostic for ALK-fusions) should be listed in the Assertion Description.
-- Disease stage to which the assertion applies, as well as the line of treatment (e.g. first line, salvage, etc) should be made explicit in the Assertion Description. While the body of supporting Evidence Items may be derived from studies with differing patient populations with regard to stage and line of treatment, as well as preclinical studies in disease models, practice guidelines (e.g. NCCN etc) should be consulted for approved use cases.
-- AMP Level and Tier (Li et al. 2017) should be associated with each Predictive, Diagnostic and Prognostic Assertion. For methods on assigning AMP-ASCO-CAP Tier / Level, See Figure 4A.
-- Lower AMP-ASCO-CAP Tier Assertions can be written in the absence of practice guidelines, using Curator and Editor’s overviews of the field in order to assign the appropriate category. It is recommended to consult recent reviews in this case.
-- All Evidence Items relevant to the Assertion should associated, even if they disagree with the Assertion Summary. Disagreements can be discussed in the Description section and rationale for discounting discrepant evidence should be recounted.
-- Application of AMP-ASCO-CAP Tier and Level (Li et al. 2017) is dependant on practice guidelines (e.g. NCCN) ascribing prognostic value to the variant for the given disease, or failing this, the quality and level of evidence supporting the Assertion (Figure 4A).
+Other guidelines that curators should keep in mind include:
+- While the body of supporting Evidence Items may be derived from studies with differing patient populations with regard to stage and line of treatment, as well as preclinical studies in disease models, the Assertion may describe more specific disease context based on reading of practice guidelines (e.g. NCCN etc), and any such descriptions added to the Assertion must explicitly cite the practice guidelines as the source. 
+- Generally, practice guidelines may be summarized in the Assertion description, including disease stage to which the assertion applies, as well as the line of treatment (e.g., first line, salvage), but this information should be clearly labeled as being derived from published guidelines, and those guidelines explicitly cited. 
+- Approved companion diagnostics (e.g. Vysis Break-Apart Fish diagnostic for ALK-fusions) may be listed in the Assertion Description.
+- All Evidence Items relevant to the Assertion should be associated to it, even if they disagree with the Assertion Summary. Disagreements can be discussed in the Assertion Description section and the rationale for discounting discrepant evidence should be recounted.
+- The CIViC Assertion contains specific Variant Origin fields which are filled out during Assertion creation. It is possible for some EIDs in the supporting evidence to have a different Variant Origin than that in the Assertion, but the Assertion should contain substantial support from Evidence Items with the same Variant Origin as in the Assertion.  
 
 Predictive Assertions
 ~~~~~~~~~~~~~~~~~~~~~
-The Predictive Assertion screenshot below (Figure 5) describes that *BRAF* V600E confers sensitivity to combination therapy of dabrafenib and trametinib for patients with melanoma. The AMP-ASCO-CAP Category is Tier I - Level A for this CIViC Variant, Disease and Drug Sensitivity Assertion. This AMP-ASCO-CAP Tiering is a consequence of the presence of this variant and treatment in the Melanoma NCCN Guidelines (v2.2018).
+The Predictive Assertion screenshot below (Figure 5) describes that *BRAF* V600E confers sensitivity to combination therapy of dabrafenib and trametinib for patients with melanoma. The AMP-ASCO-CAP Category is Tier I - Level A for this variant, disease and drug sensitivity assertion. The high AMP-ASCO-CAP Tier is a consequence of the presence of this variant and treatment in the Melanoma NCCN Guidelines (v2.2018).
 
 .. figure:: /images/figures/CIViC_assertion-summary-AID7.png
    :alt: Screenshot of AID7, a predictive assertion
@@ -64,13 +54,10 @@ The Predictive Assertion screenshot below (Figure 5) describes that *BRAF* V600E
 
 Curation Practices for Predictive Assertions
 ____________________________________________
-All Evidence Items relevant to the Assertion should be associated, even if they disagree with the Assertion Summary. Disagreements can be discussed in the Description section and rationale for discounting discrepant evidence should be recounted.
 
-AMP Level and Tier should be associated with each Predictive, Diagnostic and Prognostic Assertions [7]. For methods on assigning AMP-ASCO-CAP Tier / Level, See Figure 4A.
+Predictive Assertions are generally associated with somatic variants. Some germline variants may have pharmacogenomic properties that predict an adverse response to a treatment. In these cases, Predictive Evidence Items and an Assertion can be created with the Clinical Significance being Supports Adverse Response.
 
-Practice guidelines, which are standard for the field from which the Assertion is derived, should be thoroughly consulted. Approved disease stage, and approved treatment lines should be outlined in the Assertion Description, if they are in place in guidelines. It is recommended to consult guidelines (e.g. NCCN) first, to allow them to structure creation of high Tier Assertions.
 
-Lower AMP-ASCO-CAP Tier Assertions can be written in the absence of practice guidelines, using Curator and Editor’s overviews of the field. It is recommended to consult recent reviews in this case. 
 
 Prognostic Assertions
 ~~~~~~~~~~~~~~~~~~~~~
@@ -83,11 +70,8 @@ Figure 6 shows a Prognostic Assertion with an exemplary Assertion Summary and As
 
 Curation Practices for Prognostic Assertions
 ____________________________________________
-All Evidence Items relevant to the Assertion should associated, even if they disagree with the Assertion Summary. Disagreements can be discussed in the Description section and rationale for discounting discrepant evidence should be recounted.
+Prognostic Evidence Items in CIViC describe a variant being associated with better or worse patient outcome in a general manner, independent of any specific treatment. Evidence should show better or worse outcome in the presence of the variant, ideally under different treatment regimes and also in untreated cases if such data is available. Therefore, a larger collection of evidence showing similar prognostic outcomes under a range of different treatment or untreated regimes creates a stronger Prognostic Assertion.
 
-Prognostic evidence in CIViC demonstrates variant association with better or worse patient outcome in a general manner, that is independent of any specific treatment context. Therefore, a larger collection of evidence showing similar prognostic outcomes under a range of different treatment or untreated regimes creates a stronger Prognostic Assertion.
-
-Application of AMP-ASCO-CAP Tier and Level (Li et al. 2017) is dependant on practice guidelines (e.g. NCCN) ascribing prognostic value to the variant for the given disease, or failing this, the quality and level of evidence supporting the Assertion (Figure 4A).
 
 Diagnostic Assertions
 ~~~~~~~~~~~~~~~~~~~~~
