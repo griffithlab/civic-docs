@@ -32,7 +32,7 @@ For a primer on the fundamentals of cancer variant interpretation, we suggest th
 .. rubric:: Other recommended reading
 
 - `Standardized decision support in next generation sequencing reports of somatic cancer variants <https://www.ncbi.nlm.nih.gov/pubmed/24768039>`_
-- `Adapting crowdsourced clinical cancer curation in CIViC to the ClinGen minimum variant level data community‐driven standards <https://www.ncbi.nlm.nih.gov/pubmed/30311370>`_
+- `Adapting crowdsourced clinical cancer curation in CIViC to the ClinGen minimum variant level data community‐driven standards <https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-019-0687-x>`_
 - `Evaluating the Clinical Validity of Gene-Disease Associations: An Evidence-Based Framework Developed by the Clinical Genome Resource <https://www.ncbi.nlm.nih.gov/pubmed/28552198>`_
 - `Organizing knowledge to enable personalization of medicine in cancer <https://www.ncbi.nlm.nih.gov/pubmed/25222080>`_
 
