@@ -110,7 +110,7 @@ The available options for clinical significance depend on the evidence type sele
      - |exclamation-circle|
      - Sequence variant creates a novel function
    * - Dominant Negative
-     - |exclamation-circle|
+     - |expand|
      - Sequence variant abolishes wild type allele function
    * - Unknown
      - |sign-out|
