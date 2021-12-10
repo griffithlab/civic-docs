@@ -10,6 +10,7 @@ Data clients are academic and commercial resources that use CIViC data (for exam
 - `CancerStop Android Application <https://play.google.com/store/apps/details?id=com.sequilabs.cancerstop>`_
 - `CBioPortal <http://www.cbioportal.org/>`_
 - `CIViCmine <http://bionlp.bcgsc.ca/civicmine/>`_
+- `ClinGen Variant Curation Interface (VCI) <https://curation.clinicalgenome.org/>`_
 - `DAPHNI – A platform for precision medicine of multiple myeloma <http://ascopubs.org/doi/10.1200/PO.18.00019>`_
 - `Database of Curated Mutations (DoCM) <http://docm.genome.wustl.edu/>`_
 - `ETH Nexus Personalized Health Technologies - Swiss Variant Interpretation Platform for Oncology <http://www.nexus.ethz.ch/>`_
@@ -20,6 +21,7 @@ Data clients are academic and commercial resources that use CIViC data (for exam
 - `GoldenHelix - VSClinical <http://goldenhelix.com/products/VarSeq/vsclinical.html>`_
 - `International Cancer Genome Consortium (ICGC) Data Portal <https://dcc.icgc.org/>`_
 - `LifeMap Sciences TGex NGS Analysis & Interpretation Platform <http://tgex.genecards.org/>`_
+- `Linked Data Hub (LDH) <https://ldh.clinicalgenome.org/>`_
 - `Medical Genomics Japan Variant Database (MGeND) <https://mgend.med.kyoto-u.ac.jp/>`_
 - `Microsoft Research - Natural Language Processing <https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/tacl17.pdf>`_
 - `MolecularMatch <https://www.molecularmatch.com/>`_
