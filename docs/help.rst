@@ -14,8 +14,8 @@ issue will be public for anyone to see and benefit from.
 Report a Problem
 ----------------
 If you discover a bug or something isn't working quite right, we want to know
-about it! Please `submit an issue to the civic-client github project
-<https://github.com/genome/civic-client/issues>`_. We
+about it! Please `submit an issue to the civic-v2 github project
+<https://github.com/griffithlab/civic-v2/issues>`_. We
 monitor these issues closely and will be able to collaborate on getting the
 problem resolved quickly.
 
