@@ -52,7 +52,7 @@ V600E) with the query parameter format:
 Supported Entity and ID Types
 -----------------------------
 
-CIViC supports the following entity and id types for generating shortned links:
+CIViC supports the following entity and id types for generating shortened links:
 
 .. list-table::
    :widths: 50 50
