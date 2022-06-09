@@ -11,7 +11,7 @@ We welcome contributions to the documentation. If you wish to contribute a clari
 After you've forked and cloned the repository, install [Sphinx](https://www.sphinx-doc.org/en/master/), a [reStructuredText](http://docutils.sourceforge.net/rst.html) documentation generator, and [sphinx-autobuild](https://pypi.org/project/sphinx-autobuild/), a utility that will host and update the documentation as you work:
 
 ```
-pip install sphinx sphinx-autobuild sphinx-fontawesome
+pip install sphinx sphinx-autobuild sphinx-fontawesome sphinxcontrib-images
 ```
 
 These docs also depend on a custom fork of the `sphinxcontrib-programoutput` extension. It can be installed by running:
@@ -33,7 +33,7 @@ Occasionally, especially after adding or moving a page or modifying the configur
 
 ```
 rm -rf ./_build/*
-make build
+make html
 ```
 
 Then restart sphinx-autobuild:

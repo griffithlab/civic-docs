@@ -171,10 +171,17 @@ Alex Wagner
    .. image:: https://secure.gravatar.com/avatar/5a72d8047067d33487a78092f3bbb09e.png?d=identicon&r=pg&s=128
       :target: https://civicdb.org/users/7/profile
 
-   **Role:** Editor |br|
+   **Role:** Administrator |br|
    **Area of Expertise:** Research Scientist
 
-Dr. Wagner is an Instructor at Washington University School of Medicine, where he leads the development of tools and standards for advancing precision medicine and our knowledge of genomic alterations in cancers. He is also co-director of the international Variant Interpretation for Cancer Consortium (VICC; cancervariants.org) and co-leads the Variant Representation group of the Global Alliance for Genomics and Health (ga4gh.org). In this capacity, he works as a lead developer of the GA4GH Variation Representation Specification (VRS, “verse”), a computational framework for precisely representing and sharing variation across systems (vr-spec.readthedocs.io). Dr. Wagner also holds key roles in the American Society of Hematology Somatic Working Group and the ClinGen Somatic Hematologic Cancer Taskforce.
+Dr. Wagner is an Assistant Professor at Nationwide Children's Hospital and The Ohio State University, where he leads the development of tools and standards for advancing precision medicine and our knowledge of genomic alterations in cancers. He is also the managing co-director of the international Variant Interpretation for Cancer Consortium (VICC; cancervariants.org) and co-leads the Variant Representation group of the Global Alliance for Genomics and Health (ga4gh.org). In this capacity, he works as a lead developer of several emerging standards, including:
+
+* A Standard Operating Procedure for the Curation of Gene Fusions 
+* The GA4GH Variation Representation Specification (VRS, “verse”)
+* The GA4GH Variant Origination Policy
+* The GA4GH Data Transfer Object Specification
+
+Dr. Wagner also holds key roles in the American Society of Hematology Somatic Working Group and the ClinGen Somatic Working Group, where he works to apply these standards to the clinical curation and interpretation of genomic variants.
 
 Lukas Wartman
 -------------

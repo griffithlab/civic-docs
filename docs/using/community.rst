@@ -3,7 +3,7 @@ Community
 
 The Community section of CIViC provides a way for users to see their fellow curators and keep track of community curation activity. Leaderboards for key curation activities are displayed, adding an competitive element to the curation process.
 
-The Community section is divided into two similar pages, one for users and the other for organizations - groups of users. Both pages provide leaderboards, and a filterable list of users or organizations.
+The Community section is divided into two similar pages, one for users and the other for organizations - groups of users. Both pages provide leaderboards, and a filterable list of users or organizations. Learn more about Organizations :ref:`here <organizations>`.
 
 Leaderboards
 ------------

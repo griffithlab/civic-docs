@@ -6,7 +6,7 @@ Clinical Significance describes how the variant is related to a specific, clinic
 
 Understanding Clinical Significance
 -----------------------------------
-The available options for clinical significance depend on the evidence type selected for the evidence statement. If a predictive evidence type is selected, clinical significance can include: sensitivity/response, resistance, adverse response, reduced sensitivity, or N/A. Each of these refers to the association between the variant and clinical or preclinical response of the therapeutic(s). If a diagnostic evidence type is selected, the clinical significance can be either positive or negative. A positive diagnostic evidence item implies that the variant is associated with diagnosis of disease or disease subtype whereas a negative diagnostic evidence item implies lack of association. If a prognostic evidence type is selected, the clinical significance options include: better outcome, poor outcome, or N/A. The N/A option can be used to imply that the variant does not have an impact on patient prognosis. If a predisposing evidence type is selected, the clinical significance options include pathogenic, likely pathogenic, benign, likely benign, and uncertain significance. Selection of the clinical significance for predisposing evidence types should align with the 5-tiered pathogenicity scale outlined by ACMG guidelines. (`Richards et al. 2015 <https://paperpile.com/c/zlKHBT/UIrv>`__) Finally, a functional evidence type should be associated with one of the following clinical significances: gain of function, loss of function, unaltered function, neomorphic, or unknown. These options allow curators to indicate how the variant impacts the biological function described in the evidence statement.
+The available options for clinical significance depend on the evidence type selected for the evidence statement. If a predictive evidence type is selected, clinical significance can include: sensitivity/response, resistance, adverse response, reduced sensitivity, or N/A. Each of these refers to the association between the variant and clinical or preclinical response of the therapeutic(s). If a diagnostic evidence type is selected, the clinical significance can be either positive or negative. A positive diagnostic evidence item implies that the variant is associated with diagnosis of disease or disease subtype whereas a negative diagnostic evidence item implies lack of association. If a prognostic evidence type is selected, the clinical significance options include: better outcome, poor outcome, or N/A. The N/A option can be used to imply that the variant does not have an impact on patient prognosis. A functional evidence type should be associated with one of the following clinical significances: gain of function, loss of function, unaltered function, neomorphic, dominant negative, or unknown. These options allow curators to indicate how the variant impacts the biological function described in the evidence statement. Note that Predisposing and Oncogenic Evidence do not have an Evidence Direction or Clinical Significance. These should be established at the assertion level using the appropriate guidelines. 
 
 .. rubric:: Clinical Significance for Predictive Evidence
 .. list-table::
@@ -73,21 +73,21 @@ The available options for clinical significance depend on the evidence type sele
    * - Significance
      - Symbol
      - Definition
-   * - Pathogenic
-     - |th|
-     - Very strong evidence the variant is pathogenic
-   * - Likely Pathogenic
-     - |th-large|
-     - Strong evidence (>90% certainty) the variant is pathogenic.
-   * - Benign
-     - |align-justify|
-     - Very strong evidence the variant is benign
-   * - Likely Benign
-     - |align-center|
-     - Not expected to have a major effect on disease
-   * - Uncertain Significance
-     - |question-circle|
-     - Does not fullfill the ACMG criteria for pathogenic/benign, or the evidence is conflicting
+   * - N/A
+     - |times-circle-o|
+     - Clinical Significance is only applied at the assertion level
+
+.. rubric:: Clinical Significance for Oncogenic Evidence
+.. list-table::
+   :widths: 25 5 70
+   :header-rows: 1
+
+   * - Significance
+     - Symbol
+     - Definition
+   * - N/A
+     - |times-circle-o|
+     - Clinical Significance is only applied at the assertion level
 
 .. rubric:: Clinical Significance for Functional Evidence
 .. list-table::
@@ -99,7 +99,7 @@ The available options for clinical significance depend on the evidence type sele
      - Definition
    * - Gain of Function
      - |arrow-circle-up|
-     - A sequence variant whereby new or enhanced function is conferred on the gene product
+     - A sequence variant whereby enhanced function is conferred on the gene product
    * - Loss of Function
      - |arrow-circle-down|
      - A sequence variant whereby the gene product has diminished or abolished function
@@ -108,7 +108,10 @@ The available options for clinical significance depend on the evidence type sele
      - A sequence variant whereby the function of the gene product is unchanged
    * - Neomorphic
      - |exclamation-circle|
-     - TBD
+     - Sequence variant creates a novel function
+   * - Dominant Negative
+     - |expand|
+     - Sequence variant abolishes wild type allele function
    * - Unknown
      - |sign-out|
      - A functional variant that cannot be precisely defined by gain-of-function, loss-of-function, or unaltered function
