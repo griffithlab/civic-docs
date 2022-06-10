@@ -12,7 +12,7 @@ Data clients are academic and commercial resources that use CIViC data (for exam
 - `CIViCmine <http://bionlp.bcgsc.ca/civicmine/>`_
 - `ClinGen Variant Curation Interface (VCI) <https://curation.clinicalgenome.org/>`_
 - `DAPHNI – A platform for precision medicine of multiple myeloma <http://ascopubs.org/doi/10.1200/PO.18.00019>`_
-- `Database of Curated Mutations (DoCM) <http://docm.genome.wustl.edu/>`_
+- `Database of Curated Mutations (DoCM) <http://www.docm.info/>`_
 - `ETH Nexus Personalized Health Technologies - Swiss Variant Interpretation Platform for Oncology <http://www.nexus.ethz.ch/>`_
 - `Euformatics OmnomicsNGS <http://euformatics.com/ongs/>`_
 - `Gemini <http://gemini.readthedocs.io/en/latest/>`_
