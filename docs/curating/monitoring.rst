@@ -7,7 +7,7 @@ CIViC curation is meant to function as a community effort with multiple curators
 
 From your User Profile, a curator can see cumulative statistics of CIViC activities, a table of your submitted evidence items, and your most recent activity:
 
-1. A curator's cumulative statistics are displayed in the top right. These statistics contribute to your rank in different categories on the `Community Page <https://civicdb.org/community/main>`_.
+1. A curator's cumulative statistics are displayed in the top right. These statistics contribute to your rank in different categories on the `Contributors Page <https://civicdb.org/users/>`_.
 2. The Evidence table shows all of a curator's submitted evidence items and their current state (Submitted, Accepted, Rejected). Here are some tips for exploring this table:
 
    - Custom sort by clicking on the column headers.
