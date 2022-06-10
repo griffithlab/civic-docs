@@ -8,6 +8,7 @@ Evidence Items (EIDs) form the fundamental unit of the CIViC knowledgebase. EIDs
    :alt: Screenshot of an Evidence Item
 
    Figure 1: Screenshot of an Evidence Item
+
 CIViC Evidence is added and curated via a moderation process that includes submitting, evaluating, accepting (or rejecting), and suggesting changes (Figure 2). CIViC Curators may add or suggest revisions to curated content at each step. Adding content involves submitting new Evidence Items or Assertions that subsequently undergo revision and Editor review. Revision of content involves adding or revising the clinical summary and/or its associated features. Once changes are made within the CIViC database, the additions/revisions become visible directly or on a separate revision page depending on the type of submission. Curation is listed as a "Submitted" (i.e., pending) until it is accepted by an Editor, who are given power to accept or reject Curator submissions. Curators may reject (but not accept) their own submissions/revisions.
 
 .. figure:: /images/figures/CIViC_adding-updating-evidence_v2a.png
