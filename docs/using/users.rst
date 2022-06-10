@@ -94,8 +94,10 @@ User buttons appear where we need to indicate a user where space is limited, pri
  
 Finding Users
 -------------
-`The Community section <https://civicdb.org/community/main>`_ of the application displays a list of users that can be filtered by display name, organization, role, area of expertise, and recent activity date:
+`The Contributors section <https://civicdb.org/users/>`_ of the application displays a list of users that can be filtered by display name, organization, role, area of expertise, and recent activity date:
 
 .. thumbnail:: /images/figures/community-user-search.png
 
 Locate users of interest by filtering by display name, organization, role, area of expertise. Sorting and time-limit options are also provided. 
+
+
