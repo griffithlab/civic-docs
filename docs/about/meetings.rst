@@ -62,7 +62,7 @@ A hackathon and curation jamboree were held as a pre-meeting of ASHG, led by the
 
 :Dates: Tuesday Nov 29 through Friday Dec 2, 2016
 :Location: Netherlands Cancer Institute (NKI), Amsterdam
-:More Info: `NGS in Molecular Pathology Symposium <http://pardot.cartagenia.com/l/104652/2016-08-17/cr37m>`_
+:More Info: NGS in Molecular Pathology Symposium
 
 .. rubric:: Description
 
