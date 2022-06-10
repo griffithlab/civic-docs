@@ -31,7 +31,7 @@ In order to quickly discern how well the evidence derived from the pubmed or abs
 
 Curating Five-Star Evidence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The example `Evidence Item below <https://cividb.org/links/evidence/1199>`__ describes a Phase III clinical trial (PROFILE 1014) that evaluated the impact of the *ALK* - Fusions variant on therapeutic response with crizotinib for patients with lung non-small cell carcinoma. The clinical trial was a randomized, double-blinded, placebo-control study of 343 patients that evaluated progression free survival, objective response rate, and quality of life. The results were published in the New England Journal of Medicine.
+The example `Evidence Item below <https://civicdb.org/links/evidence/1199>`__ describes a Phase III clinical trial (PROFILE 1014) that evaluated the impact of the *ALK* - Fusions variant on therapeutic response with crizotinib for patients with lung non-small cell carcinoma. The clinical trial was a randomized, double-blinded, placebo-control study of 343 patients that evaluated progression free survival, objective response rate, and quality of life. The results were published in the New England Journal of Medicine.
 
 .. figure:: /images/figures/evidence-summary_EID1199.png
    :alt: Screenshot of EID1199 summary, a five-star Evidence Item
@@ -44,7 +44,7 @@ In general, Evidence Rating is a rating of the unit of evidence extracted from a
 
 Curating Four-Star Evidence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The example `Evidence Item below <https://cividb.org/links/evidence/1199>`__ describes a Phase 2A clinical trial with multiple arms that included evaluation of the therapeutic effect of pertuzumab and trastuzumab on 37 patients with *HER2* - Amplified colorectal cancer. The study was sufficiently powered to demonstrate an increase in patient response and remission provided their advanced, refractory state and relatively rare molecular alteration for that tumor type. The study was part of a clinical trial that was registered through the NIH and was published in the Journal of Clinical Oncology.
+The example `Evidence Item below <https://civicdb.org/links/evidence/1199>`__ describes a Phase 2A clinical trial with multiple arms that included evaluation of the therapeutic effect of pertuzumab and trastuzumab on 37 patients with *HER2* - Amplified colorectal cancer. The study was sufficiently powered to demonstrate an increase in patient response and remission provided their advanced, refractory state and relatively rare molecular alteration for that tumor type. The study was part of a clinical trial that was registered through the NIH and was published in the Journal of Clinical Oncology.
 
 .. figure:: /images/figures/evidence-summary_EID5981.png
    :alt: Screenshot of EID5981's summary, a four-star Evidence Item
@@ -57,7 +57,7 @@ This example was similar in design as the 5-start example, however, the reduced 
 
 Curating Three-Star Evidence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The example `Evidence Item below <https://cividb.org/links/evidence/5982>`__ describes the same Phase 2A clinical trial from Supplementary Figure 23, but differs in the advanced solid tumor type being evaluated. In the subset of patients with bladder cancer, three of nine patients showed response to combination therapy with trastuzumab and pertuzumab, which supports sensitivity/response. Although this evidence item is derived from the same clinical trial, the reduction in Evidence Rating is representative of the smaller number of patients and large 95% confidence interval.
+The example `Evidence Item below <https://civicdb.org/links/evidence/5982>`__ describes the same Phase 2A clinical trial from Supplementary Figure 23, but differs in the advanced solid tumor type being evaluated. In the subset of patients with bladder cancer, three of nine patients showed response to combination therapy with trastuzumab and pertuzumab, which supports sensitivity/response. Although this evidence item is derived from the same clinical trial, the reduction in Evidence Rating is representative of the smaller number of patients and large 95% confidence interval.
 
 .. figure:: /images/figures/evidence-summary_EID5982.png
    :alt: Screenshot of EID5982's summary, a three-star Evidence Item
@@ -70,7 +70,7 @@ Even though these Evidence Items might contain reduced amount of data discrepanc
 
 Curating Two-Star Evidence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-The example `Evidence Item below <https://cividb.org/links/evidence/5982>`__ describes a Phase II clinical trial that evaluated 29 patients with breast cancer who were being treated with either afatinib, lapatinib, or trastuzumab. In this study, 18 patients showed response to one of the therapeutics. The Evidence Rating for this evidence item was only 2 stars due to lack of evidence supporting the clinical claim (supports sensitivity/response). Specifically, the sample size was low for each of the three arms, there was no reported statistical significance. Additionally, the clinical endpoint for the study was objective response rate, which is not as strong of an endpoint as other metrics such as overall survival.
+The example `Evidence Item below <https://civicdb.org/links/evidence/5982>`__ describes a Phase II clinical trial that evaluated 29 patients with breast cancer who were being treated with either afatinib, lapatinib, or trastuzumab. In this study, 18 patients showed response to one of the therapeutics. The Evidence Rating for this evidence item was only 2 stars due to lack of evidence supporting the clinical claim (supports sensitivity/response). Specifically, the sample size was low for each of the three arms, there was no reported statistical significance. Additionally, the clinical endpoint for the study was objective response rate, which is not as strong of an endpoint as other metrics such as overall survival.
 
 .. figure:: /images/figures/evidence-summary_EID887.png
    :alt: Screenshot of EID887's summary, a two-star Evidence Item
@@ -83,7 +83,7 @@ Typically, Evidence Items received a 2-star rating if the experiments lack prope
 
 Curating One-Star Evidence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-The example `Evidence Item below <https://cividb.org/links/evidence/895>`__ describes a B-level clinical study that evaluated 6 patients with *ERBB2* - Amplification for response to capecitabine, oxaliplatin, and chemoradiotherapy, with or without cetuximab. There was no difference in outcome between the 6 patients with the variant when compared to the 135 patients with no visible *ERBB2* - Amplification on *FISH* / *IHC*. The Evidence Item a heterogenous combination of variant detection methods, a low number of patients in the experimental arm (n=6) and overall low statistical power. Therefore, despite being a B-level Evidence Item, the curator assigned the EID a 1-star Evidence Rating.
+The example `Evidence Item below <https://civicdb.org/links/evidence/895>`__ describes a B-level clinical study that evaluated 6 patients with *ERBB2* - Amplification for response to capecitabine, oxaliplatin, and chemoradiotherapy, with or without cetuximab. There was no difference in outcome between the 6 patients with the variant when compared to the 135 patients with no visible *ERBB2* - Amplification on *FISH* / *IHC*. The Evidence Item a heterogenous combination of variant detection methods, a low number of patients in the experimental arm (n=6) and overall low statistical power. Therefore, despite being a B-level Evidence Item, the curator assigned the EID a 1-star Evidence Rating.
 
 .. figure:: /images/figures/evidence-summary_EID895.png
    :alt: Screenshot of EID895's summary, a one-star Evidence Item
