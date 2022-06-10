@@ -20,6 +20,8 @@ These docs also depend on a custom fork of the `sphinxcontrib-programoutput` ext
 pip install git+git://github.com/griffithlab/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput
 ```
 
+If you get a timeout you can try changing "git+git..." to "git+https..."
+
 Then start the sphinx-autobuild process:
 
 ```
@@ -57,3 +59,19 @@ git push origin doc-update
 ```
 
 Then visit the [civic-docs pull requests page](https://github.com/griffithlab/civic-docs/pulls). Github should display a message asking you if you'd like to create a pull request from the new branch you just pushed. Create the pull request with a short description of your contribution. A CIViC maintainer will evaluate your contribution and will likely merge it with the master branch, which will then be published. Thanks for your contributions!
+
+
+## Setting up Sphinx to work in Docker
+If you wind up in Python dependency hell getting Sphinx to work, you may want to try working in a Docker image by doing something like the following:
+
+```
+docker pull griffithlab/pvactools:latest-slim
+docker run -p 8000:8000 -v ~/git/civic/civic-docs/:/opt/git/civic/civic-docs/ -it griffithlab/pvactools:latest-slim
+pip install sphinx sphinx-autobuild sphinx-fontawesome sphinxcontrib-images
+pip install git+https://github.com/griffithlab/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput
+cd /opt/git/civic/civic-docs/docs
+sphinx-autobuild --host 0.0.0.0 --port 8000 ./ ./_build/html
+```
+
+To view the updated docs site in your web browser go to: http://0.0.0.0:8000/. Once you are satisfied, submit a pull request as described above.
+
