@@ -108,4 +108,4 @@ Yes, but we urge caution when using such sources. It is generally preferable to 
 
 How is CIViC licensed?
 ----------------------
-The content of CIViC, hosted by `The McDonnell Genome Institute at Washington University School of Medicine <http://genome.wustl.edu>`_ is released under the `Creative Commons Public Domain Dedication (CC0 1.0 Universal) <https://creativecommons.org/publicdomain/zero/1.0/>`_  and the source code for the CIViC `server <https://github.com/genome/civic-server>`_ and `client <https://github.com/genome/civic-client>`_ is licensed under the `MIT License <http://opensource.org/licenses/MIT>`_.
+The content of CIViC, hosted by `Washington University School of Medicine <https://medicine.wustl.edu/>`_ is released under the `Creative Commons Public Domain Dedication (CC0 1.0 Universal) <https://creativecommons.org/publicdomain/zero/1.0/>`_  and the source code for the `CIViC application <https://github.com/griffithlab/civic-v2>`_ is licensed under the `MIT License <http://opensource.org/licenses/MIT>`_.
