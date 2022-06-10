@@ -203,37 +203,37 @@ Variant Type Examples
      - Examples
    * - missense_variant
      - `G12D
-       <https://civic.genome.wustl.edu/events/genes/30/summary/variants/79/summary>`_
+       <https://civicdb.org/links/variant/79>`_
    * - stop_gained
      - `R130*
-       <https://civic.genome.wustl.edu/#/events/genes/41/summary/variants/636/summary>`_
+       <https://civicdb.org/links/variant/636>`_
    * - protein_altering_variant
      - `G12
-       <https://civic.genome.wustl.edu/events/genes/30/summary/variants/76/summary#variant>`_
+       <https://civicdb.org/links/variant/76>`_
 
        `KINASE DOMAIN MUTATION
-       <https://civic.genome.wustl.edu/events/genes/20/summary/variants/413/summary>`_
+       <https://civicdb.org/links/variant/413>`_
    * - frameshift_truncation
      - `V2288fs*1
-       <https://civic.genome.wustl.edu/events/genes/69/summary/variants/243/summary>`_
+       <https://civicdb.org/links/variant/243>`_
    * - inframe_deletion
      - `DEL I843
-       <https://civic.genome.wustl.edu/events/genes/38/summary/variants/101/summary>`_
+       <https://civicdb.org/links/variant/101>`_
 
        `V560DEL
-       <https://civic.genome.wustl.edu/events/genes/29/summary/variants/202/summary>`_
+       <https://civicdb.org/links/variant/202>`_
 
        `DEL 755-759
-       <https://civic.genome.wustl.edu/events/genes/20/summary/variants/37/summary>`_
+       <https://civicdb.org/links/variant/37>`_
    * - inframe_insertion
      - `P780INS
-       <https://civic.genome.wustl.edu/events/genes/20/summary/variants/41/summary>`_
+       <https://civicdb.org/links/variant/41>`_
 
        `M774INSAYVM
-       <https://civic.genome.wustl.edu/events/genes/20/summary/variants/414/summary>`_
+       <https://civicdb.org/links/variant/414>`_
 
        `ITD
-       <https://civic.genome.wustl.edu/events/genes/24/summary/variants/55/summary>`_
+       <https://civicdb.org/links/variant/55>`_
    * - [ gene_variant
 
        OR
@@ -248,27 +248,27 @@ Variant Type Examples
 
        gain_of_function_variant ]
      - `MUTATION
-       <https://civic.genome.wustl.edu/events/genes/5/summary/variants/399/summary>`_
+       <https://civicdb.org/links/variant/399>`_
    * - exon_variant
      - `EXON 10 MUTATION
-       <https://civic.genome.wustl.edu/events/genes/37/summary/variants/106/summary>`_
+       <https://civicdb.org/links/variant/106>`_
    * - transcript_fusion
 
        OR RARELY...
 
        gene_fusion
      - `EML4-ALK
-       <https://civic.genome.wustl.edu/events/genes/1/summary/variants/5/summary>`_
+       <https://civicdb.org/links/variant/5>`_
 
        `ALK FUSIONS
-       <https://civic.genome.wustl.edu/events/genes/1/summary/variants/499/summary>`_
+       <https://civicdb.org/links/variant/499>`_
    * - transcript_fusion
 
        AND
 
        missense_variant
      - `EML4-ALK G1269A
-       <https://civic.genome.wustl.edu/events/genes/1/summary/variants/308/summary#variant>`_
+       <https://civicdb.org/links/variant/308>`_
    * - transcript_translocation
 
        OR
@@ -279,60 +279,60 @@ Variant Type Examples
 
        transcript_fusion
      - `REARRANGEMENT
-       <https://civic.genome.wustl.edu/events/genes/4941/summary/variants/269/summary>`_
+       <https://civicdb.org/links/variant/269>`_
    * - wild_type
      - `WILD TYPE
-       <https://civic.genome.wustl.edu/events/genes/5/summary/variants/426/summary>`_
+       <https://civicdb.org/links/variant/426>`_
    * - loss_of_heterozygosity
      - `LOH
-       <https://civic.genome.wustl.edu/events/genes/4645/summary/variants/302/summary>`_
+       <https://civicdb.org/links/variant/302>`_
    * - transcript_amplification
      - `AMPLIFICATION
-       <https://civic.genome.wustl.edu/events/genes/8/summary/variants/18/summary>`_
+       <https://civicdb.org/links/variant/18>`_
    * - transcript_ablation
      - `DELETION
-       <https://civic.genome.wustl.edu/events/genes/73/summary/variants/200/summary>`_
+       <https://civicdb.org/links/variant/200>`_
    * - copy_number_change
      - `COPY NUMBER VARIATION
-       <https://civic.genome.wustl.edu/events/genes/19/summary/variants/191/summary>`_
+       <https://civicdb.org/links/variant/191>`_
    * - loss_of_function_variant
      - `LOSS-OF-FUNCTION
-       <https://civic.genome.wustl.edu/events/genes/46/summary/variants/125/summary>`_
+       <https://civicdb.org/links/variant/125>`_
    * - loss_of_function_variant...?
 
        transcript_ablation...?
      - `LOSS
-       <https://civic.genome.wustl.edu/events/genes/916/summary/variants/555/summary#variant>`_
+       <https://civicdb.org/links/variant/555>`_
    * - exon_loss_variant
      - `EXON 14 SKIPPING MUTATION
-       <https://civic.genome.wustl.edu/events/genes/52/summary/variants/324/summary>`_
+       <https://civicdb.org/links/variant/324>`_
    * - 5_prime_UTR_variant
      - `5' UTR MUTATION
-       <https://civic.genome.wustl.edu/events/genes/1741/summary/variants/255/summary>`_
+       <https://civicdb.org/links/variant/255>`_
    * - 3_prime_UTR_variant
      - `3' UTR MUTATION
-       <https://civic.genome.wustl.edu/events/genes/29/summary/variants/256/summary>`_
+       <https://civicdb.org/links/variant/256>`_
    * - N/A
      - `EXPRESSION
-       <https://civic.genome.wustl.edu/events/genes/8/summary/variants/19/summary>`_
+       <https://civicdb.org/links/variant/19>`_
 
        `NUCLEAR EXPRESSION
-       <https://civic.genome.wustl.edu/events/genes/9171/summary/variants/340/summary>`_
+       <https://civicdb.org/links/variant/340>`_
 
        `CYTOPLASMIC EXPRESSION
-       <https://civic.genome.wustl.edu/events/genes/1883/summary/variants/447/summary>`_
+       <https://civicdb.org/links/variant/447>`_
 
        `OVEREXPRESSION
-       <https://civic.genome.wustl.edu/events/genes/8/summary/variants/20/summary>`_
+       <https://civicdb.org/links/variant/20>`_
 
        `UNDEREXPRESSION
-       <https://civic.genome.wustl.edu/events/genes/69/summary/variants/179/summary>`_
+       <https://civicdb.org/links/variant/179>`_
 
        `METHYLATION
-       <https://civic.genome.wustl.edu/events/genes/3532/summary/variants/538/summary#variant>`_
+       <https://civicdb.org/links/variant/538>`_
 
        `PROMOTER METHYLATION
-       <https://civic.genome.wustl.edu/events/genes/34/summary/variants/85/summary>`_
+       <https://civicdb.org/links/variant/85>`_
 
        `PROMOTER HYPERMETHYLATION
-       <https://civic.genome.wustl.edu/events/genes/14/summary/variants/27/summary>`_
+       <https://civicdb.org/links/variant/27>`_
