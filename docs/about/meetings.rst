@@ -13,7 +13,7 @@ Upcoming Meetings & Events
 
 :Dates: Jul 30th, 2022
 :Location: Washington University in St. Louis
-:Sign Up: `Eventbrite: Cancer Variant Interpretation Hackathon and Curation Jamboree 2022 <https://eventbrite.com/e/cancer-variant-interpretation-hackathon-and-curation-jamboree-tickets-48287431006>`_
+:Sign Up: `Eventbrite: Cancer Variant Interpretation Hackathon and Curation Jamboree 2022 <https://www.eventbrite.com/e/cancer-variant-interpretation-hackathon-and-curation-jamboree-tickets-327320021997>`_
 
 .. rubric:: Description
 
