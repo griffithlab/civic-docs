@@ -35,4 +35,4 @@ To have a Parent Organization, you are indicating a relationship between an exis
 
 Finding Organizations
 ---------------------
-The CIViC Community page includes a Organizations page that shows organization leaderboards and a search interface where users may locate a specific organization by filtering on its name.
+The CIViC Community page includes a `Organizations page <https://civicdb.org/organizations/>`_ that shows organization leaderboards and a search interface where users may locate a specific organization by filtering on its name.

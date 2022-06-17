@@ -31,3 +31,5 @@ We provide CIViC data freely to all under the `Creative Commons Public Domain De
    about/data-clients
    about/figures
    about/acknowledgements
+   about/citations
+

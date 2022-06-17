@@ -1,6 +1,10 @@
 Curating Assertions
 ===================
-The CIViC Assertion (AID) functions as a summary of clinical evidence for a variant, disease and specific predictive (therapeutic), prognostic, diagnostic or predisposing clinical significance supported by Evidence Items (EIDs) appearing in CIViC, along with evidence drawn from other sources, such as databases of variant population frequency. The Assertion is designed to incorporate information from practice guidelines (e.g., NCCN) and also integrates widely adopted clinical tiering systems (e.g., AMP-ASCO-CAP (`Li et al. 2017 <https://paperpile.com/c/hW1INu/jFZK>`__) and ACMG-AMP (`Richards et al. 2015 <https://paperpile.com/c/hW1INu/n8Pq>`__) into structured fields.
+The CIViC Assertion (AID) functions as a summary of clinical evidence for a variant, disease and specific predictive (therapeutic), prognostic, diagnostic or predisposing clinical significance supported by Evidence Items (EIDs) appearing in CIViC, along with evidence drawn from other sources, such as databases of variant population frequency. The Assertion is designed to incorporate information from practice guidelines (e.g., NCCN) and also integrates widely adopted clinical tiering systems into structured fields, including:
+
+- AMP-ASCO-CAP guidelines (`Li et al. 2017 <https://pubmed.ncbi.nlm.nih.gov/27993330/>`__) for clinical tiering of somatic variants
+- ClinGen/CGC/VICC SOP (`Horak et al. 2022 <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__) for classification of somatic variant oncogenicity 
+- ACMG-AMP guidelines (`Richards et al. 2015 <https://pubmed.ncbi.nlm.nih.gov/25741868/>`__) for classification of germline variant pathogenicity 
 
 .. figure:: /images/figures/CIViC_assertion-summary-screenshot_overview_v1a.jpg
    :alt: Overview of an Assertion summary view

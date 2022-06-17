@@ -28,6 +28,7 @@ For a primer on the fundamentals of cancer variant interpretation, we suggest th
 - `ACMG/AMP - Standards and guidelines for the interpretation of sequence variants. <https://www.ncbi.nlm.nih.gov/pubmed/25741868>`_
 - `ClinGen - Somatic cancer variant curation and harmonization through consensus minimum variant level data (MVLD). <https://www.ncbi.nlm.nih.gov/pubmed/27814769>`_
 - `AMP/ASCO/CAP - Standards and guidelines for the interpretation and reporting of sequence variants in cancer. <https://www.ncbi.nlm.nih.gov/pubmed/27993330>`_
+- `Standards for the classification of pathogenicity of somatic variants in cancer (oncogenicity): Joint recommendations of Clinical Genome Resource (ClinGen), Cancer Genomics Consortium (CGC), and Variant Interpretation for Cancer Consortium (VICC). <https://pubmed.ncbi.nlm.nih.gov/35101336/>`_
 
 .. rubric:: Other recommended reading
 

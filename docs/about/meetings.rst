@@ -5,7 +5,25 @@ The CIViC team regularly holds curation jamborees and development hackathons. At
 Upcoming Meetings & Events
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-:guilabel:`No upcoming events currently scheduled.`
+:guilabel:`Next planned event.`
+
+.. rubric:: 2022 CIViC Hackathon and Curation Jamboree
+
+----
+
+:Dates: Jul 30th, 2022
+:Location: Washington University in St. Louis
+:Sign Up: `Eventbrite: Cancer Variant Interpretation Hackathon and Curation Jamboree 2022 <https://www.eventbrite.com/e/cancer-variant-interpretation-hackathon-and-curation-jamboree-tickets-327320021997>`_
+
+.. rubric:: Description
+
+The Jamboree/Hackathon will focus on further development of CIViC and CCGA, community-driven web resources for clinical interpretations of variants in cancer.
+
+.. rubric:: Meeting Goals
+
+- Molecular biologists, Pathologists and Oncologists (certified or in training), and genome scientists interested in the problem of sequence variant interpretation for cancer precision medicine should submit topics for the Curation.
+- Software developers, engineers and computational biologists interested in learning and applying back- and front-end web development skills should submit topics for the Hackathon.  
+- To view and propose topics, visit the `Issues page <https://github.com/genome/civic-meeting/issues>`_.
 
 Past Meetings & Events
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -16,7 +34,7 @@ Past Meetings & Events
 
 :Dates: October 15th and October 16th, 2018
 :Location: The Scripps Research Institute
-:Sign Up: `Eventbrite: Cancer Variant Interpretation Hackathon and Curation Jamboree <https://www.eventbrite.com/e/cancer-variant-interpretation-hackathon-and-curation-jamboree-tickets-48287431006?aff=General>`_
+:Sign Up: `Eventbrite: Cancer Variant Interpretation Hackathon and Curation Jamboree 2018 <https://www.eventbrite.com/e/cancer-variant-interpretation-hackathon-and-curation-jamboree-tickets-48287431006?aff=General>`_
 
 .. rubric:: Description
 
@@ -44,7 +62,7 @@ A hackathon and curation jamboree were held as a pre-meeting of ASHG, led by the
 
 :Dates: Tuesday Nov 29 through Friday Dec 2, 2016
 :Location: Netherlands Cancer Institute (NKI), Amsterdam
-:More Info: `NGS in Molecular Pathology Symposium <http://pardot.cartagenia.com/l/104652/2016-08-17/cr37m>`_
+:More Info: NGS in Molecular Pathology Symposium
 
 .. rubric:: Description
 

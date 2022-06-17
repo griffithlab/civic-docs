@@ -8,6 +8,7 @@ Evidence Items (EIDs) form the fundamental unit of the CIViC knowledgebase. EIDs
    :alt: Screenshot of an Evidence Item
 
    Figure 1: Screenshot of an Evidence Item
+
 CIViC Evidence is added and curated via a moderation process that includes submitting, evaluating, accepting (or rejecting), and suggesting changes (Figure 2). CIViC Curators may add or suggest revisions to curated content at each step. Adding content involves submitting new Evidence Items or Assertions that subsequently undergo revision and Editor review. Revision of content involves adding or revising the clinical summary and/or its associated features. Once changes are made within the CIViC database, the additions/revisions become visible directly or on a separate revision page depending on the type of submission. Curation is listed as a "Submitted" (i.e., pending) until it is accepted by an Editor, who are given power to accept or reject Curator submissions. Curators may reject (but not accept) their own submissions/revisions.
 
 .. figure:: /images/figures/CIViC_adding-updating-evidence_v2a.png
@@ -122,7 +123,7 @@ Predisposing Evidence
 ~~~~~~~~~~~~~~~~~~~~~
 Predisposing Evidence Items are designed to capture clinical information associated with germline variants relevant for cancer. This Evidence Type is closely associated with `ACMG Codes. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/>`__ The general format for a predisposing EID is a summary of the reported data relevant to the variant and disease of interest, followed by an enumeration of ACMG Codes derived from the reported information with a brief justification for the presence of each code. 
 
-Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/events/genes/58/summary/variants/1810/summary/evidence/5134/summary#evidence>`__) that describes a Predisposing Evidence Type (Figure 8). This example describes a study where the VHL - R167Q (c.500G>A) Variant was described in a set of patients and evidence for the PP1 ACMG-AMP criteria was documented. Hemangioblastoma and pheochromocytoma were seen in patients and are reported as Associated Phenotypes, while the Disease is Von Hippel-Lindau Disease.
+Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/links/evidence/5546>`__) that describes a Predisposing Evidence Type (Figure 8). This example describes a study where the VHL - R167Q (c.500G>A) Variant was described in a set of patients and evidence for the PP1 ACMG-AMP criteria was documented. Hemangioblastoma and pheochromocytoma were seen in patients and are reported as Associated Phenotypes, while the Disease is Von Hippel-Lindau Disease.
 
 .. figure:: /images/figures/evidence-summary_EID5546.png
    :alt: Screenshot of a predisposing Evidence Item summary
@@ -142,7 +143,7 @@ In some instances, a publication will contain relevant germline variant evidence
 
 Oncogenic Evidence Type
 ~~~~~~~~~~~~~~~~~~~~~~~~
-Oncogenic Evidence Items (EIDs) capture clinically relevant information associated with a somatic variant’s involvement in tumor pathogenesis as described by the `Hallmarks of Cancer: The Next Generation. <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__ An Evidence Statement for an Oncogenic EID includes a summary of the reported data relevant to the variant and disease of interest by describing assays performed and experimental results.  The Comments for an Oncogenic EID may contain `Oncogenicity Codes <https://cancervariants.org/assets/docs/SOP_onc-path_interp_latest.pdf>`__.
+Oncogenic Evidence Items (EIDs) capture clinically relevant information associated with a somatic variant’s involvement in tumor pathogenesis as described by the `Hallmarks of Cancer: The Next Generation. <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__ An Evidence Statement for an Oncogenic EID includes a summary of the reported data relevant to the variant and disease of interest by describing assays performed and experimental results.  The Comments for an Oncogenic EID may contain `Oncogenicity Codes <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__.
 
 Below is an example of an Evidence Item with an Oncogenic Evidence Type (Figure 9). This EID describes a study wherein KRAS Q61H was transfected into cells resulting in the oncogenic property of multilayered growth. Oncogenicity code OS2 was applied in the comments because a well established in vitro experiment (focus formation assay) supported an oncogenic effect of this variant.
 
@@ -155,7 +156,7 @@ Oncogenic Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The Oncogenic Evidence Type describes literature derived evidence pertaining to a somatic variant’s role in tumor formation, growth, survival or metastasis, as summarized by Hanahan and Weinberg in `Hallmarks of Cancer: The Next Generation <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__. Disease type should be specified, as oncogenic effects may depend on cellular context. For cases where a disease type is difficult to ascertain, such as experiments in highly de-differentiated cell lines, the Disease Ontology term ‘Cancer’ can be used. Oncogenic EIDs use ‘N/A’ for Evidence Direction and Clinical Significance because assessments of a variant’s overall oncogenicity generally will not be possible at the single Evidence Item level. The Evidence Statement should contain a summary of the experiments or findings suggesting an oncogenic or benign variant effect. 
 
-The Oncogenic Evidence Item may be associated with `Oncogenicity Codes <https://cancervariants.org/assets/docs/SOP_onc-path_interp_latest.pdf>`__ developed by the Knowledge Curation and Interpretation Standards (KCIS) working group of the GA4GH VICC in collaboration with ClinGen working groups. Oncogenicity codes assess oncogenicity of a given somatic variant in a mechanism similar to that used in the 2015 ACMG/AMP Guidelines for germline pathogenicity. Enumeration of Oncogenicity Codes derived from the literature along with a brief justification for the presence of each code can be included as a comment (this recommendation will be revised upon formal publication of the Oncogenicity Codes).
+The Oncogenic Evidence Item may be associated with `Oncogenicity Codes <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__ developed by the Knowledge Curation and Interpretation Standards (KCIS) working group of the GA4GH VICC in collaboration with ClinGen working groups. Oncogenicity codes assess oncogenicity of a given somatic variant in a mechanism similar to that used in the 2015 ACMG/AMP Guidelines for germline pathogenicity. Enumeration of Oncogenicity Codes derived from the literature along with a brief justification for the presence of each code can be included as a comment (this recommendation will be revised upon formal publication of the Oncogenicity Codes).
 
 Functional Evidence Type
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -208,7 +209,7 @@ The "Resistance" annotation is used in situations where the variant of interest 
 .. figure:: /images/figures/CIViC_attributes-curation-table_thumbnail_v1b.png
    :alt: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations
 
-   Table 1: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations. :download:`Download a     more readable PDF version here <../images/figures/CIViC_attributes-curation-table_v1b.pdf>`
+   Table 1: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations. :download:`Download a more readable PDF version here <../images/figures/CIViC_attributes-curation-table_v1b.pdf>`
 
 Both Predictive and Prognostic evidence types may be obtained from the same data set in some cases. Figure 11, displayed below, gives hypothetical examples of predictive and prognostic structured annotation derived from   patient data.
 

@@ -15,5 +15,5 @@ Note that a given variant may have more than one approved treatment context in a
 .. figure:: /images/figures/CIViC_assertion-summary-AID10.png
    :alt: Screenshot of AID10, an assertion with an NCCN guideline assigned
 
-   Figure 6: Assertion for a variant with approved NCCN Category 1 and Category 2A drug treatments.
+   Figure 1: Assertion for a variant with approved NCCN Category 1 and Category 2A drug treatments.
 

@@ -49,24 +49,24 @@ Population frequencies should be based on current population databases (e.g., gn
 
    * - Somatic
      - `DNAJB1-PRKACA (EID532)
-       <https://civic.genome.wustl.edu/events/genes/17/summary/variants/31/summary/evidence/532/summary#evidence>`_, 
+       <https://civicdb.org/links/evidence/532>`_, 
        `BRAF V600E (EID1409)
-       <https://civic.genome.wustl.edu/events/genes/5/summary/variants/12/summary/evidence/1409/summary#evidence>`_,
-       `KRAS Exon 20 Mutation (EID993)
-       <https://civic.genome.wustl.edu/events/genes/30/summary/variants/75/summary/evidence/993/summary#evidence>`_,
+       <https://civicdb.org/links/evidence/1409>`_,
+       `KRAS Exon 2 Mutation (EID993)
+       <https://civicdb.org/links/evidence/993>`_,
        `EGFR Amplification (EID473)
-       <https://civic.genome.wustl.edu/events/genes/19/summary/variants/190/summary/evidence/473/summary#evidence>`_
+       <https://civicdb.org/links/evidence/473>`_
    * - Rare Germline
      - `BRCA2 Mutation (EID1371)
-       <https://civic.genome.wustl.edu/events/genes/7/summary/variants/186/summary/evidence/1371/summary#evidence>`_
+       <https://civicdb.org/links/evidence/1371>`_
    * - Common Germline
      - `GSTP1 I105V (EID670)
-       <https://civic.genome.wustl.edu/events/genes/2473/summary/variants/259/summary/evidence/670/summary#evidence>`_,
+       <https://civicdb.org/links/evidence/670>`_,
        `UGT1A1*28 (EID1792)
-       <https://civic.genome.wustl.edu/events/genes/12422/summary/variants/729/summary/evidence/1792/summary#evidence>`_
+       <https://civicdb.org/links/evidence/1792>`_
    * - Unknown
      - `FANCC Loss-of-function (EID1307)
-       <https://civic.genome.wustl.edu/events/genes/1811/summary/variants/534/summary/evidence/1307/summary#evidence>`_
+       <https://civicdb.org/links/evidence/1307>`_
    * - N/A
      - `CD274 Expression (EID1167)
-       <https://civic.genome.wustl.edu/events/genes/11335/summary/variants/276/summary/evidence/1167/summary#evidence>`_
+       <https://civicdb.org/links/evidence/1167>`_

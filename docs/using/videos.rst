@@ -3,6 +3,22 @@ Instructional Videos
 The following videos offer overviews of the CIViC application and are recommended viewing for users wishing to gain a quick understanding of basic CIViC
 interface elements and workflows. For a complete/current list of intructional videos please visit the `CIViC YouTube channel <https://www.youtube.com/playlist?list=PLImz36orVFPCQjx6wjMrYW-IPWGk8HrbX>`__.
 
+
+CIViC - Introduction to v2 interface
+_______________________
+.. raw:: html
+
+   <div class="video-container">
+   <iframe width="825" height="464"
+         src="https://www.youtube.com/embed/bpVkSP7qvgc" frameborder="0"
+         allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   </div>
+
+This video covers:
+
+- Basic organziation and functionality of version 2 of the CIViC interface
+
+
 CIViC - Getting Started
 _______________________
 .. raw:: html
