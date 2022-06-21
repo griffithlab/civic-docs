@@ -1,5 +1,5 @@
 sphinx==3.0.0
 sphinx_fontawesome
 sphinxcontrib-images
-git+git://github.com/griffithlab/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput
+git+https://github.com/griffithlab/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput
 --install-option="--no-deps"
