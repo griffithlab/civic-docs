@@ -14,7 +14,7 @@ Rodrigo Dienstmann
    **Area of Expertise:** Oncology |br|
    **SAB Service:** 2022-present |br|
 
-Rodrigo Dienstmann is a medical oncologist with expertise in early drug development and molecularly-guided therapies. His research is focused on integrating biomarker data with clinical outcomes to boost precision cancer therapy. After graduating in Brazil and working as a medical oncologist in the public and private sectors, he moved to the Vall d’Hebron Institute of Oncology (VHIO) in Barcelona, Spain, for training in phase I development of cancer drugs. He helped develop a molecular pre-screening strategy to match the genomic profile of each patient’s tumor to targeted agents. At the Molecular Pathology Laboratory of Massachusetts General Hospital, he was responsible for standardized decision support and structured reports of next-generation sequencing tests of somatic cancer variants. He then assisted the Sage Bionetworks Computational Oncology team, Seattle, USA, in the application of big data analytics models for tumor subtyping, prognostic and predictive multi-omics markers. He then returned to the VHIO, Spain, as a clinical scientist to coordinate the Molecular Prescreening Program and Molecular Tumor Boards at the institution. Now, back in his home country, he is working as medical director of Oncoclínicas Precision Medicine and Big Data Initiatives, in São Paulo, Brazil.
+Rodrigo Dienstmann is a medical oncologist with expertise in early drug development and molecularly-guided therapies. His research is focused on integrating biomarker data with clinical outcomes to boost precision cancer therapy. After graduating in Brazil and working as a medical oncologist in the public and private sectors, he moved to the Vall d’Hebron Institute of Oncology (VHIO) in Barcelona, Spain, for training in phase I development of cancer drugs. He helped develop a molecular pre-screening strategy to match the genomic profile of each patient’s tumor to targeted agents. At the Molecular Pathology Laboratory of Massachusetts General Hospital, he was responsible for standardized decision support and structured reports of next-generation sequencing tests of somatic cancer variants. Dr. Dienstmann advised the Sage Bionetworks Computational Oncology team in the application of big data analytics models for tumor subtyping, prognostic and predictive multi-omics markers. He then returned to the VHIO, Spain, as a clinical scientist to coordinate the Molecular Prescreening Program and Molecular Tumor Boards at the institution. He is currently working as Medical Director of Oncoclínicas Precision Medicine and Big Data Initiatives, in São Paulo, Brazil.
 |br|
 
 Elaine Mardis
@@ -40,21 +40,12 @@ Scott Newman
    **Area of Expertise:** Precision Oncology, Bioinformatics, Cloud Computing |br|
    **SAB Service:** 2022-present |br|
 
-Scott Newman is Vice President of Precision Oncology at Sema4. He obtained a Ph.D. from the University of Cambridge, UK, in Oncology and Cancer Biology. Prior to joining Sema4 worked in the areas of Cancer Genomics, Clinical Genomics and Bioinformatics at Emory University and then St. Jude Children's Research Hospital.
+Scott Newman is Vice President of Precision Oncology at Sema4. He obtained a Ph.D. from the University of Cambridge, UK, in Oncology and Cancer Biology. Prior to joining Sema4 worked in the areas of Cancer Genomics, Clinical Genomics and Bioinformatics at Emory University and then St. Jude Children's Research Hospital. At St. Jude, Dr. Newman lead a team of clinical genome analysts with expertise in cancer biology and computer programming to investigate the clinical utility of whole-genome, whole-exome and whole-transcriptome sequencing. Dr. Newman's team developed processes for mining vast amounts of genome sequencing data for rare pieces of information that could benefit individual patients.
 |br|
 |br|
 |br|
 |br|
 |br|
-|br|
-|br|
-|br|
-|br|
-|br|
-|br|
-|br|
-
-
 
 Heidi Rehm
 -------------
@@ -80,7 +71,7 @@ Andrew Su
    **Area of Expertise:** Computational Tools and Data Sharing |br|
    **SAB Service:** 2022-present |br|
 
-Andrew Su is a Professor at the Scripps Research Institute in the Department of Integrative, Structural and Computational Biology (ISCB). Dr. Su also holds an appointment in the Scripps Research Institute Department of Molecular Medicine. His research focuses on building and applying bioinformatics infrastructure for biomedical discovery. His research has a particular emphasis on leveraging crowdsourcing for genetics and genomics. Representative projects include the Gene Wiki, BioGPS, MyGene.Info, and Mark2Cure, each of which engages the crowd to help organize biomedical knowledge. These resources are collectively used millions of times every month by members of the research community, by students, and by the general public. These tools harness the collective intelligence of the biological community to systematically improve the organization and access to gene annotation information. Similar to the CIViC resource, some of the resources Dr. Su's lab has craeted leverage crowdsourcing. Dr. Su is a world recognized expert in and advocate for open data sharing.
+Andrew Su is a Professor at the Scripps Research Institute in the Department of Integrative, Structural and Computational Biology (ISCB). Dr. Su also holds an appointment in the Scripps Research Institute Department of Molecular Medicine. His research focuses on building and applying bioinformatics infrastructure for biomedical discovery. Dr. Su's lab has a particular emphasis on leveraging crowdsourcing for genetics and genomics. Representative projects include the Gene Wiki, BioGPS, MyGene.Info, and Mark2Cure, each of which engages the crowd to help organize biomedical knowledge. These resources are collectively used millions of times every month by members of the research community, by students, and by the general public. These tools harness the collective intelligence of the biological community to systematically improve the organization and access to gene annotation information. Dr. Su is a world recognized expert and advocate for open data sharing.
 |br|
 
 .. |br| raw:: html
