@@ -26,6 +26,7 @@ We provide CIViC data freely to all under the `Creative Commons Public Domain De
    about/participating
    about/meetings
    about/faq
+   about/scientific-advisory-board
    about/domain-experts
    about/partners
    about/data-clients
