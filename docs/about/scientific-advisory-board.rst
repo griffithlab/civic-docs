@@ -49,7 +49,7 @@ Scott Newman is Vice President of Precision Oncology at Sema4. He obtained a Ph.
 
 Heidi Rehm
 -------------
-.. sidebar:: `Heidi Rehm, Ph.D. <https://www.broadinstitute.org/bios/heidi-rehm>`_
+.. sidebar:: `Heidi Rehm, Ph.D., FACMG <https://www.broadinstitute.org/bios/heidi-rehm>`_
 
    .. image:: /images/scientific-advisors/rehm.jpg
       :target: https://www.broadinstitute.org/bios/heidi-rehm
