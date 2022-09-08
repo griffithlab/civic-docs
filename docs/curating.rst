@@ -49,6 +49,7 @@ For examples and ideas on how to get started, visit our :doc:`Curation Ideas <cu
    curating/general
    curating/variants
    curating/genes
+   curating/molecular_profiles
    curating/evidence
    curating/assertions
    curating/source_suggestions
