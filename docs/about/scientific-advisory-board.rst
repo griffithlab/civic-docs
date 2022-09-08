@@ -5,7 +5,7 @@ The CIViC Scientific Advisory Board consists of external independent experts who
 
 
 Rodrigo Dienstmann
--------------
+------------------
 .. sidebar:: `Rodrigo Dienstmann, MD. <https://www.linkedin.com/in/rodrigo-dienstmann-a7b3b265/>`_
 
    .. image:: /images/scientific-advisors/dienstmann.jpg
