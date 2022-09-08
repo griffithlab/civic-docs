@@ -17,6 +17,7 @@ Data clients are academic and commercial resources that use CIViC data (for exam
 - `Euformatics OmnomicsNGS <http://euformatics.com/ongs/>`_
 - `Gemini <http://gemini.readthedocs.io/en/latest/>`_
 - `Gene Cards <http://www.genecards.org/>`_
+- `Geneyx Analysis, WES and WGS data analysis & Interpretation platform <https://geneyx.com/geneyxanalysis/>`_
 - `Genome Nexus <https://www.genomenexus.org/>`_
 - `Genoox <https://www.genoox.com/>`_
 - `GoldenHelix - VSClinical <http://goldenhelix.com/products/VarSeq/vsclinical.html>`_
