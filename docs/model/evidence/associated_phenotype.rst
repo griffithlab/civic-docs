@@ -2,7 +2,7 @@
 
 Associated Phenotype
 ====================
-Associated Phenotypes can be added to any evidence item. Phenotypes are standardizes symptoms or abnormalities that are encountered in human disease (e.g., pheochromocytoma) and each phenotype must be known to the Human Phenotype Ontology database. This field is optional and evidence items can be submitted without associated phenotypes. Associated Phenotypes should provide additional information beyond what is implied by the Disease field. Phenotypes should be particularly considered for Predisposing Evidence Items whereby the variant is associated with a non-binary phenotype or syndrome for a particular genotype.
+Associated Phenotypes can be added to any evidence item. Phenotypes standardize symptoms or abnormalities that are encountered in human disease (e.g., pheochromocytoma) and each phenotype is taken from the Human Phenotype Ontology database. This field is optional and evidence items can be submitted without associated phenotypes. Associated Phenotypes should provide additional information beyond what is implied by the Disease field. Phenotypes should be particularly considered for Predisposing Evidence Items whereby the variant is associated with a non-binary phenotype or syndrome for a particular genotype.
 
 Curating Associated Phenotypes
 -----------------------------------
