@@ -6,6 +6,8 @@ The following publications are directly related to the CIViC project.
 =============================== ======================= =================================================== ===========================================================================================
 Project                         Organization            Title                                               Link(s)
 =============================== ======================= =================================================== ===========================================================================================
+CIViC public proposal           WashU / Scripps         Organizing knowledge to enable personalization of   `PubMed: 25222080 <https://pubmed.ncbi.nlm.nih.gov/25222080/>`_ 
+                                                        medicine in cancer
 CIViC original publication      WashU                   CIViC is a community knowledgebase for expert       `PubMed: 28138153 <https://pubmed.ncbi.nlm.nih.gov/28138153/>`_
                                                         crowdsourcing the clinical interpretation of
                                                         variants in cancer
@@ -33,9 +35,11 @@ Minimum variant level data      Multi-institution       Adapting crowdsourced cl
                                 Group
 CIViC SOP                       WashU                   Standard operating procedure for curation and       `PubMed: 31779674 <https://pubmed.ncbi.nlm.nih.gov/31779674/>`_
                                                         clinical interpretation of variants in cancer
-CIViC community approach        Multi-institution       A community approach to the cancer variant          `Nature Cancer: s43018-022-00379-w <https://www.nature.com/articles/s43018-022-00379-w>`_
+CIViC community approach        Multi-institution       A community approach to the cancer variant          `PubMed: 35624339 <https://pubmed.ncbi.nlm.nih.gov/35624339/>`_
                                 WashU / ClinGen /       interpretation bottleneck
                                 GA4GH (VICC)
+CIViC update 2022 (NAR)         Multi-institution       Evolution of the open-access CIViC knowledgebase    `BioRXiV: 2021.06.13.448171 <https://doi.org/10.1101/2021.06.13.448171/>`_
+                                WashU / ClinGen /       is driven by the needs of the cancer variant
+                                GA4GH (VICC)            interpretation community
 =============================== ======================= =================================================== ===========================================================================================
-
 
