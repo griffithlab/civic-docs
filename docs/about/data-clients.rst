@@ -16,12 +16,13 @@ Data clients are academic and commercial resources that use CIViC data (for exam
 - `ETH Nexus Personalized Health Technologies - Swiss Variant Interpretation Platform for Oncology <http://www.nexus.ethz.ch/>`_
 - `Euformatics OmnomicsNGS <http://euformatics.com/ongs/>`_
 - `Gemini <http://gemini.readthedocs.io/en/latest/>`_
-- `Gene Cards <http://www.genecards.org/>`_
+- `Geneyx Analysis, WES and WGS data analysis & Interpretation platform <https://geneyx.com/geneyxanalysis/>`_
+- `Genome Nexus <https://www.genomenexus.org/>`_
 - `Genoox <https://www.genoox.com/>`_
 - `GoldenHelix - VSClinical <http://goldenhelix.com/products/VarSeq/vsclinical.html>`_
 - `Hartwig Medical Foundation <https://www.hartwigmedicalfoundation.nl/en/>`_
 - `International Cancer Genome Consortium (ICGC) Data Portal <https://dcc.icgc.org/>`_
-- `LifeMap Sciences TGex NGS Analysis & Interpretation Platform <http://tgex.genecards.org/>`_
+- `LifeMap Sciences’ GeneCards Knowledgebase Suite <https://www.genecards.org>`_
 - `Linked Data Hub (LDH) <https://ldh.clinicalgenome.org/>`_
 - `Medical Genomics Japan Variant Database (MGeND) <https://mgend.med.kyoto-u.ac.jp/>`_
 - `Microsoft Research - Natural Language Processing <https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/tacl17.pdf>`_

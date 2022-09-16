@@ -114,18 +114,6 @@ Dr. Krysiak is an Instructor at the McDonnell Genome Institute at Washington Uni
 |br|
 |br|
 
-Elaine Mardis
--------------
-.. sidebar:: `emardis <https://civicdb.org/users/133/>`_
-
-   .. image:: /images/domain-experts/mardis.jpg
-      :target: https://civicdb.org/users/133/
-
-   **Role:** Editor |br|
-   **Area of Expertise:** Research Scientist
-
-Dr. Mardis is the Robert E. and Louise F. Dunn Distinguished Professor of Medicine and Co-director of the McDonnell Genome Institute at Washington University School of Medicine. She is the Editor-In-Chief of Molecular Case Studies and also serves as an editorial board member of Molecular Cancer Research, Disease Models and Mechanisms, and Annals of Oncology. She helped create methods and automation pipelines for sequencing the human genome and was one of the team leaders to first sequence and analyze a whole cancer genome using next-generation sequencing methods. Her studies of cancer genomes have led to characterization of multiple tumor types including pediatric and adult disease as well as the understanding of acquired resistance to targeted therapies. These studies have led to development of methods to identify and characterize changes in genomic heterogeneity and design novel, personalized vaccines for individual patients.
-
 Damian Rieke
 ------------
 .. sidebar:: `DTRieke <https://civicdb.org/users/100/>`_
