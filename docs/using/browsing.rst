@@ -7,7 +7,7 @@ CIViC provides a series of Browse views for different entity types. These are di
 `Genes <https://civicdb.org/genes>`_, 
 `Variants <https://civicdb.org/variants>`_, 
 `Variant Groups <https://civicdb.org/variant-groups>`_,
-`Clincal Trials <https://civicdb.org/clinical-trials>`_,
+`Clinical Trials <https://civicdb.org/clinical-trials>`_,
 `Diseases <https://civicdb.org/diseases>`_,
 `Drugs <https://civicdb.org/drugs>`_,
 `Phenotypes <https://civicdb.org/phenotypes>`_,
