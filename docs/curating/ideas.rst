@@ -17,16 +17,16 @@ The following list is not exhaustive but provides many examples of approaches to
 - Published evidence for the arms of basket clinical trials (e.g. `NCI-MATCH <https://clinicaltrials.gov/ct2/show/NCT02465060>`_, `ASCO-TAPUR <https://clinicaltrials.gov/ct2/show/NCT02693535>`_, `I-SPY2 <https://clinicaltrials.gov/ct2/show/NCT01042379>`_, `BATTLE-1 <https://clinicaltrials.gov/ct2/show/NCT00409968>`_, `BATTLE-2 <https://clinicaltrials.gov/ct2/show/NCT01248247>`_, `CUSTOM <https://clinicaltrials.gov/show/NCT01306045>`_, etc.).
 - A gene, variant or paper, that you are an expert in. For example, this might be work from your own research/practice.
 - Public discussions on cases submitted to the `ASCO Molecular Oncology Tumor Board <https://connection.asco.org/discussion?tid=201>`_
-- The `CIViC publication queue <https://civicdb.org/curation/sources>`_, a place were CIViC curators add and discuss papers thought to contain valuable evidence.
+- The `CIViC publication queue <https://civicdb.org/curation/queues/pending-sources>`_, a place were CIViC curators add and discuss papers thought to contain valuable evidence.
 - We created a `ranked list of relevant genes <https://github.com/genome/civic-server/tree/master/public/downloads/RankedCivicGeneCandidates.tsv>`_, based on a comprehensive survey of genes that are targeted by dozens of assays in clinical use.
 - We also created a `ranked list of relevant publications <https://github.com/genome/civic-server/tree/master/public/downloads/CIViC-vs-OtherResources-Pubmed-Stats.xls>`_ by summarizing overlap between the publications used in CIViC and other companion resources.
-- Our colleagues at the BC Cancer Agency have developed a natural language processing approach and resulting database of automatically mined CIViC relevant publications called: CIViC-mine (`coming soon <https://civicdb.org/>`_).
+- Our colleagues at the BC Cancer Agency have developed a natural language processing approach and resulting database of automatically mined CIViC relevant publications called: `CIViC-mine <http://bionlp.bcgsc.ca/civicmine/>`_.
 - Treatment guidelines (e.g. `NCCN guidelines <https://www.nccn.org/professionals/physician_gls/f_guidelines.asp>`_, `ASCO guidelines <https://www.asco.org/practice-guidelines/quality-guidelines/guidelines>`_, `ESMO guidelines <http://www.esmo.org/Guidelines>`_, etc.).
 - Variants and papers referenced in other open access databases such as `ClinVar <https://www.ncbi.nlm.nih.gov/clinvar/>`_ and `OMIM <https://www.ncbi.nlm.nih.gov/omim/>`_.
 - Companion resources of CIViC participating in the `GA4GH Variant Interpretation for Cancer Consortium (VICC) <http://ga4gh.org/#/vicc>`_ or others such as: `PMKB <https://pmkb.weill.cornell.edu/>`_, `OncoKB <http://oncokb.org/#/>`_, `MyCancerGenome <https://www.mycancergenome.org/>`_, `CanDL <https://candl.osu.edu/>`_, `BaseSpace KN <https://variantinterpreter.informatics.illumina.com/>`_, `Cancer Genome Interpreter <https://www.cancergenomeinterpreter.org/home>`_, `COSMIC <http://cancer.sanger.ac.uk/cosmic/drug_resistance>`_, `PCT <https://pct.mdanderson.org/#/home>`_, `PharmGKB <https://www.pharmgkb.org/>`_. A detailed comparison of these resources can be found in the `CIViC Related Resources Table <https://goo.gl/5WAZmd>`_. While these resources can be used for inspiration, do not plagiarize/copy any content from these sources that might violate their copyrights.
 - Papers referenced by the `Atlas of Genetics and Cytogenetics in Oncology and Haematology <http://atlasgeneticsoncology.org/>`_
 - Keyword searches in `PubMed <https://www.ncbi.nlm.nih.gov/pubmed/>`_ or `Google Scholar <https://scholar.google.com/>`_
-- Papers from certain topical journals. The most cited journals in CIViC are summarized on the `CIViC Source Statistics page <https://civic.genome.wustl.edu/statistics/sources>`_
+- Papers from certain topical journals. The most cited journals in CIViC are summarized on the `CIViC Source Statistics page <https://civicdb.org/curation/sources>`_
 - Variants and related papers from the `Sarcoma Initiative <http://sarcomahelp.org/articles/chromosomal-translocations.html>`_.
 - Variants from the `LOVD project <http://www.lovd.nl/3.0/home>`_.
 
@@ -71,13 +71,13 @@ In addition to the variant summary (discussed above), there are several other st
 
 Only have a few minutes? Tackle one of the tasks below.
 
-- `Suggest a Source <https://civicdb.org/suggest/source>`_.
+- `Suggest a Source <https://civicdb.org/sources/add>`_.
 
   - Identify a publication containing a variant with clinical relevance.
   - Visit PubMed to identify the publication's `PubMed
     <https://www.ncbi.nlm.nih.gov/pubmed/>`_ ID.
   - Enter as much information possible to help curators. This form only requires 2 elements: PubMed ID and a comment to direct curators as to why you believe this publication has clinically-relevant information about a variant.
-  - Your suggested source can be seen in the `Source Suggestion Queue <https://civicdb.org/curation/sources>`_ or by searching for the publication in the `Source Advanced Search <https://civicdb.org/search/sources/>`_ to find the dedicated CIViC publication page.
+  - Your suggested source can be seen in the `Source Suggestion Queue <https://civicdb.org/curation/queues/pending-sources>`_ or by searching for the publication in the `Source Advanced Search <https://civicdb.org/search/sources/>`_ to find the dedicated CIViC publication page.
 
 - Add a variant Alias.
 
