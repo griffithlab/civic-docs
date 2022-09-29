@@ -129,7 +129,7 @@ The Oncogenic Assertion (Oncogenic AID) summarizes a collection of Evidence Item
 
    Figure 10: Oncogenic Assertion Clinical Significance Classifications based on score.
 
-The selection of Assertion Type in CIViC results in a particular choice of variant classification based on the aggregation of evidence codes (Figure 11). For Oncogenic Assertions, after the Oncogenic AID Type is chosen, the ClinGen/CGC/VICC `Oncogenicity Codes <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__. can be added to the Assertion (Figure 12). In some cases, ClinGen Somatic Variant Curation Expert Panels (SC-VCEPs) may choose N/A as an evidence code, and instead utilize an SC-VCEP specific protocol for evaluation of oncogenicity. This protocol should be described in the Assertion Summary. 
+The selection of Assertion Type in CIViC results in a particular choice of variant classification based on the aggregation of evidence codes (Figure 11). For Oncogenic Assertions, after the Oncogenic AID Type is chosen, the ClinGen/CGC/VICC `Oncogenicity Codes <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__ can be added to the Assertion (Figure 12). In some cases, ClinGen Somatic Variant Curation Expert Panels (SC-VCEPs) may choose N/A as an evidence code, and instead utilize an SC-VCEP specific protocol for evaluation of oncogenicity. This protocol should be described in the Assertion Summary. 
 
 .. figure:: /images/figures/assertion-code-guidelines.png
    :alt: Five Assertion types are available which are associated with different guidelines.
