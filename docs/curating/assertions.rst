@@ -120,7 +120,7 @@ The Oncogenic Assertion (Oncogenic AID) summarizes a collection of Evidence Item
 
 
 .. figure:: /images/figures/oncogenicity-codes.png
-   :alt: Oncogenicity Codes classify a variant using a 5 tier evaluation.
+   :alt: Oncogenicity Codes classify a variant using a 5-tier evaluation.
 
    Figure 9: Oncogenicity Codes from the ClinGen/CGC/VICC Guidelines may be used to classify a variant using a 5-tier evaluation consisting of Benign, Likely Benign, Variant of Unknown Significance (VUS), Likely Oncogenic, or Oncogenic (Figure 10)
 
