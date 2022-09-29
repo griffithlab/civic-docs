@@ -73,7 +73,7 @@ The duration of exposure to the drug and confounding interactions (e.g., wash-ou
 
 Assigning a Clinical Significance of Sensitivity/Response can depend on factors such as response rate, which will vary significantly with disease and treatment. In some cases a response rate of 15% may represent a significant improvement, and merit a valuation of Sensitivity/Response. A general guideline for CIViC curation is to follow the author’s published (and peer-reviewed) interpretations and conclusions of the results.
 
-Extensive guidelines, use cases, and examples for curation of predictive evidence are given in Figure 11 and Table 1.
+Extensive guidelines, use cases, and examples for curation of predictive evidence are given in Figure 14 and Table 1.
 
 Diagnostic Evidence
 ~~~~~~~~~~~~~~~~~~~
@@ -117,58 +117,83 @@ Prognostic evidence is characterized by either better outcomes for patient subpo
 
 In some cases, a variant subpopulation with worse outcome may benefit from subsequent therapy targeted to that variant (e.g., *HER2* amplification in breast cancer).
 
-Guidelines, use cases, and examples for curation of prognostic evidence are given in Figure 11 and Table 1.
+Guidelines, use cases, and examples for curation of prognostic evidence are given in Figure 14 and Table 1.
+
 
 Predisposing Evidence
 ~~~~~~~~~~~~~~~~~~~~~
-Predisposing Evidence Items are designed to capture clinical information associated with germline variants relevant for cancer. This Evidence Type is closely associated with `ACMG Codes. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/>`__ The general format for a predisposing EID is a summary of the reported data relevant to the variant and disease of interest, followed by an enumeration of ACMG Codes derived from the reported information with a brief justification for the presence of each code. 
+Predisposing Evidence Items were first introduced in CIViC v1 to capture the role of a variant in increasing the likelihood of developing cancer. This is comparable to the concept of heritable genomic variants that increase risk for “cancer predisposition syndromes” or “cancer susceptibility”. In CIViC v2, Predisposing Evidence Items include both this historical clinical significance of “cancer predisposition variants”, as well as evidence items that decrease risk for cancer susceptibility by conferring a protective effect (“cancer protectiveness variants”). The structure of Predisposing Evidence Items (EIDs) mirrors the structure of other EID types in CIViC by having multiple clinical significance classifications under which evidence can be evaluated. (Figure 8). Thus, just as Prognostic EIDs capture better and worse outcomes, and Predictive EIDs include the ability to capture sensitivity and resistance, the Predisposing EID can capture detrimental pathogenic and also beneficial protective qualities. CIViC Predisposing Evidence Items which pertain to the Pathogenic axis in Figure 8 can be aggregated at the CIViC Assertion level for a formal pathogenicity evaluation utilizing `ACMG/AMP Codes <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/>`__.
 
-Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/links/evidence/5546>`__) that describes a Predisposing Evidence Type (Figure 8). This example describes a study where the VHL - R167Q (c.500G>A) Variant was described in a set of patients and evidence for the PP1 ACMG-AMP criteria was documented. Hemangioblastoma and pheochromocytoma were seen in patients and are reported as Associated Phenotypes, while the Disease is Von Hippel-Lindau Disease.
+.. figure:: /images/figures/opposing-qualities.png
+   :alt: The opposing qualities of Predisposing, Prognostic, Predictive Evidence Items.
 
-.. figure:: /images/figures/evidence-summary_EID5546.png
-   :alt: Screenshot of a predisposing Evidence Item summary
+   Figure 8: The opposing qualities of Predisposing, Prognostic, Predictive Evidence Items.
 
-   Figure 8: Screenshot of a Predisposing Evidence Item summary
+
+The Pathogenic axis for Predisposing EIDs (right side in Figure 8) documents evidence which describes either the presence or absence of a pathogenic property for a variant. It is important to realize that evidence supporting both a pathogenic or benign classification are captured using the **Predisposition** clinical significance, associated with the right (red) axis (labeled Pathogenic) by use of the CIViC Evidence Direction (Supports or Does not support) (Figure 9).  To summarize, a CIViC Predisposing EID that Supports clinical significance of Predisposition suggests a potentially pathogenic variant. A Predisposing EID that Does Not Support clinical significance of Predisposition suggests a potentially benign variant. These EIDs do not make any final classification of pathogenicity and may or may not fully support any specific ACMG criteria but point in the direction of such classifications.  
+
+.. figure:: /images/figures/predisposing-axis.png
+   :alt: Predisposing Evidence Item Clinical Significance relates either to cancer protectiveness or predisposition
+   
+   Figure 9: The Predisposing Evidence Item (EID) Clinical Significance relates either to cancer protectiveness (left/green arrow) or predisposition (right/red arrow). The Evidence direction (Supports or Does Not Support) indicates whether the EID is pointing towards benign or protectiveness/predisposition effect. 
+
+As mentioned above, the Predisposing Evidence Type may utilize `ACMG/AMP Codes <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/>`__ when applicable. If the curator wishes to capture evidence that indicates a variant may be benign or pathogenic, and this evidence meets one or more of the published criteria from ACMG/AMP guidelines (termed ACMG codes in CIViC), then the curator can indicate the ACMG codes that were met in the body of the EID. The general format for a predisposing EID of this type is a summary of the reported data relevant to the variant and disease of interest, followed by an enumeration of ACMG Code(s) derived from the reported information with a brief justification for the presence of each code.
+
+Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/links/evidence/5546>`__) that describes a Predisposing Evidence Type (Figure 10) that Supports a clinical significance of Predisposition. This example describes a study where the VHL - R167Q (c.500G>A) Variant was described in a set of patients and evidence for the PP1 ACMG-AMP criteria was documented. Hemangioblastoma and pheochromocytoma were seen in patients and are reported as Associated Phenotypes, while the Disease is Von Hippel-Lindau Disease.
+
+
+.. figure:: /images/figures/predisposing-evidence-summary.png
+   :alt: Predisposing evidence summary.
+
+   Figure 10: Screenshot of a Predisposing Evidence Item that supports predisposition, suggesting a potentially pathogenic variant, supported by a specific ACMG pathogenicity criteria/code
 
 Predisposing Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Typically, but not always, Predisposing Evidence Items are written for rare or common germline variants. In rare circumstances, the patient can have a predisposing variant that develops as a result of a somatic mutation or mosaicism during embryogenesis that is widespread but not necessarily heritable.
+Typically, but not always, Predisposing Evidence Items are written for rare germline variants. In rare circumstances, the patient can have a predisposing variant that develops as a result of a somatic mutation or mosaicism during embryogenesis that is widespread, but not necessarily heritable. Common germline variants may also be associated with predisposition to cancer.
 
-ACMG-AMP evidence codes (Richards et al. 2015) (ACMG criteria) are derived from the evidence presented in the specific Source and are listed at the end of the Evidence Statement with a brief justification for each code’s use.
-ACMG evidence codes not directly derived from Source associated with the Evidence Item (e.g. population databases for PM2) are captured at the Variant Summary or at the level of Assertion.
+For evidence that indicates the presence or lack of a protective quality for a germline variant, this will be annotated with **Supports Protectiveness** or **Does not support Protectiveness**, respectively. Although not yet well-described in cancer predisposition, we anticipate examples will become available with time based on other complex diseases, such as the APOE2 allele which has evidence that it is protective against Alzheimer's disease.
 
-The above Predisposing Evidence Item (EID) lists the ACMG code PP1 as derived from the literature source, which alone results in a ACMG-AMP classification of VUS. Therefore, this Evidence Item is combined with other VHL - R167Q (c.500G>A) Evidence Items for Von Hippel Lindau Disease, in order to create CIViC Assertions, where the ACMG codes from the different Evidence Items are combined and evaluated for pathogenicity. The EID depicted here is part of Assertion number 4 (AID4), where the Evidence Items combine to pathogenic. Therefore Predisposing Evidence Items are not given Clinical Significance or Evidence Direction in isolation, and these fields are labeled N/A.
+Evidence supporting variant pathogenicity will be captured by a curator by selecting Supports, and then Predisposition using the menus available on the Add Evidence form in CIViC. Importantly, evidence supporting a benign annotation will be captured during curation by choosing Does not support and then Predisposition in the menus available in the Add Evidence form. 
 
-In some instances, a publication will contain relevant germline variant evidence for curation into CIViC and EID creation, but that evidence will not be sufficient to fulfill any of the ACMG criteria (especially in some cases where the gene or disease-specific criteria may be more stringent). In this case Curators should indicate this at the end of the Evidence Statement, by adding a brief statement such as “No ACMG criteria met”, in order to indicate to Editors and future Users that the evidence had been analyzed for the presence of ACMG codes during the curation process.
+For EIDs that utilize the Clinical Significance of Predisposition, ACMG evidence criteria (`Richards et al 2015 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/>`__) (termed ACMG codes for short) are derived from the evidence presented in the specific Evidence Source and are listed at the end of the Evidence Statement with a brief justification for each code’s use. ACMG evidence codes that can not be directly derived from the Evidence Source (e.g., population databases for PM2) should be captured in the Variant Summary or at the level of the Assertion. The EID depicted here is part of Assertion number 4 (AID4), where the Evidence Items combine to create a pathogenic Assertion. Predisposing Evidence Items do not individually determine ACMG/AMP Pathogenicity, but simply show in which direction the evidence derived from the particular publication or abstract is “leaning”, e.g., if it is leaning towards a pathogenic or benign final classification.
 
 Oncogenic Evidence Type
-~~~~~~~~~~~~~~~~~~~~~~~~
-Oncogenic Evidence Items (EIDs) capture clinically relevant information associated with a somatic variant’s involvement in tumor pathogenesis as described by the `Hallmarks of Cancer: The Next Generation. <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__ An Evidence Statement for an Oncogenic EID includes a summary of the reported data relevant to the variant and disease of interest by describing assays performed and experimental results.  The Comments for an Oncogenic EID may contain `Oncogenicity Codes <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__.
+~~~~~~~~~~~~~~~~~~~~~~~
+Oncogenic Evidence Items (EIDs) capture clinically relevant information associated with either a somatic variant’s protective qualities or, more commonly, its involvement in tumor pathogenesis as described by the `Hallmarks of Cancer <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__. An Evidence Statement for an Oncogenic EID includes a summary of the reported data relevant to the variant and disease of interest by describing assays performed and experimental results. The Evidence Summary for an Oncogenic EID may contain `Oncogenicity Codes <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__ from the ClinGen/CGC/VICC Standards for the classification of oncogenicity of somatic variants in cancer.
 
-Below is an example of an Evidence Item with an Oncogenic Evidence Type (Figure 9). This EID describes a study wherein KRAS Q61H was transfected into cells resulting in the oncogenic property of multilayered growth. Oncogenicity code OS2 was applied in the comments because a well established in vitro experiment (focus formation assay) supported an oncogenic effect of this variant.
+ In a system similar to the one described above for Predisposing Evidence Items, the Protective Clinical Significance is used to capture evidence associated with a somatic variant’s ability to reduce the development or harmful effects of a tumor. For example, the association of enhanced DNA-damage repair with significant TP53 copy number gains (`PMID: 27642012 <https://pubmed.ncbi.nlm.nih.gov/27642012/>`__).
 
-.. figure:: /images/figures/staging_evidence-summary6046.png
-   :alt: Screenshot of an Oncogenic Evidence Item summary
-  
-   Figure 9: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment 
+The Oncogenic Clinical Significance is used to capture evidence supporting an oncogenic or benign final classification of a somatic variant at the Assertion level. In the case where evidence suggests a variant has oncogenic properties, a curator will select **Supports**, and then **Oncogenicity** using the menus available on the Add Evidence form in CIViC (Figure 11). Importantly, evidence supporting a *benign* annotation will be captured during curation by choosing **Does not support** and then **Oncogenicity** in the menus available in the Add Evidence form.
+
+.. figure:: /images/figures/oncogenic-axis.png
+   :alt: The Oncogenic Evidence Item Clinical Significance relates either to cancer protectiveness or oncogenicity.
+
+   Figure 11: The Oncogenic Evidence Item (EID) Clinical Significance relates either to cancer protectiveness (left/green arrow) or oncogenicity (right/red arrow). The Evidence direction (Supports or Does Not Support) indicates whether the EID is pointing towards benign or protectiveness/oncogenicity effect. 
+
+Below is an example of an Evidence Item with an Oncogenic Evidence Type (Figure 12). This EID describes a study wherein KRAS Q61H was transfected into cells resulting in multilayered growth indicative of a loss of contact inhibition. Oncogenicity code OS2 is noted in the Evidence Statement, since the EID describes a well established in vitro experiment (focus formation assay), which supports an oncogenic effect for this variant.
+
+.. figure:: /images/figures/oncogenic-evidence-summary.png
+   :alt: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment
+
+   Figure 12: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment
 
 Oncogenic Evidence Curation Practices
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The Oncogenic Evidence Type describes literature derived evidence pertaining to a somatic variant’s role in tumor formation, growth, survival or metastasis, as summarized by Hanahan and Weinberg in `Hallmarks of Cancer: The Next Generation <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__. Disease type should be specified, as oncogenic effects may depend on cellular context. For cases where a disease type is difficult to ascertain, such as experiments in highly de-differentiated cell lines, the Disease Ontology term ‘Cancer’ can be used. Oncogenic EIDs use ‘N/A’ for Evidence Direction and Clinical Significance because assessments of a variant’s overall oncogenicity generally will not be possible at the single Evidence Item level. The Evidence Statement should contain a summary of the experiments or findings suggesting an oncogenic or benign variant effect. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Oncogenic Evidence Type describes literature-derived evidence pertaining either to a somatic variant’s protective effects or its role in tumor formation, growth, survival or metastasis, as summarized by Hanahan and Weinberg in `Hallmarks of Cancer <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__. Disease type should be specified, as oncogenic effects may depend on cellular context. For cases where a disease type is difficult to ascertain, such as experiments in highly de-differentiated cell lines, the Disease Ontology term ‘Cancer’ can be used. The Evidence Statement should contain a summary of the experiments or findings suggesting a protective, oncogenic, or benign variant effect.
 
-The Oncogenic Evidence Item may be associated with `Oncogenicity Codes <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__ developed by the Knowledge Curation and Interpretation Standards (KCIS) working group of the GA4GH VICC in collaboration with ClinGen working groups. Oncogenicity codes assess oncogenicity of a given somatic variant in a mechanism similar to that used in the 2015 ACMG/AMP Guidelines for germline pathogenicity. Enumeration of Oncogenicity Codes derived from the literature along with a brief justification for the presence of each code can be included as a comment (this recommendation will be revised upon formal publication of the Oncogenicity Codes).
+The Oncogenic Evidence Item may be associated with `Oncogenicity Codes <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__ developed by the Knowledge Curation and Interpretation Standards (KCIS) working group of the GA4GH VICC in collaboration with ClinGen working groups. Oncogenicity codes assess oncogenicity of a given somatic variant in a mechanism similar to that used in the 2015 ACMG/AMP Guidelines for germline pathogenicity. Enumeration of Oncogenicity Codes derived from the literature along with a brief justification for the presence of each code can be included in the Evidence Statement. 
 
 Functional Evidence Type
 ~~~~~~~~~~~~~~~~~~~~~~~~
 The Functional Evidence Type describes data from *in vivo* or *in vitro* experiments that assess the impact of a variant at the protein level. Functional Evidence should be disease agnostic and if the Evidence being entered relies on disease or cell context, consider another Evidence Type. The variant origin for this Evidence Type is anticipated to primarily be N/A and entries should be classified under the Evidence Level of D - Preclinical. Variant impact on protein structure, folding, binding, activity, activation, phosphorylation, and downstream pathway signaling are all types of evidence that fall under the Functional Evidence Type. 
 
-Below is an example of a Evidence Item that describes a Functional Evidence Type (Figure 10). The authors performed an experiment to determine the impact of the variant on normal protein function related to cell cycle arrest. Expression of wildtype CDKN2A arrests the cell cycle in CDKN2A deficient cells, whereas expression of CDKN2A D108Y does not impact cell cycle progression in the CDKN2A deficient cells. These results indicate the innate ability of CDKN2A  to arrest cell cycle progression has been lost as a result of the presence of the protein variant.
+Below is an example of a Evidence Item that describes a Functional Evidence Type (Figure 13). The authors performed an experiment to determine the impact of the variant on normal protein function related to cell cycle arrest. Expression of wildtype CDKN2A arrests the cell cycle in CDKN2A deficient cells, whereas expression of CDKN2A D108Y does not impact cell cycle progression in the CDKN2A deficient cells. These results indicate the innate ability of CDKN2A  to arrest cell cycle progression has been lost as a result of the presence of the protein variant.
 
 .. figure:: /images/figures/evidence-summary_7551.png
    :alt: Screenshot of a Functional Evidence Item summary
 
 
-   Figure 10: Screenshot of a Functional Evidence Item summary
+   Figure 13: Screenshot of a Functional Evidence Item summary
 
 
 Functional Evidence Curation Practices
@@ -211,12 +236,12 @@ The "Resistance" annotation is used in situations where the variant of interest 
 
    Table 1: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations. :download:`Download a more readable PDF version here <../images/figures/CIViC_attributes-curation-table_v1b.pdf>`
 
-Both Predictive and Prognostic evidence types may be obtained from the same data set in some cases. Figure 11, displayed below, gives hypothetical examples of predictive and prognostic structured annotation derived from   patient data.
+Both Predictive and Prognostic evidence types may be obtained from the same data set in some cases. Figure 14, displayed below, gives hypothetical examples of predictive and prognostic structured annotation derived from   patient data.
 
 .. figure:: /images/figures/CIViC_interpreting-predictive-prognostic-clinical-trials_v1d.png
    :alt: Examples for deriving Predictive and Prognostic Evidence Items (EIDs) from hypothetical clinical trial data.
 
-   Figure 11: Examples for deriving Predictive and Prognostic Evidence Items from hypothetical clinical trial data.
+   Figure 14: Examples for deriving Predictive and Prognostic Evidence Items from hypothetical clinical trial data.
 
 Curating Evidence from Clinical Trials
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -227,7 +252,7 @@ When curating evidence obtained from clinical trials performed with groups of pa
    :alt: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
 
 
-   Figure 12: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
+   Figure 15: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
 
 
 Statistical results may be obtained from the study to annotate a Categorical (sometimes colloquially called bucket-type) CIViC Variant, which pools together a category of sequence variants (for example *EGFR* MUTATION). Significantly longer progression free survival (PFS) may be observed in the mutant group (grouped under the Categorical CIViC Variant) vs. the wildtype group, when given a certain drug. In this case, this result may be reported in a CIViC Level B Evidence Item under the CIViC Categorical Variant *EGFR* MUTATION, with Evidence Direction and Clinical Significance “Suggests Sensitivity/Response” to the drug used.

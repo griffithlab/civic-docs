@@ -112,3 +112,46 @@ ACMG-AMP codes (Richards et al. 2015) supporting the Predisposing Assertion are 
 All Evidence Items relevant to the Assertion should be associated, even if they disagree with the Assertion Summary. Disagreements can be discussed in the Description section and rationale for discounting discrepant evidence should be recounted.
 
 Thoroughly evaluated Assertions can have a clinical significance of Variant of Unknown Significance using ACMG-AMP criteria. This permits other users to quickly re-evaluate this variant in the context of new evidence, potentially leading to reclassification, but reducing future curation burden if the variant is observed again.
+
+
+Oncogenic Assertion
+~~~~~~~~~~~~~~~~~~~
+The Oncogenic Assertion (Oncogenic AID) summarizes a collection of Evidence Items (EIDs) for a somatic variant, which together should reflect the state of knowledge in the field for this variant to reach a final oncogenic or benign classification. Oncogenic properties are interpreted as variant induced effects which promote one or more of the `Hallmarks of Cancer <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__. Benign properties indicate a lack of oncogenic effect for a somatic variant, which ideally will be demonstrated in the context of well defined positive controls. This collection of EIDs can then be summarized into a CIViC Oncogenic Assertion (Figure 9). 
+
+
+.. figure:: /images/figures/oncogenicity-codes.png
+   :alt: Oncogenicity Codes classify a variant using a 5-tier evaluation.
+
+   Figure 9: Oncogenicity Codes from the ClinGen/CGC/VICC Guidelines may be used to classify a variant using a 5-tier evaluation consisting of Benign, Likely Benign, Variant of Unknown Significance (VUS), Likely Oncogenic, or Oncogenic (Figure 10)
+
+.. figure:: /images/figures/oncogenic-clin-sig-scores.png
+   :alt: Oncogenic Assertion Clinical Significance Classifications based on score.
+
+   Figure 10: Oncogenic Assertion Clinical Significance Classifications based on score.
+
+The selection of Assertion Type in CIViC results in a particular choice of variant classification based on the aggregation of evidence codes (Figure 11). For Oncogenic Assertions, after the Oncogenic AID Type is chosen, the ClinGen/CGC/VICC `Oncogenicity Codes <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__ can be added to the Assertion (Figure 12). In some cases, ClinGen Somatic Variant Curation Expert Panels (SC-VCEPs) may choose N/A as an evidence code, and instead utilize an SC-VCEP specific protocol for evaluation of oncogenicity. This protocol should be described in the Assertion Summary. 
+
+.. figure:: /images/figures/assertion-code-guidelines.png
+   :alt: Five Assertion types are available which are associated with different guidelines.
+
+   Figure 11: Five Assertion types are available. AMP/ASCO/CAP Guidelines are used for tiering Predictive, Diagnostic, and Prognostic Assertions. Predisposing Assertions utilize the ACMG/AMP Guidelines. Oncogenic Assertions incorporate the ClinGen/CGC/VICC Guidelines, and users may also choose the special N/A evidence code, and then utilize an approved alternate oncogenicity guideline for Assertion creation. 
+
+.. figure:: /images/figures/oncogenic-clingen-guidelines.png
+   :alt: Oncogenic Assertions utilize the ClinGen/CGC/VICC 2022 Guideline.
+
+   Figure 12: When curating Oncogenic Assertions utilizing the ClinGen/CGC/VICC 2022 Guideline, a menu of ClinGen/CGC/VICC Codes are made available in a menu from which the curator may choose one or more.
+
+Curation of Oncogenic Assertions requires a brief Summary of the main conclusion of the Assertion. In the Assertion Description the curator should describe general relevant information about the variant’s oncogenic or benign properties, and importantly, describe how the appropriate guideline was used to arrive at the Clinical Significance, which is Likely Benign in the example below (Figure 13). Additionally external information such as population frequencies or data contradictions can be described here. The ClinGen/CGC/VICC Codes are added by the curator in the Add Assertion form, and a brief explanation for each Code used is given in the Assertion Description. For Codes that are derived from Evidence Items, the appropriate Curie link is also added by the curator (e.g., civic.EID:10277). The Disease field is required, and the term Cancer (DOID 162) may be used when the underlying evidence applies more generally. 
+
+.. figure:: /images/figures/oncogenic-assertion.png
+   :alt: Example Oncogenic Assertion.
+
+   Figure 13: Example Oncogenic Assertion.
+
+Curators should take note that the Clinical Significance of the Oncogenic Assertion (AID) and that of the Oncogenic Evidence Item (EID) do not overlap and instead consist of partially related but different annotations (Figure 14). This also holds for the Predisposing Evidence Item versus the Predisposing Assertion. EIDs provide discrete evidence from a single source and do not represent a final classification, only supporting evidence. The Assertion Clinical Significance provides a final classification as a result of the aggregation of information across studies for the variant (i.e., multiple EIDs and other evidence). The Oncogenic EID is set up on two opposing axes describing Protectiveness and Oncogenicity. The Oncogenic Axis is able to capture evidence supporting either a benign or an oncogenic effect for the variant, but only in rare cases will a single publication or meeting abstract yield enough evidence to obtain a classification of Oncogenic or Benign utilizing the `ClinGen/CGC/VICC Guidelines <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__. Because of this, Single EIDs are tagged with Oncogenicity Codes when appropriate, and used to support an overall Assertion (Figure 9). Importantly, note that an Oncogenic EID that utilizes the Protective Clinical Significance will have no analog at the level of Assertion.
+
+.. figure:: /images/figures/oncogenic-evidence-vs-assertion.png
+   :alt: Oncogenic Evidence in contrast to the Oncogenic Assertion.
+
+Figure 14: Oncogenic Evidence in contrast to the Oncogenic Assertion.
+
