@@ -116,7 +116,7 @@ Thoroughly evaluated Assertions can have a clinical significance of Variant of U
 
 Oncogenic Assertion
 ~~~~~~~~~~~~~~~~~~~
-The Oncogenic Assertion (Oncogenic AID) summarizes a collection of Evidence Items (EIDs) for a somatic variant, which together should reflect the state of knowledge in the field for this variant to reach a final oncogenic or benign classification. Oncogenic properties are interpreted as variant induced effects which promote one or more of the `Hallmarks of Cancer <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__.. Benign properties indicate a lack of oncogenic effect for a somatic variant, which ideally will be demonstrated in the context of well defined positive controls. This collection of EIDs can then be summarized into a CIViC Oncogenic Assertion (Figure 9). 
+The Oncogenic Assertion (Oncogenic AID) summarizes a collection of Evidence Items (EIDs) for a somatic variant, which together should reflect the state of knowledge in the field for this variant to reach a final oncogenic or benign classification. Oncogenic properties are interpreted as variant induced effects which promote one or more of the `Hallmarks of Cancer <https://pubmed.ncbi.nlm.nih.gov/21376230/>`__. Benign properties indicate a lack of oncogenic effect for a somatic variant, which ideally will be demonstrated in the context of well defined positive controls. This collection of EIDs can then be summarized into a CIViC Oncogenic Assertion (Figure 9). 
 
 
 .. figure:: /images/figures/oncogenicity-codes.png
