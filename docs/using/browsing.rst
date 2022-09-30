@@ -120,8 +120,8 @@ Evidence Table
      - Evidence ID of the Item
    * - Gene
      - Gene associated with the Item
-   * - Variant
-     - Variant associated with the Item
+   * - Molecular Profile
+     - Molecular Profile associated with the Item
    * - Description
      - Description of the Item
    * - Diseases
@@ -154,8 +154,8 @@ Assertion Table
      - Assertion ID of the Assertion
    * - Gene
      - Gene associated with the Assertion
-   * - Variant
-     - Variant associated with the Assertion
+   * - Molecular Profile
+     - Molecular Profile associated with the Assertion
    * - Summary
      - Curator's summary of the Assertion
    * - Diseases
