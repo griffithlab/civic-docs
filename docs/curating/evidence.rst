@@ -142,7 +142,7 @@ As mentioned above, the Predisposing Evidence Type may utilize `ACMG/AMP Codes <
 Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/links/evidence/5546>`__) that describes a Predisposing Evidence Type (Figure 10) that Supports a clinical significance of Predisposition. This example describes a study where the VHL - R167Q (c.500G>A) Variant was described in a set of patients and evidence for the PP1 ACMG-AMP criteria was documented. Hemangioblastoma and pheochromocytoma were seen in patients and are reported as Associated Phenotypes, while the Disease is Von Hippel-Lindau Disease.
 
 
-.. figure:: /images/figures/predisposing-evidence-summary.png
+.. figure:: /images/figures/evidence-summary_EID5546.png
    :alt: Predisposing evidence summary.
 
    Figure 10: Screenshot of a Predisposing Evidence Item that supports predisposition, suggesting a potentially pathogenic variant, supported by a specific ACMG pathogenicity criteria/code
@@ -172,7 +172,7 @@ The Oncogenic Clinical Significance is used to capture evidence supporting an on
 
 Below is an example of an Evidence Item with an Oncogenic Evidence Type (Figure 12). This EID describes a study wherein KRAS Q61H was transfected into cells resulting in multilayered growth indicative of a loss of contact inhibition. Oncogenicity code OS2 is noted in the Evidence Statement, since the EID describes a well established in vitro experiment (focus formation assay), which supports an oncogenic effect for this variant.
 
-.. figure:: /images/figures/oncogenic-evidence-summary.png
+.. figure:: /images/figures/evidence-summary_EID7936.png
    :alt: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment
 
    Figure 12: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment
