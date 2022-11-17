@@ -11,7 +11,7 @@ CIViC curators are a community of such experts dedicated to creating and maintai
 
 Although curators are not required to have any specific training, background or skill set, curator-generated content can only be “Accepted” once it is reviewed by a CIViC Editor. Editors are experts in cancer genomics, oncology, pathology and other relevant fields. This gate-keeper model allows significant contributions from curators with any level of experience while maintaining the quality of an expert-driven resource. Curators can be promoted to Editors once they have demonstrated sufficient understanding of the CIViC data model and requirements for cancer variant interpretation.
 
-CIViC curation involves documenting the published evidence for the clinical relevance of cancer variants. This includes creation of structured CIViC evidence statements for cancer variants, curation of variant coordinates, integration of multiple evidence statements into CIViC assertions, and creation of molecular profile-, variant- and gene-level summaries.
+CIViC curation involves documenting the published evidence for the clinical relevance of cancer variants. This includes creation of structured CIViC evidence statements for cancer variants, curation of variant coordinates, integration of multiple evidence statements into CIViC assertions, and creation of variant- and gene-level summaries.
 
 However, even small contributions can make a big impact on how up-to-date and comprehensive the CIViC resource is. Examples of small curation activities include: commenting on existing entries, identifying additional literature sources, improving the wording of a variant interpretation, adding variant IDs or aliases, etc.
 
@@ -39,7 +39,7 @@ For a primer on the fundamentals of cancer variant interpretation, we suggest th
 
 .. rubric:: More information
 
-For further information on curation with the CIViC platform we provide :doc:`General Curation Practices <curating/general>`, and documentation for :doc:`Curating Molecular Profiles <curating/molecular_profiles>`, :doc:`Curating Variants <curating/variants>`,  :doc:`Curating Genes <curating/genes>`,  :doc:`Curating Evidence <curating/evidence>`,  :doc:`Curating Assertions <curating/assertions>`, and :doc:`Suggesting Sources <curating/source_suggestions>`.
+For further information on curation with the CIViC platform we provide :doc:`General Curation Practices <curating/general>`, and documentation for :doc:`Curating Variants <curating/variants>`,  :doc:`Curating Genes <curating/genes>`,  :doc:`Curating Evidence <curating/evidence>`,  :doc:`Curating Assertions <curating/assertions>`, and :doc:`Suggesting Sources <curating/source_suggestions>`.
 For examples and ideas on how to get started, visit our :doc:`Curation Ideas <curating/ideas>` and  :doc:`Monitoring Curation Activity<curating/monitoring>` pages. Finally, if you are interested in  :doc:`Becoming An Editor <curating/editor>` we provide details on the criteria for promotion.
 
 .. toctree::
@@ -49,7 +49,6 @@ For examples and ideas on how to get started, visit our :doc:`Curation Ideas <cu
    curating/general
    curating/variants
    curating/genes
-   curating/molecular_profiles
    curating/evidence
    curating/assertions
    curating/source_suggestions

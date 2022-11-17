@@ -4,7 +4,6 @@ Browsing
 CIViC provides a series of Browse views for different entity types. These are displayed in the left menu and each provides filterable tables for one of the entities: 
 `Assertions <https://civicdb.org/assertions>`_,
 `Evidence <https://civicdb.org/evidence>`_, 
-`Molecular Profiles <https://civicdb.org/molecular-profiles>`_,
 `Genes <https://civicdb.org/genes>`_, 
 `Variants <https://civicdb.org/variants>`_, 
 `Variant Groups <https://civicdb.org/variant-groups>`_,
@@ -45,32 +44,6 @@ Gene Table
    * - Assertions
      - A count of Assertions associated with the Gene
 
-Molecular Profiles Table
------------------
-
-.. list-table::
-   :widths: 25  75
-   :header-rows: 1
-
-   * - Column
-     - Description
-   * - Variant
-     - Name of Molecular Profile
-   * - Entrez Genes
-     - Entrez name of associated Gene(s)
-   * - Variants
-     - Name(s) of associated Variant(s)
-   * - Diseases
-     - List of diseases associated with the Molecular Profile
-   * - Drugs
-     - A list of drugs associated with the Molecular Profile
-   * - Evidence
-     - A count of Evidence Items associated with the Molecular Profile
-   * - Assertions
-     - A count of Assertions associated with the Molecular Profile
-   * - Evidence Score
-     - CIViC's Evidence Score for the Molecular Profile
-
 Variant Table
 -----------------
 
@@ -88,6 +61,12 @@ Variant Table
      - List of diseases associated with the Variant
    * - Drugs
      - A list of drugs associated with the Variant
+   * - Evidence
+     - A count of Evidence Items associated with the Variant
+   * - Assertions
+     - A count of Assertions associated with the Variant
+   * - Evidence Score
+     - CIViC's Evidence Score for the Variant
 
 Variant Group Table
 -----------------------
@@ -120,8 +99,8 @@ Evidence Table
      - Evidence ID of the Item
    * - Gene
      - Gene associated with the Item
-   * - Molecular Profile
-     - Molecular Profile associated with the Item
+   * - Variant
+     - Variant associated with the Item
    * - Description
      - Description of the Item
    * - Diseases
@@ -154,8 +133,8 @@ Assertion Table
      - Assertion ID of the Assertion
    * - Gene
      - Gene associated with the Assertion
-   * - Molecular Profile
-     - Molecular Profile associated with the Assertion
+   * - Variant
+     - Variant associated with the Assertion
    * - Summary
      - Curator's summary of the Assertion
    * - Diseases

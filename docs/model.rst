@@ -9,7 +9,6 @@ This section describes the qualitative details of the knowledge model that CIViC
 
    model/evidence
    model/assertions
-   model/molecular_profiles
    model/variants
    model/genes
    model/variant_groups
