@@ -16,8 +16,8 @@ Assertions share several fields with evidence, which for the most part can be un
    * - Gene
      - :ref:`Gene Field <evidence-gene>`
      - 
-   * - Variant
-     - :ref:`Variant Field <evidence-variant>`
+   * - Molecular Profile
+     - :ref:`Molecular Profile Field <evidence-molecular-profile>`
      - 
    * - Origin
      - :ref:`Gene Field <evidence-gene>`
