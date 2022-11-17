@@ -5,7 +5,7 @@ interface elements and workflows. For a complete/current list of intructional vi
 
 
 CIViC - Introduction to v2 interface
-_______________________
+____________________________________
 .. raw:: html
 
    <div class="video-container">
