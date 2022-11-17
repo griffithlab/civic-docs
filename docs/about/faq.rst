@@ -48,7 +48,7 @@ An in-depth description of the knowledge model behind CIViC can be found :doc:`h
 
 What information is currently in CIViC?
 ---------------------------------------
-CIViC currently houses thousands of evidence statements, variants and genes across multiple cancer types and these numbers are growing rapidly with your help! Refer to the `CIViC Statistics page <http://civicdb.org/statistics>`_ for more detailed information.
+CIViC currently houses thousands of evidence statements, variants and genes across multiple cancer types and these numbers are growing rapidly with your help! Refer to the `CIViC Home page <https://civicdb.org/welcome>`_ for more detailed information.
 
 How do I contribute information?
 --------------------------------
@@ -72,7 +72,7 @@ To provide a structured representation of the diseases associated with evidence 
 
 Where does this information come from? Can I submit my abstract?
 ----------------------------------------------------------------
-The information in CIViC is derived from peer-reviewed, published literature. Every evidence item currently requires a citation from PubMed or ASCO Meetings. This means that abstracts are not supported until they are peer-reviewed, published, and a PubMed or ASCO ID is assigned.
+The information in CIViC is derived from peer-reviewed, published literature. Every evidence item currently requires a citation from PubMed, ASCO Meetings or ASH Meetings. This means that abstracts are not supported until they are peer-reviewed, published, and a PubMed or ASCO/ASH ID is assigned.
 
 What if a drug is shown to have a negative effect on patients with a variant? Or the study was inconclusive?
 ------------------------------------------------------------------------------------------------------------
@@ -80,7 +80,7 @@ The knowledge model, specifically the Evidence Direction field, is used to indic
 
 My evidence statement disagrees with evidence from another source, should I still add it?
 -----------------------------------------------------------------------------------------
-Absolutely. CIViC is a forum for discussion of disagreements in the field or literature. Simply log in, go to the "Variant Talk" or "Evidence Talk" pages, and discuss this disagreement with the community.
+Absolutely. CIViC is a forum for discussion of disagreements in the field or literature. Simply log in, go to the "Molecular Profile Comments" or "Evidence Comments" pages, and discuss this disagreement with the community.
 
 I don't want to add evidence statements, can I still contribute?
 ----------------------------------------------------------------
@@ -92,11 +92,11 @@ What is MyGene.info?
 
 Is there an API that I can access?
 ----------------------------------
-Yes! Please review the :doc:`API documentation <../api>` for more details.
+Yes! Please review the `API documentation <https://griffithlab.github.io/civic-v2/>`_ for more details.
 
 What is the difference between "Supports a Negative association" and "Does not support a Positive association"?
 ---------------------------------------------------------------------------------------------------------------
-This can be confusing. We have reserved "Does not support - Positive" for statements that contradict previous statements that are supporting positive associations. For example, they would read "Contrary to the previous study which found this mutation sensitive to drug X, this study reported no effect." The information that this study "Does not support" the prior study's conclusion is what we are trying to capture with these classifications.
+This can be confusing. We have reserved "Does not support - Sensitivity" for statements that contradict previous statements that are supporting sensitivity associations. For example, they would read "Contrary to the previous study which found this mutation sensitive to drug X, this study reported no effect." The information that this study "Does not support" the prior study's conclusion is what we are trying to capture with these classifications.
 
 Where do I begin to curate evidence statements? Are certain evidence types or genes a priority?
 -----------------------------------------------------------------------------------------------
@@ -104,7 +104,7 @@ The evidence statements that make up CIViC are generated from peer-reviewed, pub
 
 Can I use a review article to create an evidence statement?
 -----------------------------------------------------------
-Yes, but we urge caution when using such sources. It is generally preferable to find the primary source articles cited by the review article instead. Particularly, when a review article is describing contradictory findings from multiple studies. Individual evidence items created from each study should be created to capture this debate. The Variant Summary might be a better place to cite relevant review articles.
+Yes, but we urge caution when using such sources. It is generally preferable to find the primary source articles cited by the review article instead. Particularly, when a review article is describing contradictory findings from multiple studies. Individual evidence items created from each study should be created to capture this debate. The Molecular Profile Description might be a better place to cite relevant review articles.
 
 How is CIViC licensed?
 ----------------------
