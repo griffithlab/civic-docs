@@ -88,7 +88,7 @@ Absolutely. CIViC is a forum for discussion of disagreements in the field or lit
 
 I don't want to add evidence statements, can I still contribute?
 ----------------------------------------------------------------
-Yes. Evaluation of the literature is a collaborative effort. If you don't want to add new evidence, you can edit or discuss existing evidence. You can also help to make sure the Molceular Proflie Summary is an effective, consise, and accurate summary of the current set of evidence statements and state of knowledge in the field for the Molecular Profile. You can also add promising publications to the source suggestion queue.
+Yes. Evaluation of the literature is a collaborative effort. If you don't want to add new evidence, you can edit or discuss existing evidence. You can also help to make sure the Molecular Profile Summary is an effective, concise, and accurate summary of the current set of evidence statements and state of knowledge in the field for the Molecular Profile. You can also add promising publications to the source suggestion queue.
 
 What is MyGene.info?
 --------------------
