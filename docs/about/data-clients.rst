@@ -21,6 +21,7 @@ Data clients are academic and commercial resources that use CIViC data (for exam
 - `Genoox <https://www.genoox.com/>`_
 - `GoldenHelix - VSClinical <http://goldenhelix.com/products/VarSeq/vsclinical.html>`_
 - `Hartwig Medical Foundation <https://www.hartwigmedicalfoundation.nl/en/>`_
+- `Johns Hopkins Molecular Tumor Board <https://www.hopkinsmedicine.org/news/articles/the-gaitway-tumor-board>`_
 - `International Cancer Genome Consortium (ICGC) Data Portal <https://dcc.icgc.org/>`_
 - `LifeMap Sciences’ GeneCards Knowledgebase Suite <https://www.genecards.org>`_
 - `Linked Data Hub (LDH) <https://ldh.clinicalgenome.org/>`_
