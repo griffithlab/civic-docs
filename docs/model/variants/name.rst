@@ -2,7 +2,7 @@
 
 Name
 ====
-The **Variant Name** describes the specific variant being interpreted for clinical utility. Selecting a Variant Name in the Variant list for a Gene will bring up a Variant specific page with a description, aliases, HGVS expressions, ClinVar identifiers, Variant Type(s) and associated Evidence Items. 
+The **Variant Name** describes the specific variant being interpreted for clinical utility. Selecting a Variant Name in the Variant list for a Gene will bring up a Variant specific page with aliases, HGVS expressions, ClinVar identifiers, Variant Type(s) and Molecular Profiles. 
  
 
 Understanding Variant Names
