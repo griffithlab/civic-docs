@@ -6,7 +6,7 @@ Tabular lists of entities, displayed in data grids, comprise a major part of the
 Evidence Grid
 -------------
 
-.. thumbnail:: /images/figures/CIViC_evidence-grid-features_v1d.png
+.. thumbnail:: /images/figures/CIViC_evidence-grid-features_v2a.png
 
 The evidence grid displays lists of evidence items, and provides various methods to filter subsets of evidence items of interest to the user. 
 
@@ -18,12 +18,16 @@ The evidence grid displays lists of evidence items, and provides various methods
      - Description
    * - EID
      - Evidence ID
+   * - Molecular Profile
+     - Molecular Profile associated with the Evidence
+   * - Disease
+     - Disease associated with the Evidence
+   * - Drugs
+     - Drugs associated with the Evidence
+   * - DIT
+     - Drug Interaction Type
    * - DESC
      - Evidence description
-   * - DIS
-     - Disease
-   * - DRUGS
-     - Drugs associated with the item
    * - EL
      - Evidence Level
    * - ET
@@ -34,13 +38,13 @@ The evidence grid displays lists of evidence items, and provides various methods
      - Clinical significance
    * - VO
      - Variant origin
-   * - ER
+   * - R
      - Evidence Rating
 
 Assertion Grid
 --------------
 
-.. thumbnail:: /images/figures/CIViC_assertion-grid-features_v1a.png
+.. thumbnail:: /images/figures/CIViC_assertion-grid-features_v2a.png
 
 Assertion grids display lists of assertion items, and provide various methods to filter subsets of assertions of interest to the user.
 
@@ -52,19 +56,23 @@ Assertion grids display lists of assertion items, and provide various methods to
      - Description
    * - AID
      - Assertion ID
-   * - Summary
-     - Assertion summary
+   * - Molecular Profile
+     - Molecular Profile associated with the Assertion
    * - Disease
      - Disease
    * - Drugs
      - Drugs associated with the item
+   * - SUM
+     - Assertion summary
    * - AT
      - Assertion type
    * - AD
      - Assertion direction
    * - CS
      - Clinical significance
-   * - Evidence
+   * - CAT
+     - AMP/ASCO/CAT Category
+   * - Evidence Count
      - Count of evidence items associated with Assertion
 
 Activity Feed
