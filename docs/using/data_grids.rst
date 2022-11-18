@@ -67,32 +67,13 @@ Assertion grids display lists of assertion items, and provide various methods to
    * - Evidence
      - Count of evidence items associated with Assertion
 
-Activity Grid
+Activity Feed
 -------------
 
-.. thumbnail:: /images/figures/CIViC_activity-grid_v1a.png
+.. thumbnail:: /images/figures/CIViC_activity-grid_v2a.png
 
-.. list-table::
-   :widths: 25  75
-   :header-rows: 1
-
-   * - Column
-     - Description
-   * - User
-     - User who performed the activity
-   * - Role
-     - User's role
-   * - Event Type
-     - Description of the activity performed
-   * - Gene
-     - Gene of the subject entity (if applicable)
-   * - Variant
-     - Variant of the subject entity (if applicable)
-   * - Entity ID
-     - ID of the subject entity
-   * - Timestamp
-     - Time of the activity
+The Activity Feed (Curation Event Timeline) displays recent curation activity. Each event includes the responsible curator/editor, action (comment, addition, revision, etc), affected entities (gene, molecular profile, evidence, etc), organization, and timestamp. The displayed events can be optionally configured to show Child Events and filtered to specific actions types, curators, or organizations.   
 
 Other Data Grids
 ----------------
-CIViC also provides data grids for Genes, Variants, Variant Groups, and Sources. These grids are relatively self-explanatory.
+CIViC also provides data grids for Genes, Molecular Profiles, Variants, Variant Groups, Clinical Trials, Diseases, Drugs, Phenotypes, Variant Types, and Sources. These grids are relatively self-explanatory.
