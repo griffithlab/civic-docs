@@ -31,7 +31,7 @@ In order to quickly discern how well the evidence derived from the pubmed or abs
 
 Curating Five-Star Evidence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The example `Evidence Item below <https://civicdb.org/links/evidence/1199>`__ describes a Phase III clinical trial (PROFILE 1014) that evaluated the impact of the *ALK* - Fusions variant on therapeutic response with crizotinib for patients with lung non-small cell carcinoma. The clinical trial was a randomized, double-blinded, placebo-control study of 343 patients that evaluated progression free survival, objective response rate, and quality of life. The results were published in the New England Journal of Medicine.
+The example `Evidence Item below <https://civicdb.org/links/evidence/1199>`__ describes a Phase III clinical trial (PROFILE 1014) that evaluated the impact of the *ALK* - Fusions (single variant molecular profile) on therapeutic response with crizotinib for patients with lung non-small cell carcinoma. The clinical trial was a randomized, double-blinded, placebo-control study of 343 patients that evaluated progression free survival, objective response rate, and quality of life. The results were published in the New England Journal of Medicine.
 
 .. figure:: /images/figures/evidence-summary_EID1199.png
    :alt: Screenshot of EID1199 summary, a five-star Evidence Item
@@ -53,20 +53,20 @@ The example `Evidence Item below <https://civicdb.org/links/evidence/1199>`__ de
 
 Evidence items with a 4-star rating should be strong, have well-supported evidence, well-controlled experiments, and convincing results. Any discrepancies from expected results are well-explained and not concerning.
 
-This example was similar in design as the 5-start example, however, the reduced sample size contributed to the reduction in the start rating.
+This example was similar in design as the 5-start example, however, the reduced sample size contributed to the reduction in the star rating.
 
 Curating Three-Star Evidence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The example `Evidence Item below <https://civicdb.org/links/evidence/5982>`__ describes the same Phase 2A clinical trial from Supplementary Figure 23, but differs in the advanced solid tumor type being evaluated. In the subset of patients with bladder cancer, three of nine patients showed response to combination therapy with trastuzumab and pertuzumab, which supports sensitivity/response. Although this evidence item is derived from the same clinical trial, the reduction in Evidence Rating is representative of the smaller number of patients and large 95% confidence interval.
+The example `Evidence Item below <https://civicdb.org/links/evidence/5982>`__ describes the same Phase 2A clinical trial as shown above as a four-star Evidence Item, but differs in the advanced solid tumor type being evaluated. In the subset of patients with bladder cancer, three of nine patients showed response to combination therapy with trastuzumab and pertuzumab, which supports sensitivity/response. Although this Evidence Item is derived from the same clinical trial, the reduction in Evidence Rating is representative of the smaller number of patients and large 95% confidence interval.
 
 .. figure:: /images/figures/evidence-summary_EID5982.png
    :alt: Screenshot of EID5982's summary, a three-star Evidence Item
 
    Figure 3: Screenshot of EID5982's summary, a three-star Evidence Item
 
-Evidence Items with a 3-star rating are convincing but not supported by a breadth of experiments. These Evidence Items be smaller scale projects, or novel results without many follow-up experiments. 
+Evidence Items with a 3-star rating are convincing but not supported by a breadth of experiments. These Evidence Items may be smaller scale projects, or novel results without many follow-up experiments. 
 
-Even though these Evidence Items might contain reduced amount of data discrepancies from expected results should still be explained and not concerning. 
+Even though these Evidence Items might contain reduced amount of data, discrepancies from expected results should still be explained and not concerning. 
 
 Curating Two-Star Evidence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -83,7 +83,7 @@ Typically, Evidence Items received a 2-star rating if the experiments lack prope
 
 Curating One-Star Evidence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-The example `Evidence Item below <https://civicdb.org/links/evidence/895>`__ describes a B-level clinical study that evaluated 6 patients with *ERBB2* - Amplification for response to capecitabine, oxaliplatin, and chemoradiotherapy, with or without cetuximab. There was no difference in outcome between the 6 patients with the variant when compared to the 135 patients with no visible *ERBB2* - Amplification on *FISH* / *IHC*. The Evidence Item a heterogenous combination of variant detection methods, a low number of patients in the experimental arm (n=6) and overall low statistical power. Therefore, despite being a B-level Evidence Item, the curator assigned the EID a 1-star Evidence Rating.
+The example `Evidence Item below <https://civicdb.org/links/evidence/895>`__ describes a B-level clinical study that evaluated 6 patients with *ERBB2* - Amplification for response to capecitabine, oxaliplatin, and chemoradiotherapy, with or without cetuximab. There was no difference in outcome between the 6 patients with amplification when compared to the 135 patients with no visible *ERBB2* - Amplification on *FISH* / *IHC*. The study described in this Evidence Item includes a heterogenous combination of variant detection methods, a low number of patients in the experimental arm (n=6) and overall low statistical power. Therefore, despite being a B-level Evidence Item, the curator assigned the EID a 1-star Evidence Rating.
 
 .. figure:: /images/figures/evidence-summary_EID895.png
    :alt: Screenshot of EID895's summary, a one-star Evidence Item
