@@ -7,6 +7,12 @@ Upcoming Meetings & Events
 
 :guilabel:`Next planned event.`
 
+.. rubric:: To Be Announced
+
+
+Past Meetings & Events
+~~~~~~~~~~~~~~~~~~~~~~
+
 .. rubric:: 2022 CIViC Hackathon and Curation Jamboree
 
 ----
@@ -17,16 +23,14 @@ Upcoming Meetings & Events
 
 .. rubric:: Description
 
-The Jamboree/Hackathon will focus on further development of CIViC and CCGA, community-driven web resources for clinical interpretations of variants in cancer.
+The Jamboree/Hackathon focused on further development of CIViC and CCGA, community-driven web resources for clinical interpretations of variants in cancer.
 
 .. rubric:: Meeting Goals
 
 - Molecular biologists, Pathologists and Oncologists (certified or in training), and genome scientists interested in the problem of sequence variant interpretation for cancer precision medicine should submit topics for the Curation.
 - Software developers, engineers and computational biologists interested in learning and applying back- and front-end web development skills should submit topics for the Hackathon.  
-- To view and propose topics, visit the `Issues page <https://github.com/genome/civic-meeting/issues>`_.
+- To view topics discussed, visit the `Issues page <https://github.com/genome/civic-meeting/issues>`_.
 
-Past Meetings & Events
-~~~~~~~~~~~~~~~~~~~~~~
 
 .. rubric:: 2018 CIViC Hackathon and Curation Jamboree
 

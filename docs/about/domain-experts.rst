@@ -3,36 +3,6 @@ Domain Experts
 
 Our Domain Experts serve a critical function in the CIViC community. Normally editor-level users, they are tasked with promoting and maintaining high quality data and interpretations in CIViC. Domain Experts are usually scientists or physician scientists, with advanced degrees (PhD or MD level), and demonstrated expertise (publication records) relevant to curation of knowledge for precision medicine in cancer. Domain Experts will typically take responsibility for curating the literature related to a specific cancer type, gene/pathway, or mutation type. They also are responsible for approving any new submissions or revisions from other curators in their domain area. Domain Experts come from two sources. First, individuals with established expertise in the field of precision medicine or domain expertise for a specific domain are identified and invited to join the CIViC community at the Domain Expert level. Alternatively, individuals may be promoted to Domain Expert level based on expertise demonstrated through an exceptional contribution history in CIViC.
 
-Erica Barnell
--------------
-.. sidebar:: `ebarnell <https://civicdb.org/users/179/>`_
-
-   .. image:: /images/domain-experts/barnell.png
-      :target: https://civicdb.org/users/179/
-
-   **Role:** Editor |br|
-   **Area of Expertise:** Research Scientist
-
-Erica Barnell is an MD/PhD candidate at the Washington University School of Medicine with a PhD in Molecular Genetics and Genomics. Thesis work was completed in the Griffith Lab at the McDonnell Genome Institute to advance bioinformatic tools in the precision oncology space. Co-founded and current Chief Science Officer at Geneoscopy LLC, which is a life-sciences start-up company that leverages eukaryotic biomarkers to noninvasively diagnose, assess, and treat gastrointestinal disease.
-|br|
-|br|
-|br|
-
-Ron Bose
---------
-.. sidebar:: `rbose <https://civicdb.org/users/141/>`_
-
-   .. image:: /images/domain-experts/bose.png
-      :target: https://civicdb.org/users/141/
-               
-   **Role:** Editor |br|
-   **Area of Expertise:** Research Scientist
-
-Dr. Bose is Assistant Professor of Medicine with board certifications in medical oncology and internal medicine at Washington University School of Medicine. His lab studies how dysregulation of signal transduction pathways impacts the development of human cancers. In particular his focus is on the *HER2* receptor tyrosine kinase, a member of the *EGFR* growth factor receptor family, a gene amplified and activated in about 20% of human breast cancer cases. His lab discovered that *HER2* activating mutations can be found in many solid tumors, including breast cancer.
-|br|
-|br|
-
-
 Arpad Danos
 -----------
 .. sidebar:: `arpaddanos <https://civicdb.org/users/110/>`_
@@ -43,7 +13,7 @@ Arpad Danos
    **Role:** Editor |br|
    **Area of Expertise:** Research Scientist
 
-Dr. Danos is a Postdoctoral Researcher in the Griffith Lab, with research interests in developing data and knowledge models which can describe and give structure to clinical and preclinical cancer variant knowledge, and in developing standards to enable efficient trasnfer and communication of this information between groups who are generating and curating this data, as well as with the medical and research community at large, in order to address the curation bottleneck which has arisen with increasing incorporation of NGS technology into clinical as well as research contexts. Dr. Danos is also interested in elucidation of the regulatory structure of the genome, and the role of non-coding mutations in cancer.
+Dr. Danos is a Staff Scientist in the Griffith Lab, with research interests in developing data and knowledge models which can describe and give structure to clinical and preclinical cancer variant knowledge, and in developing standards to enable efficient trasnfer and communication of this information between groups who are generating and curating this data, as well as with the medical and research community at large, in order to address the curation bottleneck which has arisen with increasing incorporation of NGS technology into clinical as well as research contexts. Dr. Danos is also interested in elucidation of the regulatory structure of the genome, and the role of non-coding mutations in cancer.
 
 Obi Griffith
 ------------
@@ -148,35 +118,6 @@ Dr. Saliba is a Senior Scientist in the Griffith Lab at the Washington Universit
 |br|
 |br|
 
-David Spencer
--------------
-.. sidebar:: `DavidSpencer <https://civicdb.org/users/135/>`_
-
-   .. image:: /images/domain-experts/spencer.jpg
-      :target: https://civicdb.org/users/135/
-
-   **Role:** Editor |br|
-   **Area of Expertise:** Clinical Scientist
-
-Dr. Spencer is an Associate Professor of Medicine and Medical Director of the McDonnell Genome Institute CAP/CLIA Sequencing Lab at Washington University School of Medicine. He holds board certifications in Clinical Pathology and Molecular Genetic Pathology. His clinical focus is on the design, validation and interpretation of clinical sequencing assays, and has contributed to the application of NGS to predict outcomes in acute myeloid leukemia. His research lab studies the genetics and epigenetics of myeloid malignancies, and how mutations in these cancers alter epigenetic gene regulation and contribute to cancer development.
-
-Nick Spies
-----------
-.. sidebar:: `NickSpies <https://civicdb.org/users/41/>`_
-
-   .. image:: /images/domain-experts/spies.jpg
-      :target: https://civicdb.org/users/41/
-
-   **Role:** Administrator |br|
-   **Area of Expertise:** Research Scientist
-
-Nick Spies is a staff analyst at the McDonnell Genome Institute and an MD student at Washington University School of Medicine. He has made substantial contributions to the development of genome analysis tools and resources at the Genome Institute including the Drug-Gene Interaction Database. He is a founding member of the CIViC team, helping to define the CIViC knowledge model, and a leading content curator and a feature development consultant.
-|br|
-|br|
-|br|
-|br|
-|br|
-|br|
 
 Alex Wagner
 -----------
@@ -197,17 +138,6 @@ Dr. Wagner is an Assistant Professor at Nationwide Children's Hospital and The O
 
 Dr. Wagner also holds key roles in the American Society of Hematology Somatic Working Group and the ClinGen Somatic Working Group, where he works to apply these standards to the clinical curation and interpretation of genomic variants.
 
-Lukas Wartman
--------------
-.. sidebar:: `Lukas <https://civicdb.org/users/169/>`_
-
-   .. image:: /images/domain-experts/wartman2.jpg
-      :target: https://civicdb.org/users/169/
-
-   **Role:** Editor |br|
-   **Area of Expertise:** Clinical Scientist
-
-Dr. Wartman is an Assistant Professor of Medicine and Assistant Director of the McDonnell Genome Institute at Washington University School of Medicine and board certified in medical oncology and internal medicine. His lab studies the role of the H3K27 histone methyltransferase KDM6A in normal and malignant hematopoiesis. KDM6A is mutated in a range of cancers, including acute myeloid leukemia, and is the most commonly acquired event in a mouse model of acute promyelocytic leukemia studied in his lab. He also leads the multidisciplinary Washington University Genomics Tumor Board which focuses on sequencing analysis of clinical cases (N-of-1) or small cohorts presented by cancer care professionals in order to inform clinical decisions and/or advance biological or etiological understanding of cancer subtypes.
 
 .. |br| raw:: html
 

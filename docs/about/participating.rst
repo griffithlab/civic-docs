@@ -28,7 +28,7 @@ There are several ways you can make a contribution to this important cause:
 
 - **Discuss:** Participate in an ongoing discussion in an effort to reach community consensus on the appropriate clinical action(s) for a genomic event via comments.
 
-- **Flag:** Call Editor attention to Entities (Variants, Genes, Evidence, Assertions) that contain inaccuracies or inconsistencies.
+- **Flag:** Call Editor attention to Entities (Genes, Variants, Molecular Profiles, Evidence, Assertions) that contain inaccuracies or inconsistencies.
 
 - **Suggest Revisions (Edit):** Submit a correction or addition to any details about a Gene, Variant, Evidence Statement, or Assertion.
 

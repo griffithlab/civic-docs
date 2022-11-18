@@ -6,9 +6,11 @@ FAQ
 
 How do I cite CIViC?
 --------------------
-A `manuscript describing CIViC <http://www.nature.com/ng/journal/v49/n2/full/ng.3774.html>`_ has been published in Nature Genetics (`PMID: 28138153 <https://www.ncbi.nlm.nih.gov/pubmed/28138153>`_). Please cite:
+A `manuscript describing CIViC <http://www.nature.com/ng/journal/v49/n2/full/ng.3774.html>`_ was first published in Nature Genetics (`PMID: 28138153 <https://www.ncbi.nlm.nih.gov/pubmed/28138153>`_). Please cite:
 
     Griffith M\ :sup:`*,†`, Spies NC\ :sup:`*`, Krysiak K\ :sup:`*`, McMichael JF, Coffman AC, Danos AM, Ainscough BJ, Ramirez CA, Rieke DT, Kujan L, Barnell EK, Wagner AH, Skidmore ZL, Wollam A, Liu CJ, Jones MR, Bilski RL, Lesurf R, Feng YY, Shah NM, Bonakdar M, Trani L, Matlock M, Ramu A, Campbell KM, Spies GC, Graubert AP, Gangavarapu K, Eldred JM, Larson DE, Walker JR, Good BM, Wu C, Su AI, Dienstmann R, Margolin AA, Tamborero D, Lopez-Bigas N, Jones SJ, Bose R, Spencer DH Wartman LD, Wilson RK, Mardis ER, Griffith OL\ :sup:`†`. 2016. *CIViC is a community knowledgebase for expert crowdsourcing the clinical interpretation of variants in cancer.* Nat Genet. 49, 170–174 (2017); doi: `doi.org/10.1038/ng.3774 <http://dx.doi.org/10.1038/ng.3774>`_. :sup:`*`\ These authors contributed equally to this work. :sup:`†`\ Corresponding author.
+
+Additional CIViC-related publications can be found on our :doc:`citations <citations>` page.
      
 What is CIViC?
 --------------

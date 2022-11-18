@@ -14,7 +14,7 @@ The forms for adding new evidence or assertions include a comment field, so that
 
 Creating and Previewing Comments
 --------------------------------
-To create a comment, ensure you are logged in, navigate to the entity you wish to comment upon, click the entity's Comment tab.a
+To create a comment, ensure you are logged in, navigate to the entity you wish to comment upon, click the entity's Comment tab.
 
 Above the comment area are two buttons, 'Write' and 'Preview', with Write being selected by default. Click Preview to see how your message will appear with all the formatting and links applied.
 

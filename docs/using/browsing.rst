@@ -38,11 +38,11 @@ Gene Table
      - List of diseases associated with the Gene
    * - Drugs
      - A list of drugs associated with the Gene
-   * - Variants
+   * - Variant Count
      - A count of Variants associated with the Gene
-   * - Evidence
+   * - Evidence Count
      - A count of Evidence Items associated with the Gene
-   * - Assertions
+   * - Assertion Count
      - A count of Assertions associated with the Gene
 
 Molecular Profiles Table
@@ -54,8 +54,10 @@ Molecular Profiles Table
 
    * - Column
      - Description
-   * - Variant
+   * - Name
      - Name of Molecular Profile
+   * - Aliases
+     - A list of additional aliases associated with the Molecular Profile
    * - Entrez Genes
      - Entrez name of associated Gene(s)
    * - Variants
@@ -64,9 +66,9 @@ Molecular Profiles Table
      - List of diseases associated with the Molecular Profile
    * - Drugs
      - A list of drugs associated with the Molecular Profile
-   * - Evidence
+   * - Evidence Count
      - A count of Evidence Items associated with the Molecular Profile
-   * - Assertions
+   * - Assertion Count
      - A count of Assertions associated with the Molecular Profile
    * - Evidence Score
      - CIViC's Evidence Score for the Molecular Profile
@@ -82,6 +84,8 @@ Variant Table
      - Description
    * - Variant
      - Name of Variant
+   * - Variant Aliases
+     - A list of additional aliases associated with the Variant
    * - Entrez Gene
      - Entrez name of associated Gene
    * - Diseases
@@ -100,11 +104,13 @@ Variant Group Table
      - Description
    * - Name
      - Name of the Variant Group
-   * - Count
-     - Number of Variants in the Group
+   * - Variants
+     - Names of the Variants in the Variant Group  
    * - Genes
      - List of Genes associated with the Group
-   * - Evidence
+   * - Variant Count
+     - A count of Variants in the Group
+   * - Evidence Count
      - A count of Evidence Items associated with the Group
 
 Evidence Table
@@ -118,16 +124,14 @@ Evidence Table
      - Description
    * - EID
      - Evidence ID of the Item
-   * - Gene
-     - Gene associated with the Item
    * - Molecular Profile
      - Molecular Profile associated with the Item
-   * - Description
-     - Description of the Item
    * - Diseases
      - Diseases associated with the Item
    * - Drugs
      - Drugs associated with the Item
+   * - Description
+     - Description of the Item
    * - EL
      - Evidence Level of the Item
    * - ET
@@ -138,7 +142,7 @@ Evidence Table
      - Clinical Significance of the Item
    * - VO
      - Variant Origin of the Item
-   * - ER
+   * - R
      - Evidence Rating of the Item
 
 Assertion Table
@@ -152,23 +156,23 @@ Assertion Table
      - Description
    * - AID
      - Assertion ID of the Assertion
-   * - Gene
-     - Gene associated with the Assertion
    * - Molecular Profile
      - Molecular Profile associated with the Assertion
-   * - Summary
-     - Curator's summary of the Assertion
    * - Diseases
      - Diseases associated with the Assertion
    * - Drugs
      - Drugs associated with the Assertion
+   * - Summary
+     - Curator's summary of the Assertion
    * - AT
      - Assertion Type
    * - AD
      - Assertion Direction
-   * - AS
+   * - CS
      - Clinical Significance
-   * - Evidence
+   * - CAT
+     - AMP/ASCO/CAP Category
+   * - Evidence Count
      - Count of Evidence Items associated with the Assertion
 
 Source Table
@@ -181,9 +185,9 @@ Source Table
    * - Column
      - Description
    * - Type
-     - Type of Source (ASCO or PubMed)
+     - Type of Source (PubMed, ASCO or ASH)
    * - Citation ID
-     - PubMed or ASCO ID
+     - PubMed or ASCO ID or ASH ID
    * - Authors
      - Authors on the Source
    * - Year
@@ -192,5 +196,6 @@ Source Table
      - Name of Journal (PubMed) or Citation (ASCO)
    * - Name
      - Title of the publication (PubMed) or abstract (ASCO)
-   * - Evidence
+   * - Evidence Count
      - Count of Evidence Items associated with the Source
+
