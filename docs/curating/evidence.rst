@@ -16,14 +16,12 @@ CIViC Evidence is added and curated via a moderation process that includes submi
 
    Figure 2: Overview of CIViC content creation process
 
-It is important to note that once evidence is submitted into CIViC as a new Evidence Item, then the EID is visible to the community in the unmoderated/non-reviewed state, and these EIDs are labeled in orange (Figure 3). This enables the public to comment or create moderations on the submitted evidence. It is also important to note that orange Evidence Items may be incomplete, not accurately fit into the CIViC data model, or contain problems which the moderation process is designed to capture and fix. Once a CIViC EID has been reviewed by editors, and all revisions reviewed and accepted, then the EID is accepted by an editor, and its label changes to green.
+It is important to note that once evidence is submitted into CIViC as a new Evidence Item, then the EID is visible to the community in the unmoderated/non-reviewed state, and these EIDs are labeled in yellow (Figure 3). This enables the public to comment or create moderations on the submitted evidence. It is also important to note that yellow Evidence Items may be incomplete, not accurately fit into the CIViC data model, or contain problems which the moderation process is designed to capture and fix. Once a CIViC EID has been reviewed by editors, and all revisions reviewed and accepted, then the EID is accepted by an editor, and its label changes to green. Mousing over an EID brings up additional details, including whether the EID has any flags, pending revisions or comments. Note that revisions can be pending for EIDs in both the Submitted/Unreviewed Status (yellow) and the Accepted Status (green).
 
-.. figure:: /images/figures/CIViC_evidence-grid-features_v1d.png
-   :alt: Evidence Item datagrid features
+.. figure:: /images/figures/CIViC_evidence-grid-features_v2a.png
+   :alt: Evidence Item data grid features
 
-   Figure 3: Evidence Item datagrid features
-
-When an Evidence Item has a pending revision, it is labeled with a blue exclamation mark icon (Figure 3). Note that revisions can be made to EIDs in both the Submitted/Unreviewed Status (orange) and the Accepted Status (green).
+   Figure 3: Evidence Item data grid features
 
 .. _curating-evidence-general:
 
