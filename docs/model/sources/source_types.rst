@@ -12,3 +12,9 @@ ASCO Sources
 ------------
 
 For American Society of Clinical Oncology (ASCO) Sources, the Source ID will be the ASCO Web ID. Of note, the ASCO Web ID is not the ASCO abstract number. The ASCO Web ID is the identification number found in the URL of the abstract.
+
+ASH Sources
+-----------
+
+For American Society of Hematology (ASH) Sources, the Source ID will be the DOID for the corresponding abstract publication in the journal Blood. The ASH Abstract DOID can be found on the Blood Journal website entry for the abstract (below the article title). It will look something like this: "10.1182/blood-2021-150273".
+
