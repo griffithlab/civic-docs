@@ -12,7 +12,6 @@ generally avoid proposing new variants that are unlike any already in
 CIViC. All CIViC Variants are associated with one or more Molecular Profiles
 with some evidence of clinical relevance (predictive, prognostic, diagnostic, etc).  
 
-
 .. thumbnail:: /images/figures/CIViC_variant-fields_v2b.png
 
 **Variant Attributes**
