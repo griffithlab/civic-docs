@@ -12,5 +12,11 @@ When a drug is not present in the NCIT, then the Curator can add the drug name b
 
 Drugs added to CIViC which are not in NCIT should be submitted to NCIT using this form to submit new terms to the NCIT: https://ncitermform.nci.nih.gov/ncitermform/
 
-Multiple drugs can be added to a single evidence item, however, if two or more drugs are added to an evidence item the curator is required to provide a drug interaction type. Drug interaction types can be either combination, sequential, or substitutes. The drugs and drug interaction types should be explicitly stated in the source supporting the evidence item.
+Multiple drugs can be added to a single evidence item, however, if two or more drugs are added to an evidence item, the curator is required to provide a drug interaction type. Drug interaction types can be either combination, sequential, or substitutes. The drugs and drug interaction types should be explicitly stated in the source supporting the evidence item.
+
+Curating Interaction Types
+--------------------------
+The Interaction Type "combination" is used to indicate multiple drugs that are taken concurrently as part of a cocktail (e.g. Variant A predicts sensivity to the combination of Drug X and Y). The Interaction Type "substitutes" is used to indicate drugs that are to considered equivalent or alternatives to each other for the purposes of the current Evidence Item (e.g., Variant A predicts sensitivity to either Drug X or Drug Y). The Interaction Type "sequential" is the least common in CIViC and is used to indicate drugs that are taken in a series, in a particular order. 
+
+The current Therapies (Drugs) associated with Evidence Items, Assertions and other information in CIViC can be explored on the `CIViC Drugs Page <https://civicdb.org/drugs/home>`__.
 
