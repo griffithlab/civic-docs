@@ -1,5 +1,5 @@
 Molecular Profiles Overview
-=================
+===========================
 
 CIViC Molecular Profiles combinations of one or more CIViC variants. Most Molecular Profiles are "Simple" Molecular Profiles comprised of a single variant. In most cases, these can be considered equivalent to the CIViC concept of a :doc:`Variant <../variants/overview>`. However, increasingly clinical significance must be considered in the context of multiple variants simultaneously. Complex Molecular Profiles in CIViC allow for curation for such variant combinations. Regardless of the nature of the Molecular Profile (Simple or Complex), it must have a Predictive, Prognostic, Predisposing, Diagnostic, Oncogenic, or Functional clinical relevance to be entered in CIViC.
 

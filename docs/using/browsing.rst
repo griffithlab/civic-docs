@@ -22,7 +22,7 @@ Below each table a paging interface is provided to navigate through larger resul
 Examples of the kinds of information provided in these tables are provided below.
 
 Gene Table
---------------
+----------
 
 .. list-table::
    :widths: 25  75
@@ -46,7 +46,7 @@ Gene Table
      - A count of Assertions associated with the Gene
 
 Molecular Profiles Table
------------------
+------------------------
 
 .. list-table::
    :widths: 25  75
@@ -74,7 +74,7 @@ Molecular Profiles Table
      - CIViC's Evidence Score for the Molecular Profile
 
 Variant Table
------------------
+-------------
 
 .. list-table::
    :widths: 25  75
@@ -94,7 +94,7 @@ Variant Table
      - A list of drugs associated with the Variant
 
 Variant Group Table
------------------------
+-------------------
 
 .. list-table::
    :widths: 25  75
@@ -114,7 +114,7 @@ Variant Group Table
      - A count of Evidence Items associated with the Group
 
 Evidence Table
------------------
+--------------
 
 .. list-table::
    :widths: 25  75
@@ -146,7 +146,7 @@ Evidence Table
      - Evidence Rating of the Item
 
 Assertion Table
--------------------
+---------------
 
 .. list-table::
    :widths: 25  75
@@ -176,7 +176,7 @@ Assertion Table
      - Count of Evidence Items associated with the Assertion
 
 Source Table
-----------------
+------------
 
 .. list-table::
    :widths: 25  75
