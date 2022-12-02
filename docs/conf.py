@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'CIViC'
-copyright = u'2018, The McDonnell Genome Institute at Washington University School of Medicine'
+copyright = u'2022, The McDonnell Genome Institute at Washington University School of Medicine'
 author = u'The McDonnell Genome Institute at Washington University School of Medicine'
 
 # The short X.Y version
@@ -159,7 +159,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'CIViC', u'CIViC Documentation',
-     author, 'CIViC', 'One line description of project.',
+     author, 'CIViC', 'Clinical Interpretation of Variants in Cancer.',
      'Miscellaneous'),
 ]
 
