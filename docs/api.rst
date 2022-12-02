@@ -14,7 +14,7 @@ us at help@civicdb.org for assistance.
 
 The V2 documentation can be found `here <https://griffithlab.github.io/civic-v2/>`_.
 
-A graphical userface for accessing the new API can be found `here
+A graphical userface for accessing the new API can be found `in the API docs
 <https://civicdb.org/api/graphiql>`_.
 
 Please stay tuned for a more comprehensive API user guide.
