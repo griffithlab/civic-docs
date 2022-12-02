@@ -3,11 +3,11 @@
 Genes
 =====
 
-The gene-level data model within the CIViC database includes three features. The first is a curated gene-level summary with associated sources supporting the summary. The second feature is an external link to The Drug Gene Interaction Database4,5, which can be selected to learn more about specific drug-gene interactions and the druggable genome. The third feature includes gene-level details (e.g., gene aliases, domains, pathways) pulled in from MyGene.info6  with a link to additional MyGene.info details.
+The gene-level data model within the CIViC database includes several features. The first is a human curated gene-level summary describing the gene's clinical relevance with associated sources. The second feature is an external link to The Drug Gene Interaction Database, which can be selected to learn more about specific drug-gene interactions and the druggable genome. The third feature is an external link to the ProteinPaint resource allowing a view of the variant recurrence data for the gene in the context of alternative transcripts, known protein domains, etc. The fourth feature includes gene-level details (e.g., gene aliases, domains, pathways) pulled in from MyGene.info with a link to additional details.
 
 .. rubric:: UNDERSTANDING GENES
 
-In order to be listed in CIViC a Gene must have at least one clinical Evidence Item that has been curated from the literature. A new Gene record will be created automatically when the first Evidence Item is assigned to that Gene. The official gene name according to Entrez Gene (assigned by HGNC) is used. Alternative gene names are autopopulated from MyGeneInfo and searchable throughout the database. However, new Evidence Items must be associated with an official gene symbol to reduce ambiguity.
+In order to be listed in CIViC a Gene must have at least one clinical Evidence Item that has been curated from the literature and associated with at least one Molecular Profile (variant) of the gene. A new Gene record will be created automatically when the first Evidence Item is assigned to the Gene. The official gene name according to Entrez Gene (assigned by HGNC) is used. Alternative gene names or "aliases" are autopopulated from MyGeneInfo and searchable throughout the database. However, new Evidence Items must be associated with an official gene symbol to prevent ambiguity.
 
 .. rubric:: Gene Attributes
 
@@ -38,7 +38,7 @@ In order to be listed in CIViC a Gene must have at least one clinical Evidence I
 
 .. rubric:: CURATING GENES
 
-Most of the information within the gene-level data model is automatically imported after the gene is created. These automatically generated fields include: 1) information from MyGene.info and 2) DGIdb Details. Curators can add gene-level summaries and sources associated with the gene-level summaries. These clinical summaries should include relevant cancer subtypes, specific treatments for the gene’s associated variants, pathway interactions, functional alterations caused by the variants in the gene, and normal/abnormal functions of the gene with associated roles in oncogenesis (Supplementary Figure 1). The sources used for gene-level summaries should be derived from Pubmed IDs.
+Most of the information within the gene-level data model is automatically imported after the gene is created. These automatically generated fields include: 1) information from MyGene.info and 2) link to DGIdb Details, 3) link to ProteinPaint. Curators can add gene-level summaries and sources associated with the gene-level summaries. These clinical summaries should include relevant cancer subtypes, specific treatments for the gene’s associated variants, pathway interactions, functional alterations caused by the variants in the gene, and normal/abnormal functions of the gene with associated roles in oncogenesis. The sources used for gene-level summaries should correspond to Pubmed IDs.
 
 .. toctree::
    :maxdepth: 2
