@@ -10,7 +10,7 @@ At the heart of CIViC is the clinical evidence statement. The clinical evidence 
 
    evidence/overview
    evidence/gene
-   evidence/variant
+   evidence/molecular_profile
    evidence/statement
    evidence/level
    evidence/type

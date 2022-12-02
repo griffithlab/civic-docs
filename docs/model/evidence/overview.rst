@@ -22,10 +22,11 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - The symbol and ID of the gene implicated.
      - ESR1 (Entrez ID: 2099)
      - CIViC (Entrez)
-   * - :ref:`evidence-variant`
+   * - :ref:`evidence-molecular-profile`
      - Genomic event/mutation (Single nucleotide variant,
        Insertion/deletion, Gene fusion, Copy number variant, etc.)
-       implicated.
+       implicated. May be a simple single variant or a more complex
+       combination of variants.
      - Y537S
      - CIViC
    * - :ref:`evidence-statement`
@@ -52,7 +53,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
        details on how to enter evidence of each of the six types:
        Predictive, Prognostic, Diagnostic, Predisposing, Oncogenic and Functional. See 'Evidence
        Type' tab for more information.
-     - Predictive - The variant is
+     - Predictive - The molecular profile (one or more variants) is
        predictive of sensitivity or resistance to a therapeutic.
      - CIViC
    * - :ref:`evidence-direction`
@@ -62,7 +63,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - Supports - the evidence supports the clinical significance.
      - CIViC
    * - :ref:`evidence-clinical-significance`
-     - The impact of the variant for predictive, prognostic, diagnostic, or functional evidence types.
+     - The impact of the molecular profile (one or more variants) for predictive, prognostic, diagnostic, oncogenic or functional evidence types.
        See 'Evidence Type' tab for more information.
      - Resistant or Non-response - mutation is associated with resistance
        to therapy.
