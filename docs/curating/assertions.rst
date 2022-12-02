@@ -20,7 +20,7 @@ The Assertion contains a one sentence **Assertion Summary** which states the spe
 
 Beneath the Summary is the **Assertion Description**, which contains background clinical information specific to the variant, disease, and predictive (therapeutic), prognostic, diagnostic or predisposing clinical significance. EIDs supporting the Assertion clinical significance may be listed in this description, and referenced using CURIE identifiers (e.g., civic:EID1234). For Assertions with a higher AMP-ASCO-CAP Tier (Li et al. 2017), the Assertion Description section should list major practice guidelines and approvals associated with the clinical significance. For drug treatments, this may contain a brief restatement of guideline recommended treatment line and cancer stage (e.g. “NCCN guidelines recommend (category 1) erlotinib and gefitinib for NSCLC with sensitizing *EGFR* mutations, along with afatinib and osimertinib.” in Figure 1)
 
-.. figure:: /images/figures/CIViC_add-assertion-screenshot_v1.png
+.. figure:: /images/figures/CIViC_add-assertion-screenshot_v2.png
    :alt: Add Assertion form screenshot
 
    Figure 3: The Assertion submission form is accessible by selecting the Add tab at the upper right corner of the user interface. All editable fields of the Assertion are available in this view. The supporting evidence grid at the bottom of the page allows users to associate Evidence Items (EIDs) with the Assertion, which is accomplished by filtering on the provided fields (e.g., EID, Gene, Variant) and selecting the yellow plus sign on the right. 
