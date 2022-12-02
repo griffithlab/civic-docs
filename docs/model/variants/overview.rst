@@ -3,8 +3,8 @@ Variants Overview
 
 CIViC variants are usually genomic alterations, including single
 nucleotide variants (SNVs), insertion/deletion events (indels), copy
-number alterations (CNV's such as amplification or deletion), structural
-variants (SVs such as translocations and inversions), and other events
+number alterations (CNVs; such as amplifications or deletions), structural
+variants (SVs; such as translocations or inversions), and other events
 that differ from the "normal" genome. In some cases a CIViC variant may
 represent events of the transcriptome or proteome. For example,
 'expression' or 'over-expression' is a valid variant. New curators should
@@ -29,21 +29,17 @@ with some evidence of clinical relevance (predictive, prognostic, diagnostic, et
        fusion', 'Loss-of-function', 'Exon 12 mutations'). Should be as
        specific and short as possible (i.e., specific amino acid changes).
      - CIViC
-   * - Summary
-     - User-defined summary of the clinical relevance of this
-       Variant.
-     - CIViC
-   * - Alias
+   * - Aliases
      - Alternative names for this Variant. May be more verbose (e.g.,
        'Val600Glu') versions, dbSNP IDs or alternative nomenclature used in
        the literature.
      - CIViC
-   * - HGVS Expression
+   * - HGVS Description(s)
      - User-defined HGVS strings following HGVS
        nomenclature that represent this Variant at the DNA, RNA or protein
        level.
      - CIViC
-   * - ClinVar ID
+   * - ClinVar ID(s)
      - User-defined ClinVar ID referencing this Variant which
        will be linked directly to ClinVar. A value of "None Specified"
        indicates that the variant has not been evaluated for a ClinVar ID.
@@ -52,31 +48,30 @@ with some evidence of clinical relevance (predictive, prognostic, diagnostic, et
        that a ClinVar record is not applicable to the variant (e.g.
        "Overexpression" variants).
      - CIViC (ClinVar)
-   * - Sources
-     - A list of PubMed IDs referring to evidence supporting
-       statements made in the Gene's description. Source descriptions (e.g.
-       'Weisberg et al., 2007, Nat. Rev. Cancer') are pulled from the
-       PubMed database at the time of submission, and are not editable.
-     - CIViC (PubMed)
-   * - CIViC Actionability Score
-     - The CIViC Actionability Score assesses the
-       quality and quantity of evidence submitted for each variant. The
-       CIViC Actionability Score is calculated by adding all Evidence Item
-       Scores for each variant. The Evidence Item Score is calculated by
-       multiplying the evidence level (A=10 points, B=5 points, C=3 points,
-       D=1 point, E=0.25 points) by the evidence rating (Each Star = 1 point).
-     - CIViC
+   * - Allele Registry ID
+     - Allele Registry identier (CA id) linked to corresponding ClinGen Allele Registry page. This link
+       is automatically generated using the curated Primary Coordinates (chromosome, start, stop, 
+       reference base, variant base).
+     - ClinGen Allele Registry
+   * - OpenCRAVAT Variant Report
+     - Link to OpenCRAVAT Variant Report. This link
+       is automatically generated using the curated Primary Coordinates (chromosome, start, stop,
+       reference base, variant base).
+     - OpenCRAVAT
    * - Variant Type(s)
      - One or more terms from the Sequence Ontology that
        describes the type of variant. Should be the most descriptive term
        applicable on a given branch (e.g., 'Conservative Missense Variant',
        'Stop Gained', 'Transcript Fusion').
      - CIViC (Sequence Ontology)
-   * - **Primary Coordinates**
+   * - **Representative Variant Coordinates (Primary Coordinates)**
      -
      -
    * - Reference Build
      - NCBI or GRC human reference assembly version.
+     - CIViC
+   * - Ensembl Version
+     - Ensembl annotation build version.
      - CIViC
    * - Chromosome
      - Name of the chromosome in which the variant occurs.
@@ -108,6 +103,5 @@ with some evidence of clinical relevance (predictive, prognostic, diagnostic, et
      - Data retrieved from MyVariant.Info using the
        curated Primary Coordinates (chromosome, start, stop, reference
        base, variant base) described above as the query. Includes external
-       IDs and links whenever possible with additional data displayed by
-       clicking the "Details" button.
+       IDs and links whenever possible with data displayed in several tabs.
      - MyVariant.Info
