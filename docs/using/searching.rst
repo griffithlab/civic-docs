@@ -13,6 +13,8 @@ Any text typed into the quick search box will be matched against Gene and Varian
 
 .. thumbnail:: /images/figures/quick-search_results_v2.png
 
+---------------
+
 Advanced Search
 ---------------
 
