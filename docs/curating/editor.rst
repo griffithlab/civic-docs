@@ -15,7 +15,7 @@ Once new content is generated or edits are made to existing content within the C
 
   - At least 10 publication queue suggestions (Silver suggester badge)
   - Submit at least 10 revisions (at least 5 to gene or variant summaries) (Silver reviser badge)
-  - Submit at least 10 new submitted evidence statements (5 must be accepted before promotion) (silver submitter badger)
+  - Submit at least 10 new submitted evidence items (5 must be accepted before promotion) (silver submitter badger)
   - Completed profile (Bronze biographer)
   - Review and understand CIViC help documentation
 
