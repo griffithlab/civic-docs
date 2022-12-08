@@ -5,7 +5,7 @@ The following figure shows the attributes of a CIViC Evidence Item, and the opti
 
 .. thumbnail:: /images/figures/CIViC_evidence-item-fields_v3c.png
 
-The rows in the following table describe the minimal components of a CIViC Evidence Item. Several Evidence Statements are synthesized at the Variant level into Variant Summaries but each Evidence Statement is directly linked to a single article in PubMed. *More specific guidelines about Evidence Item components can be found in additional help tabs*.
+The rows in the following table describe the minimal components of a CIViC Evidence Item. Several Evidence Statements are synthesized at the Molecular Profile (Variant) level into Molecular Profile (Variant) Descriptions. However, each Evidence Statement is directly linked to a single article in PubMed or ASCO/ASH abstract. *More specific guidelines about Evidence Item components can be found in additional help tabs*.
 
 
 **Evidence Attributes**
@@ -18,25 +18,21 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - Description
      - Example
      - Source
-   * - :ref:`evidence-gene`
-     - The symbol and ID of the gene implicated.
-     - ESR1 (Entrez ID: 2099)
-     - CIViC (Entrez)
    * - :ref:`evidence-molecular-profile`
-     - Genomic event/mutation (Single nucleotide variant,
+     - Gene and Genomic event(s)/mutation(s) (e.g., Single nucleotide variant,
        Insertion/deletion, Gene fusion, Copy number variant, etc.)
-       implicated. May be a simple single variant or a more complex
+       implicated. May be a simple comprised of a single variant or a more complex
        combination of variants.
-     - Y537S
+     - ESR1 Y537S
      - CIViC
    * - :ref:`evidence-statement`
      - Human readable interpretation. Free-form text
-       summary of this event’s potential clinical interpretations. This
-       interpretation is the synthesis of all other information about an
-       event and its relevance to clinical action and should be the living
+       summary of this molecular profile’s potential clinical interpretations. This
+       interpretation is the synthesis of all other information about the
+       alteration(s) and its relevance to clinical action and should be the living
        product of active discussion.
-     - This study of 178 non-small cell lung
-       cancer patients, the appearance of T790M mutation lead to resistance
+     - In this study of 178 non-small cell lung
+       cancer patients, the appearance of EGFR T790M mutation led to resistance
        to gefitinib.
      - CIViC
    * - :ref:`evidence-level`
