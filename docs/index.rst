@@ -10,19 +10,20 @@ For a primer on the fundamentals of cancer variant interpretation, we highly rec
 - `ACMG/AMP - Standards and guidelines for the interpretation of sequence variants. <https://www.ncbi.nlm.nih.gov/pubmed/25741868>`_
 - `ClinGen - Somatic cancer variant curation and harmonization through consensus minimum variant level data (MVLD). <https://www.ncbi.nlm.nih.gov/pubmed/27814769>`_
 - `AMP/ASCO/CAP - Standards and guidelines for the interpretation and reporting of sequence variants in cancer. <https://www.ncbi.nlm.nih.gov/pubmed/27993330>`_
+- `ClinGen/CGC/VICC - Standards for the classification of pathogenicity of somatic variants in cancer (oncogenicity). <https://pubmed.ncbi.nlm.nih.gov/35101336/>`_
 - `Evaluating the Clinical Validity of Gene-Disease Associations: An Evidence-Based Framework Developed by the Clinical Genome Resource <https://www.ncbi.nlm.nih.gov/pubmed/28552198>`_
 - `Standardized decision support in next generation sequencing reports of somatic cancer variants <https://www.ncbi.nlm.nih.gov/pubmed/24768039>`_
 
 The CIViC Ecosystem of Collaborators, Moderators, and Other Stakeholders
 ------------------------------------------------------------------------
 
-The CIViC project aims to facilitate a collaborative ecosystem of research scientists, clinical scientists, and patient advocates dedicated to curating an accurate and relevant database of clinical interpretations of cancer variants. The diagram below shows how the various stakeholders in the CIViC ecosystem collaborate to curate and utilize the database.
+The CIViC project aims to facilitate a collaborative ecosystem of research scientists, clinical scientists, and patient advocates dedicated to curating an accurate and relevant knowledgebase of clinical interpretations of cancer variants. A principle goal of CIViC is to systematically document the evidence that supports any variant interpretation. The diagram below shows how the various stakeholders in the CIViC ecosystem collaborate to curate and utilize the knowledgebase.
 
 .. thumbnail:: images/GP-125_CIViC_main-process_v5b.png
 
 Using the CIViC Help Docs
 -------------------------
-Navigate the CIViC Help Docs with the navigation menu to the left of each page or the Table of Contents below. :doc:`About <about>` pages provide a high level overview of the CIViC resource. :doc:`Using CIViC <using>` pages provide detailed instructions (including videos) on how to browse, search, and use CIViC data. :doc:`Curating CIViC <curating>` pages provide general instruction on curating content in the knowledgebase and :doc:`CIViC Knowledge Model <model>` pages provide detailed definitions and curation instruction for each concept/field in CIViC. Finally, :doc:`CIViC API <api>` and :doc:`Get Help <help>` pages provide additional guidance on using the CIViC API and getting more help.
+Navigate the CIViC Help Docs with the navigation menu to the left of each page or the Table of Contents below. :doc:`About <about>` pages provide a high level overview of the CIViC resource. :doc:`Using CIViC <using>` pages provide detailed instructions (including videos) on how to browse, search, and use CIViC data. :doc:`Curating CIViC <curating>` pages provide general instruction for contributor (curators and editors) on how to add content to the knowledgebase and :doc:`CIViC Knowledge Model <model>` pages provide detailed definitions and curation instruction for each concept/field in CIViC. Finally, :doc:`CIViC API <api>` and :doc:`Get Help <help>` pages provide additional guidance on using the CIViC API and getting more help.
 
 .. toctree::
    :maxdepth: 2
