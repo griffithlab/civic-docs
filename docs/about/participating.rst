@@ -36,7 +36,7 @@ There are several ways you can make a contribution to this important cause:
 
 - **Approve/Reject:** Editors may approve or reject submitted Evidence, Assertions, and Revisions made by other community members, after taking into account community discussions and opinion.
   
-Before commenting, correcting, or creating, please visit the :doc:`Curating </curating>`, :doc:`Knowledge Model </model>`, and :doc:`FAQ <faq>` pages to learn more about the CIViC data model and `browse the existing content <https://civicdb.org/browse/variants>`_ for examples. Understand the data model but unsure of where to start? Check out our `list of high-priority gene <https://github.com/genome/civic-server/tree/master/public/downloads/RankedCivicGeneCandidates.tsv>`_ for inspiration.
+Before commenting, correcting, or creating, please visit the :doc:`Curating </curating>`, :doc:`Knowledge Model </model>`, and :doc:`FAQ <faq>` pages to learn more about the CIViC data model and browse the existing content for `Genes <https://civicdb.org/genes/>`_, `Molecular Profiles (Variants) <https://civicdb.org/molecular-profiles>`_,  `Cancer Types <https://civicdb.org/diseases>`_, or `Therapies <https://civicdb.org/therapies>`_ for examples. Understand the data model but unsure of where to start? Check out our `list of high-priority gene <https://github.com/genome/civic-server/tree/master/public/downloads/RankedCivicGeneCandidates.tsv>`_ for inspiration.
 
 .. figure:: /images/figures/GP-113_CIViC_schema-collaboration_PROCESS_v1a.png
    :alt: CIViC collaboration process for an Evidence Item

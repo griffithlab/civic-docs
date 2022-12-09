@@ -62,7 +62,7 @@ The :doc:`curation pages <../curating>` detail the curation and editing process,
 
 My favorite Gene or Molecular Profile is not in CIViC?!?
 --------------------------------------------------------
-The extensive manual curation required to add evidence statements means that there might not yet be an evidence statement for every Molecular Profile or gene of interest. This is precisely why we need community-driven efforts to grow this database. For a gene or Molecular Profile to appear in CIViC, it must have an evidence statement associated with it. To add evidence statements and begin the discussion about your gene/variant/combination of variants of interest, go :doc:`here <../curating>`!
+The extensive manual curation required to add evidence statements means that there might not yet be an evidence statement for every Molecular Profile or Gene of interest. This is precisely why we need community-driven efforts to grow this database. For a Gene or Molecular Profile to appear in CIViC, it must have an evidence statement associated with it. To add evidence statements and begin the discussion about your gene/variant/combination of variants of interest, go :doc:`here <../curating>`!
 
 May I enter unpublished results from n-of-1 observations?
 ---------------------------------------------------------

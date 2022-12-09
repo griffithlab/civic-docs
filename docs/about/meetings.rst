@@ -15,7 +15,6 @@ Past Meetings & Events
 
 .. rubric:: 2022 CIViC Hackathon and Curation Jamboree
 
-----
 
 :Dates: Jul 30th, 2022
 :Location: Washington University in St. Louis
@@ -31,10 +30,10 @@ The Jamboree/Hackathon focused on further development of CIViC and CCGA, communi
 - Software developers, engineers and computational biologists interested in learning and applying back- and front-end web development skills should submit topics for the Hackathon.  
 - To view topics discussed, visit the `Issues page <https://github.com/genome/civic-meeting/issues>`_.
 
+----
 
 .. rubric:: 2018 CIViC Hackathon and Curation Jamboree
 
-----
 
 :Dates: October 15th and October 16th, 2018
 :Location: The Scripps Research Institute
@@ -60,9 +59,10 @@ A hackathon and curation jamboree were held as a pre-meeting of ASHG, led by the
 - Develop prototype data models for representing compound/complex variants.
 - Examine ways to incentivize the curation community, e.g. Zenodo, bioCADDIE for citable records
                   
+----
+
 .. rubric:: 2016 Clinical Interpretation Knowledgebase Hackathon and Curation Jamboree *at the NGS in Molecular Pathology Symposium*
 
-----
 
 :Dates: Tuesday Nov 29 through Friday Dec 2, 2016
 :Location: Netherlands Cancer Institute (NKI), Amsterdam
@@ -86,3 +86,6 @@ The 2016 CIViC hackathon and jamboree took the form of an unconference with some
 
 :Hackathon: Software developers, engineers and computational biologists interested in learning and applying back-end and front-end web development skills. Prerequisites: Familiarity with either Ruby/Rails (back-end) or Javascript/Angular (front-end) would be beneficial.
 :Jamboree: Pathologists and oncologists (certified or in training), genome scientists, and other researchers interested in the problem of sequence variant interpretation for cancer precision medicine. Prerequisites: Basic understanding of the genetic basis of cancer.
+
+----
+
