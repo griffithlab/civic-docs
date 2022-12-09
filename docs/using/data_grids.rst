@@ -22,10 +22,10 @@ The evidence grid displays lists of evidence items, and provides various methods
      - Molecular Profile associated with the Evidence
    * - Disease
      - Disease associated with the Evidence
-   * - Drugs
-     - Drugs associated with the Evidence
-   * - DIT
-     - Drug Interaction Type
+   * - Therapies
+     - Therapies (e.g. drugs) associated with the Evidence
+   * - TIT
+     - Therapy Interaction Type
    * - DESC
      - Evidence description
    * - EL
@@ -34,8 +34,8 @@ The evidence grid displays lists of evidence items, and provides various methods
      - Evidence type
    * - ED
      - Evidence direction
-   * - CS
-     - Clinical significance
+   * - S
+     - Significance
    * - VO
      - Variant origin
    * - R
@@ -60,16 +60,16 @@ Assertion grids display lists of assertion items, and provide various methods to
      - Molecular Profile associated with the Assertion
    * - Disease
      - Disease
-   * - Drugs
-     - Drugs associated with the item
+   * - Therapies
+     - Therapies associated with the item
    * - SUM
      - Assertion summary
    * - AT
      - Assertion type
    * - AD
      - Assertion direction
-   * - CS
-     - Clinical significance
+   * - S
+     - Significance
    * - CAT
      - AMP/ASCO/CAT Category
    * - Evidence Count
@@ -84,4 +84,4 @@ The Activity Feed (Curation Event Timeline) displays recent curation activity. E
 
 Other Data Grids
 ----------------
-CIViC also provides data grids for Genes, Molecular Profiles, Variants, Variant Groups, Clinical Trials, Diseases, Drugs, Phenotypes, Variant Types, and Sources. These grids are relatively self-explanatory.
+CIViC also provides data grids for Genes, Molecular Profiles, Variants, Variant Groups, Clinical Trials, Diseases, Therapies, Phenotypes, Variant Types, and Sources. These grids are relatively self-explanatory.

@@ -38,8 +38,8 @@ Meta-knowledgebase              Multi-institution       A harmonized meta-knowle
 CIViC community approach        Multi-institution       A community approach to the cancer variant          `PubMed: 35624339 <https://pubmed.ncbi.nlm.nih.gov/35624339/>`_
                                 WashU / ClinGen /       interpretation bottleneck                            (2022. Nature Cancer)
                                 GA4GH (VICC)
-CIViC update 2022 (NAR)         Multi-institution       Evolution of the open-access CIViC knowledgebase    `BioRXiV: 2021.06.13.448171 <https://doi.org/10.1101/2021.06.13.448171/>`_
-                                WashU / ClinGen /       is driven by the needs of the cancer variant         (2022. BioRXiV)
+CIViC update 2022 (NAR)         Multi-institution       Evolution of the open-access CIViC knowledgebase    `PubMed: 36373660 <https://pubmed.ncbi.nlm.nih.gov/36373660/>`_
+                                WashU / ClinGen /       is driven by the needs of the cancer variant         (2022. Nucleic Acids Research)
                                 GA4GH (VICC)            interpretation community
 =============================== ======================= =================================================== ===========================================================================================
 
