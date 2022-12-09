@@ -21,7 +21,7 @@ Please stay tuned for a more comprehensive API user guide.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: V2 Contents:
 
    api/v2/linking
 
@@ -37,7 +37,7 @@ This documentation provides example requests and responses for most endpoints. T
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: V1 Contents:
 
    api/v1/endpoint-types
    api/v1/genes
