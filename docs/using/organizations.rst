@@ -3,11 +3,11 @@
 Organizations
 =============
 
-Users may be included in Organizations, primarily in order to keep track of an organization's contributions to CIViC curation. A User's organization affiliation is displayed in their profile and user card.
+Users may belong to one or more Organizations, primarily in order to keep track of an organization's contributions to CIViC curation. A User's organization affiliation is displayed in their profile and user card.
 
 Joining Organizations
 ---------------------
-Currently, an administrator must assign a user to a organization. To request joining a organization, please `send an email to the civic-help email list <mailto:help@civicdb.org?subject=CIViC\ Help\ Organization>`_.
+Currently, an administrator must assign a user to an organization. To request joining a organization, please `send an email to the civic-help email list <mailto:help@civicdb.org?subject=CIViC\ Help\ Organization>`_.
 
 Adding Organizations
 --------------------
@@ -31,7 +31,7 @@ We would be happy to create an Organization for your group. To do so, we need th
 5. List of CIViC usernames to be added to the Organization:
 6. Parent Organization (if applicable, see more below):
 
-To have a Parent Organization, you are indicating a relationship between an existing organization and the organization you are submitting. Please only employ this option if you have at least 5 members of each organization and distinct groups are needed for tracking purposes (statistics, permissions, etc). If your desired Parent Organization does not exist, a request following items 1-5 will be required. All members of a suborganization are, by default, part of both the parent and the suborganization. A distinct subset of users should be indicated. For example, Pediatric Cancer Taskforce at ClinGen. Members of the Pediatric Cancer Taskforce are all members of ClinGen but not all ClinGen members are on this taskforce.
+To have a Parent Organization, you are indicating a relationship between an existing organization and the organization you are submitting. Please only employ this option if you have at least 5 members of each organization and distinct groups are needed for tracking purposes (statistics, permissions, etc). If your desired Parent Organization does not exist, a submission of items 1-5 above will be required. All members of a suborganization are, by default, part of both the parent and the suborganization. A distinct subset of users should be indicated. For example, Pediatric Cancer Taskforce at ClinGen. Members of the Pediatric Cancer Taskforce are all members of ClinGen but not all ClinGen members are on this taskforce.
 
 Finding Organizations
 ---------------------

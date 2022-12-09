@@ -3,23 +3,11 @@ Community
 
 The Community section of CIViC provides a way for users to see their fellow curators and keep track of community curation activity. Leaderboards for key curation activities are displayed, adding a competitive element to the curation process.
 
-The Community section is divided into two similar pages, one for contributors and the other for organizations - groups of contributors. Both pages provide leaderboards, and a filterable list of users or organizations. Learn more about Organizations :ref:`here <organizations>`.
-
-Leaderboards
-------------
-Leaderboards list top contributors and organizations in four categories:
-
-Top Commentors
-    Lists users ranked by the number of comments they have made
-Top Submittors
-    Lists users ranked by the number of new evidence and assertions they have submitted
-Top Revisors
-    Lists users ranked by the number of revisions they have submitted
-Top Editors
-    Lists users ranked by the number of moderation actions they have performed
+The Community section is divided into two similar pages, one for `contributors <https://civicdb.org/users>`_ and the other for `organizations <https://civicdb.org/organizations>`_ - groups of contributors. Both pages provide a filterable list of users or organizations. Learn more about Organizations :ref:`here <organizations>`.
 
 User & Organization Lists
 -------------------------
-A filterable list of contributors and organizations is provided beneath the leaderboards. The list is a grid of cards providing an overview of the user or organization. Clicking on the card's avatar image in the top right will load a detailed page for the user or organization, showing all of their activity on the site, and the evidence items they have submitted.
+A filterable table of contributors and organizations is provided on these two pages respectively. The list is displayed as a grid providing an overview of the user or organization. The name of each contributor is shown along with the organization(s) they belong to, their role (curator/editor/admin), the timestamp of their last action and statistics related to the actions in CIViC. 
 
+Clicking on the user or organizations's card will load a detailed page for the user or organization, showing all of their activity on the site, and the evidence items and assertions they have submitted.
 

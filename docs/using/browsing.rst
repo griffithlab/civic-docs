@@ -10,12 +10,12 @@ CIViC provides a series of Browse views for different entity types. These are di
 `Variant Groups <https://civicdb.org/variant-groups>`_,
 `Clinical Trials <https://civicdb.org/clinical-trials>`_,
 `Diseases <https://civicdb.org/diseases>`_,
-`Drugs <https://civicdb.org/drugs>`_,
+`Therapies <https://civicdb.org/therapies>`_,
 `Phenotypes <https://civicdb.org/phenotypes>`_,
 `Sources <https://civicdb.org/sources>`_ and
 `Variant Types <https://civicdb.org/variant-types>`_.
 
-Each table includes columns for key fields and, where appropriate, filters and sorting controls for narrowing results to entities of interest. Results may be sorted by more than one column at a time: hold the shift key while clicking on a column header to add stack sort parameters.
+Each table includes columns for key fields and, where appropriate, filters and sorting controls for narrowing results to entities of interest. Results may be sorted by more than one column at a time: hold the shift key while clicking on a column header to add stacked sort parameters.
 
 Below each table a paging interface is provided to navigate through larger result sets.
 
@@ -36,8 +36,8 @@ Gene Table
      - A list of additional aliases (also from Entrez)
    * - Diseases
      - List of diseases associated with the Gene
-   * - Drugs
-     - A list of drugs associated with the Gene
+   * - Therapies
+     - A list of therapies (e.g. drugs) associated with the Gene
    * - Variant Count
      - A count of Variants associated with the Gene
    * - Evidence Count
@@ -64,8 +64,8 @@ Molecular Profiles Table
      - Name(s) of associated Variant(s)
    * - Diseases
      - List of diseases associated with the Molecular Profile
-   * - Drugs
-     - A list of drugs associated with the Molecular Profile
+   * - Therapies
+     - A list of therapies associated with the Molecular Profile
    * - Evidence Count
      - A count of Evidence Items associated with the Molecular Profile
    * - Assertion Count
@@ -90,8 +90,8 @@ Variant Table
      - Entrez name of associated Gene
    * - Diseases
      - List of diseases associated with the Variant
-   * - Drugs
-     - A list of drugs associated with the Variant
+   * - Therapies
+     - A list of therapies associated with the Variant
 
 Variant Group Table
 -------------------
@@ -128,8 +128,8 @@ Evidence Table
      - Molecular Profile associated with the Item
    * - Diseases
      - Diseases associated with the Item
-   * - Drugs
-     - Drugs associated with the Item
+   * - Therapies
+     - Therapies associated with the Item
    * - Description
      - Description of the Item
    * - EL
@@ -138,8 +138,8 @@ Evidence Table
      - Evidence Type of the Item
    * - ED
      - Evidence Direction of the Item
-   * - CS
-     - Clinical Significance of the Item
+   * - S
+     - Significance of the Item
    * - VO
      - Variant Origin of the Item
    * - R
@@ -160,8 +160,8 @@ Assertion Table
      - Molecular Profile associated with the Assertion
    * - Diseases
      - Diseases associated with the Assertion
-   * - Drugs
-     - Drugs associated with the Assertion
+   * - Therapies
+     - Therapies associated with the Assertion
    * - Summary
      - Curator's summary of the Assertion
    * - AT
@@ -169,7 +169,7 @@ Assertion Table
    * - AD
      - Assertion Direction
    * - CS
-     - Clinical Significance
+     - Significance
    * - CAT
      - AMP/ASCO/CAP Category
    * - Evidence Count
@@ -193,9 +193,9 @@ Source Table
    * - Year
      - Year of Publication or Conference
    * - Journal
-     - Name of Journal (PubMed) or Citation (ASCO)
+     - Name of Journal (PubMed) or meeting abstract citation (ASCO or ASH)
    * - Name
-     - Title of the publication (PubMed) or abstract (ASCO)
+     - Title of the publication (PubMed) or meeting abstract citation (ASCO or ASH)
    * - Evidence Count
      - Count of Evidence Items associated with the Source
 
