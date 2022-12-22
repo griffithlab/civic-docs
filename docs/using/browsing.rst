@@ -70,8 +70,8 @@ Molecular Profiles Table
      - A count of Evidence Items associated with the Molecular Profile
    * - Assertion Count
      - A count of Assertions associated with the Molecular Profile
-   * - Evidence Score
-     - CIViC's Evidence Score for the Molecular Profile
+   * - Molecular Profile Score
+     - Score summarizing the amount and strength of evidence curated for the Molecular Profile
 
 Variant Table
 -------------

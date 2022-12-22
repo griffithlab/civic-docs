@@ -79,9 +79,9 @@ Evidence Items based on complex Molecular Profiles are drawn from the same six e
        'Weisberg et al., 2007, Nat. Rev. Cancer') are pulled from the
        PubMed database at the time of submission, and are not editable.
      - CIViC (PubMed)
-   * - CIViC Actionability Score
-     - The CIViC Actionability Score assesses the quality and quantity of evidence submitted for each molecular profile. The
-       CIViC Actionability Score is calculated by adding all Evidence Item
+   * - Molecular Profile Score
+     - The Molecular Profile Score assesses the quality and quantity of evidence submitted for each molecular profile. The
+       Molecular Profile Score is calculated by adding all Evidence Item
        Scores for each variant. The Evidence Item Score is calculated by
        multiplying the evidence level (A=10 points, B=5 points, C=3 points,
        D=1 point, E=0.25 points) by the evidence rating (Each Star = 1 point).

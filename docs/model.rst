@@ -1,7 +1,7 @@
 CIViC Knowledge Model
 =====================
 
-This section describes the qualitative details of the knowledge model that CIViC uses to structure its database. Each major entity is detailed in the sections below, with each attribute of that entity detailed within its own page (roughly).
+This section describes the details of the knowledge model that CIViC uses to organize variant interpretations, evidence, assertions and associated information about therapies, disease type, etc. Each major entity is detailed in the sections below, with each attribute of that entity detailed within its own page (roughly).
 
 .. toctree::
    :maxdepth: 2

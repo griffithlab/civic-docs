@@ -5,7 +5,7 @@ The following figure shows the attributes of a CIViC Evidence Item, and the opti
 
 .. thumbnail:: /images/figures/CIViC_evidence-item-fields_v3c.png
 
-The rows in the following table describe the minimal components of a CIViC Evidence Item. Several Evidence Statements are synthesized at the Molecular Profile (Variant) level into Molecular Profile (Variant) Descriptions. However, each Evidence Statement is directly linked to a single article in PubMed or ASCO/ASH abstract. *More specific guidelines about Evidence Item components can be found in additional help tabs*.
+The rows in the following table describe the minimal components of a CIViC Evidence Item. Several Evidence Statements are synthesized at the Molecular Profile (Variant) level into Molecular Profile (Variant) Descriptions. However, each Evidence Statement is directly linked to a single article in PubMed or ASCO/ASH abstract. *More specific guidelines about Evidence Item components can be found in the additional sections outlined in the table of contents*.
 
 
 **Evidence Attributes**

@@ -2,7 +2,7 @@
 
 Name
 ====
-The **Molecular Profile Name** describes the specific molecular profile being interpreted for clinical utility. Selecting a Molecular Profile Name in the Molecular Profile list for a Gene will bring up a Molecular Profile specific page with a description, aliases, molecular profile evidence score, details of underlying variant(s) and associated Evidence Items. 
+The **Molecular Profile Name** describes the specific molecular profile being interpreted for clinical utility. Selecting a Molecular Profile Name in the Molecular Profile list for a Gene will bring up a Molecular Profile specific page with a description, aliases, molecular profile score, details of underlying variant(s) and associated Evidence Items. 
  
 
 Understanding Molecular Profile Names
