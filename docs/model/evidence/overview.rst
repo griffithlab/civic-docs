@@ -86,13 +86,13 @@ The rows in the following table describe the minimal components of a CIViC Evide
        available).
      - Tamoxifen, Raloxifene (NCIt IDs: C62078, C62078).
      - CIViC (NCIt)
-   * - Drug Interaction Type
+   * - Therapy Interaction Type
      - For predictive evidence involving more than
-       one drug, specifies the relationship between these drugs by
-       indicating whether the drugs are Subtitutes for each other or are
+       one Therapy, specifies the relationship between the therapies (usually drugs) by
+       indicating whether they are Subtitutes for each other or are
        used in Sequential or Combination treatments.
      - Substitutes - The
-       drugs listed are often considered to be of the same family, or
+       therapies listed are often considered to be of the same family, or
        behave similarly in a treatment setting.
      - CIViC
    * - Citation
