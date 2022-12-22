@@ -1,4 +1,4 @@
-.. _evidence-drug:
+.. _evidence-therapy:
 
 Therapy
 =======

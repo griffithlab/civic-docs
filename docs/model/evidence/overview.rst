@@ -80,7 +80,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - Specific phenotypes associated with the evidence statement.
      - Pancreatic cysts (HP:0001737).
      - The Human Phenotype Ontology (HPO)
-   * - :ref:`evidence-drug`
+   * - :ref:`evidence-therapy`
      - For predictive evidence, indicates the therapy for which
        sensitivity or resistance is indicated (With NCIt ID if
        available).

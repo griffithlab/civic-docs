@@ -18,7 +18,7 @@ Evidence Items follow a structured knowledge model with required fields: Molecul
    evidence/clinical_significance
    evidence/origin
    evidence/disease
-   evidence/drug
+   evidence/therapy
    evidence/associated_phenotype
    evidence/source
    evidence/clinical_trial
