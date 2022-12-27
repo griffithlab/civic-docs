@@ -1,7 +1,6 @@
 Participating
 =============
 
-
 CIViC Principles
 ~~~~~~~~~~~~~~~~
 - **Community consensus.** The interpretations of clinical actionability required to enable precision medicine should be freely available and openly discussed across a diverse community. To facilitate consensus building, the interface must support direct contribution and discussion from members of the community.
@@ -16,8 +15,11 @@ CIViC Principles
 
 - **Open license.** CIViC will encourage both academic and commercial engagement through flexible licensing. CIViC is released with minimal restrictions under a `Creative Commons Public Domain Dedication, CC0 1.0 Universal License <https://creativecommons.org/publicdomain/zero/1.0/>`_. While sharing improvements is strongly encouraged, the data can be adopted and used for nearly any purpose including the creation of commercial applications derived from the knowledge.
 
-.. figure:: /images/figures/CIViC_principles__shorter.png
-   :alt: CIViC Principles
+.. thumbnail:: /images/figures/CIViC_principles__shorter.png
+   :alt: Depiction of CIViC Principles: community consensus, transparency, computationally accessible, freely accessible, open license, and interdisciplenary  
+   :title: CIViC Principles
+   :show_caption: True
+|
 
 How to Contribute
 ~~~~~~~~~~~~~~~~~
@@ -38,7 +40,8 @@ There are several ways you can make a contribution to this important cause:
   
 Before commenting, correcting, or creating, please visit the :doc:`Curating </curating>`, :doc:`Knowledge Model </model>`, and :doc:`FAQ <faq>` pages to learn more about the CIViC data model and browse the existing content for `Genes <https://civicdb.org/genes/>`_, `Molecular Profiles (Variants) <https://civicdb.org/molecular-profiles>`_,  `Cancer Types <https://civicdb.org/diseases>`_, or `Therapies <https://civicdb.org/therapies>`_ for examples. Understand the data model but unsure of where to start? Check out our `list of high-priority gene <https://github.com/genome/civic-server/tree/master/public/downloads/RankedCivicGeneCandidates.tsv>`_ for inspiration.
 
-.. figure:: /images/figures/GP-113_CIViC_schema-collaboration_PROCESS_v1a.png
-   :alt: CIViC collaboration process for an Evidence Item
-
-   CIViC collaboration process for an Evidence Item
+.. thumbnail:: /images/figures/GP-113_CIViC_schema-collaboration_PROCESS_v1a.png
+   :alt: Figure depicting the CIViC collaboration process for an Evidence Item
+   :title: The CIViC collaboration process for an Evidence Item
+   :show_caption: True
+|

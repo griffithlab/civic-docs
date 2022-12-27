@@ -20,6 +20,10 @@ The CIViC Ecosystem of Collaborators, Moderators, and Other Stakeholders
 The CIViC project aims to facilitate a collaborative ecosystem of research scientists, clinical scientists, and patient advocates dedicated to curating an accurate and relevant knowledgebase of clinical interpretations of cancer variants. A principle goal of CIViC is to systematically document the evidence that supports any variant interpretation. The diagram below shows how the various stakeholders in the CIViC ecosystem collaborate to curate and utilize the knowledgebase.
 
 .. thumbnail:: images/GP-125_CIViC_main-process_v5b.png
+   :alt: Figure depicting the CIViC Ecosystem of Collaborators, Moderators, and Other Stakeholders
+   :title: The CIViC Ecosystem of Collaborators, Moderators, and Other Stakeholders
+   :show_caption: True
+|
 
 Using the CIViC Help Docs
 -------------------------
