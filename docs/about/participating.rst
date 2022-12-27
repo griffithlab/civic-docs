@@ -19,6 +19,7 @@ CIViC Principles
    :alt: Depiction of CIViC Principles: community consensus, transparency, computationally accessible, freely accessible, open license, and interdisciplenary  
    :title: CIViC Principles
    :show_caption: True
+
 |
 
 How to Contribute
@@ -44,4 +45,6 @@ Before commenting, correcting, or creating, please visit the :doc:`Curating </cu
    :alt: Figure depicting the CIViC collaboration process for an Evidence Item
    :title: The CIViC collaboration process for an Evidence Item
    :show_caption: True
+
 |
+

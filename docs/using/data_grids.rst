@@ -7,6 +7,11 @@ Evidence Grid
 -------------
 
 .. thumbnail:: /images/figures/CIViC_evidence-grid-features_v2a.png
+   :alt: Screenshot of the CIViC Evidence grid
+   :title: Evidence grid
+   :show_caption: True
+
+|
 
 The evidence grid displays lists of evidence items, and provides various methods to filter subsets of evidence items of interest to the user. 
 
@@ -45,6 +50,11 @@ Assertion Grid
 --------------
 
 .. thumbnail:: /images/figures/CIViC_assertion-grid-features_v2a.png
+   :alt: Screenshot of the CIViC Assertion grid
+   :title: Assertion grid
+   :show_caption: True
+
+|
 
 Assertion grids display lists of assertion items, and provide various methods to filter subsets of assertions of interest to the user.
 
@@ -79,6 +89,11 @@ Activity Feed
 -------------
 
 .. thumbnail:: /images/figures/CIViC_activity-grid_v2a.png
+   :alt: Screenshot of the CIViC Activity feed
+   :title: Activity feed
+   :show_caption: True
+
+|
 
 The Activity Feed (Curation Event Timeline) displays recent curation activity. Each event includes the responsible curator/editor, action (comment, addition, revision, etc), affected entities (gene, molecular profile, evidence, etc), organization, and timestamp. The displayed events can be optionally configured to show Child Events and filtered to specific actions types, curators, or organizations.   
 

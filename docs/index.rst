@@ -23,6 +23,7 @@ The CIViC project aims to facilitate a collaborative ecosystem of research scien
    :alt: Figure depicting the CIViC Ecosystem of Collaborators, Moderators, and Other Stakeholders
    :title: The CIViC Ecosystem of Collaborators, Moderators, and Other Stakeholders
    :show_caption: True
+
 |
 
 Using the CIViC Help Docs
@@ -39,3 +40,4 @@ Navigate the CIViC Help Docs with the navigation menu to the left of each page o
    model
    api
    help
+
