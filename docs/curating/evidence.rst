@@ -4,24 +4,30 @@ Curating Evidence
 =================
 Evidence Items (EIDs) are the fundamental unit of the CIViC knowledgebase. EIDs derive structured clinical statements from peer reviewed, PubMed-indexed publications and American Society of Clinical Oncology (ASCO) or American Society of Hematology (ASH) abstracts, which act as primary Sources for Evidence Items. EIDs link back to their sources. EIDs are hand-curated units of knowledge, and one evidence source may supply enough data to create multiple EIDs. EIDs are displayed throughout the CIViC application, for example as a summary (Figure 1) and as a data table row (Figure 3).
 
-.. figure:: /images/figures/evidence-summary_EID6568.png
+.. thumbnail:: /images/figures/evidence-summary_EID6568.png
    :alt: Screenshot of an Evidence Item
+   :title: Figure 1: Screenshot of an Evidence Item
+   :show_caption: True
 
-   Figure 1: Screenshot of an Evidence Item
+|
 
 CIViC Evidence is added and curated via a moderation process that includes submitting, evaluating, accepting (or rejecting), and suggesting changes (Figure 2). CIViC Curators may add or suggest revisions to curated content at each step. Adding content involves submitting new Evidence Items or Assertions that subsequently undergo revision and Editor review. Revision of content involves adding or revising the clinical summary and/or its associated features. Once changes are made within the CIViC database, the additions/revisions become visible directly or on a separate revision page depending on the type of submission. Curation is listed as a "Submitted" (i.e., pending) until it is accepted by an Editor, who have the power to accept or reject Curator submissions. Curators may reject (but not accept) their own submissions/revisions. This is useful when a curator realizes they have made an error they wish to correct.
 
-.. figure:: /images/figures/CIViC_adding-updating-evidence_v2a.png
+.. thumbnail:: /images/figures/CIViC_adding-updating-evidence_v2a.png
    :alt: Overview of CIViC content creation process
+   :title: Figure 2: Overview of CIViC content creation process
+   :show_caption: True
 
-   Figure 2: Overview of CIViC content creation process
+|
 
 It is important to note that once evidence is submitted into CIViC as a new Evidence Item, then the EID is visible to the community in the unmoderated/non-reviewed state, and these EIDs are labeled in yellow (Figure 3). This enables the public to comment or create moderations on the submitted evidence. It is also important to note that yellow Evidence Items may be incomplete, not accurately fit into the CIViC data model, or contain problems which the moderation process is designed to capture and fix. Once a CIViC EID has been reviewed by editors, and all revisions reviewed and accepted, then the EID is accepted by an editor, and its label changes to green. Mousing over an EID brings up additional details, including whether the EID has any flags, pending revisions or comments. Note that revisions can be pending for EIDs that are in both the Submitted/Unreviewed Status (yellow) and the Accepted Status (green). In other words, even once accepted, evidence may still be improved further.
 
-.. figure:: /images/figures/CIViC_evidence-grid-features_v2a.png
+.. thumbnail:: /images/figures/CIViC_evidence-grid-features_v2a.png
    :alt: Evidence Item data grid features
+   :title: Figure 3: Evidence Item data grid features
+   :show_caption: True
 
-   Figure 3: Evidence Item data grid features
+|
 
 .. _curating-evidence-general:
 
@@ -39,11 +45,12 @@ Disease stage, prior treatments, and other experimental details influencing evid
 
 Six types of EID exist in CIViC (Figure 4), each giving structured clinical annotation to a Molecular Profile (Variant). Four types of clinical statements, Predictive/Therapeutic, Prognostic, Diagnostic and Oncogenic Evidence Types are usually associated with somatic molecular profiles (variants), while Predisposing evidence is generally linked to germline variation. Functional studies are often performed *in vitro*, so associated EIDs may often have the Unknown field selected for Molecular Profile (Variant) Origin.
 
-.. figure:: /images/figures/CIViC_evidence-item-primary-fields_temp.png
+.. thumbnail:: /images/figures/CIViC_evidence-item-primary-fields_temp.png
    :alt: Structured annotation comprising the five types of CIViC Evidence Item
+   :title: Figure 4: Structured annotation comprising the six types of CIViC Evidence Item
+   :show_caption: True
 
-   Figure 4: Structured annotation comprising the six types of CIViC Evidence Item
-
+|
 
 Predictive Evidence
 ~~~~~~~~~~~~~~~~~~~
@@ -52,10 +59,12 @@ Predictive/Therapeutic Evidence Items (EIDs) capture evidence supporting or refu
 Below is an example of an EID that illustrates the Predictive Evidence Type (Figure 5). This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with *HER2*-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
 
 
-.. figure:: /images/figures/evidence-summary_EID1077.png
+.. thumbnail:: /images/figures/evidence-summary_EID1077.png
    :alt: Screenshot of a Predictive Evidence Item summary
+   :title: Figure 5: Screenshot of a Predictive Evidence Item summary
+   :show_caption: True
 
-   Figure 5: Screenshot of a Predictive Evidence Item summary
+|
 
 Predictive Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,10 +86,12 @@ Diagnostic Evidence
 ~~~~~~~~~~~~~~~~~~~
 Below is an example of an EID that illustrates the Diagnostic Evidence Type. This example describes the World Health Organization guidelines for classifying chronic myelomonocytic leukemia (CMML). Specifically, if a patient has a PCM1-JAK2 fusion or a rearrangement involving PDGFRA, PDGFRB, or FGFR1, especially in the setting of eosinophilia, the patient does not have CMML.
 
-.. figure:: /images/figures/evidence-summary_EID1427.png
+.. thumbnail:: /images/figures/evidence-summary_EID1427.png
    :alt: Screenshot of a Diagnostic Evidence Item summary
+   :title: Figure 6: Screenshot of a Diagnostic Evidence Item summary
+   :show_caption: True
 
-   Figure 6: Screenshot of a Diagnostic Evidence Item summary
+|
 
 Diagnostic Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -100,10 +111,12 @@ Prognostic Evidence
 ~~~~~~~~~~~~~~~~~~~
 Below is an example of an Evidence Item that describes a Prognostic Evidence Type. This example describes a 406-patient trial whereby observation of any somatic TP53 mutation in chronic lymphoblastic leukemia conferred poor prognosis relative to wildtype TP53.
 
-.. figure:: /images/figures/evidence-summary_EID1507.png
+.. thumbnail:: /images/figures/evidence-summary_EID1507.png
    :alt: Screenshot of a Prognostic Evidence Item summary
+   :title: Figure 7: Screenshot of a Prognostic Evidence Item summary
+   :show_caption: True
 
-   Figure 7: Screenshot of a Prognostic Evidence Item summary
+|
 
 Prognostic Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,28 +135,33 @@ Predisposing Evidence
 ~~~~~~~~~~~~~~~~~~~~~
 Predisposing Evidence Items were first introduced in CIViC v1 to capture the role of a molecular profile (variant) in increasing the likelihood of developing cancer. This is comparable to the concept of heritable genomic variants that increase risk for “cancer predisposition syndromes” or “cancer susceptibility”. In CIViC v2, Predisposing Evidence Items include both this historical clinical significance of “cancer predisposition variants”, as well as evidence items that decrease risk for cancer susceptibility by conferring a protective effect (“cancer protectiveness variants”). The structure of Predisposing Evidence Items (EIDs) mirrors the structure of other EID types in CIViC by having multiple clinical significance classifications under which evidence can be evaluated. (Figure 8). Thus, just as Prognostic EIDs capture better and worse outcomes, and Predictive EIDs include the ability to capture sensitivity and resistance, the Predisposing EID can capture detrimental pathogenic and also beneficial protective qualities. CIViC Predisposing Evidence Items which pertain to the Pathogenic axis in Figure 8 can be aggregated at the CIViC Assertion level for a formal pathogenicity evaluation utilizing `ACMG/AMP Codes <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/>`__.
 
-.. figure:: /images/figures/opposing-qualities.png
+.. thumbnail:: /images/figures/opposing-qualities.png
    :alt: The opposing qualities of Predisposing, Prognostic, Predictive Evidence Items.
+   :title: Figure 8: The opposing qualities of Predisposing, Prognostic, Predictive Evidence Items.
+   :show_caption: True
 
-   Figure 8: The opposing qualities of Predisposing, Prognostic, Predictive Evidence Items.
-
+|
 
 The Pathogenic axis for Predisposing EIDs (right side in Figure 8) documents evidence which describes either the presence or absence of a pathogenic property for a molecular profile (variant). It is important to realize that evidence supporting both a pathogenic or benign classification are captured using the **Predisposition** clinical significance, associated with the right (red) axis (labeled Pathogenic) by use of the CIViC Evidence Direction (Supports or Does not support) (Figure 9).  To summarize, a CIViC Predisposing EID that Supports clinical significance of Predisposition suggests a potentially pathogenic molecular profile (variant). A Predisposing EID that Does Not Support clinical significance of Predisposition suggests a potentially benign molecular profile (variant). These EIDs do not make any final classification of pathogenicity and may or may not fully support any specific ACMG criteria but point in the direction of such classifications.  
 
-.. figure:: /images/figures/predisposing-axis.png
+.. thumbnail:: /images/figures/predisposing-axis.png
    :alt: Predisposing Evidence Item Clinical Significance relates either to cancer protectiveness or predisposition
-   
-   Figure 9: The Predisposing Evidence Item (EID) Significance relates either to cancer protectiveness (left/green arrow) or predisposition (right/red arrow). The Evidence direction (Supports or Does Not Support) indicates whether the EID is pointing towards benign or protectiveness/predisposition effect. 
+   :title: Figure 9: The Predisposing Evidence Item (EID) Significance relates either to cancer protectiveness (left/green arrow) or predisposition (right/red arrow). The Evidence direction (Supports or Does Not Support) indicates whether the EID is pointing towards benign or protectiveness/predisposition effect. 
+   :show_caption: True
+
+|
 
 As mentioned above, the Predisposing Evidence Type may utilize `ACMG/AMP Codes <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4544753/>`__ when applicable. If the curator wishes to capture evidence that indicates a molecular profile (variant) may be benign or pathogenic, and this evidence meets one or more of the published criteria from ACMG/AMP guidelines (termed ACMG codes in CIViC), then the curator can indicate the ACMG codes that were met in the body of the EID. The general format for a predisposing EID of this type is a summary of the reported data relevant to the molecular profile (variant) and disease of interest, followed by an enumeration of ACMG Code(s) derived from the reported information with a brief justification for the presence of each code.
 
 Below is an example of an Evidence Item (`EID5546 <https://civicdb.org/links/evidence/5546>`__) that describes a Predisposing Evidence Type (Figure 10) that Supports a Significance of Predisposition. This example describes a study where the VHL - R167Q (c.500G>A) Variant was described in a set of patients and evidence for the PP1 ACMG-AMP criteria was documented. Hemangioblastoma and pheochromocytoma were seen in patients and are reported as Associated Phenotypes, while the Disease is Von Hippel-Lindau Disease.
 
 
-.. figure:: /images/figures/evidence-summary_EID5546.png
+.. thumbnail:: /images/figures/evidence-summary_EID5546.png
    :alt: Predisposing evidence summary.
+   :title: Figure 10: Screenshot of a Predisposing Evidence Item that supports predisposition, suggesting a potentially pathogenic molecular profile (variant), supported by a specific ACMG pathogenicity criteria/code
+   :show_caption: True
 
-   Figure 10: Screenshot of a Predisposing Evidence Item that supports predisposition, suggesting a potentially pathogenic molecular profile (variant), supported by a specific ACMG pathogenicity criteria/code
+|
 
 Predisposing Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -163,17 +181,21 @@ In a system similar to the one described above for Predisposing Evidence Items, 
 
 The Oncogenic Clinical Significance is used to capture evidence supporting an oncogenic or benign final classification of a somatic molecular profile (variant) at the Assertion level. In the case where evidence suggests a Molecular Profile has oncogenic properties, a curator will select **Supports**, and then **Oncogenicity** using the menus available on the Add Evidence form in CIViC (Figure 11). Importantly, evidence supporting a *benign* annotation will be captured during curation by choosing **Does not support** and then **Oncogenicity** in the menus available in the Add Evidence form.
 
-.. figure:: /images/figures/oncogenic-axis.png
+.. thumbnail:: /images/figures/oncogenic-axis.png
    :alt: The Oncogenic Evidence Item Significance relates either to cancer protectiveness or oncogenicity.
+   :title: Figure 11: The Oncogenic Evidence Item (EID) Significance relates either to cancer protectiveness (left/green arrow) or oncogenicity (right/red arrow). The Evidence direction (Supports or Does Not Support) indicates whether the EID is pointing towards benign or protectiveness/oncogenicity effect. 
+   :show_caption: True
 
-   Figure 11: The Oncogenic Evidence Item (EID) Significance relates either to cancer protectiveness (left/green arrow) or oncogenicity (right/red arrow). The Evidence direction (Supports or Does Not Support) indicates whether the EID is pointing towards benign or protectiveness/oncogenicity effect. 
+|
 
 Below is an example of an Evidence Item with an Oncogenic Evidence Type (Figure 12). This EID describes a study wherein KRAS Q61H was transfected into cells resulting in multilayered growth indicative of a loss of contact inhibition. Oncogenicity code OS2 is noted in the Evidence Statement, since the EID describes a well established in vitro experiment (focus formation assay), which supports an oncogenic effect for this variant.
 
-.. figure:: /images/figures/evidence-summary_EID7936.png
+.. thumbnail:: /images/figures/evidence-summary_EID7936.png
    :alt: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment
+   :title: Figure 12: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment
+   :show_caption: True
 
-   Figure 12: Screenshot of an Oncogenic Evidence Item summary with Oncogenicity Code in Comment
+|
 
 Oncogenic Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -187,12 +209,12 @@ The Functional Evidence Type describes data from *in vivo* or *in vitro* experim
 
 Below is an example of a Evidence Item that describes a Functional Evidence Type (Figure 13). The authors performed an experiment to determine the impact of the variant on normal protein function related to cell cycle arrest. Expression of wildtype CDKN2A arrests the cell cycle in CDKN2A deficient cells, whereas expression of CDKN2A D108Y does not impact cell cycle progression in the CDKN2A deficient cells. These results indicate the innate ability of CDKN2A to arrest cell cycle progression has been lost as a result of the presence of the protein variant.
 
-.. figure:: /images/figures/evidence-summary_7551.png
+.. thumbnail:: /images/figures/evidence-summary_7551.png
    :alt: Screenshot of a Functional Evidence Item summary
+   :title: Figure 13: Screenshot of a Functional Evidence Item summary
+   :show_caption: True
 
-
-   Figure 13: Screenshot of a Functional Evidence Item summary
-
+|
 
 Functional Evidence Curation Practices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -229,29 +251,35 @@ The "Sensitivity/Response" annotation is used to assess sensitizing molecular pr
 
 The "Resistance" annotation is used in situations where the molecular profile (variant) of interest has been observed to induce resistance in a context where, in the absence of the molecular profile, the system being assayed would be deemed sensitive which induce resistance to treatment (e.g. T790M mutation in cis with a  background variant of *EGFR* L858R). In cases where a variant fails to induce sensitivity, then that molecular profile is best annotated with "Does not Support Sensitivity".
 
-.. figure:: /images/figures/CIViC_attributes-curation-table_thumbnail_v1b.png
+.. thumbnail:: /images/figures/CIViC_attributes-curation-table_thumbnail_v1b.png
    :alt: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations
+   :title: Table 1: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations.
+   :show_caption: True
 
-   Table 1: Use cases for curation of Predictive, Diagnostic and Prognostic Evidence Items with different Evidence Direction, and in different contexts including primary and secondary mutations. :download:`Download a more readable PDF version here <../images/figures/CIViC_attributes-curation-table_v1b.pdf>`
+|
+
+A more readable version of Table 1 :download:`can be downloaded as a PDF here <../images/figures/CIViC_attributes-curation-table_v1b.pdf>`
 
 Both Predictive and Prognostic evidence types may be obtained from the same data set in some cases. Figure 14, displayed below, gives hypothetical examples of predictive and prognostic structured annotation derived from   patient data.
 
-.. figure:: /images/figures/CIViC_interpreting-predictive-prognostic-clinical-trials_v1d.png
+.. thumbnail:: /images/figures/CIViC_interpreting-predictive-prognostic-clinical-trials_v1d.png
    :alt: Examples for deriving Predictive and Prognostic Evidence Items (EIDs) from hypothetical clinical trial data.
+   :title: Figure 14: Examples for deriving Predictive and Prognostic Evidence Items from hypothetical clinical trial data.
+   :show_caption: True
 
-   Figure 14: Examples for deriving Predictive and Prognostic Evidence Items from hypothetical clinical trial data.
+|
 
 Curating Evidence from Clinical Trials
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When curating evidence obtained from clinical trials performed with groups of patients, where data is pooled by mutation type (e.g. *EGFR* MUTATION), Level B clinical results may be obtained, which may report a statistically significant difference on a clinically relevant parameter such as partial response (PR) between wildtype vs. mutant patients. In addition, the publication may sometimes give outcomes on important individual patient parameters, such as variant, age, sex, best response, overall survival, etc. In these cases, this aggregate of data may be integrated into multiple Evidence Items in the following manner (The figure below is loosely based on a data set in CIViC obtained from PMID:21531810, which can be seen in CIViC on `its Evidence Source page <https://civicdb.org/sources/1503/summary>`__).
 
-.. figure:: /images/figures/clinical-evidence-extraction_FPO.png
+.. thumbnail:: /images/figures/clinical-evidence-extraction_FPO.png
    :alt: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
+   :title: Figure 15: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
+   :show_caption: True
 
-
-   Figure 15: Obtaining Clinical and Case Study Evidence Items from clinical trial reports
-
+|
 
 Statistical results may be obtained from the study to annotate a Categorical (sometimes colloquially called bucket) CIViC Molecular Profile (Variant), which pools together a category of sequence variants (for example *EGFR* MUTATION). Significantly longer progression free survival (PFS) may be observed in the mutant group (grouped under the Categorical CIViC Variant) vs. the wildtype group, when given a certain drug. In this case, this result may be reported in a CIViC Level B Evidence Item under the CIViC Categorical Variant *EGFR* MUTATION, with Evidence Direction and Clinical Significance “Suggests Sensitivity/Response” to the drug used.
 
