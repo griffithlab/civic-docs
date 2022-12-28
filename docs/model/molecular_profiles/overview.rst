@@ -5,9 +5,22 @@ CIViC Molecular Profiles are combinations of one or more CIViC variants. Most Mo
 
 The co-occurrence and mutual exclusivity of mutations in cancer are gaining clinical relevance. Double Hit Lymphoma (DHL) is characterized by combinations of mutations in MYC, BCL2, or BCL6. Trastuzumab resistance in HER2 overexpressing breast cancer may be induced by mutations in PIK3CA. Recent studies have indicated that checkpoint inhibitor therapy targeting PDL1 may be more effective in the absence of strong drivers like ALK Fusion or EGFR Mutation. Past versions of the CIViC data model had Gene as a top level entity, associated to one or more Variants, with literature curated Evidence Items (EIDs) supporting each variant (Figure 1). Evidence Items could only be curated for variants associated with a single gene, so curation of evidence for an entity like DHL would not be possible. Molecular Profiles (MPs) were introduced to address this shortcoming of the data model.
 
+..
+   Filename: BGA-113_assertion-model.graffle  Artboard: evolution
+
 .. thumbnail:: /images/figures/molecular_profile_overview_fig1.png
 
 **Figure 1: Original and updated model based on Molecular Profiles**
+
+
+Figure 2 shows the attributes of a Molecular Profile, its associations has with other CIViC entities, and how its Score is computed.
+
+..
+   Filename: BGA-113_assertion-model.graffle  Artboard: main
+
+.. thumbnail:: /images/figures/molecular_profile_overview_fig2.png
+
+**Figure 2: Molecular Profile Attributes and Associations**
 
 Consider the following case study:
 
@@ -31,27 +44,30 @@ Which is equivalent to:
 
 Currently no specific form among equivalent MPs is enforced. Alternate forms for an MP should appear as aliases on the MP page. Curators should strive for the shortest and most intuitive representation of the MP. Evidence Items (EIDs) in the new model are associated with MPs instead of directly with variants. There are two types of MP, the simple MP which contains only one variant, and the complex MP which contains two or more variants (Figure 2). The variants in a complex MP can be associated with one or more genes.
 
-.. thumbnail:: /images/figures/molecular_profile_overview_fig2.png
-
-**Figure 2: Simple and Complex Molecular Profiles**
-
-A complex MP which has two or more variants can also be thought of as containing smaller MPs within it. Therefore, in the example Molecular Profile “**NPM1 Exon 12 Mutation AND NOT FLT-3 ITD**” (Figure 3), we see that Evidence Items can be associated with the complex MP as well as to the simple MPs of which the complex MP is comprised of:
+..
+   Filename: unknown
 
 .. thumbnail:: /images/figures/molecular_profile_overview_fig3.png
 
-**Figure 3: Evidence Items associated to complex Molecular Profiles as well as their component Molecular Profiles**
+**Figure 3: Simple and Complex Molecular Profiles**
 
-Molecular Profiles associated with a gene are visible on the gene page (Figure 4). The list contains the simple MPs which are associated only to the given gene, as well as complex MPs which can be composed of multiple variants, including variants associated with other genes as well as the given gene. Note that the Molecular Profile “**NPM1 Exon 12 Mutation AND NOT FLT3 ITD**” is displayed in the order with FLT3 ITD first in Figure 4.
+A complex MP which has two or more variants can also be thought of as containing smaller MPs within it. Therefore, in the example Molecular Profile “**NPM1 Exon 12 Mutation AND NOT FLT-3 ITD**” (Figure 3), we see that Evidence Items can be associated with the complex MP as well as to the simple MPs of which the complex MP is comprised of:
 
 .. thumbnail:: /images/figures/molecular_profile_overview_fig4.png
 
-**Figure 4: Molecular Profiles are displayed on the Gene page**
+**Figure 4: Evidence Items associated to complex Molecular Profiles as well as their component Molecular Profiles**
+
+Molecular Profiles associated with a gene are visible on the gene page (Figure 4). The list contains the simple MPs which are associated only to the given gene, as well as complex MPs which can be composed of multiple variants, including variants associated with other genes as well as the given gene. Note that the Molecular Profile “**NPM1 Exon 12 Mutation AND NOT FLT3 ITD**” is displayed in the order with FLT3 ITD first in Figure 4.
+
+.. thumbnail:: /images/figures/molecular_profile_overview_fig5.png
+
+**Figure 5: Molecular Profiles are displayed on the Gene page**
 
 Molecular profile naming follows a structure where the gene is named first, followed by the specific variant name, and for complex MPs this pattern is followed as well, but linked with AND, OR, and NOT. Therefore the gene EGFR and the variant L858R will together comprise the Molecular Profile **EGFR L858R**. 
  
-.. thumbnail:: /images/figures/molecular_profile_overview_fig5.png
+.. thumbnail:: /images/figures/molecular_profile_overview_fig6.png
 
-**Figure 5: Example Evidence Item using a complex Molecular Profile**
+**Figure 6: Example Evidence Item using a complex Molecular Profile**
 
 Evidence Items based on complex Molecular Profiles are drawn from the same six evidence types and contain the same structured fields to be filled out by the curator as Evidence Items based on simple MPs, or Evidence Items based on single gene variants from older versions of CIViC. The case study mentioned above has been curated into an evidence item and is seen in the example EID in Figure 5. 
 
