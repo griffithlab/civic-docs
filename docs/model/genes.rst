@@ -9,9 +9,12 @@ The gene-level data model within the CIViC database includes several features. T
 
 In order to be listed in CIViC a Gene must have at least one clinical Evidence Item that has been curated from the literature and associated with at least one Molecular Profile (variant) of the gene. A new Gene record will be created automatically when the first Evidence Item is assigned to the Gene. The official gene name according to Entrez Gene (assigned by HGNC) is used. Alternative gene names or "aliases" are autopopulated from MyGeneInfo and searchable throughout the database. However, new Evidence Items must be associated with an official gene symbol to prevent ambiguity.
 
-.. rubric:: Gene Attributes
+.. thumbnail:: /images/figures/gene-overview_fig1.png
+   :alt: A figure showing a CIViC Gene's attributes, associations, computed properties
+   :title: Figure 4: A CIViC Gene's attributes, associations, computed properties
+   :show_caption: True
 
-.. thumbnail:: /images/figures/CIViC_gene-fields_v1b.png
+.. rubric:: Gene Attributes
 
 .. list-table::
    :widths: 15 75 10
