@@ -3,7 +3,12 @@ Evidence Overview
 
 The following figure shows the attributes of a CIViC Evidence Item, and the options or values available for each.
 
-.. thumbnail:: /images/figures/CIViC_evidence-item-fields_v3c.png
+..
+   Filename: BGA-113_evidence-model.graffle Artboard: model
+
+.. thumbnail:: /images/figures/evidence_overview_fig1.png
+
+**Figure 1: Evidence Item Attributes and Associations**
 
 The rows in the following table describe the minimal components of a CIViC Evidence Item. Several Evidence Statements are synthesized at the Molecular Profile (Variant) level into Molecular Profile (Variant) Descriptions. However, each Evidence Statement is directly linked to a single article in PubMed or ASCO/ASH abstract. *More specific guidelines about Evidence Item components can be found in the additional sections outlined in the table of contents*.
 

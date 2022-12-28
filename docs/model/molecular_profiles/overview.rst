@@ -16,7 +16,7 @@ The co-occurrence and mutual exclusivity of mutations in cancer are gaining clin
 Figure 2 shows the attributes of a Molecular Profile, its associations has with other CIViC entities, and how its Score is computed.
 
 ..
-   Filename: BGA-113_assertion-model.graffle  Artboard: main
+   Filename: BGA-113_assertion-model.graffle  Artboard: model
 
 .. thumbnail:: /images/figures/molecular_profile_overview_fig2.png
 
