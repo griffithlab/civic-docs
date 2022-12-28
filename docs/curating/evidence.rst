@@ -53,7 +53,6 @@ Six types of EID exist in CIViC (Figure 4), each giving structured clinical anno
    :title: Figure 4: Structured annotation comprising the six types of CIViC Evidence Item
    :show_caption: True
 
-**Figure 4: Structured annotation comprising the six types of CIViC Evidence Item**
 
 Predictive Evidence
 ~~~~~~~~~~~~~~~~~~~

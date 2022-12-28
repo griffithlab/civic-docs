@@ -1,7 +1,10 @@
 Sources
 =======
 
-.. thumbnail:: ../images/figures/CIViC_source-fields_v1a.png
+.. thumbnail:: ../images/figures/sources-model_fig1.png
+   :alt: Attributes, associations and computed properties of a Source
+   :title: Figure 4: Attributes, associations and computed properties of a Source
+   :show_caption: True
 
 .. toctree::
    :maxdepth: 2
