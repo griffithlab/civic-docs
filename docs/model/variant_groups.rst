@@ -31,7 +31,13 @@ genes. For example, the group ‘EGFR TKI Resistance’ consists of variants in
 
 .. rubric:: Variant Group Attributes
 
-.. thumbnail:: ../images/figures/CIViC_variant-group-fields_v1a.png
+..
+  Filename: BGA-113_variant-group_model  Artboard: model
+
+.. thumbnail:: ../images/figures/variant-group_overview_fig1.png
+   :alt: Variant Group Attributes and Associations
+   :title: Figure 1: Variant Group Attributes and Associations
+   :show_caption: True
 
 .. list-table::
    :widths: 15 75 10
