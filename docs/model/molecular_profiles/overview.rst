@@ -6,7 +6,7 @@ CIViC Molecular Profiles are combinations of one or more CIViC variants. Most Mo
 The co-occurrence and mutual exclusivity of mutations in cancer are gaining clinical relevance. Double Hit Lymphoma (DHL) is characterized by combinations of mutations in MYC, BCL2, or BCL6. Trastuzumab resistance in HER2 overexpressing breast cancer may be induced by mutations in PIK3CA. Recent studies have indicated that checkpoint inhibitor therapy targeting PDL1 may be more effective in the absence of strong drivers like ALK Fusion or EGFR Mutation. Past versions of the CIViC data model had Gene as a top level entity, associated to one or more Variants, with literature curated Evidence Items (EIDs) supporting each variant (Figure 1). Evidence Items could only be curated for variants associated with a single gene, so curation of evidence for an entity like DHL would not be possible. Molecular Profiles (MPs) were introduced to address this shortcoming of the data model.
 
 ..
-   Filename: BGA-113_assertion-model.graffle  Artboard: evolution
+   Filename: BGA-113_molecular-profile-model  Artboard: evolution
 
 .. thumbnail:: /images/figures/molecular_profile_overview_fig1.png
 
@@ -16,7 +16,7 @@ The co-occurrence and mutual exclusivity of mutations in cancer are gaining clin
 Figure 2 shows the attributes of a Molecular Profile, its associations has with other CIViC entities, and how its Score is computed.
 
 ..
-   Filename: BGA-113_assertion-model.graffle  Artboard: model
+   Filename: BGA-113_molecular-profile-model  Artboard: model
 
 .. thumbnail:: /images/figures/molecular_profile_overview_fig2.png
 

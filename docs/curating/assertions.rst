@@ -6,15 +6,19 @@ The CIViC Assertion (AID) functions as a summary of clinical evidence for a Mole
 - ClinGen/CGC/VICC SOP (`Horak et al. 2022 <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__) for classification of somatic variant oncogenicity (Oncogenic assertions).
 - ACMG-AMP guidelines (`Richards et al. 2015 <https://pubmed.ncbi.nlm.nih.gov/25741868/>`__) for classification of germline variant pathogenicity (Predisposing assertions). 
 
-.. figure:: /images/figures/AC_Fig1.png
+.. thumbnail:: /images/figures/AC_Fig1.png
    :alt: Overview of an Assertion summary view
 
-   Figure 1: The Assertion contains a brief one sentence summary and a longer Assertion Description. It also displays the CIViC Molecular Profile to which it applies. The bottom of the Assertion view shows a list of CIViC Evidence Items (EIDs) which support the Assertion. Selecting any supporting EID opens up that EID page.
+**Figure 1: The Assertion contains a brief one sentence summary and a longer Assertion Description. It also displays the CIViC Molecular Profile to which it applies. The bottom of the Assertion view shows a list of CIViC Evidence Items (EIDs) which support the Assertion. Selecting any supporting EID opens up that EID page.**
 
-.. figure:: /images/figures/CIViC_assertion-fields_v1k.png
+..
+   Filename: BGA-113_assertion-model  Artboard: model
+   (reuses model figure from assertions overview page)
+
+.. thumbnail:: /images/figures/assertions-overview_fig1.png/
    :alt: Assertion fields
 
-   Figure 2: Fields in the Assertion
+**Figure 2: Fields in the Assertion**
 
 The Assertion contains a one sentence **Assertion Summary** which states the specific Molecular Profile (MP), disease, and significance with therapy if applicable (e.g. “Non-small cell lung cancer with EGFR L858R mutation is sensitive to erlotinib or gefitinib” in Figure 1 above).
 

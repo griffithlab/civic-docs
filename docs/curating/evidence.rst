@@ -39,6 +39,9 @@ Disease stage, prior treatments, and other experimental details influencing evid
 
 Six types of EID exist in CIViC (Figure 4), each giving structured clinical annotation to a Molecular Profile (Variant). Four types of clinical statements, Predictive/Therapeutic, Prognostic, Diagnostic and Oncogenic Evidence Types are usually associated with somatic molecular profiles (variants), while Predisposing evidence is generally linked to germline variation. Functional studies are often performed *in vitro*, so associated EIDs may often have the Unknown field selected for Molecular Profile (Variant) Origin.
 
+..
+   Filename: BGA-113_evidence-model  Artboard: model
+
 .. thumbnail:: /images/figures/curating_evidence_fig4.png
    :alt: Structured annotation comprising the five types of CIViC Evidence Item
 
