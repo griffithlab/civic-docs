@@ -11,14 +11,18 @@ The CIViC Assertion (AID) functions as a summary of clinical evidence for a Mole
    :title: Figure 1: The Assertion contains a brief one sentence summary and a longer Assertion Description. It also displays the CIViC Molecular Profile to which it applies. The bottom of the Assertion view shows a list of CIViC Evidence Items (EIDs) which support the Assertion. Selecting any supporting EID opens up that EID page.
    :show_caption: True
 
-|
+**Figure 1: The Assertion contains a brief one sentence summary and a longer Assertion Description. It also displays the CIViC Molecular Profile to which it applies. The bottom of the Assertion view shows a list of CIViC Evidence Items (EIDs) which support the Assertion. Selecting any supporting EID opens up that EID page.**
 
-.. thumbnail:: /images/figures/CIViC_assertion-fields_v1k.png
+..
+   Filename: BGA-113_assertion-model  Artboard: model
+   (reuses model figure from assertions overview page)
+
+.. thumbnail:: /images/figures/assertions-overview_fig1.png/
    :alt: Assertion fields
    :title: Figure 2: Fields in the Assertion
    :show_caption: True
 
-|
+**Figure 2: Fields in the Assertion**
 
 The Assertion contains a one sentence **Assertion Summary** which states the specific Molecular Profile (MP), disease, and significance with therapy if applicable (e.g. “Non-small cell lung cancer with EGFR L858R mutation is sensitive to erlotinib or gefitinib” in Figure 1 above).
 

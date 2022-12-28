@@ -45,18 +45,21 @@ Disease stage, prior treatments, and other experimental details influencing evid
 
 Six types of EID exist in CIViC (Figure 4), each giving structured clinical annotation to a Molecular Profile (Variant). Four types of clinical statements, Predictive/Therapeutic, Prognostic, Diagnostic and Oncogenic Evidence Types are usually associated with somatic molecular profiles (variants), while Predisposing evidence is generally linked to germline variation. Functional studies are often performed *in vitro*, so associated EIDs may often have the Unknown field selected for Molecular Profile (Variant) Origin.
 
-.. thumbnail:: /images/figures/CIViC_evidence-item-primary-fields_temp.png
+..
+   Filename: BGA-113_evidence-model  Artboard: model
+
+.. thumbnail:: /images/figures/curating_evidence_fig4.png
    :alt: Structured annotation comprising the five types of CIViC Evidence Item
    :title: Figure 4: Structured annotation comprising the six types of CIViC Evidence Item
    :show_caption: True
 
-|
+**Figure 4: Structured annotation comprising the six types of CIViC Evidence Item**
 
 Predictive Evidence
 ~~~~~~~~~~~~~~~~~~~
 Predictive/Therapeutic Evidence Items (EIDs) capture evidence supporting or refuting the role of a molecular profile (variant) in conferring drug sensitivity, resistance or adverse response in the context of a specific disease. 
 
-Below is an example of an EID that illustrates the Predictive Evidence Type (Figure 5). This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with *HER2*-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
+Below is an example of an EID that illustrates the Predictive Evidence Type (Figure 5). This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with **HER2*-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
 
 
 .. thumbnail:: /images/figures/evidence-summary_EID1077.png
