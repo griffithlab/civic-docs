@@ -17,6 +17,8 @@ The CIViC Assertion (AID) functions as a summary of clinical evidence for a Mole
 
 .. thumbnail:: /images/figures/assertions-overview_fig1.png/
    :alt: Assertion fields
+   :title: Figure 2: Fields in the Assertion
+   :show_caption: True
 
 **Figure 2: Fields in the Assertion**
 
