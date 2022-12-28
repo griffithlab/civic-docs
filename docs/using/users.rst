@@ -89,15 +89,24 @@ Viewing Users
 Throughout the CIViC interface, users are displayed in three ways: user buttons, user cards, and the user profile.
 
 .. thumbnail:: /images/figures/user-elements.png
+   :alt: Screenshot of an example user profile
+   :title: Example user profile
+   :show_caption: True
+
+|
 
 User buttons appear where we need to indicate a user where space is limited, primarily on CIViC entity summaries' activity histories. User cards are shown when more space is available to display more info about a user. And the profile page shows all public information on an individual user. Clicking on a user button, or the user avatar on the cards will take you to the user's page. 
  
 Finding Users
 -------------
-`The Contributors section <https://civicdb.org/users/>`_ of the application displays a list of users that can be filtered by display name, organization, role, area of expertise, and recent activity date:
+`The Contributors section <https://civicdb.org/users/>`_ of the application displays a list of users that can be filtered by display name, organization, role, or recent activity date:
 
 .. thumbnail:: /images/figures/community-user-search.png
+   :alt: Screenshot of the CIViC contributors grid view
+   :title: Contributors view
+   :show_caption: True
+
+|
 
 Locate users of interest by filtering by display name, organization, role, area of expertise. Sorting and time-limit options are also provided. 
-
 
