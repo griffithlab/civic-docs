@@ -2,14 +2,14 @@
 
 Direction
 =========
-Evidence Direction indicates if the Evidence Statement supports or refutes the clinical significance of an event. 
+Evidence Direction indicates if the Evidence Statement supports or refutes the significance of an event. 
 
 Understanding Evidence Direction
 --------------------------------
-The available options include: “Supports” or “Does not support”. Nuanced examples for how to correctly use the Evidence Direction for Predictive Evidence Types are shown in the :ref:`section on curating Evidence Items <curating-evidence>`. Note that Predisposing and Oncogenic Evidence do not have an Evidence Direction or Clinical Significance. These should be established at the assertion level using the appropriate guidelines. This is also discussed in the section on curating Evidence Items in the link above.
+The available options include: “Supports” or “Does Not Support”. Nuanced examples for how to correctly use the Evidence Direction for Predictive Evidence Types are shown in the :ref:`section on curating Evidence Items <curating-evidence>`. 
 
 Curating Evidence Direction
---------------------------------
+---------------------------
 Evidence Direction interpretation differs slightly depending on the Evidence Type. 
 
 .. rubric:: Direction for Predictive Evidence
@@ -58,7 +58,7 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
      - |thumbs-down|
      - The experiment or study does not support a prognostic association between variant and outcome
 
-.. rubric:: Direction for Predisposing Evidence
+.. rubric:: Direction for Predisposing Evidence (where Significance is Predisposition)
 .. list-table::
    :widths: 10 5 85
    :header-rows: 1
@@ -66,11 +66,14 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
    * - Direction
      - Symbol
      - Definition
-   * - N/A
-     - |times-circle-o|
-     - Directionality is only applied at the assertion level 
+   * - Supports
+     - |thumbs-up|
+     - The experiment or study may contribute to a pathogenic classification (final determination at the Assertion level)
+   * - Does not support
+     - |thumbs-down|
+     - The experiment or study may contribute to a benign classification (final determination at the Assertion level)
 
-.. rubric:: Direction for Oncogenic Evidence
+.. rubric:: Direction for Oncogenic Evidence (where Significance is Oncogenicity)
 .. list-table::
    :widths: 10 5 85
    :header-rows: 1
@@ -78,9 +81,12 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
    * - Direction
      - Symbol
      - Definition
-   * - N/A
-     - |times-circle-o|
-     - Directionality is only applied at the assertion level 
+   * - Supports
+     - |thumbs-up|
+     - The experiment or study may contribute to an oncogenic classification (final determination at the Assertion level)
+   * - Does not support
+     - |thumbs-down|
+     - The experiment or study may contribute to a benign classification (final determination at the Assertion level)
 
 .. rubric:: Direction for Functional Evidence
 .. list-table::
@@ -96,3 +102,4 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
    * - Does not support
      - |thumbs-down|
      - The experiment or study does not support this variant causing alteration or non-alteration of the gene product function
+

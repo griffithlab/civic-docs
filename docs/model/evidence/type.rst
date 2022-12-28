@@ -6,7 +6,7 @@ The Evidence Type refers to the type of clinical (or biological) association des
 
 Understanding Evidence Types
 ----------------------------
-Six Evidence Types are currently supported: Predictive (i.e. Therapeutic), Diagnostic, Prognostic, Predisposing, Oncogenic, and Functional. Each Evidence Type describes the clinical or biological effect a Molecular Profile (MP) has on the following: therapeutic response (Predictive), determining a patient’s diagnosis or disease subtype (Diagnostic), predicting disease progression or patient survival (Prognostic), disease susceptibility (Predisposing), or biological alterations relevant to a cancer phenotype (Oncogenic) or protein function (Functional). Selecting an Evidence Type has implications on available selections for Clinical Significance, which are detailed on the :ref:`Evidence clinical significance page <evidence-clinical-significance>`.
+Six Evidence Types are currently supported: Predictive (i.e. Therapeutic), Diagnostic, Prognostic, Predisposing, Oncogenic, and Functional. Each Evidence Type describes the clinical or biological effect a Molecular Profile (MP) has on the following: therapeutic response (Predictive), determining a patient’s diagnosis or disease subtype (Diagnostic), predicting disease progression or patient survival (Prognostic), disease susceptibility (Predisposing), or biological alterations relevant to a cancer phenotype (Oncogenic) or protein function (Functional). Selecting an Evidence Type has implications on available selections for Significance, which are detailed on the :ref:`Evidence Significance page <evidence-significance>`.
 
 
 .. list-table::
@@ -18,7 +18,7 @@ Six Evidence Types are currently supported: Predictive (i.e. Therapeutic), Diagn
      - Definition
    * - Predictive
      - |eye|
-     - Evidence pertaining to a Molecular Profile's effect on therapeutic response  
+     - Evidence pertaining to a Molecular Profile's effect on therapeutic response
    * - Diagnostic
      - |search|
      - Evidence pertaining to a Molecular Profile's impact on patient diagnosis
@@ -33,6 +33,7 @@ Six Evidence Types are currently supported: Predictive (i.e. Therapeutic), Diagn
      - Evidence pertains to a somatic Molecular Profile's involvement in tumor pathogenesis as described by the Hallmarks of Cancer
    * - Functional
      - |cog|
-     - Evidence pertains to a Molecular Profile's causing alteration or non-alteration of the gene product function
+     - Evidence pertains to a Molecular Profile's impact on gene product (e.g. protein) function
 
 Extensive documentation for curating Evidence types is provided on the :ref:`Curating Evidence page <curating-evidence-general>`. Be sure to closly study the examples for each type.
+

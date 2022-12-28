@@ -59,8 +59,7 @@ Predictive Evidence
 ~~~~~~~~~~~~~~~~~~~
 Predictive/Therapeutic Evidence Items (EIDs) capture evidence supporting or refuting the role of a molecular profile (variant) in conferring drug sensitivity, resistance or adverse response in the context of a specific disease. 
 
-Below is an example of an EID that illustrates the Predictive Evidence Type (Figure 5). This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with **HER2*-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
-
+Below is an example of an EID that illustrates the Predictive Evidence Type (Figure 5). This example describes the CLEOPATRA trial (NCT00567190), which evaluated 808 patients with **HER2**-positive metastatic breast cancer. These patients demonstrated significant sensitivity/response when treated with combination therapy of docetaxel, pertuzumab and trastuzumab.
 
 .. thumbnail:: /images/figures/evidence-summary_EID1077.png
    :alt: Screenshot of a Predictive Evidence Item summary

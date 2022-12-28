@@ -31,8 +31,7 @@ Assertions share several fields with evidence, which for the most part can be un
    * - Direction
      - :ref:`Direction Field <evidence-direction>`
      -
-   * - Clinical Significance
-     - :ref:`Clinical Significance Field <evidence-clinical-significance>`
+   * - Significance
+     - :ref:`Significance Field <evidence-significance>`
      - 
-
 

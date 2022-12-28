@@ -16,8 +16,10 @@ Comments can be added to any Source Record at any time (see Figure 1 below). Sou
 
 The current Sources associated with Evidence, Assertions and other information in CIViC can be explored on the `CIViC Sources Page <https://civicdb.org/sources/home>`__.
 
-.. figure:: /images/figures/source-summary_Chen-et-al.png
+.. thumbnail:: /images/figures/source-summary_Chen-et-al.png
    :alt: Screenshot of source summary
+   :title: Figure 1: Screenshot of source summary
+   :show_caption: True
 
-   Figure 1: Screenshot of source summary
- 
+|
+

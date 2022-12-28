@@ -2,7 +2,7 @@
 
 Gene
 ====
-The Gene Name identifies the gene(s) implicated by the evidence item.
+The Gene Name identifies the gene(s) associated with a Molecular Profile (simple or complex variant) implicated by the Evidence Item.
 
 Curating Genes
 --------------

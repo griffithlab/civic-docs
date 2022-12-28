@@ -7,11 +7,11 @@ The following figure shows the attributes of a CIViC Evidence Item, and the opti
    Filename: BGA-113_evidence-model.graffle Artboard: model
 
 .. thumbnail:: /images/figures/evidence_overview_fig1.png
+   :alt: Figure depicting the CIViC Evidence Item's attributes and associations
+   :title: Figure 1: Evidence Item Attributes and Associations
+   :show_caption: True
 
-**Figure 1: Evidence Item Attributes and Associations**
-
-The rows in the following table describe the minimal components of a CIViC Evidence Item. Several Evidence Statements are synthesized at the Molecular Profile (Variant) level into Molecular Profile (Variant) Descriptions. However, each Evidence Statement is directly linked to a single article in PubMed or ASCO/ASH abstract. *More specific guidelines about Evidence Item components can be found in the additional sections outlined in the table of contents*.
-
+The rows in the following table describe the minimal components of a CIViC Evidence Item. Several Evidence Statements are synthesized at the Molecular Profile (Variant) level into a Molecular Profile Description. However, each Evidence Statement is directly linked to a single article in PubMed or ASCO/ASH abstract. *More specific guidelines about Evidence Item components can be found in the additional sections outlined in the table of contents*.
 
 **Evidence Attributes**
 
@@ -34,7 +34,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - Human readable interpretation. Free-form text
        summary of this molecular profile’s potential clinical interpretations. This
        interpretation is the synthesis of all other information about the
-       alteration(s) and its relevance to clinical action and should be the living
+       alteration(s) and its clinical relevance and should be the living
        product of active discussion.
      - In this study of 178 non-small cell lung
        cancer patients, the appearance of EGFR T790M mutation led to resistance
@@ -59,11 +59,11 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - CIViC
    * - :ref:`evidence-direction`
      - An indicator of whether the evidence statement
-       supports or refutes the clinical significance of an event. See
+       supports or refutes the significance of an event. See
        'Evidence Type' tab for more information.
-     - Supports - the evidence supports the clinical significance.
+     - Supports - the evidence supports the significance.
      - CIViC
-   * - :ref:`evidence-clinical-significance`
+   * - :ref:`evidence-significance`
      - The impact of the molecular profile (one or more variants) for predictive, prognostic, diagnostic, oncogenic or functional evidence types.
        See 'Evidence Type' tab for more information.
      - Resistant or Non-response - mutation is associated with resistance
@@ -71,7 +71,7 @@ The rows in the following table describe the minimal components of a CIViC Evide
      - CIViC
    * - :ref:`evidence-origin`
      - Presumed cellular origin of the Variant in samples
-       from the literature citation where the clinical effect of this
+       from the literature citation where the effect of this
        Variant is being evaluated.
      - Somatic
      - CIViC
