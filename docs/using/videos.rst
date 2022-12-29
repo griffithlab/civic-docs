@@ -18,6 +18,20 @@ This video covers:
 
 - Basic organziation and functionality of version 2 of the CIViC interface
 
+CIViC - Introduction to Molecular Profiles
+__________________________________________
+.. raw:: html
+
+   <div class="video-container">
+   <iframe width="825" height="464"
+         src="https://www.youtube.com/embed/bpVkSP7qvgc" frameborder="0"
+         allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   </div>
+
+This video covers:
+
+- Overview of Molecular Profiles (MPs) in CIViC, how to navigate to MPs of interest in the V2 interface, and how curators create Evidence Items based around MPs, which have supplanted the role of variants in CIViC
+
 
 CIViC - Getting Started
 _______________________
