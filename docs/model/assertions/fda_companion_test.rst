@@ -10,5 +10,5 @@ This list is distinct from the list of  `Nucleic Acid Based Tests <https://www.f
 
 Curating FDA Companion Tests
 ----------------------------
-The list(s) provided by the FDA should be used when identifying FDA Companion Tests associated with Assertions. The checkbox for this label should only be selected if both the disease and the variant listed in the Assertion directly correlates with those listed by the FDA.
+The Molecular Profile (variant) list(s) or definitions provided by the FDA should be used when determing if FDA Companion Tests are associated with Assertions. The checkbox for this label should only be selected if both the disease and the variant listed in the Assertion directly correlates with those listed by the FDA. The FDA Companion Test designation in CIViC is only relevant to Assertions where the Assertion Type is Predictive (therapeutic).
 
