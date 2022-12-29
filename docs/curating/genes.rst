@@ -11,7 +11,7 @@ Finally, a high-level summary of the clinical relevance of the gene (as describe
 
 Genes are displayed on a page with a list of gene associated Molecular Profiles below the curator written gene Description. The page also contains a tab to see all of the gene associated variants (Figure 1).
 
-.. thumbnail:: images/GenePage.png
+.. thumbnail:: /images/figures/GenePage.png
    :alt: Figure depicting the CIViC Gene Page
    :title: The CIViC gene page shows a curator Description and a list of Molecular Profiles containing variants assoicated to the gene
    :show_caption: True
