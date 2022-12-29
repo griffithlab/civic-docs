@@ -11,5 +11,5 @@ The CIViC Gene Name utilizes official Entrez Gene Names from the Entrez Gene dat
 Curating Gene Names
 -------------------
 
-Only Entrez Gene Names are accepted for the CIViC Gene Name field.
-Curators should verify the correct entry against the Entrez Gene ID automatically displayed by the CIViC interface.
+Only Entrez Gene Names are accepted for the CIViC Gene Name field. Curators should verify the correct entry against the Entrez Gene ID automatically displayed by the CIViC interface.
+

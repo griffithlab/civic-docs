@@ -3,10 +3,10 @@ Variant Groups
 
 Variant Groups provide user-defined grouping of Variants within and between genes based on unifying characteristics.
 
-.. rubric:: UNDERSTANDING VARIANT GROUPS
+.. rubric:: Understanding Variant Groups
 
-Variant groups allow users to group variants from a single gene or multiple
-genes that have similar clinical consequences.
+Variant groups allow users to group variants from a single Gene or multiple
+Genes that have similar clinical consequences.
 
 Example uses:
 
@@ -38,6 +38,8 @@ genes. For example, the group ‘EGFR TKI Resistance’ consists of variants in
    :alt: Variant Group Attributes and Associations
    :title: Figure 1: Variant Group Attributes and Associations
    :show_caption: True
+
+|
 
 .. list-table::
    :widths: 15 75 10

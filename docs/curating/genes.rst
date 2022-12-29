@@ -15,3 +15,6 @@ Genes are displayed on a page with a list of gene associated Molecular Profiles 
    :alt: Figure depicting the CIViC Gene Page
    :title: The CIViC gene page shows a curator Description and a list of Molecular Profiles containing variants assoicated to the gene
    :show_caption: True
+
+|
+

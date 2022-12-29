@@ -12,5 +12,5 @@ HGVS expressions should follow the published HGVS guidelines
 
 HGVS expressions should utilize NCBI and Ensembl transcripts separated by a colon, and followed by the c-dot, p-dot, or g-dot notation style (e.g. ENST00000275493.2:c.2369C>T, NM_005228.4:c.2369C>T, NP_005219.2:p.Thr790Met) 
 
-
+Once variant coordinates have been entered and approved and a variant is linked to the ClinGen Allele Registry, that resource can be a convenient source of useful HGVS expressions to add to the Variant.
 

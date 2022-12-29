@@ -11,14 +11,16 @@ The Variant Name concisely describes a defining feature of the variant for rapid
 
 
 Adding New Variant Names
----------------------------
-New CIViC Variant Names are entered into the database at the first instance of curation of evidence for the given variant. At the time of entering an Evidence Item for a new variant, the user generates the name by entering it into the Variant Name field, below the Gene Entrez Name field. Unlike Entrez name, which is drawn from a list of predetermined gene names, the variant name is free text written by the curator.
+------------------------
+New CIViC Variant Names are entered into the database at the first instance of curation of evidence for Molecular Profile involving the given Variant. At the time of entering an Evidence Item for a new Molecular Profile, the user generates the Variant and Name by entering it into the Variant Name field, below the Gene Entrez Name field. Unlike Entrez name, which is drawn from a list of predetermined gene names, the variant name is free text written by the curator.
 
-.. figure:: /images/figures/CIViC_screenshot-add-evidence-top.png
+.. thumbnail:: /images/figures/CIViC_screenshot-add-evidence-top.png
    :alt: Screenshot of Gene and Variant fields in the Add Evidence form
+   :title: Figure 1: Screenshot of Gene and Variant fields in the Add Evidence form
+   :show_caption: True
 
-   Figure 1: Screenshot of Gene and Variant fields in the Add Evidence form
-   
+|
+
 Curating Variant Names
 ----------------------
 When curating the Variant Name field, the most specific Variant Name described by the source should be used (e.g. *KRAS* G12 or G13 rather than KRAS Exon 2 Mutation). The Variant Name can be very specific [e.g. *VHL* R176fs (c.528del)], or can refer to a collection of variants fitting a named category (i.e. categorical variants). Examples of categorical variants include *KRAS* G12 or G13, *EGFR* Exon 20 Insertion, and *PIK3CA* Mutation. Categorical variants may be associated with multiple ClinVar entries. The Variant Name field is not limited to genetic events and can include expression or epigenetic alterations such as *BRCA1* Underexpression or *CDKN2A* Promoter Hypermethylation. Other Variant Names, including star-allele nomenclature adopted by the pharmacogenetics field (e.g. DPYD*2A) are also supported. Variant Names can be associated with one or more :ref:`Variant Types <variant-types>` derived from the Sequence Ontology.
