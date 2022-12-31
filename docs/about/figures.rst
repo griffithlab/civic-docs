@@ -44,17 +44,19 @@ CIViC Model Figures
 -------------------
 These figures provide details about CIViC's knowledge model, showing how the various entities in CIViC are related and how they may be associated to external data sources or user input.
 
-.. |gene-fields| thumbnail:: ../images/figures/CIViC_gene-fields_v1b.png
+.. |molecular-profile-fields| thumbnail:: ../images/resources/figures/BGA-113_molecular-profile-model/model.png
 
-.. |evidence-item-fields| thumbnail:: ../images/figures/CIViC_evidence-item-fields_v3c.png
+.. |gene-fields| thumbnail:: ../images/resources/figures/BGA-113_gene-model.png
 
-.. |assertion-fields| thumbnail:: ../images/figures/CIViC_assertion-fields_v1k.png
+.. |evidence-item-fields| thumbnail:: ../images/resources/figures/BGA-113_evidence-model/model.png
 
-.. |variant-fields| thumbnail:: ../images/figures/CIViC_variant-fields_v2b.png
+.. |assertion-fields| thumbnail:: ../images/resources/figures/BGA-113_assertion-model/model.png
 
-.. |variant-group-fields| thumbnail:: ../images/figures/CIViC_variant-group-fields_v1a.png
+.. |variant-fields| thumbnail:: ../images/resources/figures/BGA-113_variant-model/model.png
 
-.. |source-fields| thumbnail:: ../images/figures/CIViC_source-fields_v1a.png
+.. |variant-group-fields| thumbnail:: ../images/resources/figures/BGA-113_variant-group-model.png
+
+.. |source-fields| thumbnail:: ../images/resources/figures/BGA-113_source-model.png
 
 .. list-table::
    :class: image-table
