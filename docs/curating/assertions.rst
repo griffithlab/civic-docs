@@ -134,6 +134,7 @@ All Evidence Items relevant to the Assertion should be associated, even if they 
 
 Thoroughly evaluated Assertions can have a Significance of Variant of Unknown Significance (VUS) using ACMG-AMP criteria. This permits other users to quickly re-evaluate this variant in the context of new evidence, potentially leading to reclassification, but reducing future curation burden if the variant is observed again.
 
+Note that currently ACMG/AMP criteria apply to simple (single variant) Molecular Profiles. Multiple ACMG criteria are not forumlated for groups of co-occuring variants accross different genes. For example PM1 (Located in a mutational hot spot and/or critical and well-established functional domain) is not clear wether this would be required of one or all of the variant members of a complex MP. PP1 (Cosegregation with disease in multiple affected family members in a gene definitively known to cause the disease) is also clearly not defined for combinations of varinats. Therefore, the Predisposing Assertion should only be forumlated for simple Molecular Profiles. 
 
 Oncogenic Assertions
 ~~~~~~~~~~~~~~~~~~~~
@@ -176,7 +177,8 @@ Curation of Oncogenic Assertions requires a brief Summary of the main conclusion
    :title: Figure 13: Example Oncogenic Assertion.
    :show_caption: True
 
-|
+Note that currently, ClinGen/CGC/VICC criteria are not well defined for complex Molecular Profiles (MPs), and therefore are restrocted to simple (single variant) Molecular Profiles. For example criteria utilizing cancerhotspots or COSMIC data are not well defined for co-occurring variants, as the variant frequencies are only reported for variants in isolation. Therefore Oncogenicity Assertions based around the ClinGen/CGC/VICC guidelines should only be curated for simple MPs. Future guidelines may allow for Oncogenicity Assertions based around complex MPs.
+
 
 Curators should take note that the Significance of the Oncogenic Assertion (AID) and that of the Oncogenic Evidence Item (EID) do not overlap and instead consist of partially related but different annotations (Figure 14). This also holds for the Predisposing Evidence Item versus the Predisposing Assertion. EIDs provide discrete evidence from a single source and do not represent a final classification, only supporting evidence. The Assertion Significance provides a final classification as a result of the aggregation of information across studies for the variant (Simple Molecular Profile) (i.e., multiple EIDs and other evidence). The Oncogenic EID is set up on two opposing axes describing Protectiveness and Oncogenicity. The Oncogenic Axis is able to capture evidence supporting either a benign or an oncogenic effect for the Molecular Profile (Simple or Complex), but only in rare cases will a single publication or meeting abstract yield enough evidence to obtain a classification of Oncogenic or Benign utilizing the `ClinGen/CGC/VICC Guidelines <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__. Because of this, Single EIDs are tagged with Oncogenicity Codes when appropriate, and used to support an overall Assertion (Figure 9). Importantly, note that an Oncogenic EID that utilizes the Protective Significance will have no analog at the level of Assertion. Also note that, currently, only Simple Molecular Profiles (single Variant) are supported for Oncogenic or Predisposing Assertions as the corresponding guidelines were not designed for Complex MPs. 
 
