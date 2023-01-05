@@ -16,7 +16,7 @@ ____________________________________
 
 This video covers:
 
-- Basic organziation and functionality of version 2 of the CIViC interface
+- Basic organization and functionality of version 2 of the CIViC interface
 
 CIViC - Introduction to Molecular Profiles
 __________________________________________
@@ -24,7 +24,7 @@ __________________________________________
 
    <div class="video-container">
    <iframe width="825" height="464"
-         src="https://www.youtube.com/watch?v=--i54jY746w" frameborder="0"
+         src="https://www.youtube.com/embed/--i54jY746w" frameborder="0"
          allow="autoplay; encrypted-media" allowfullscreen></iframe>
    </div>
 
