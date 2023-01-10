@@ -51,7 +51,7 @@ Variant annotations for large-scale rearrangements or categorical variants aim t
 
 |
 
-Use coordinates that would encompass the most variants that fit the Variant Name / Description to aid others using coordinates to find relevant and similar variants.
+Use coordinates that would encompass the most variants that fit the Variant Name to aid others using coordinates to find relevant and similar variants.
 
 .. rubric:: For fusions:
 
