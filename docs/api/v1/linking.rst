@@ -66,6 +66,8 @@ CIViC supports the following entity and id types for generating shortned links:
      - Entrez Gene ID
    * - entrez_name
      - Entrez Name (typically HGNC Symbol)
+   * - molecular_profile
+     - CIViC Molecular Profile ID     
    * - variant
      - CIViC Variant ID
    * - allele_registry
