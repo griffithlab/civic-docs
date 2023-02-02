@@ -1,5 +1,5 @@
-Ideas
-=====
+Prioritizing Curation Effort
+============================
 
 New CIViC curators, commonly ask where they should focus their efforts and where can they find evidence of the significance of cancer variants. There are many approaches and relevant resources that may help to identify and prioritize such evidence.
 
