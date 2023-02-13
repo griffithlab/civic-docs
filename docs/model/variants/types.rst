@@ -47,6 +47,12 @@ Curation Guidelines for Specific Sequence Ontology Types
      - An inframe non synonymous variant that inserts
        bases into in the coding sequence.
      -
+   * - splice_acceptor_variant
+     - A variant the impacts the RNA splice acceptor site (i.e. at or upstream/3prime of an exon edge)
+     -
+   * - splice_donor_variant
+     - A variant the impacts the RNA donor acceptor site (i.e. at or downstream/5prime of an exon edge)
+     -
    * - [ gene_variant
 
        OR
