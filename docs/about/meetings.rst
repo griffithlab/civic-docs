@@ -8,9 +8,9 @@ Upcoming Meetings & Events
 .. rubric:: 2023 Variant Interpretation for Cancer Consortium, CIViC, and ClinGen Somatic Hackathon and Curation Jamboree
 
 
-:Dates: Aug 12th, 2023
-:Location: TBD
-:Sign Up: TBD
+:Dates: Saturday Aug 12th, 2023
+:Location: `Hyatt Regency St. Louis at the Arch <https://www.hyatt.com/en-US/hotel/missouri/hyatt-regency-st-louis-at-the-arch/stlrs>`_
+:Sign Up: Via `CGC Registration page <https://www.cancergenomics.org/meetings/registration.php>`_
 
 .. rubric:: Description
 
