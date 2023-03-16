@@ -14,7 +14,7 @@ Upcoming Meetings & Events
 
 .. rubric:: Description
 
-The Jamboree/Hackathon will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer. The hackathon and curation jamboree will be held as a pre-meeting of the 2023 Cancer Genomics Consortium annual conference.
+The Jamboree/Hackathon will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. The hackathon and curation jamboree will be held as a pre-meeting of the 2023 Cancer Genomics Consortium annual conference.
 
 .. rubric:: Meeting Goals
 
