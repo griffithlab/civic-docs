@@ -29,7 +29,7 @@ The evidence grid displays lists of evidence items, and provides various methods
      - Disease associated with the Evidence
    * - Therapies
      - Therapies (e.g. drugs) associated with the Evidence
-   * - TIT
+   * - IT
      - Therapy Interaction Type
    * - DESC
      - Evidence description
@@ -72,6 +72,8 @@ Assertion grids display lists of assertion items, and provide various methods to
      - Disease
    * - Therapies
      - Therapies associated with the item
+   * - IT
+     - Therapy Interaction Type
    * - SUM
      - Assertion summary
    * - AT
