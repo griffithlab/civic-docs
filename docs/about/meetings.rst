@@ -5,7 +5,7 @@ The CIViC team regularly holds curation jamborees and development hackathons. At
 Upcoming Meetings & Events
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. rubric:: 2023 Variant Interpretation for Cancer Consortium, CIViC, and ClinGen Somatic Hackathon and Curation Jamboree
+.. rubric:: 2023 VICC/CIViC/ClinGen Somatic Hackathon and Curation Jamboree for Cancer Variant Interpretation
 
 
 :Dates: Saturday Aug 12th, 2023
@@ -15,7 +15,7 @@ Upcoming Meetings & Events
 
 .. rubric:: Description
 
-The Jamboree/Hackathon will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. The hackathon and curation jamboree will be held as a pre-meeting of the 2023 Cancer Genomics Consortium annual conference.
+The Jamboree/Hackathon will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. The hackathon and curation jamboree will be held as a pre-meeting of the 2023 Cancer Genomics Consortium (CGC) Annual Conference and co-hosted by the `Variant Interpretation for Cancer Consortium (VICC) <https://cancervariants.org/>`_, `CIViC <https://civicdb.org/>`_ and `ClinGen Somatic <https://www.clinicalgenome.org/working-groups/clinical-domain/somatic-cancer-cdwg/>`_.
 
 .. rubric:: Meeting Goals
 
