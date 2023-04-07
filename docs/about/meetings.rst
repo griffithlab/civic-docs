@@ -11,6 +11,7 @@ Upcoming Meetings & Events
 :Dates: Saturday Aug 12th, 2023
 :Location: `Hyatt Regency St. Louis at the Arch <https://www.hyatt.com/en-US/hotel/missouri/hyatt-regency-st-louis-at-the-arch/stlrs>`_
 :Sign Up: Via `CGC Registration page <https://www.cancergenomics.org/meetings/registration.php>`_
+:Topics: Propose topics on `GitHub <https://github.com/genome/civic-meeting/issues>`_
 
 .. rubric:: Description
 
@@ -20,7 +21,7 @@ The Jamboree/Hackathon will focus on promoting the standardization and dissemina
 
 - The focus of this meeting will be to continue to develop community consensus on data standards for interpretation of variants in cancer, engage software developers for improved variant interpretation software, engage clinical experts for curation of content and enhance integration and interoperability of resources. Additional related topics will be proposed by meeting participants.
 
-- To view proposed topics or suggest an idea, visit the `Issues page <https://github.com/genome/civic-meeting/issues>`_.
+- To view proposed topics or suggest an idea, visit the `GitHub page <https://github.com/genome/civic-meeting/issues>`_.
 
 ----
 
