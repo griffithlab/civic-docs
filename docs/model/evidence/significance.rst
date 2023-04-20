@@ -30,7 +30,7 @@ The available options for Significance depend on the Evidence Type selected for 
      - Associated with an adverse response to drug treatment
    * - N/A
      - |times-circle-o|
-     - Variant does not inform clinical interepretation
+     - Variant does not inform clinical interpretation
 
 .. rubric:: Significance for Diagnostic Evidence
 .. list-table::
