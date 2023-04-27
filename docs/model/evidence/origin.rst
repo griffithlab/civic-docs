@@ -38,7 +38,7 @@ Population frequencies should be based on current population databases (e.g., gn
      - Defined as variants with >1% allele frequency in the population relevant to the publication where the evidence is derived. Are welcome in CIViC, however, generally considered low priority for curation efforts.
    * - Combined
      - ||
-     - Variants in the corresponding Complex Molecular Profile have heterogenous/multiple origins.
+     - Variants in the corresponding Complex Molecular Profile have heterogeneous/multiple origins.
    * - Unknown
      - |question-circle|
      - May be used in instances where the publication is ambiguous about the origin of the variant although ordinarily an origin would be known (e.g., tumor-only analysis, analyses including both germline and somatic variants).
