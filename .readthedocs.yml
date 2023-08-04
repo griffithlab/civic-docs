@@ -6,7 +6,7 @@ build:
     python: "3.11"
   jobs:
     post_create_environment: 
-      pip install --no-deps git+https://github.com/griffithlab/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput
+      - pip install --no-deps git+https://github.com/griffithlab/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput
 
 sphinx:
   configuration: docs/conf.py
