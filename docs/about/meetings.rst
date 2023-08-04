@@ -9,7 +9,7 @@ Upcoming Meetings & Events
 
 
 :Dates: Saturday Aug 12th, 2023 (8:00AM to 5:00PM local time)
-:Location: `Hyatt Regency St. Louis at the Arch <https://www.hyatt.com/en-US/hotel/missouri/hyatt-regency-st-louis-at-the-arch/stlrs>`_
+:Location: `Hyatt Regency St. Louis at the Arch (Parkview Room, 4th flr) <https://www.hyatt.com/en-US/hotel/missouri/hyatt-regency-st-louis-at-the-arch/stlrs>`_
 :Sign Up: Via `CGC Registration page <https://www.cancergenomics.org/meetings/registration.php>`_
 :Topics: Propose topics on `GitHub <https://github.com/genome/civic-meeting/issues>`_
 
