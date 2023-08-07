@@ -12,7 +12,7 @@ Upcoming Meetings & Events
 :Location: `Hyatt Regency St. Louis at the Arch (Parkview Room, 4th flr) <https://www.hyatt.com/en-US/hotel/missouri/hyatt-regency-st-louis-at-the-arch/stlrs>`_
 :Sign Up: Via `CGC Registration page <https://www.cancergenomics.org/meetings/registration.php>`_
 :Topics: Propose topics on `GitHub <https://github.com/genome/civic-meeting/issues>`_
-
+:Agenda: `Hackathon Program (PDF) <https://www.cancergenomics.org/docs/cgc-hackathon-handout_2023.pdf>`_ 
 .. rubric:: Description
 
 The Jamboree/Hackathon will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. The hackathon and curation jamboree will be held as a pre-meeting of the 2023 Cancer Genomics Consortium (CGC) Annual Conference and co-hosted by the `Variant Interpretation for Cancer Consortium (VICC) <https://cancervariants.org/>`_, `CIViC <https://civicdb.org/>`_ and `ClinGen Somatic <https://www.clinicalgenome.org/working-groups/clinical-domain/somatic-cancer-cdwg/>`_.
