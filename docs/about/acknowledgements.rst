@@ -13,12 +13,13 @@ Awardee                                            Awarding Organization        
 ================================================== ======================================================= ===========================================
 Malachi Griffith                                   National Human Genome Research Institute (NHGRI) of     R00HG007940
                                                    the National Institutes of Health (NIH)
-Obi Lee Griffith                                   National Cancer Institute (NCI) of NIH                  K22CA188163
-Obi Lee Griffith (with Malachi Griffith as co-PI)  NCI including a funding supplement from the Childhood
+Obi Griffith                                       National Cancer Institute (NCI) of NIH                  K22CA188163
+Obi Griffith; Malachi Griffith                     NCI including a funding supplement from the Childhood
                                                    Cancer Data Initiative (CCDI)                           U24CA237719 (previously: U01CA209936)
 CIViC                                              Washington University Institute of Clinical and 
                                                    Translational Sciences from National Center for 
                                                    Advancing Translational Sciences (NCATS) of NIH         UL1TR002345
+Obi Griffith; Malachi Griffith; Gordana Raca       National Cancer Institute (NCI) of NIH                  U24CA258115                      
 CIViC                                              Children's Discovery Institute (CDI) of the St. Louis 
                                                    Children's Hospital and Washington University School of 
                                                    Medicine. 
