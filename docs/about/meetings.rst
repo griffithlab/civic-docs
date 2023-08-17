@@ -13,6 +13,7 @@ Upcoming Meetings & Events
 :Sign Up: Via `CGC Registration page <https://www.cancergenomics.org/meetings/registration.php>`_
 :Topics: Propose topics on `GitHub <https://github.com/genome/civic-meeting/issues>`_
 :Agenda: `Hackathon Program (PDF) <https://www.cancergenomics.org/docs/cgc-hackathon-handout_2023.pdf>`_ 
+
 .. rubric:: Description
 
 The Jamboree/Hackathon will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. The hackathon and curation jamboree will be held as a pre-meeting of the 2023 Cancer Genomics Consortium (CGC) Annual Conference and co-hosted by the `Variant Interpretation for Cancer Consortium (VICC) <https://cancervariants.org/>`_, `CIViC <https://civicdb.org/>`_ and `ClinGen Somatic <https://www.clinicalgenome.org/working-groups/clinical-domain/somatic-cancer-cdwg/>`_.
@@ -102,6 +103,3 @@ The 2016 CIViC hackathon and jamboree took the form of an unconference with some
 
 :Hackathon: Software developers, engineers and computational biologists interested in learning and applying back-end and front-end web development skills. Prerequisites: Familiarity with either Ruby/Rails (back-end) or Javascript/Angular (front-end) would be beneficial.
 :Jamboree: Pathologists and oncologists (certified or in training), genome scientists, and other researchers interested in the problem of sequence variant interpretation for cancer precision medicine. Prerequisites: Basic understanding of the genetic basis of cancer.
-
-----
-
