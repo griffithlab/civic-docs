@@ -73,3 +73,9 @@ figcaption {
 .image-table td {
   vertical-align: top !important;
 }
+/* TEST */
+.cvc-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}

@@ -11,16 +11,16 @@ The available options for Significance depend on the Evidence Type selected for 
 .. rubric:: Significance for Predictive Evidence
 .. list-table::
    :widths: 25 5 70
-   :header-rows: 1
+   :header-rows: 0
 
    * - Significance
      - Symbol
      - Definition
    * - Sensitivity/Response
-     - |heart|
+     - |benign|
      - Associated with a clinical or preclinical response to treatment
    * - Reduced Sensitivity
-     - |heart-o|
+     - |betteroutcome|
      - Response to treatment is lower than seen in other treatment contexts
    * - Resistance
      - |ban|
