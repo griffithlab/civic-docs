@@ -1,5 +1,7 @@
 .. _evidence-significance:
 
+.. include:: /cvc-icon-aliases.rst
+
 Significance
 ============
 Significance describes how the variant is related to a specific, clinically-relevant property as described in the Evidence Statement. Significance terms vary depending on the Evidence Type (e.g. "Resistance" for Predictive Evidence, "Better Outcome" for Prognostic Evidence, etc.).
