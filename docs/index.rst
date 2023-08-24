@@ -41,3 +41,12 @@ Navigate the CIViC Help Docs with the navigation menu to the left of each page o
    api
    help
 
+..
+   Kludge to make aliases file importable using hidden table of contents -
+   Without this, Sphinx will display warnings about an unlinked file
+
+..
+   .. toctree::
+      :hidden:
+
+      generated/civic-docs.aliases.rst

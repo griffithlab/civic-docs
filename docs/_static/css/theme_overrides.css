@@ -1,12 +1,30 @@
 /* override table width restrictions */
 @media screen and (min-width: 767px) {
-    .wy-table-responsive table td {
-        /* !important prevents the common CSS stylesheets from overriding
+  .wy-table-responsive table td {
+    /* !important prevents the common CSS stylesheets from overriding
          this as on RTD they are loaded after this stylesheet */
-        white-space: normal !important;
-    }
+    white-space: normal !important;
+  }
 
-    .wy-table-responsive {
-        overflow: visible !important;
-    }
+  .wy-table-responsive {
+    overflow: visible !important;
+  }
+}
+
+/* improvements to theme's odd table defaults */
+table.docutils th {
+  padding: 6px 8px !important;
+  min-height: unset !important;
+}
+
+table.docutils th p {
+  line-height: 1em !important;
+  font-weight: normal !important;
+  font-size: 1em !important;
+  font-style: oblique;
+  margin: 0 !important;
+  color: #404040 !important;
+}
+table.docutils td {
+  padding: 6px 8px !important;
 }

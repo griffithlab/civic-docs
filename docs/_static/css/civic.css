@@ -73,9 +73,31 @@ figcaption {
 .image-table td {
   vertical-align: top !important;
 }
-/* TEST */
+
+/* class applied to aliases defined in generated/civic.docs-aliases.rst */
 .cvc-icon {
   display: inline-block;
   width: 1em;
   height: 1em;
+}
+
+/* custom styles for entity-icon-description tables */
+.cvc-icon-table tr td {
+  vertical-align: top !important;
+}
+
+/* display icons in a tag-like box */
+.cvc-icon-table tr td:nth-child(2) p {
+  background-color: #404040 !important;
+  display: block;
+  text-align: center;
+  padding: 1px 3px 3px 3px;
+  border-radius: 2px;
+}
+
+/* default icon color is a light grey, use css filter to brighten them */
+.cvc-icon-table tr td:nth-child(2) img.cvc-icon {
+  filter: brightness(5) !important;
+  vertical-align: middle !important;
+  margin-top: -2px !important;
 }
