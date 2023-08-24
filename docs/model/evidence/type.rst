@@ -17,7 +17,7 @@ Six Evidence Types are currently supported: Predictive (i.e. Therapeutic), Diagn
    :class: cvc-icon-table
 
    * - Type
-     - Symbol
+     - Icon
      - Definition
    * - Diagnostic
      - |attribute-diagnostic|

@@ -21,7 +21,7 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
    :class: cvc-icon-table
 
    * - Direction
-     - Symbol
+     - Icon
      - Definition
    * - Supports
      - |attribute-supports|
@@ -38,7 +38,7 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
    :class: cvc-icon-table
 
    * - Direction
-     - Symbol
+     - Icon
      - Definition
    * - Supports
      - |attribute-supports|
@@ -54,7 +54,7 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
    :class: cvc-icon-table
 
    * - Direction
-     - Symbol
+     - Icon
      - Definition
    * - Supports
      - |attribute-supports|
@@ -70,7 +70,7 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
    :class: cvc-icon-table
 
    * - Direction
-     - Symbol
+     - Icon
      - Definition
    * - Supports
      - |attribute-supports|
@@ -86,7 +86,7 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
    :class: cvc-icon-table
 
    * - Direction
-     - Symbol
+     - Icon
      - Definition
    * - Supports
      - |attribute-supports|
@@ -102,7 +102,7 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
    :class: cvc-icon-table
 
    * - Direction
-     - Symbol
+     - Icon
      - Definition
    * - Supports
      - |attribute-supports|

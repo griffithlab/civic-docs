@@ -101,3 +101,8 @@ figcaption {
   vertical-align: middle !important;
   margin-top: -2px !important;
 }
+
+/* align icon names to the right */
+.cvc-icon-table tr td:nth-child(1) p {
+  text-align: right !important;
+}

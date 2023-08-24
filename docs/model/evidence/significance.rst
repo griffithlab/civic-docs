@@ -17,7 +17,7 @@ The available options for Significance depend on the Evidence Type selected for 
    :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Sensitivity/Response
      - |attribute-sensitivityresponse|
@@ -42,7 +42,7 @@ The available options for Significance depend on the Evidence Type selected for 
    :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Positive
      - |attribute-positive|
@@ -58,7 +58,7 @@ The available options for Significance depend on the Evidence Type selected for 
    :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Better Outcome
      - |attribute-betteroutcome|
@@ -77,7 +77,7 @@ The available options for Significance depend on the Evidence Type selected for 
    :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Predisposition
      - |attribute-predisposition|
@@ -93,7 +93,7 @@ The available options for Significance depend on the Evidence Type selected for 
    :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Gain of Function
      - |attribute-gainoffunction|
@@ -121,7 +121,7 @@ The available options for Significance depend on the Evidence Type selected for 
    :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Oncogenicity
      - |attribute-oncogenicity|
