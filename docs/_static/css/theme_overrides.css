@@ -18,7 +18,7 @@ table.docutils th {
 }
 
 table.docutils th p {
-  line-height: 1em !important;
+  line-height: 1.2em !important;
   font-weight: normal !important;
   font-size: 1em !important;
   font-style: oblique;
@@ -27,4 +27,7 @@ table.docutils th p {
 }
 table.docutils td {
   padding: 6px 8px !important;
+}
+table.docutils td p {
+  line-height: 1.2em !important;
 }

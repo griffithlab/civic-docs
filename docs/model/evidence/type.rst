@@ -1,3 +1,5 @@
+.. include:: /generated/civic.docs-aliases.rst
+
 .. _evidence-type:
 
 Type
@@ -12,28 +14,29 @@ Six Evidence Types are currently supported: Predictive (i.e. Therapeutic), Diagn
 .. list-table::
    :widths: 10 5 85
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Type
      - Symbol
      - Definition
-   * - Predictive
-     - |eye|
-     - Evidence pertaining to a Molecular Profile's effect on therapeutic response
    * - Diagnostic
-     - |search|
-     - Evidence pertaining to a Molecular Profile's impact on patient diagnosis
+     - |attribute-diagnostic|
+     - Evidence pertains to a variant's impact on patient diagnosis (cancer subtype)
+   * - Predictive
+     - |attribute-predictive|
+     - Evidence pertains to a variant's effect on therapeutic response
    * - Prognostic
-     - |road|
-     - Evidence pertaining to a Molecular Profile's impact on disease progression, severity, or patient survival
+     - |attribute-prognostic|
+     - Evidence pertains to a variant's impact on disease progression, severity, or patient survival.
    * - Predisposing
-     - |exclamation-triangle|
+     - |attribute-predisposing|
      - Evidence pertains to a germline Molecular Profile's role in conferring susceptibility to disease (including pathogenicity evaluations)
    * - Oncogenic
-     - |certificate|
-     - Evidence pertains to a somatic Molecular Profile's involvement in tumor pathogenesis as described by the Hallmarks of Cancer
+     - |attribute-oncogenic|
+     - Evidence pertains to a somatic variant's involvement in tumor pathogenesis as described by the Hallmarks of Cancer.
    * - Functional
-     - |cog|
-     - Evidence pertains to a Molecular Profile's impact on gene product (e.g. protein) function
+     - |attribute-functional|
+     - Evidence pertains to a variant that alters biological function from the reference state.
 
 Extensive documentation for curating Evidence types is provided on the :ref:`Curating Evidence page <curating-evidence-general>`. Be sure to closly study the examples for each type.
 

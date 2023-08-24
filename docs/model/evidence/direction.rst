@@ -1,3 +1,5 @@
+.. include:: /generated/civic.docs-aliases.rst
+
 .. _evidence-direction:
 
 Direction
@@ -14,92 +16,100 @@ Evidence Direction interpretation differs slightly depending on the Evidence Typ
 
 .. rubric:: Direction for Predictive Evidence
 .. list-table::
-   :widths: 10 5 85
+   :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Direction
      - Symbol
      - Definition
    * - Supports
-     - |thumbs-up|
-     - The experiment or study supports this variant’s response to a drug
+     - |attribute-supports|
+     - Experiment or study supports the variant's response to a drug
    * - Does not support
-     - |thumbs-down|
-     - The experiment or study does not support, or was inconclusive of an interaction between the variant and a drug
+     - |attribute-doesnotsupport|
+     - Experiment or study does not support, or was inconclusive of an interaction between the variant and a drug
 
 
 .. rubric:: Direction for Diagnostic Evidence
 .. list-table::
-   :widths: 10 5 85
+   :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Direction
      - Symbol
      - Definition
    * - Supports
-     - |thumbs-up|
-     - The experiment or study supports variant’s impact on the diagnosis of disease or subtype
+     - |attribute-supports|
+     - Experiment or study supports the variant's impact on the diagnosis of disease or subtype
    * - Does not support
-     - |thumbs-down|
-     - The experiment or study does not support the variant’s impact on diagnosis of disease or subtype
+     - |attribute-doesnotsupport|
+     - Experiment or study does not support the variant's impact on diagnosis of disease or subtype
 
 .. rubric:: Direction for Prognostic Evidence
 .. list-table::
-   :widths: 10 5 85
+   :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Direction
      - Symbol
      - Definition
    * - Supports
-     - |thumbs-up|
-     - The experiment or study supports a variant’s impact on prognostic outcome
+     - |attribute-supports|
+     - Experiment or study supports the variant's impact on prognostic outcome
    * - Does not support
-     - |thumbs-down|
-     - The experiment or study does not support a prognostic association between variant and outcome
+     - |attribute-doesnotsupport|
+     - Experiment or study does not support a prognostic association between variant and outcome
 
 .. rubric:: Direction for Predisposing Evidence (where Significance is Predisposition)
 .. list-table::
-   :widths: 10 5 85
+   :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Direction
      - Symbol
      - Definition
    * - Supports
-     - |thumbs-up|
-     - The experiment or study may contribute to a pathogenic classification (final determination at the Assertion level)
+     - |attribute-supports|
+     - Suggests a pathogenic or a protective role for a germline variant in cancer
    * - Does not support
-     - |thumbs-down|
-     - The experiment or study may contribute to a benign classification (final determination at the Assertion level)
-
-.. rubric:: Direction for Oncogenic Evidence (where Significance is Oncogenicity)
-.. list-table::
-   :widths: 10 5 85
-   :header-rows: 1
-
-   * - Direction
-     - Symbol
-     - Definition
-   * - Supports
-     - |thumbs-up|
-     - The experiment or study may contribute to an oncogenic classification (final determination at the Assertion level)
-   * - Does not support
-     - |thumbs-down|
-     - The experiment or study may contribute to a benign classification (final determination at the Assertion level)
+     - |attribute-doesnotsupport|
+     - Supports a benign (for Predisposition) or lack of protective (for Protectiveness) role for a germline variant in cancer.
 
 .. rubric:: Direction for Functional Evidence
 .. list-table::
-   :widths: 10 5 85
+   :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Direction
      - Symbol
      - Definition
    * - Supports
-     - |thumbs-up|
-     - The experiment or study supports this variant causing alteration or non-alteration of the gene product function
+     - |attribute-supports|
+     - Experiment or study supports the variant causing alteration or non-alteration of the gene product function
    * - Does not support
-     - |thumbs-down|
-     - The experiment or study does not support this variant causing alteration or non-alteration of the gene product function
+     - |attribute-doesnotsupport|
+     - Experiment or study does not support the variant causing alteration or non-alteration of the gene product function
 
+.. rubric:: Direction for Oncogenic Evidence (where Significance is Oncogenicity)
+.. list-table::
+   :widths: 25 5 70
+   :header-rows: 1
+   :class: cvc-icon-table
+
+   * - Direction
+     - Symbol
+     - Definition
+   * - Supports
+     - |attribute-supports|
+     - Supports an oncogenic or protective role for a somatic variant.
+   * - Does not support
+     - |attribute-doesnotsupport|
+     - Supports a benign (for Oncogenicity) or lack of protective (for Protectiveness) role for a somatic variant in cancer.
+   * - Not Applicable
+     - |attribute-na|
+     - Not applicable for Oncogenic Evidence Type

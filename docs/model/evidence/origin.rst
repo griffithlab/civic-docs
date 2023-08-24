@@ -1,3 +1,5 @@
+.. include:: /generated/civic.docs-aliases.rst
+
 .. _evidence-origin:
 
 Origin
@@ -23,27 +25,28 @@ Population frequencies should be based on current population databases (e.g., gn
 .. list-table::
    :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Origin
      - Symbol
      - Description
    * - Somatic
-     - |ellipsis-h|
+     - |attribute-somatic|
      - Highest priority variants in CIViC. May include presumed somatic variants largely driven by the usage in the original publication but should be approached with caution in instances of tumor-only analysis. Includes fusions.
    * - Rare Germline
-     - |ellipsis-v|
+     - |attribute-raregermline|
      - Consist of heritable rare variants. Generally, <1% of the population relevant to the publication being cited.
    * - Common Germline
-     - |signal|
+     - |attribute-commongermline|
      - Defined as variants with >1% allele frequency in the population relevant to the publication where the evidence is derived. Are welcome in CIViC, however, generally considered low priority for curation efforts.
    * - Combined
-     - ||
+     - |attribute-combined|
      - Variants in the corresponding Complex Molecular Profile have heterogeneous/multiple origins.
    * - Unknown
-     - |question-circle|
+     - |attribute-unknown|
      - May be used in instances where the publication is ambiguous about the origin of the variant although ordinarily an origin would be known (e.g., tumor-only analysis, analyses including both germline and somatic variants).
    * - N/A
-     - |times-circle-o|
+     - |attribute-na|
      - For variants such as 'Expression' where a germline or somatic origin is not applicable.
 
 .. rubric:: Examples
