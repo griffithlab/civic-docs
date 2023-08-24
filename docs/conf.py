@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = u'CIViC'
-copyright = u'2022, The McDonnell Genome Institute at Washington University School of Medicine'
+copyright = u'2023, The McDonnell Genome Institute at Washington University School of Medicine'
 author = u'The McDonnell Genome Institute at Washington University School of Medicine'
 
 # The short X.Y version
@@ -63,7 +63,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -186,7 +186,6 @@ images_config = {
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
-
 
 def setup(app):
     app.add_css_file("css/civic.css")

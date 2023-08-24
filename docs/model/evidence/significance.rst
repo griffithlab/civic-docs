@@ -1,3 +1,5 @@
+.. include:: /generated/civic.docs-aliases.rst
+
 .. _evidence-significance:
 
 Significance
@@ -12,115 +14,118 @@ The available options for Significance depend on the Evidence Type selected for 
 .. list-table::
    :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Sensitivity/Response
-     - |heart|
+     - |attribute-sensitivityresponse|
      - Associated with a clinical or preclinical response to treatment
    * - Reduced Sensitivity
-     - |heart-o|
+     - |attribute-reducedsensitivity|
      - Response to treatment is lower than seen in other treatment contexts
    * - Resistance
-     - |ban|
+     - |attribute-resistance|
      - Associated with clinical or preclinical resistance to treatment
    * - Adverse Response
-     - |fire|
+     - |attribute-adverseresponse|
      - Associated with an adverse response to drug treatment
    * - N/A
-     - |times-circle-o|
+     - |attribute-na|
      - Variant does not inform clinical interpretation
 
 .. rubric:: Significance for Diagnostic Evidence
 .. list-table::
    :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Positive
-     - |plus-circle|
+     - |attribute-positive|
      - Associated with diagnosis of disease or subtype
    * - Negative
-     - |minus-circle|
+     - |attribute-negative|
      - Associated with lack of disease or subtype
 
 .. rubric:: Significance for Prognostic Evidence
 .. list-table::
    :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Better Outcome
-     - |arrow-circle-up|
+     - |attribute-betteroutcome|
      - Demonstrates better than expected clinical outcome
    * - Poor Outcome
-     - |arrow-circle-down|
+     - |attribute-pooroutcome|
      - Demonstrates worse than expected clinical outcome
    * - N/A
-     - |times-circle-o|
+     - |attribute-na|
      - Variant does not inform clinical action
 
 .. rubric:: Significance for Predisposing Evidence
 .. list-table::
    :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Predisposition
-     - |times-circle-o|
-     - Evidence may contribute to an interpretation of pathogenic/benign at the assertion level
+     - |attribute-predisposition|
+     - Germline variant has predisposing potential for cancer, and may meet select ACMG/AMP criteria supporting pathogenic or benign classification.
    * - Protectiveness
-     - |times-circle-o|
-     - Presence of a germline molecular profile reduces the chance of cancer
-
-.. rubric:: Significance for Oncogenic Evidence
-.. list-table::
-   :widths: 25 5 70
-   :header-rows: 1
-
-   * - Significance
-     - Symbol
-     - Definition
-   * - Oncogenicity
-     - |times-circle-o|
-     - Evidence may contributes to an interpretation of oncogenic/benign at the assertion level
-   * - Protectiveness
-     - |times-circle-o|
-     - Presence of a somatic molecular profile reduces the chance of cancer
-
+     - |attribute-protectiveness|
+     - Germline variant has properties that protect individuals from acquiring cancer.
 
 .. rubric:: Significance for Functional Evidence
 .. list-table::
    :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Significance
-     - Symbol
+     - Icon
      - Definition
    * - Gain of Function
-     - |arrow-circle-up|
-     - A sequence variant whereby enhanced function is conferred on the gene product
+     - |attribute-gainoffunction|
+     - Sequence variant confers an increase in normal gene function
    * - Loss of Function
-     - |arrow-circle-down|
-     - A sequence variant whereby the gene product has diminished or abolished function
+     - |attribute-lossoffunction|
+     - Sequence variant confers a diminished or abolished function
    * - Unaltered Function
-     - |arrows-h|
-     - A sequence variant whereby the function of the gene product is unchanged
+     - |attribute-unalteredfunction|
+     - Gene product of sequence variant is unchanged
    * - Neomorphic
-     - |exclamation-circle|
+     - |attribute-neomorphic|
      - Sequence variant creates a novel function
    * - Dominant Negative
-     - |expand|
-     - Sequence variant abolishes wild type allele function
+     - |attribute-dominantnegative|
+     - Sequence variant abrogates function of wildtype allele gene product
    * - Unknown
-     - |sign-out|
-     - A functional variant that cannot be precisely defined by gain-of-function, loss-of-function, or unaltered function
+     - |attribute-unknown|
+     - Sequence variant that cannot be precisely defined by the other listed categories
 
+.. rubric:: Significance for Oncogenic Evidence
+.. list-table::
+   :widths: 25 5 70
+   :header-rows: 1
+   :class: cvc-icon-table
 
+   * - Significance
+     - Icon
+     - Definition
+   * - Oncogenicity
+     - |attribute-oncogenicity|
+     - Somatic variant has oncogenic potential for driving cancer, and may meet select ClinGen/CGC/VICC criteria supporting pathogenic or benign classification.
+   * - Protectiveness
+     - |attribute-protectiveness|
+     - Somatic variant has a protective role against cancer.

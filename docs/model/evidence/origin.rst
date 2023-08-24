@@ -1,3 +1,5 @@
+.. include:: /generated/civic.docs-aliases.rst
+
 .. _evidence-origin:
 
 Origin
@@ -23,28 +25,29 @@ Population frequencies should be based on current population databases (e.g., gn
 .. list-table::
    :widths: 25 5 70
    :header-rows: 1
+   :class: cvc-icon-table
 
    * - Origin
-     - Symbol
+     - Icon
      - Description
    * - Somatic
-     - |ellipsis-h|
-     - Highest priority variants in CIViC. May include presumed somatic variants largely driven by the usage in the original publication but should be approached with caution in instances of tumor-only analysis. Includes fusions.
+     - |attribute-somatic|
+     - Variant is a mutation, found only in tumor cells, having arisen in a specific tissue (non-germ cell), and is not expected to be inherited or passed to offspring.
    * - Rare Germline
-     - |ellipsis-v|
-     - Consist of heritable rare variants. Generally, <1% of the population relevant to the publication being cited.
+     - |attribute-raregermline|
+     - Variant is found in every cell (not restricted to tumor/diseased cells) and is thought to exist in less than 1% of the population relevant to this evidence item.
    * - Common Germline
-     - |signal|
-     - Defined as variants with >1% allele frequency in the population relevant to the publication where the evidence is derived. Are welcome in CIViC, however, generally considered low priority for curation efforts.
+     - |attribute-commongermline|
+     - Variant is found in every cell (not restricted to tumor/diseased cells) and is thought to exist in at least 1% of the population relevant to this evidence item.
    * - Combined
-     - ||
-     - Variants in the corresponding Complex Molecular Profile have heterogeneous/multiple origins.
+     - |attribute-combined|
+     - Variants in the corresponding Complex Molecular Profile have heterogeneous origins.
    * - Unknown
-     - |question-circle|
-     - May be used in instances where the publication is ambiguous about the origin of the variant although ordinarily an origin would be known (e.g., tumor-only analysis, analyses including both germline and somatic variants).
+     - |attribute-unknown|
+     - The variant origin is uncertain based on the available evidence.
    * - N/A
-     - |times-circle-o|
-     - For variants such as 'Expression' where a germline or somatic origin is not applicable.
+     - |attribute-na|
+     - The variant type (e.g., expression) is not compatible (or easily classified) with the CIViC concept of variant origin.
 
 .. rubric:: Examples
 .. list-table::
