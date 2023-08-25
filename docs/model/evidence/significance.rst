@@ -86,6 +86,22 @@ The available options for Significance depend on the Evidence Type selected for 
      - |attribute-protectiveness|
      - Germline variant has properties that protect individuals from acquiring cancer.
 
+.. rubric:: Significance for Oncogenic Evidence
+.. list-table::
+   :widths: 25 5 70
+   :header-rows: 1
+   :class: cvc-icon-table
+
+   * - Significance
+     - Icon
+     - Definition
+   * - Oncogenicity
+     - |attribute-oncogenicity|
+     - Somatic variant has oncogenic potential for driving cancer, and may meet select ClinGen/CGC/VICC criteria supporting pathogenic or benign classification.
+   * - Protectiveness
+     - |attribute-protectiveness|
+     - Somatic variant has a protective role against cancer.
+
 .. rubric:: Significance for Functional Evidence
 .. list-table::
    :widths: 25 5 70
@@ -114,18 +130,3 @@ The available options for Significance depend on the Evidence Type selected for 
      - |attribute-unknown|
      - Sequence variant that cannot be precisely defined by the other listed categories
 
-.. rubric:: Significance for Oncogenic Evidence
-.. list-table::
-   :widths: 25 5 70
-   :header-rows: 1
-   :class: cvc-icon-table
-
-   * - Significance
-     - Icon
-     - Definition
-   * - Oncogenicity
-     - |attribute-oncogenicity|
-     - Somatic variant has oncogenic potential for driving cancer, and may meet select ClinGen/CGC/VICC criteria supporting pathogenic or benign classification.
-   * - Protectiveness
-     - |attribute-protectiveness|
-     - Somatic variant has a protective role against cancer.
