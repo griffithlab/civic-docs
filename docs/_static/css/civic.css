@@ -106,3 +106,7 @@ figcaption {
 .cvc-icon-table tr td:nth-child(1) p {
   text-align: right !important;
 }
+
+li {
+  list-style: disc !important;
+}

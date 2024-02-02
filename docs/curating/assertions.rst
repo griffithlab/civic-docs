@@ -2,9 +2,9 @@ Curating Assertions
 ===================
 The CIViC Assertion (AID) functions as a summary of clinical evidence for a Molecular Profile (variant), disease and specific predictive (therapeutic), prognostic, diagnostic or predisposing clinical significance supported by Evidence Items (EIDs) appearing in CIViC, along with evidence drawn from other sources, such as databases of variant population frequency. The Assertion is designed to incorporate information from practice guidelines (e.g., NCCN) and also integrates widely adopted clinical tiering systems into structured fields, including:
 
-* AMP-ASCO-CAP guidelines (`Li et al. 2017 <https://pubmed.ncbi.nlm.nih.gov/27993330/>`__) for clinical tiering of somatic variants (Predictive, Prognostic, Diagnostic assertions).
-* ClinGen/CGC/VICC SOP (`Horak et al. 2022 <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__) for classification of somatic variant oncogenicity (Oncogenic assertions).
-* ACMG-AMP guidelines (`Richards et al. 2015 <https://pubmed.ncbi.nlm.nih.gov/25741868/>`__) for classification of germline variant pathogenicity (Predisposing assertions). 
+- AMP-ASCO-CAP guidelines (`Li et al. 2017 <https://pubmed.ncbi.nlm.nih.gov/27993330/>`__) for clinical tiering of somatic variants (Predictive, Prognostic, Diagnostic assertions).
+- ClinGen/CGC/VICC SOP (`Horak et al. 2022 <https://pubmed.ncbi.nlm.nih.gov/35101336/>`__) for classification of somatic variant oncogenicity (Oncogenic assertions).
+- ACMG-AMP guidelines (`Richards et al. 2015 <https://pubmed.ncbi.nlm.nih.gov/25741868/>`__) for classification of germline variant pathogenicity (Predisposing assertions). 
 
 .. thumbnail:: /images/figures/AC_Fig1.png
    :alt: Overview of an Assertion summary view
@@ -188,15 +188,15 @@ Citing EIDs in Assertions
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 As described above, EIDs supporting the Assertion’s clinical significance may be listed in Assertion description, and referenced using CURIE identifiers (e.g., civic:EID1234). However, there is no simple/specific answer for how many and which EIDs to cite. It varies with the AID type and complexity. Curators should use their judgement but consider citing EIDs as similar to citing supporting works in a scientific publication. The following suggestions may help:
 
-* Do not simply cite all EIDs (they are already associated with the AID). Cite specific EIDs that will help editors or eventual readers of the assertion.  Focus on strategic citations that help the end user.
-* The practice of strategically citing a few EIDs may be more useful where there is a larger number of EIDs associated with an AID, but not as critical if there are only 1-3 EIDs.
-* Examples of situations where you might want to cite specific EIDs in an AID include:
+- Do not simply cite all EIDs (they are already associated with the AID). Cite specific EIDs that will help editors or eventual readers of the assertion.  Focus on strategic citations that help the end user.
+- The practice of strategically citing a few EIDs may be more useful where there is a larger number of EIDs associated with an AID, but not as critical if there are only 1-3 EIDs.
+- Examples of situations where you might want to cite specific EIDs in an AID include:
 
-  * If certain EIDs support specific aspects of the assertion (particularly when describing support for specific standard evidence codes)
-  * To draw extra attention to EIDs that are considered particularly critical or high quality.
-  * When describing specific nuances, contexts, controversies that might influence interpretation of the EID.
-  * When there is a heterogeneous mix of evidence supporting an overall assertion.  For example, there are 10 EIDs.  Some correspond to functional data, to case reports, and clinical trials.  Maybe cite 1-2 key EIDs for each of these evidence types. 
-  * When evaluating evidence in the context of a guidelines (such as oncogenicity SOP or Fusion oncogencity SOP), it is often the case that evidence is found to support 4-5+ distinct evidence lines. If these are drawn from 15-20 evidence items it can be a lot of work for the reviewer to figure out which EIDs support which codes.
+  - If certain EIDs support specific aspects of the assertion (particularly when describing support for specific standard evidence codes)
+  - To draw extra attention to EIDs that are considered particularly critical or high quality.
+  - When describing specific nuances, contexts, controversies that might influence interpretation of the EID.
+  - When there is a heterogeneous mix of evidence supporting an overall assertion.  For example, there are 10 EIDs.  Some correspond to functional data, to case reports, and clinical trials.  Maybe cite 1-2 key EIDs for each of these evidence types. 
+  - When evaluating evidence in the context of a guidelines (such as oncogenicity SOP or Fusion oncogencity SOP), it is often the case that evidence is found to support 4-5+ distinct evidence lines. If these are drawn from 15-20 evidence items it can be a lot of work for the reviewer to figure out which EIDs support which codes.
 
-* From a stylistic perspective, we anticipate that a short assertion will typically refer strategically to at least 1-2 EIDs.  A longer assertion might have more.
+- From a stylistic perspective, we anticipate that a short assertion will typically refer strategically to at least 1-2 EIDs.  A longer assertion might have more.
 
