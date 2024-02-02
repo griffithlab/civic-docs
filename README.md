@@ -65,8 +65,8 @@ Then visit the [civic-docs pull requests page](https://github.com/griffithlab/ci
 If you wind up in Python dependency hell getting Sphinx to work, you may want to try working in a Docker image by doing something like the following:
 
 ```
-docker pull griffithlab/pvactools:latest-slim
-docker run -p 8000:8000 -v ~/git/civic/civic-docs/:/opt/git/civic/civic-docs/ -it griffithlab/pvactools:latest-slim
+docker pull griffithlab/pvactools:latest
+docker run -p 8000:8000 -v ~/git/civic/civic-docs/:/opt/git/civic/civic-docs/ -it griffithlab/pvactools:latest
 pip install sphinx sphinx-autobuild sphinx-fontawesome sphinxcontrib-images
 pip install git+https://github.com/griffithlab/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput
 cd /opt/git/civic/civic-docs/docs
