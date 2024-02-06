@@ -11,8 +11,6 @@ The CIViC Assertion (AID) functions as a summary of clinical evidence for a Mole
    :title: Figure 1: The Assertion contains a brief one sentence summary and a longer Assertion Description. It also displays the CIViC Molecular Profile to which it applies. The bottom of the Assertion view shows a list of CIViC Evidence Items (EIDs) which support the Assertion. Selecting any supporting EID opens up that EID page.
    :show_caption: True
 
-**Figure 1: The Assertion contains a brief one sentence summary and a longer Assertion Description. It also displays the CIViC Molecular Profile to which it applies. The bottom of the Assertion view shows a list of CIViC Evidence Items (EIDs) which support the Assertion. Selecting any supporting EID opens up that EID page.**
-
 ..
    Filename: BGA-113_assertion-model  Artboard: model
    (reuses model figure from assertions overview page)
@@ -21,8 +19,6 @@ The CIViC Assertion (AID) functions as a summary of clinical evidence for a Mole
    :alt: Assertion fields
    :title: Figure 2: Fields in the Assertion
    :show_caption: True
-
-**Figure 2: Fields in the Assertion**
 
 The Assertion contains a one sentence **Assertion Summary** which states the specific Molecular Profile (MP), disease, and significance with therapy if applicable (e.g. “Non-small cell lung cancer with EGFR L858R mutation is sensitive to erlotinib or gefitinib” in Figure 1 above).
 
@@ -53,11 +49,12 @@ Lower AMP-ASCO-CAP Tier Assertions can be written for Molecular Profiles that ar
 CIViC Predisposing Assertions utilize ACMG-AMP 2015 guidelines to generate a 5-tier pathogenicity valuation for a variant in a given disease context, which is supported by a collection of CIViC Evidence Items, along with other data. ACMG evidence codes for an Assertion are supplied by a collection of supporting CIViC Evidence Items (e.g., PP1 from co-segregation data available in a specific publication), and additionally are derived from variant data (e.g., PM2 from population databases such as gnomAD). ACMG evidence codes are then combined at the Assertion level to generate a disease-specific pathogenicity classification for the Assertion (Figure 4B and Figure 8). CIViC Oncogenic Assertions work in a very analagous way but follow the ClinGen-CGC-VICC 2022 SOP. 
 
 Other guidelines that curators should keep in mind include:
-- While the body of supporting Evidence Items may be derived from studies with differing patient populations with regard to stage and line of treatment, as well as preclinical studies in disease models, the Assertion may describe more specific disease context based on reading of practice guidelines (e.g. NCCN etc), and any such descriptions added to the Assertion should explicitly cite the practice guidelines as the source. 
-- Generally, even when the supporting Evidence Items exactly line up with the treatment context described in the Assertion, practice guidelines may be summarized in the Assertion description, including disease stage, line of treatment (e.g., first line, salvage), and this information should be clearly labeled as being derived from published guidelines, and those guidelines explicitly cited. 
-- Approved companion diagnostics (e.g. Vysis Break-Apart Fish diagnostic for ALK-fusions) may be listed in the Assertion Description.
-- All Evidence Items relevant to the Assertion should be associated to it, even if they disagree with the Assertion Summary. Disagreements can be discussed in the Assertion Description section and the rationale for discounting discrepant evidence should be recounted.
-- The CIViC Assertion contains specific Variant Origin fields which are filled out during Assertion creation. It is possible for some EIDs in the supporting evidence to have a different Variant Origin than that in the Assertion, but the Assertion should contain substantial support from Evidence Items with the same Variant Origin as in the Assertion.  
+
+* While the body of supporting Evidence Items may be derived from studies with differing patient populations with regard to stage and line of treatment, as well as preclinical studies in disease models, the Assertion may describe more specific disease context based on reading of practice guidelines (e.g. NCCN etc), and any such descriptions added to the Assertion should explicitly cite the practice guidelines as the source. 
+* Generally, even when the supporting Evidence Items exactly line up with the treatment context described in the Assertion, practice guidelines may be summarized in the Assertion description, including disease stage, line of treatment (e.g., first line, salvage), and this information should be clearly labeled as being derived from published guidelines, and those guidelines explicitly cited. 
+* Approved companion diagnostics (e.g. Vysis Break-Apart Fish diagnostic for ALK-fusions) may be listed in the Assertion Description.
+* All Evidence Items relevant to the Assertion should be associated to it, even if they disagree with the Assertion Summary. Disagreements can be discussed in the Assertion Description section and the rationale for discounting discrepant evidence should be recounted.
+* The CIViC Assertion contains specific Variant Origin fields which are filled out during Assertion creation. It is possible for some EIDs in the supporting evidence to have a different Variant Origin than that in the Assertion, but the Assertion should contain substantial support from Evidence Items with the same Variant Origin as in the Assertion.  
 
 
 Predictive Assertions
@@ -187,5 +184,19 @@ Curators should take note that the Significance of the Oncogenic Assertion (AID)
    :title: Figure 14: Oncogenic Evidence in contrast to the Oncogenic Assertion.
    :show_caption: True
 
-|
+Citing EIDs in Assertions
+~~~~~~~~~~~~~~~~~~~~~~~~~
+As described above, EIDs supporting the Assertion’s clinical significance may be listed in Assertion description, and referenced using CURIE identifiers (e.g., civic:EID1234). However, there is no simple/specific answer for how many and which EIDs to cite. It varies with the AID type and complexity. Curators should use their judgement but consider citing EIDs as similar to citing supporting works in a scientific publication. The following suggestions may help:
+
+- Do not simply cite all EIDs (they are already associated with the AID). Cite specific EIDs that will help editors or eventual readers of the assertion.  Focus on strategic citations that help the end user.
+- The practice of strategically citing a few EIDs may be more useful where there is a larger number of EIDs associated with an AID, but not as critical if there are only 1-3 EIDs.
+- Examples of situations where you might want to cite specific EIDs in an AID include:
+
+  - If certain EIDs support specific aspects of the assertion (particularly when describing support for specific standard evidence codes)
+  - To draw extra attention to EIDs that are considered particularly critical or high quality.
+  - When describing specific nuances, contexts, controversies that might influence interpretation of the EID.
+  - When there is a heterogeneous mix of evidence supporting an overall assertion.  For example, there are 10 EIDs.  Some correspond to functional data, to case reports, and clinical trials.  Maybe cite 1-2 key EIDs for each of these evidence types. 
+  - When evaluating evidence in the context of a guidelines (such as oncogenicity SOP or Fusion oncogencity SOP), it is often the case that evidence is found to support 4-5+ distinct evidence lines. If these are drawn from 15-20 evidence items it can be a lot of work for the reviewer to figure out which EIDs support which codes.
+
+- From a stylistic perspective, we anticipate that a short assertion will typically refer strategically to at least 1-2 EIDs.  A longer assertion might have more.
 
