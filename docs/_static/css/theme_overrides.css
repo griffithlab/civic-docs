@@ -31,3 +31,10 @@ table.docutils td {
 table.docutils td p {
   line-height: 1.2em !important;
 }
+ul.simple {
+    padding: 40px !important;
+    list-style: disc !important;
+}
+ul.simple li {
+    list-style: disc !important;
+}
