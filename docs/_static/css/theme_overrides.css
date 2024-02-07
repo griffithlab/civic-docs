@@ -32,9 +32,23 @@ table.docutils td p {
   line-height: 1.2em !important;
 }
 ul.simple {
-    padding: 40px !important;
+    padding-left: 20px !important;
     list-style: disc !important;
 }
 ul.simple li {
     list-style: disc !important;
+}
+ul.simple li ul {
+    padding-left: 30px !important;
+    list-style: square !important;
+}
+ul.simple li ul li {
+    list-style: square !important;
+}
+ul.simple li ul li ul{
+    padding-left: 40px !important;
+    list-style: circle !important;
+}
+ul.simple li ul li ul li{
+    list-style: circle !important;
 }
