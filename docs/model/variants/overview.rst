@@ -15,7 +15,7 @@ with some evidence of clinical relevance (predictive, prognostic, diagnostic, et
 ..
    Filename: BGA-113_variant-model_v1  Artboard: model
 
-.. thumbnail:: /images/figures/variants_overview_fig1.png
+.. thumbnail:: /images/resources/figures/BGA-113_variant-model/model.png
    :alt: Figure depicting the data model of a CIViC Variant
    :title: Figure 1: Variant Model - Attributes and Associations
    :show_caption: True
