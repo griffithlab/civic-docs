@@ -1,22 +1,22 @@
 Meetings & Events
 =================
-The CIViC team regularly holds curation jamborees and development hackathons. At curation jamborees, we work with attendees on actual CIViC curation tasks, both educating users and improving the knowledgebase with group curation. During development hackathons, we help developers to integrate their applications and knowledgebases with CIViC via the API, or help developers work on the CIViC codebase by implementing features or fixing bugs.
+The CIViC team regularly holds curation jamborees, development hackathons, unconferences and other community-driven events. At curation jamborees, we work with attendees on actual CIViC curation tasks, both educating users and improving the knowledgebase with group curation. During development hackathons, we help developers to integrate their applications and knowledgebases with CIViC via the API, or help developers work on the CIViC codebase by implementing features or fixing bugs.
 
 Upcoming Meetings & Events
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. rubric:: 2023 VICC/CIViC/ClinGen Somatic Hackathon and Curation Jamboree for Cancer Variant Interpretation
+.. rubric:: 2024 VICC/CIViC/ClinGen Cancer Variant Curation and Coding Unconference
 
 
-:Dates: Saturday Aug 12th, 2023 (8:00AM to 5:00PM local time)
-:Location: `Hyatt Regency St. Louis at the Arch (Parkview Room, 4th flr) <https://www.hyatt.com/en-US/hotel/missouri/hyatt-regency-st-louis-at-the-arch/stlrs>`_
-:Sign Up: Via `CGC Registration page <https://www.cancergenomics.org/meetings/registration.php>`_
+:Dates: Saturday Aug 3rd, 2024 (8:00AM to 5:00PM local time)
+:Location: TBD
+:Sign Up: TBD
 :Topics: Propose topics on `GitHub <https://github.com/genome/civic-meeting/issues>`_
-:Agenda: `Hackathon Program (PDF) <https://www.cancergenomics.org/docs/cgc-hackathon-handout_2023.pdf>`_ 
+:Agenda: TBD 
 
 .. rubric:: Description
 
-The Jamboree/Hackathon will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. The hackathon and curation jamboree will be held as a pre-meeting of the 2023 Cancer Genomics Consortium (CGC) Annual Conference and co-hosted by the `Variant Interpretation for Cancer Consortium (VICC) <https://cancervariants.org/>`_, `CIViC <https://civicdb.org/>`_ and `ClinGen Somatic <https://www.clinicalgenome.org/working-groups/clinical-domain/somatic-cancer-cdwg/>`_.
+This Unconference will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. the unconference format is a participant-driven meeting, with emphasis on collaborative discussion and hands-on activities, with minimal lecture-style presentations or top-down structure. It will be held as a pre-meeting of the 2024 Cancer Genomics Consortium (CGC) Annual Conference and co-hosted by the `Variant Interpretation for Cancer Consortium (VICC) <https://cancervariants.org/>`_, `CIViC <https://civicdb.org/>`_ and `ClinGen Somatic <https://www.clinicalgenome.org/working-groups/clinical-domain/somatic-cancer-cdwg/>`_.
 
 .. rubric:: Meeting Goals
 
@@ -29,6 +29,27 @@ The Jamboree/Hackathon will focus on promoting the standardization and dissemina
 
 Past Meetings & Events
 ~~~~~~~~~~~~~~~~~~~~~~
+
+.. rubric:: 2023 VICC/CIViC/ClinGen Somatic Hackathon and Curation Jamboree for Cancer Variant Interpretation
+
+
+:Dates: Saturday Aug 12th, 2023 (8:00AM to 5:00PM local time)
+:Location: `Hyatt Regency St. Louis at the Arch (Parkview Room, 4th flr) <https://www.hyatt.com/en-US/hotel/missouri/hyatt-regency-st-louis-at-the-arch/stlrs>`_
+:Sign Up: Via `CGC Registration page <https://www.cancergenomics.org/meetings/registration.php>`_
+:Topics: Propose topics on `GitHub <https://github.com/genome/civic-meeting/issues>`_
+:Agenda: `Hackathon Program (PDF) <https://www.cancergenomics.org/docs/cgc-hackathon-handout_2023.pdf>`_ 
+
+.. rubric:: Description
+
+The Jamboree/Hackathon focused on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. The hackathon and curation jamboree was held as a pre-meeting of the 2023 Cancer Genomics Consortium (CGC) Annual Conference and co-hosted by the `Variant Interpretation for Cancer Consortium (VICC) <https://cancervariants.org/>`_, `CIViC <https://civicdb.org/>`_ and `ClinGen Somatic <https://www.clinicalgenome.org/working-groups/clinical-domain/somatic-cancer-cdwg/>`_.
+
+.. rubric:: Meeting Goals
+
+- The focus of this meeting was to continue to develop community consensus on data standards for interpretation of variants in cancer, engage software developers for improved variant interpretation software, engage clinical experts for curation of content and enhance integration and interoperability of resources. Additional related topics were proposed by meeting participants.
+
+- To view proposed topics or suggest an idea, visit the `GitHub page <https://github.com/genome/civic-meeting/issues>`_.
+
+----
 
 .. rubric:: 2022 CIViC Hackathon and Curation Jamboree
 
