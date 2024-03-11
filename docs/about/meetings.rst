@@ -9,14 +9,14 @@ Upcoming Meetings & Events
 
 
 :Dates: Saturday Aug 3rd, 2024 (8:00AM to 5:00PM local time)
-:Location: TBD
-:Sign Up: TBD
-:Topics: Propose topics on `GitHub <https://github.com/genome/civic-meeting/issues>`_
+:Location: `Hyatt Regency St. Louis at the Arch (Parkview Room, 4th flr) <https://www.hyatt.com/en-US/hotel/missouri/hyatt-regency-st-louis-at-the-arch/stlrs>`_
+:Sign Up: Via `CGC Registration page <https://www.cancergenomics.org/meetings/registration.php>`_
+:Topics: Propose topics on `GitHub <https://github.com/genome/civic-meeting/issues>`_ or with `this form <https://forms.gle/RQXDzhQxtG1Krdpd6>`_
 :Agenda: TBD 
 
 .. rubric:: Description
 
-This Unconference will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. the unconference format is a participant-driven meeting, with emphasis on collaborative discussion and hands-on activities, with minimal lecture-style presentations or top-down structure. It will be held as a pre-meeting of the 2024 Cancer Genomics Consortium (CGC) Annual Conference and co-hosted by the `Variant Interpretation for Cancer Consortium (VICC) <https://cancervariants.org/>`_, `CIViC <https://civicdb.org/>`_ and `ClinGen Somatic <https://www.clinicalgenome.org/working-groups/clinical-domain/somatic-cancer-cdwg/>`_.
+This Unconference will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. The unconference format is a participant-driven meeting, with emphasis on collaborative discussion and hands-on activities, with minimal lecture-style presentations or top-down structure. It will be held as a pre-meeting of the 2024 Cancer Genomics Consortium (CGC) Annual Conference and co-hosted by the `Variant Interpretation for Cancer Consortium (VICC) <https://cancervariants.org/>`_, `CIViC <https://civicdb.org/>`_ and `ClinGen Somatic <https://www.clinicalgenome.org/working-groups/clinical-domain/somatic-cancer-cdwg/>`_.
 
 .. rubric:: Meeting Goals
 
