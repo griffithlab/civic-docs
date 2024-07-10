@@ -8,7 +8,7 @@ Upcoming Meetings & Events
 .. rubric:: 2024 VICC/CIViC/ClinGen Cancer Variant Curation and Coding Unconference
 
 
-:Dates: Saturday Aug 3rd, 2024 (8:00AM to 5:00PM local time)
+:Dates: Saturday Aug 3rd, 2024 (9:00AM to 5:00PM local time)
 :Location: `Hyatt Regency St. Louis at the Arch (Parkview Room, 4th flr) <https://www.hyatt.com/en-US/hotel/missouri/hyatt-regency-st-louis-at-the-arch/stlrs>`_
 :Sign Up: Via `CGC Registration page <https://www.cancergenomics.org/meetings/registration.php>`_
 :Topics: Propose topics on `GitHub <https://github.com/genome/civic-meeting/issues>`_ or with `this form <https://forms.gle/RQXDzhQxtG1Krdpd6>`_
