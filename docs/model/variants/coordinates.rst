@@ -59,7 +59,7 @@ Names are always written in a 5’ to 3’ order (e.g. 5’ BCR-ABL 3’);
 
 The Variant is placed under the most ‘important’ gene - e.g. kinase domain - (not repeated under both) which is often the 3’ gene;
 
-Coordinates represent the entire putative fusion transcript including start to end of 5’ transcript fusion partner (primary coordinates) and start to end of 3’ transcript fusion partner (secondary coordinates).
+Coordinates represent the entire putative fusion transcript including start to end of fused/involved exons of 5’ transcript partner (primary coordinates) and start to end of fused/involved exons of 3’ transcript partner (secondary coordinates).
 
 Curation Practice for representative transcripts
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
