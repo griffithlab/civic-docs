@@ -60,22 +60,42 @@ CIViC supports the following entity and id types for generating shortened links:
 
    * - Entity Type
      - Description
+   * - feature
+     - CIViC Feature ID
    * - gene
-     - CIViC Gene ID
+     - CIViC Gene Feature ID
    * - entrez_id
      - Entrez Gene ID
    * - entrez_name
      - Entrez Name (typically HGNC Symbol)
+   * - factor
+     - CIViC Factor Feature ID
+   * - fusion
+     - CIViC Fusion Feature ID
    * - variant
      - CIViC Variant ID
    * - allele_registry
      - Variant Allele Registry ID
-   * - evidence
-     - CIViC Evidence ID
    * - variant_group
      - CIViC Variant Group ID
+   * - evidence
+     - CIViC Evidence ID
    * - assertion
      - CIViC Assertion ID
+   * - disease
+     - CIViC Disease ID
+   * - doid
+     - Disease Ontology ID
+   * - drug
+     - CIViC Therapy ID
+   * - therapies
+     - CIViC Therapy ID
+   * - ncit_id
+     - NCIthesaurus ID
+   * - phenotype
+     - CIViC Phenotype ID
+   * - hpo_id
+     - Human Phenotype Ontology ID
    * - revision
      - CIViC Revision ID
 
