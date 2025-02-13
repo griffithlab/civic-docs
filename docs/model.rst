@@ -9,6 +9,7 @@ This section describes the details of the knowledge model that CIViC uses to org
 
    model/evidence
    model/assertions
+   model/features
    model/molecular_profiles
    model/variants
    model/genes
