@@ -42,6 +42,9 @@ Population frequencies should be based on current population databases (e.g., gn
    * - Combined
      - |attribute-combined|
      - Variants in the corresponding Complex Molecular Profile have heterogeneous origins.
+   * - Mixed
+     - |attribute-mixed|
+     - The population of patient variants described in the Evidence is a mixture of Somatic and Germline.
    * - Unknown
      - |attribute-unknown|
      - The variant origin is uncertain based on the available evidence.
