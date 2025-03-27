@@ -20,7 +20,7 @@ Assertions share several fields with evidence, which for the most part can be un
      - :ref:`Molecular Profile Field <evidence-molecular-profile>`
      - 
    * - Origin
-     - :ref:`Gene Field <evidence-gene>`
+     - :ref:`Origin Field <evidence-origin>`
      -
    * - Disease
      - :ref:`Disease Field <evidence-disease>`

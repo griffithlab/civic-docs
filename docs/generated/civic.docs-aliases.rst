@@ -83,6 +83,10 @@
    :class: 'cvc-icon'
 
 
+.. |attribute-mixed| image:: /images/icons/attribute/mixed-outline.svg
+   :class: 'cvc-icon'
+
+
 .. |attribute-na| image:: /images/icons/attribute/na-outline.svg
    :class: 'cvc-icon'
 
