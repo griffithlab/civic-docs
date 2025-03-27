@@ -14,8 +14,8 @@ Adding New Features
 ~~~~~~~~~~~~~~~~~~~
 
 .. thumbnail:: /images/figures/Cur_Feat2.png
-   :alt: Screenshot of an Evidence Item
-   :title: Figure 1: Screenshot of an Evidence Item
+   :alt: Screenshot of an Adding an Evidence Item
+   :title: Figure 2: Add Evidence Item Functionality
    :show_caption: True
 
 |
@@ -26,15 +26,15 @@ Features are added to CIViC primarily by the Add Evidence functionality. This fu
 
 
 .. thumbnail:: /images/figures/Cur_Feat3.png
-   :alt: Screenshot of an Evidence Item
-   :title: Figure 1: Screenshot of an Evidence Item
+   :alt: Screenshot of Choosing Feature Type for an Evidence Item
+   :title: Figure 3: Choosing Feature Type
    :show_caption: True
 
 |
 
 .. thumbnail:: /images/figures/Cur_Feat4.png
-   :alt: Screenshot of an Evidence Item
-   :title: Figure 1: Screenshot of an Evidence Item
+   :alt: Screenshot of an creating a new Feature
+   :title: Figure 4: Creating New Features
    :show_caption: True
 
 |
@@ -49,16 +49,16 @@ Like other CIViC entities, curators can click the Revise button in the upper rig
 
 
 .. thumbnail:: /images/figures/Cur_Feat5.png
-   :alt: Overview of CIViC content creation process
-   :title: Figure 2: Overview of CIViC content creation process
+   :alt: Screenshot of Feature page revise button
+   :title: Figure 5: Revising a Feature
    :show_caption: True
 
 |
 
 
 .. thumbnail:: /images/figures/Cur_Feat6.png
-   :alt: Overview of CIViC content creation process
-   :title: Figure 2: Overview of CIViC content creation process
+   :alt: Screenshot of Feature Curateable Fields
+   :title: Figure 6: Feature Curateable Fields
    :show_caption: True
 
 |
