@@ -7,7 +7,7 @@ Feature-Variant pairs are a basic unit in CIViC, which consist of a Feature and 
 
 .. thumbnail:: /images/figures/Feat_dataM4.png
    :alt: Feature Variant Pairs in CIViC
-   :title: Figure 1: Feature Variant Pairs in CIViC
+   :title: Figure 4: Feature Variant Pairs in CIViC
    :show_caption: True
 
 |
