@@ -47,6 +47,7 @@ For examples and ideas on how to get started, visit our :doc:`Curation Ideas <cu
    :caption: Contents:
 
    curating/general
+   curating/features
    curating/variants
    curating/genes
    curating/molecular_profiles
