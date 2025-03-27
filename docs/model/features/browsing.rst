@@ -4,8 +4,8 @@ Browsing Features
 When browsing the different Features that have been curated in CIViC, users select the type of Feature they wish to browse first. 
 
 .. thumbnail:: /images/figures/Feat_dataM5.png
-   :alt: Screenshot of an A-level (validated) evidence item summary
-   :title: Figure 1: Screenshot of an A-level (validated) evidence item summary
+   :alt: Feature Types in CIViC
+   :title: Figure 5: Feature Types in CIViC
    :show_caption: True
 
 |
@@ -15,8 +15,8 @@ When browsing the different Features that have been curated in CIViC, users sele
 In order to browse the selection of Features that have been curated in CIViC, a user can simply use the left menu selection in the user interface, and click on the Features button as outlined in red in the figure below. After that, the Feature Browse table is shown. This table shows Genes by default. Other Features may be selected to view by utilizing the Feature Type pulldown menu with the green outline around it in the figure. 
 
 .. thumbnail:: /images/figures/Feat_dataM6.png
-   :alt: Screenshot of an A-level (validated) evidence item summary
-   :title: Figure 1: Screenshot of an A-level (validated) evidence item summary
+   :alt: Browsing Features in CIViC
+   :title: Figure 6: Browsing Features in CIViC
    :show_caption: True
 
 |
@@ -27,8 +27,8 @@ In order to browse the selection of Features that have been curated in CIViC, a 
 If Factor is selected under Feature Type, then the Factors for which curation has been done in CIViC are shown:
 
 .. thumbnail:: /images/figures/Feat_dataM7.png
-   :alt: Screenshot of an A-level (validated) evidence item summary
-   :title: Figure 1: Screenshot of an A-level (validated) evidence item summary
+   :alt: Browsing Features of the Factor Type
+   :title: Figure 7: Browsing Features of the Factor Type
    :show_caption: True
 
 |
@@ -42,8 +42,8 @@ Users should also keep in mind that Molecular Profiles, Features, and Variants a
 
 
 .. thumbnail:: /images/figures/Feat_dataM8.png
-   :alt: Screenshot of an A-level (validated) evidence item summary
-   :title: Figure 1: Screenshot of an A-level (validated) evidence item summary
+   :alt: Navigating the Features on an Evidence Item
+   :title: Figure 8: Navigating the Features on an Evidence Item
    :show_caption: True
 
 |
