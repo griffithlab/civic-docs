@@ -13,7 +13,7 @@ Feature-Variant pairs are a basic unit in CIViC, which consist of a Feature and 
 ..
   Filename: BGA-113_variant-group_model  Artboard: model
 
-.. thumbnail:: ../images/figures/Feat_dataM4.png
+.. thumbnail:: /images/figures/Feat_dataM4.png
    :alt: Feature Variant Pairs in CIViC
    :title: Figure 1: Examples of Feature-Variant pairs in CIViC. Features may be Genes, Factors, or Fusions, and each Variant is specifically asociated to a single Feature, making up the Feature-Variant pair.
    :show_caption: True
