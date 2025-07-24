@@ -5,6 +5,31 @@ The CIViC team regularly holds curation jamborees, development hackathons, uncon
 Upcoming Meetings & Events
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. rubric:: 2025 Variant Interpretation Unconference
+
+
+:Dates: Saturday, August 2, 2025 (9:00AM to 5:00PM local time)
+:Location: `Royal Sonesta Houston Galleria, Founders I-III, 1st Floor <https://www.sonesta.com/royal-sonesta/tx/houston/royal-sonesta-houston-galleria>`_
+:Sign Up: Via `CGC Registration page <https://www.cancergenomics.org/meetings/registration.php>`_
+:Topics: Propose topics on `GitHub <https://github.com/genome/civic-meeting/issues>`_
+:Agenda: TBD 
+
+.. rubric:: Description
+
+This Unconference will focus on promoting the standardization and dissemination of knowledge of the clinical significance of cancer variants. The unconference format is a participant-driven meeting, with emphasis on collaborative discussion and hands-on activities, with minimal lecture-style presentations or top-down structure. It will be held as a pre-meeting of the 2025 Cancer Genomics Consortium (CGC) Annual Conference and co-hosted by the `Variant Interpretation for Cancer Consortium (VICC) <https://cancervariants.org/>`_, `CIViC <https://civicdb.org/>`_ and `ClinGen Somatic <https://www.clinicalgenome.org/working-groups/clinical-domain/somatic-cancer-cdwg/>`_.
+
+.. rubric:: Meeting Goals
+
+- The focus of this meeting will be to continue to develop community consensus on data standards for interpretation of variants in cancer, engage software developers for improved variant interpretation software, engage clinical experts for curation of content and enhance integration and interoperability of resources. Additional related topics will be proposed by meeting participants.
+
+- To view proposed topics or suggest an idea, visit the `GitHub page <https://github.com/genome/civic-meeting/issues>`_.
+
+----
+
+
+Past Meetings & Events
+~~~~~~~~~~~~~~~~~~~~~~
+
 .. rubric:: 2024 VICC/CIViC/ClinGen Cancer Variant Curation and Coding Unconference
 
 
@@ -25,10 +50,6 @@ This Unconference will focus on promoting the standardization and dissemination 
 - To view proposed topics or suggest an idea, visit the `GitHub page <https://github.com/genome/civic-meeting/issues>`_.
 
 ----
-
-
-Past Meetings & Events
-~~~~~~~~~~~~~~~~~~~~~~
 
 .. rubric:: 2023 VICC/CIViC/ClinGen Somatic Hackathon and Curation Jamboree for Cancer Variant Interpretation
 
