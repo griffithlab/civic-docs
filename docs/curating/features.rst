@@ -50,16 +50,16 @@ Features are added to CIViC primarily by the Add Evidence functionality. This fu
 .. thumbnail:: /images/figures/Cur_Feat3.png
    :alt: Adding new Features to CIViC
    :title: Figure 3: When curating Evidence Items in CIViC, a curator chooses a Feature type (in this case they have chosen a Factor), and then they choose a specific Variant associated to that Feature. The interface allows for the creation of new Feature instances, and new Variants associated to the chosen Feature. 
-
+   :show_caption: True
 
 |
+
 
 
 .. rubric:: Creation of New Features in CIViC
 
 ..
   Filename: BGA-113_variant-group_model  Artboard: model
-
 
 .. thumbnail:: /images/figures/Cur_Feat4.png
    :alt: Screenshot of an creating a new Feature
@@ -87,18 +87,16 @@ Like other CIViC entities, curators can click the Revise button in the upper rig
 .. thumbnail:: /images/figures/Cur_Feat5.png
    :alt: Revision of a Feature
    :title: Figure 5: Functionality to revise Features is accessed using the Revise button at the upper right corner of the interface on the Feature page (In this example the Feature is the Factor MSI)
-
-
+   :show_caption: True
 
 |
+
+
 
 .. rubric:: Page for Feature Revision in CIViC
 
 ..
   Filename: BGA-113_variant-group_model  Artboard: model
-
-
-
 
 .. thumbnail:: /images/figures/Cur_Feat6.png
    :alt: Screenshot of Feature Curateable Fields
