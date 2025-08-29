@@ -42,7 +42,7 @@ Features are added to CIViC primarily by the Add Evidence functionality. This fu
 
 
 
-.. rubric:: Creation of New Features in CIViC
+.. rubric:: Making New Features When Adding Evidence Items
 
 ..
   Filename: BGA-113_variant-group_model  Artboard: model
@@ -53,6 +53,12 @@ Features are added to CIViC primarily by the Add Evidence functionality. This fu
 
 
 |
+
+
+.. rubric:: Creation of New Features in CIViC
+
+..
+  Filename: BGA-113_variant-group_model  Artboard: model
 
 
 .. thumbnail:: /images/figures/Cur_Feat4.png
@@ -86,6 +92,10 @@ Like other CIViC entities, curators can click the Revise button in the upper rig
 
 |
 
+.. rubric:: Page for Feature Revision in CIViC
+
+..
+  Filename: BGA-113_variant-group_model  Artboard: model
 
 
 
