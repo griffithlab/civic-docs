@@ -23,7 +23,7 @@ Molecular Profiles are named with the Feature first, and then the specific Varia
 
 |
 
-.. thumbnail:: /images/figures/curating_MPx.png
+.. thumbnail:: /images/curating_MPx.png
    :alt: Figure depicting the difference Feature-Variant pairs in simple and complex Molecular Profiles
    :title: Figure 3: Molecular Profiles are a collection of one or more Feature-Variant Pairs to which clinical Evidence Items are associated
    :show_caption: True
