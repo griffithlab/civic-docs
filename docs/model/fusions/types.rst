@@ -1,0 +1,23 @@
+Fusion Variants
+===============
+
+There are two general classes of Fusion variant. The first class is the “Fusion” class. Examples of Feature-Variant pairs with this Variant type are EML4::ALK Fusion, or v::ALK Fusion. In these examples the Fusion Features are EML4::ALK, or v::ALK, and the Variant in each case is Fusion. This Variant type is meant to serve as a Categorical or Bucket Variant, capturing any Fusion of the EML4::ALK type, or any Fusion of the v::ALK type, where v stands for any of the multiple, known ALK Fusion partners that occur in the 5’ position. 
+
+For an unknown gene component, the symbol “?” is used for the unknown gene component (see VICC documentation: https://fusions.cancervariants.org/en/latest/nomenclature.html#unknown-gene-component)
+For a variable gene component, the symbol “v” is used for the variable gene component (see VICC documentation: https://fusions.cancervariants.org/en/latest/nomenclature.html#multiple-possible-gene-component)
+
+“Fusion” class variants are displayed with the fixed Variant name Fusion. This Variant automatically gets created when a new Fusion Feature is added. Some examples of this are shown below:
+
+.. rubric:: Two Fusion Variant Types in CIViC
+
+..
+  Filename: BGA-113_variant-group_model  Artboard: model
+
+.. thumbnail:: /images/fusin_1.png
+   :alt: Fusion Types in CIViC
+   :title: Figure 1: Two Fusion Variant types are present in CIViC. One type is the Fusion bucket or categorical Variant type, which captures any Fusion of the specific two Genes, regardless of exon combination. The second Fusion Variant type captures specific exon information. 
+   :show_caption: True
+
+|
+
+The second class of Fusion variant is the exon specific, and appears in the interface as eX::eY. This class of Fusion-Variant pairs is designed to capture the specific exons that are fused together between Gene1 (5’ Gene) and Gene2 (3’ Gene), so the overall form of the Feature-Variant pair in this case is Gene1::Gene2 eX::eY, where X and Y are integers representing the fused exons from 5’ Gene and 3’ Gene, respectively.  
