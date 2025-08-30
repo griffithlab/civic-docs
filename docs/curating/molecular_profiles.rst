@@ -23,11 +23,19 @@ Molecular Profiles are named with the Feature first, and then the specific Varia
 
 |
 
+.. thumbnail:: /images/figures/curating_MPx.png
+   :alt: Figure depicting the difference Feature-Variant pairs in simple and complex Molecular Profiles
+   :title: Figure 3: Molecular Profiles are a collection of one or more Feature-Variant Pairs to which clinical Evidence Items are associated
+   :show_caption: True
+
+|
+
+
 An important thing for curators to note is the difference in the CIViC workflow and UI between variants and MPs. When going to a gene page such as EGFR, the MPs associated with the gene are shown by default (Figure 3). There is also a tab called Variants on this page that will allow the user or curator to view the collection of individual variants associated with the gene.
 
 .. thumbnail:: /images/figures/curating_molecular_profiles_fig3.png
    :alt: Figure depicting how CIViC Molecular Profiles are associated to a gene and are displayed on the gene page in the user interface
-   :title: Figure 3: Molecular Profiles associated to a gene are displayed on the gene page in the user interface
+   :title: Figure 4: Molecular Profiles associated to a gene are displayed on the gene page in the user interface
    :show_caption: True
 
 |
@@ -36,7 +44,7 @@ In the old CIViC workflow model (Figure 1), a user might search for a Gene of in
 
 .. thumbnail:: /images/figures/curating_molecular_profiles_fig4.png
    :alt: Figure depicting the CIViC browse view for Molecular Profiles
-   :title: Figure 4: Browse Molecular Profile functionality
+   :title: Figure 5: Browse Molecular Profile functionality
    :show_caption: True
 
 |
@@ -51,7 +59,7 @@ All Evidence Items (EIDs) in CIViC are associated with either a simple or comple
 
 .. thumbnail:: /images/figures/curating_molecular_profiles_fig5.png
    :alt: Figure depicting how a CIViC user can choose to add a simple or complex Molecular Profile
-   :title: Figure 5: Choosing to add an Evidence Item for a simple or complex Molecular Profile
+   :title: Figure 6: Choosing to add an Evidence Item for a simple or complex Molecular Profile
    :show_caption: True
 
 |
@@ -60,21 +68,21 @@ Adding a simple MP in the Add Evidence Form requires the curator to first specif
 
 .. thumbnail:: /images/figures/curating_molecular_profiles_fig6a.png
    :alt: Figure depicting the selection of a Gene for a Molecular Profile
-   :title: Figure 6a: Workflow for creation of new complex Molecular Profiles in the Add Evidence Form - Selecting a Gene
+   :title: Figure 7a: Workflow for creation of new complex Molecular Profiles in the Add Evidence Form - Selecting a Gene
    :show_caption: True
 
 |
 
 .. thumbnail:: /images/figures/curating_molecular_profiles_fig6b.png
    :alt: Figure depicting the selection of a Variant and boolean operator for a Molecular Profile
-   :title: Figure 6b: Workflow for creation of new complex Molecular Profiles in the Add Evidence Form - Selecting a Variant and boolean operator
+   :title: Figure 7b: Workflow for creation of new complex Molecular Profiles in the Add Evidence Form - Selecting a Variant and boolean operator
    :show_caption: True
 
 |
 
 .. thumbnail:: /images/figures/curating_molecular_profiles_fig6c.png
    :alt: Figure depicting the selection of additional variant(s) to create a complex Molecular Profile
-   :title: Figure 6c: Workflow for creation of new complex Molecular Profiles in the Add Evidence Form - Selection additional variant(s)
+   :title: Figure 7c: Workflow for creation of new complex Molecular Profiles in the Add Evidence Form - Selection additional variant(s)
    :show_caption: True
 
 |
