@@ -13,3 +13,4 @@ The sections below will give the user and understanding of the Fusions data mode
    :caption: Contents:
 
    fusions/types
+   fusions/FeaturePage
