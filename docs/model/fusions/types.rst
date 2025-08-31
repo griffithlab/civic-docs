@@ -1,7 +1,7 @@
 Fusion Variants
 ===============
 
-There are two general classes of Fusion variant. The first class is the “Fusion” class. Examples of Feature-Variant pairs with this Variant type are EML4::ALK Fusion, or v::ALK Fusion. In these examples the Fusion Features are EML4::ALK, or v::ALK, and the Variant in each case is Fusion. This Variant type is meant to serve as a Categorical or Bucket Variant, capturing any Fusion of the EML4::ALK type, or any Fusion of the v::ALK type, where v stands for any of the multiple, known ALK Fusion partners that occur in the 5’ position. 
+There are two general classes of Fusion variant. The first class is the “Fusion” class. Examples of Feature-Variant pairs with this Variant type are EML4::ALK Fusion, or v::ALK Fusion. In these examples the Fusion Features are EML4::ALK, or v::ALK, and the Variant in each case is Fusion. This Variant type is meant to serve as a Categorical or Bucket Variant, capturing any Fusion of the EML4::ALK type, or any Fusion of the v::ALK type, where v stands for any of the multiple, known ALK Fusion partners that occur in the 5’ position. Fusion Variants of this type are often found in practic using assays such as break apart FISH, that can demonstrate the presence of the fusion, but not nessecarily the fusion partner or the exon breakpoints. 
 
 - For an unknown gene component, the symbol “?” is used for the unknown gene component (see VICC documentation: https://fusions.cancervariants.org/en/latest/nomenclature.html#unknown-gene-component)
 - For a variable gene component, the symbol “v” is used for the variable gene component (see VICC documentation: https://fusions.cancervariants.org/en/latest/nomenclature.html#multiple-possible-gene-component)
