@@ -3,8 +3,8 @@ Fusion Variants
 
 There are two general classes of Fusion variant. The first class is the “Fusion” class. Examples of Feature-Variant pairs with this Variant type are EML4::ALK Fusion, or v::ALK Fusion. In these examples the Fusion Features are EML4::ALK, or v::ALK, and the Variant in each case is Fusion. This Variant type is meant to serve as a Categorical or Bucket Variant, capturing any Fusion of the EML4::ALK type, or any Fusion of the v::ALK type, where v stands for any of the multiple, known ALK Fusion partners that occur in the 5’ position. 
 
-For an unknown gene component, the symbol “?” is used for the unknown gene component (see VICC documentation: https://fusions.cancervariants.org/en/latest/nomenclature.html#unknown-gene-component)
-For a variable gene component, the symbol “v” is used for the variable gene component (see VICC documentation: https://fusions.cancervariants.org/en/latest/nomenclature.html#multiple-possible-gene-component)
+- For an unknown gene component, the symbol “?” is used for the unknown gene component (see VICC documentation: https://fusions.cancervariants.org/en/latest/nomenclature.html#unknown-gene-component)
+- For a variable gene component, the symbol “v” is used for the variable gene component (see VICC documentation: https://fusions.cancervariants.org/en/latest/nomenclature.html#multiple-possible-gene-component)
 
 “Fusion” class variants are displayed with the fixed Variant name Fusion. This Variant automatically gets created when a new Fusion Feature is added. Some examples of this are shown below:
 
@@ -20,4 +20,10 @@ For a variable gene component, the symbol “v” is used for the variable gene 
 
 |
 
-The second class of Fusion variant is the exon specific, and appears in the interface as eX::eY. This class of Fusion-Variant pairs is designed to capture the specific exons that are fused together between Gene1 (5’ Gene) and Gene2 (3’ Gene), so the overall form of the Feature-Variant pair in this case is Gene1::Gene2 eX::eY, where X and Y are integers representing the fused exons from 5’ Gene and 3’ Gene, respectively.  
+The second class of Fusion variant is the exon specific, and appears in the interface as eX::eY. This class of Fusion-Variant pairs is designed to capture the specific exons that are fused together between Gene1 (5’ Gene) and Gene2 (3’ Gene), so the overall form of the Feature-Variant pair in this case is Gene1::Gene2 eX::eY, where X and Y are integers representing the fused exons from 5’ Gene and 3’ Gene, respectively. For eX::eY Variants, curators provide the following information when adding a new Variant of this type:
+
+- Ensembl transcript IDs for all Genes in the fusion. Preferably the MANE Select or MANE Select Plus Clinical transcript, when available. Usually two Ensembl transcript IDs are provided, but if one of the genes is variable or unknown (v or ?), then only one transcript ID is provided.
+- Exon numbers for each gene based on the chosen Ensembl transcript, where it is applicable. For a known 5’ Gene partner the stop exon number is provided and for a known 3’ Gene partner the start exon number is provided. 
+- Optional offsets for each exon are also provided if more or less than the known exon sequence is involved in the fusion.
+
+Curation specifics are provided in the curation section. Fusion-Variant pairs are displayed as follows in the CIViC interface:
