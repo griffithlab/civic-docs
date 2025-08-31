@@ -7,7 +7,7 @@ number alterations (CNVs; such as amplifications or deletions), structural
 variants (SVs; such as translocations or inversions), and other events
 that differ from the "normal" genome. In some cases a CIViC variant may
 represent events of the transcriptome or proteome. For example,
-'expression' or 'over-expression' is a valid variant. New curators should
+'expression' or 'over-expression' is a valid variant. Variants are associated to all of the Feature types in CIViC, namely Genes, Fusions, and Factors. New curators should
 generally avoid proposing new variants that are unlike any already in
 CIViC. All CIViC Variants are associated with one or more Molecular Profiles
 with some evidence of clinical relevance (predictive, prognostic, diagnostic, etc).  
