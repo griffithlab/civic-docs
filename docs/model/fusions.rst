@@ -14,3 +14,6 @@ The sections below will give the user and understanding of the Fusions data mode
 
    fusions/types
    fusions/FeaturePage
+   fusions/FusVar
+   fusions/FusCor
+
