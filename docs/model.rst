@@ -14,5 +14,6 @@ This section describes the details of the knowledge model that CIViC uses to org
    model/variants
    model/genes
    model/fusions
+   model/factors
    model/variant_groups
    model/sources
