@@ -89,7 +89,7 @@ An overall model of how coordinates for Fusions in CIViC are interpreted is show
 
 
 
-Representative exon coordinates may also be specified for the generalized Fusion bucket Variant type. In this case, the chosen exons represent the most common or most clinically impactful combination seen in patients. Note also that representative exons may be specified for Fusions where one of the parters is Unknown or Multiple, as seen on the Fusion Variant page for the Feature-Variant pair *v::ALK Fusion* below:
+Representative exon coordinates may also be specified for the generalized Fusion bucket Variant type. In this case, the chosen exons represent the most common or most clinically impactful combination seen in patients. Note also that representative exons may be specified for Fusions where one of the parters is Unknown or Multiple, as seen on the Fusion Variant page for the Feature-Variant pair **v::ALK Fusion** below:
 
 
 .. rubric:: Variant Page for the v::ALK Fusion
