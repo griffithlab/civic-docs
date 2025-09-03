@@ -50,6 +50,8 @@ For examples and ideas on how to get started, visit our :doc:`Curation Ideas <cu
    curating/features
    curating/variants
    curating/genes
+   curating/fusions
+   curating/factors
    curating/molecular_profiles
    curating/evidence
    curating/assertions
