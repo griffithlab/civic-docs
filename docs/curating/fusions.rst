@@ -16,7 +16,7 @@ General Fusion Curation Practice
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-The most common way Fusions are added to CIViC is via the Add Evidence form. This is located at the upper right corner of the user interface (UI). Once the form is open, curators choose the Fusion Feature type from a dropdown, and can next either pull up an existing Fusion from the pulldown menu, or crate a new Fusion. After that, a Variant is chosen either from existing Variants for the Fusion, or a new Variant is created for that Fusion. Fusion Variants are of two types, either an exon agnostic general or bucket Fusion variant, or an exon specific variant (eX::eY). 
+The most common way Fusions are added to CIViC is via the Add Evidence form. This is located at the upper right corner of the user interface (UI). Once the form is open, curators choose the Fusion Feature type from a dropdown, and can next either pull up an existing Fusion from the pulldown menu, or crate a new Fusion. After that, a Variant is chosen either from existing Variants for the Fusion, or a new Variant is created for that Fusion. Fusion Variants are of two types, either an exon agnostic general or bucket Fusion variant, or an exon specific variant (eX::eY), where X and Y are the exon numbers. 
 
 
 
