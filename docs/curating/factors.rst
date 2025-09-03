@@ -70,7 +70,7 @@ Factors are revised using the Revise Factor form, accessed using the Revise butt
 
 
 
-Note that for the Factor-Variant pair such as *MSI Low*, there are three main pages available:
+Note that for the Factor-Variant pair such as **MSI Low**, there are three main pages available:
 
 - MSI Feature Page
 - MSI Low simple Molecular Profile Page
@@ -78,5 +78,5 @@ Note that for the Factor-Variant pair such as *MSI Low*, there are three main pa
 
 Each of these pages has curatable and revisable fields, accessible using the Revise button at the upper right of the user interface.
 
-Note also that any complex Molecular Profiles containing MSI Low as one of the Feature-Variant pairs, such as *BRAF V600E AND MSI Low* also have their own Molecular Profile Page, which also can be curated and revised by the same method of clicking the Revise button at the upper right of the user interface.
+Note also that any complex Molecular Profiles containing MSI Low as one of the Feature-Variant pairs, such as **BRAF V600E AND MSI Low** also have their own Molecular Profile Page, which also can be curated and revised by the same method of clicking the Revise button at the upper right of the user interface.
 
