@@ -35,9 +35,9 @@ Navigate the CIViC Help Docs with the navigation menu to the left of each page o
    :caption: Contents:
 
    about
-   using
-   curating
    model
+   curating
+   using
    api
    help
 
