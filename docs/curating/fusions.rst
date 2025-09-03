@@ -33,7 +33,7 @@ The most common way Fusions are added to CIViC is via the Add Evidence form. Thi
 |
 
 
-For creation of new Fusion Features, a Fusion builder option is given to the curator during the Add Evidence process. This Fusion Builder follows a straightforward procedure where the curator chooses HGNC gene names provided by entrez for the Fusion. The curator may choose two genes when both are specified for the Fusion. In some cases, one partner for in a Fusion may be unknown or not specified, and for these cases, a **?** or the letter **v** are used, respectively. This is often the case when break apart FISH assays are used, as in fusions involving ALK, which are represented in CIViC as **v::ALK** Fusion*.
+For creation of new Fusion Features, a Fusion builder option is given to the curator during the Add Evidence process. This Fusion Builder follows a straightforward procedure where the curator chooses HGNC gene names provided by entrez for the Fusion. The curator may choose two genes when both are specified for the Fusion. In some cases, one partner for in a Fusion may be unknown or not specified, and for these cases, a **?** or the letter **v** are used, respectively. This is often the case when break apart FISH assays are used, as in fusions involving ALK, which are represented in CIViC as **v::ALK Fusion**.
 
 
 
