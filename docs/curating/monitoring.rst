@@ -1,5 +1,5 @@
-Monitoring
-==========
+User and Community Pages
+========================
 
 CIViC curation is meant to function as a community effort with multiple curators discussing and editors reviewing all content. For this reason it is valuable as a curator to know when your contributions are being discussed, modified, and reviewed. Curators can monitor their activity in a variety of ways, depending on the updates desired.
 
