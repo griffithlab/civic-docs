@@ -82,7 +82,7 @@ An overall model of how coordinates for Fusions in CIViC are interpreted is show
 
 .. thumbnail:: /images/fusin_7.png
    :alt: Fusion Coordinates
-   :title: Figure 3: Fields in the Fusion Variant coordinate tables are filled out according to the scheme shown. For each partner gene, Start coordinate is always smaller than the Stop coordinate, regardless of strand orientation. Exon coordinates include untranslated regions (UTRs). The coordinate of the last base in the exon or UTR is used, and the Offset is counted from this base in a positive or negative direction. 
+   :title: Figure 4: Fields in the Fusion Variant coordinate tables are filled out according to the scheme shown. For each partner gene, Start coordinate is always smaller than the Stop coordinate, regardless of strand orientation. Exon coordinates include untranslated regions (UTRs). The coordinate of the last base in the exon or UTR is used, and the Offset is counted from this base in a positive or negative direction. 
    :show_caption: True
 
 |
