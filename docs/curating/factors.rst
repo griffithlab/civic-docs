@@ -63,7 +63,7 @@ Factors are revised using the Revise Factor form, accessed using the Revise butt
 
 .. thumbnail:: /images/figures/factCb2.png
    :alt: Revise Factor Form
-   :title: Figure 3: The Revise Factor page is available vie the Revise button at the upper right on the Factor Page. Multiple fields are available for curation and revision in this view.
+   :title: Figure 3: The Revise Factor page is available via the Revise button at the upper right on the Factor Page. Multiple fields are available for curation and revision in this view.
    :show_caption: True
 
 |
