@@ -18,7 +18,7 @@ Just as with Genes and all Feature types in CIViC, each Factor has its own Featu
 |
 
 
-Clicking on one of the Molecular Profiles (MPs), such as MSI High, at the bottom of the Factor page for MSI shown above, will open up the corresponding Molecular Profile page. The Molecular Profile page lists information on the Factor-Variant pair  including a curator-written description, and importantly, this page lists all the Evidence Items (EIDs) and Assertions (AIDs) that have been curated for the MP. 
+Clicking on one of the Molecular Profiles (MPs), such as **MSI High**, at the bottom of the Factor page for MSI shown above, will open up the corresponding Molecular Profile page. The Molecular Profile page lists information on the Factor-Variant pair  including a curator-written description, and importantly, this page lists all the Evidence Items (EIDs) and Assertions (AIDs) that have been curated for the MP. 
 
 
 
