@@ -37,7 +37,7 @@ Clicking on one of the Molecular Profiles (MPs), such as MSI High, at the bottom
 
 
 
-Note that complex MPs containing the Factor-Variant together with other Feature-Variant pairs also each have their own page. Below the complex MP page for *BRAF V600E AND MSI Low* is shown.
+Note that complex MPs containing the Factor-Variant together with other Feature-Variant pairs also each have their own page. Below the complex MP page for **BRAF V600E AND MSI Low** is shown.
 
 
 
