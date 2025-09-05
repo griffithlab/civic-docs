@@ -9,7 +9,7 @@ The Molecular Profile (MP) data model is described in the :doc:`Understanding MP
 
 .. thumbnail:: /images/figures/curating_molecular_profiles_fig1.png
    :alt: Figure depicting the old, single variant workflow model and new Molecular Profile based CIViC workflow model for curation
-   :title: Figure 1: Old, single variant workflow model and new Molecular Profile based CIViC workflow model for curation
+   :title: Figure 1: Old, single variant workflow model had Gene as the top level entity, with Evidence Items (EIDs) associated to Variants. Updated workflow model has Features (Genes, Fusions, and Factors) as the top level entity, with EIDs associated to Molecular Profiles, which consist of one or more Feature-Variant pairs.
    :show_caption: True
 
 |
