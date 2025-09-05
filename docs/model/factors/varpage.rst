@@ -1,7 +1,7 @@
 The Factor Variant Page
 =======================
 
-There is also a page in the CIViC UI specifically for each Variant. The page for the Variant “High”, associated to the Factor-Variant pair TMB High, is shown below. Note that Variants associated with Factors do not have fields for coordinate curation the way that Gene-associated Variants do because they may impact multiple or non-specific genomic loci. Each Variant associated to a Factor can also be optionally linked to an NCIT term, but it is not required the way that an NCIT link is required for each Factor.  
+There is also a page in the CIViC UI specifically for each Variant. The page for the Variant “High”, associated to the Factor-Variant pair (and simple Molecular Profile) **TMB High**, is shown below. Note that Variants associated with Factors do not have fields for coordinate curation the way that Gene-associated Variants do because they may impact multiple or non-specific genomic loci. Each Variant associated to a Factor can also be optionally linked to an NCIT term, but it is not required the way that an NCIT link is required for each Factor.  
 
 
 
