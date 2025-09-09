@@ -10,7 +10,7 @@ The motivation for addition of Features emerges from considering that cancer bio
 - HPV infection in cervical cancer can have prognostic value dependent on HPV subtype
 
 
-The sections below will give the user and understanding of the Feature data model 
+The sections below will give the user an understanding of the Feature data model 
 
 
 
@@ -22,4 +22,5 @@ The sections below will give the user and understanding of the Feature data mode
    features/fvpairs
    features/browsing
  
+
 
