@@ -13,7 +13,7 @@ Factors are a Feature type designed to capture a set of genomic phenomena associ
 General Factor Curation Practice
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As with all Features in CIViC, new Factors are mainly added when a new Evidence Item is curated for the given Factor. During this process, curators can add new or Factors, or chose from existing ones. Evidence is curated for Molecular Profiles (MPs), which consist of one or more Feature-Variant pairs. Therefore Factor-Variant curation is an essential part of the process, and curators can choose from existing Variants for an existing Factor, or make new Variants for the chosen Factor. 
+As with all Features in CIViC, new Factors are mainly added when a new Evidence Item is curated for the given Factor. During this process, curators can add new Factors, or chose from existing ones. Evidence is curated for Molecular Profiles (MPs), which consist of one or more Feature-Variant pairs. Therefore Factor-Variant curation is an essential part of the process, and curators can choose from existing Variants for an existing Factor, or make new Variants for the chosen Factor. 
 
 
 .. rubric:: Curation Process for Factors in CIViC
@@ -74,7 +74,7 @@ Note that for the Factor-Variant pair such as **MSI Low**, there are three main 
 
 - **MSI** Feature Page
 - **MSI Low** simple Molecular Profile Page
-- **Low** Variant Page (where the Variant Low is uniquely associated to the Factor MSI)
+- **Low** Variant Page (where the Variant "Low" is uniquely associated to the Factor MSI)
 
 Each of these pages has curatable and revisable fields, accessible using the Revise button at the upper right of the user interface.
 
