@@ -27,4 +27,4 @@ The second class of Fusion variant is the exon specific, and appears in the inte
 - Note that exon numbering should start with the first exon of the transcript regardless of where the coding sequence starts. In other words, exons that contain only UTR sequence are still counted.
 - Optional offsets for each exon are also provided if more or less than the known exon sequence is involved in the fusion.
 
-Curation specifics are provided in the curation section. Fusion-Variant pairs are displayed as follows in the CIViC interface:
+Curation specifics for Fusions are provided in the curation section. 
