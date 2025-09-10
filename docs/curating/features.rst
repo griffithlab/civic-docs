@@ -74,7 +74,7 @@ Features are added to CIViC primarily by the Add Evidence functionality. This fu
 Revising Features
 ~~~~~~~~~~~~~~~~~
 
-Like other CIViC entities, curators can click the Revise button in the upper right of the Feature’s page to create a revision, as seen in the images below. This will open up a set of fields which can be curated for the Feature. The fields that are available will be dependent on the type of Feature chosen (Gene, Factor, or Fusion). Note also that MPs consist of Feature-Variant pairs, and Variants also have curateable fields which depend on the Variant’s Feature type. Revising Variants is very similar to Revising Features, as each Variant has its own page, with a Revise button accessible on the upper right of the screen.
+As with other CIViC entities, curators can click the Revise button in the upper right of the Feature’s page to create a revision, as seen in the images below. This will open up a form with a set of fields that can be curated for the Feature. The fields that are available depend on the type of Feature chosen (Gene, Factor, or Fusion). Note also that MPs consist of Feature-Variant pairs, and Variants also have curateable fields which depend on the Variant’s Feature type. Revising Variants is very similar to Revising Features, as each Variant has its own page, with a Revise button accessible on the upper right of the screen.
 
 
 
