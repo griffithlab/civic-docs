@@ -9,7 +9,7 @@ Features are a top level entity in CIViC, enabling the classification of Variant
   Filename: BGA-113_variant-group_model  Artboard: model
 
 .. thumbnail:: /images/figures/Features1.png
-   :alt: Overview of Features
+   :alt: Overview of Feature Types in CIViC
    :title: Figure 1: The three Feature types currently available in CIViC are Genes, Fusions, and Factors
    :show_caption: True
 
@@ -62,7 +62,7 @@ Features are added to CIViC primarily by the Add Evidence functionality. This fu
   Filename: BGA-113_variant-group_model  Artboard: model
 
 .. thumbnail:: /images/figures/Cur_Feat4.png
-   :alt: Screenshot of an creating a new Feature
+   :alt: Screenshot of creating a new Feature using Add New Evidence interface
    :title: Figure 4: If the desired Feature does not exist in CIViC, the curator has the option to create it in the Add New Evidence interface. 
    :show_caption: True
 
