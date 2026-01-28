@@ -10,7 +10,7 @@ The sections below will give the user an understanding of the Factor data model
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    factors/featpage.rst
    factors/varpage.rst

@@ -6,7 +6,7 @@ Evidence Items follow a structured knowledge model with required fields: Molecul
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    evidence/overview
    evidence/gene

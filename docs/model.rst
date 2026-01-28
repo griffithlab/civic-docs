@@ -5,7 +5,7 @@ This section describes the details of the knowledge model that CIViC uses to org
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    model/evidence
    model/assertions

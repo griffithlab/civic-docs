@@ -17,7 +17,7 @@ The sections below will give the user an understanding of the Feature data model
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    features/overview
    features/fvpairs

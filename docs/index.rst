@@ -32,7 +32,7 @@ Navigate the CIViC Help Docs with the navigation menu to the left of each page o
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    about
    model

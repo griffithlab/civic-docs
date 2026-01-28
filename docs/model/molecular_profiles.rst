@@ -7,7 +7,7 @@ Molecular Profiles (MPs) consist of a single Variant (simple MP) or a specific c
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    molecular_profiles/overview
    molecular_profiles/name
