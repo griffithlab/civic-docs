@@ -40,7 +40,6 @@ release = u''
 # ones.
 extensions = [
     'sphinx_fontawesome',
-    'sphinxcontrib.programoutput',
     'sphinxcontrib.images',
 ]
 

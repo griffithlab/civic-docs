@@ -14,14 +14,6 @@ After you've forked and cloned the repository, install [Sphinx](https://www.sphi
 pip install sphinx sphinx-autobuild sphinx-fontawesome sphinxcontrib-images sphinx-rtd-theme
 ```
 
-These docs also depend on a custom fork of the `sphinxcontrib-programoutput` extension. It can be installed by running:
-
-```
-pip install git+git://github.com/griffithlab/sphinxcontrib-programoutput.git#egg=sphinxcontrib-programoutput
-```
-
-If you get a timeout you can try changing "git+git..." to "git+https..."
-
 Then start the sphinx-autobuild process:
 
 ```
