@@ -11,6 +11,7 @@
   }
 }
 
+
 /* improvements to theme's odd table defaults */
 table.docutils th {
   padding: 6px 8px !important;
@@ -51,4 +52,9 @@ ul.simple li ul li ul{
 }
 ul.simple li ul li ul li{
     list-style: circle !important;
+}
+
+/* funding table style overrides */
+table.funding-table {
+    width: 100%;
 }
