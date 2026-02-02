@@ -58,3 +58,7 @@ ul.simple li ul li ul li{
 table.funding-table {
     width: 100%;
 }
+table.funding-table tr:not(:first-child) td {
+    border-width: 0 !important;
+    background-color: transparent !important;
+}
