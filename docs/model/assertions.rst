@@ -6,7 +6,7 @@ This section of the documentation details the knowledge model that CIViC uses fo
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    assertions/overview
    assertions/shared_fields

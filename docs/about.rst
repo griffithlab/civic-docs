@@ -21,7 +21,6 @@ We provide CIViC data freely to all under the `Creative Commons Public Domain De
 
 .. tocTree::
    :maxdepth: 1
-   :caption: Contents:
 
    about/participating
    about/meetings
@@ -29,6 +28,7 @@ We provide CIViC data freely to all under the `Creative Commons Public Domain De
    using/videos
    about/scientific-advisory-board
    about/domain-experts
+   about/ai-editorial-policies
    about/partners
    about/data-clients
    about/figures

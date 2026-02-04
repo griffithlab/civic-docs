@@ -8,7 +8,7 @@ are created by the addition of a new Evidence Item for a Molecular Profile that 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    variants/overview
    variants/name

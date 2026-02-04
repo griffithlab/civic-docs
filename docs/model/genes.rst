@@ -49,7 +49,7 @@ Curators can add gene-level summaries and sources associated with the gene-level
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    genes/name
    genes/summary

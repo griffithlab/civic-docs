@@ -87,6 +87,6 @@ a Variant Group.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    variant_groups/summary

@@ -6,7 +6,7 @@ The pages in this section primarily describe how the CIViC user interface works.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    using/videos
    using/browsing

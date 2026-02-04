@@ -10,7 +10,7 @@ The sections below will give the user an understanding of the Fusions data model
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    fusions/types
    fusions/FeaturePage

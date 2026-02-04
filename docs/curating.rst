@@ -44,7 +44,7 @@ For examples and ideas on how to get started, visit our :doc:`Curation Ideas <cu
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
 
    curating/general
    curating/features
