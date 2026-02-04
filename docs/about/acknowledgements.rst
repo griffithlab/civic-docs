@@ -13,47 +13,15 @@ Current
 .. rst-class:: funding-table
 
 +---------------------------------------+---------------------------------------+
-| **Awardee:** William Powderly                                                 |
+| **Awardee:** Obi Griffith; Malachi Griffith; Alex Wagner                      |
 +---------------------------------------+---------------------------------------+
-| **Source:** National Center for Advancing Translational Sciences (NCATS)      |
-+---------------------------------------+---------------------------------------+
-| **Description:**                                                              |
-| Clinical and Translational Science Award (CTSA) for Institute of Clinical and |
-| Translational Sciences (ICTS) with Support for CIViC Curation at Washington   |
-| University                                                                    |
-+---------------------------------------+---------------------------------------+
-| **Award Number:**                     | **Timeframe:**                        |
-| UL1TR002345                           | 2019-2027                             |
-+---------------------------------------+---------------------------------------+
-
-.. rst-class:: funding-table
-
-+---------------------------------------+---------------------------------------+
-| **Awardee:** Malachi Griffith; Obi Griffith (Site PI Alex Wagner)             |
-+---------------------------------------+---------------------------------------+
-| **Source:** National Cancer Institute (NCI)                                   |
+| **Source:** NCI Informatics Technology for Cancer Research (ITCR)             |
 +---------------------------------------+---------------------------------------+
 | **Description:**                                                              |
-| Biomedical Knowledgebase Award for ClinGen Somatic Cancer Knowledgebase       |
-| Expansion                                                                     |
+| Sustained Support Award for CIViC                                             |
 +---------------------------------------+---------------------------------------+
 | **Award Number:**                     | **Timeframe:**                        |
-| U24CA275783                           | 2023-2028                             |
-+---------------------------------------+---------------------------------------+
-
-.. rst-class:: funding-table
-
-+---------------------------------------+---------------------------------------+
-| **Awardee:** Malachi Griffith; Obi Griffith                                   |
-+---------------------------------------+---------------------------------------+
-| **Source:** NIH Office of Data Science Strategy (ODSS)                        |
-+---------------------------------------+---------------------------------------+
-| **Description:**                                                              |
-| Admin Suppl. Award to Develop Text Mining and Large Language Models for       |
-| Evidence-Based Functional Annotation of Clinical Variants                     |
-+---------------------------------------+---------------------------------------+
-| **Award Number:**                     | **Timeframe:**                        |
-| U24CA275783-S1                        | 2024-2028                             |
+| 1U24CA305456                          | 2025-2030                             |
 +---------------------------------------+---------------------------------------+
 
 .. rst-class:: funding-table
@@ -73,15 +41,48 @@ Current
 .. rst-class:: funding-table
 
 +---------------------------------------+---------------------------------------+
-| **Awardee:** Obi Griffith; Malachi Griffith; Alex Wagner                      |
+| **Awardee:** Malachi Griffith; Obi Griffith (Site PI Alex Wagner)             |
 +---------------------------------------+---------------------------------------+
-| **Source:** NCI Informatics Technology for Cancer Research (ITCR)             |
+| **Source:** National Cancer Institute (NCI)                                   |
 +---------------------------------------+---------------------------------------+
 | **Description:**                                                              |
-| Sustained Support Award for CIViC                                             |
+| Biomedical Knowledgebase Award for ClinGen Somatic Cancer Knowledgebase       |
+| Expansion                                                                     |
 +---------------------------------------+---------------------------------------+
 | **Award Number:**                     | **Timeframe:**                        |
-| 1U24CA305456                          | 2025-2030                             |
+| U24CA275783                           | 2023-2028                             |
++---------------------------------------+---------------------------------------+
+
+
+.. rst-class:: funding-table
+
++---------------------------------------+---------------------------------------+
+| **Awardee:** Malachi Griffith; Obi Griffith                                   |
++---------------------------------------+---------------------------------------+
+| **Source:** NIH Office of Data Science Strategy (ODSS)                        |
++---------------------------------------+---------------------------------------+
+| **Description:**                                                              |
+| Admin Suppl. Award to Develop Text Mining and Large Language Models for       |
+| Evidence-Based Functional Annotation of Clinical Variants                     |
++---------------------------------------+---------------------------------------+
+| **Award Number:**                     | **Timeframe:**                        |
+| U24CA275783-S1                        | 2024-2028                             |
++---------------------------------------+---------------------------------------+
+
+.. rst-class:: funding-table
+
++---------------------------------------+---------------------------------------+
+| **Awardee:** William Powderly                                                 |
++---------------------------------------+---------------------------------------+
+| **Source:** National Center for Advancing Translational Sciences (NCATS)      |
++---------------------------------------+---------------------------------------+
+| **Description:**                                                              |
+| Clinical and Translational Science Award (CTSA) for Institute of Clinical and |
+| Translational Sciences (ICTS) with Support for CIViC Curation at Washington   |
+| University                                                                    |
++---------------------------------------+---------------------------------------+
+| **Award Number:**                     | **Timeframe:**                        |
+| UL1TR002345                           | 2019-2027                             |
 +---------------------------------------+---------------------------------------+
 
 Past
