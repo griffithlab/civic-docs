@@ -62,3 +62,8 @@ table.funding-table tr:not(:first-child) td {
     border-width: 0 !important;
     background-color: transparent !important;
 }
+
+table.funding-table tr:last-child td:last-child,
+table.funding-table tr:last-child td:first-child {
+    width: 50%;
+}
