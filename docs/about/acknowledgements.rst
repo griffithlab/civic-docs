@@ -13,7 +13,7 @@ Current
 .. rst-class:: funding-table
 
 +---------------------------------------+---------------------------------------+
-| **Awardee:** William Powderly                                                         |
+| **Awardee:** William Powderly                                                 |
 +---------------------------------------+---------------------------------------+
 | **Source:** National Center for Advancing Translational Sciences (NCATS)      |
 +---------------------------------------+---------------------------------------+
