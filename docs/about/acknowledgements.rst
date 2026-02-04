@@ -221,7 +221,7 @@ Past
 .. rst-class:: funding-table
 
 +---------------------------------------+---------------------------------------+
-| **Awardee:** Jonathan Berg (Site PI Malachi Griffith)                                  |
+| **Awardee:** Jonathan Berg (Site PI Malachi Griffith)                         |
 +---------------------------------------+---------------------------------------+
 | **Source:** National Human Genome Research Institute (NHGRI)                  |
 +---------------------------------------+---------------------------------------+
