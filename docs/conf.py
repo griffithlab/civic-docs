@@ -41,7 +41,7 @@ release = u''
 extensions = [
     'sphinx_fontawesome',
     'sphinxcontrib.images',
-    'rst2pdf.pdfbuilder',
+    'sphinx.ext.imgconverter',
 ]
 
 programoutput_prompt_template = "{output}"

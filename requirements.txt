@@ -9,5 +9,3 @@ sphinx==3.0.0
 sphinx_fontawesome
 sphinxcontrib-images
 roman
-rst2pdf
-svglib
