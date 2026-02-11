@@ -14,7 +14,7 @@ All curated CIViC Evidence, Assertions, Molecular Profile Descriptions, and Gene
 
 Comments can be added to any Source Record at any time (see Figure 1 below). Source comments are a useful place to document general or specific notes to aid current and future curation. For example, if a source has an overlapping patient population with another study already curated within CIViC, this can be documented. In other cases, the reference sequence used for determining the CIViC Variant’s coordinates might be recorded.
 
-The current Sources associated with Evidence, Assertions and other information in CIViC can be explored on the `CIViC Sources Page <https://civicdb.org/sources/home>`__.
+The current Sources associated with Evidence, Assertions and other information in CIViC can be explored on the `CIViC Sources Page <https://civicdb.org/sources/>`__.
 
 .. thumbnail:: /images/figures/source-summary_Chen-et-al.png
    :alt: Screenshot of source summary
