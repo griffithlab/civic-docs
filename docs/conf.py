@@ -41,6 +41,7 @@ release = u''
 extensions = [
     'sphinx_fontawesome',
     'sphinxcontrib.images',
+    'sphinx.ext.imgconverter',
 ]
 
 programoutput_prompt_template = "{output}"
@@ -114,6 +115,7 @@ htmlhelp_basename = 'CIViCdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
+latex_engine='xelatex'
 
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
