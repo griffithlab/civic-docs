@@ -9,6 +9,7 @@ Data clients are academic and commercial resources that use CIViC data (for exam
 - `Cambridgene <http://www.cambridgene.com/>`_
 - `CancerStop Android Application <https://play.google.com/store/apps/details?id=com.sequilabs.cancerstop>`_
 - `CBioPortal <http://www.cbioportal.org/>`_
+- `CIViC Compass <https://civiccompass.vercel.app/>`_
 - `CIViCmine <http://bionlp.bcgsc.ca/civicmine/>`_
 - `ClinGen Variant Curation Interface (VCI) <https://curation.clinicalgenome.org/>`_
 - `DAPHNI – A platform for precision medicine of multiple myeloma <http://ascopubs.org/doi/10.1200/PO.18.00019>`_
