@@ -15,9 +15,8 @@ A set of example usage scripts of the API in Python, R, and Ruby can be found on
 Using API Keys in Requests
 ##########################
 CIViC API keys authenticate API requests as the user who generated the key. They
-can be used for requests that require a logged-in user, such as mutations, and
-for high-throughput API clients that should not be subject to the default
-anonymous request rate limit.
+can be used for requests that require a logged-in user, such as mutations (i.e., API requests that execute a curation or editorial action), or
+for API clients that should not be subject to the default anonymous request rate limit.
 
 To generate an API key, sign in to CIViC, open your user profile, choose
 ``Manage API Keys``, and click ``Generate New API Key``. Copy the key when it is
