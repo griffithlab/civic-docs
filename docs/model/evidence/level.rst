@@ -161,7 +161,13 @@ A concise description of the experiments performed should be prepared by the cur
 
 Evidence Statements should include the gene/variant (molecular profile) being evaluated, the study population, disease state, study size, statistical significance (e.g., p-value, confidence interval), duration of the study, and other relevant information that is required to assess the evidence for interpretation.
 
-When choosing a disease for Preclinical Evidence Items, it should reflect the context of the ultimate disease type that is being investigated and not necessarily the individual cell-line being evaluated. For example in `EID1356 <https://civicdb.org/links/evidence/1356>`__, the preclinical work was performed on BA/F3 however the conclusions supported work across multiple cancer subtypes, therefore the selected disease field for this Evidence Item was “Cancer”.
+When choosing a disease for Preclinical Evidence Items, it should reflect the background and context of the study and the intent of the authors, rather than the literal cancer type of the cell line model used. This is especially relevant when a generic or surrogate cell line (e.g., Ba/F3, NIH3T3) is used as a functional model, or when the cell line originates from a cancer type unrelated to the disease being investigated.
+
+The preferred approach is to consider: (1) the disease context from which the variants were identified or are being studied, (2) the disease population to which the authors intend their conclusions to apply, and (3) the overall framing and conclusions of the source publication.
+
+For example, `EID39 <https://civicdb.org/links/evidence/39>`__ describes a study in which ALK mutations were identified in neuroblastoma patient samples and neuroblastoma cell lines. The authors subsequently confirmed sensitivity of these mutations to an ALK inhibitor using Ba/F3 cells — a generic murine pro-B cell model with no inherent connection to neuroblastoma. Despite the use of Ba/F3 cells for the functional experiment, the disease context of the study is neuroblastoma and the authors' conclusions relate to therapeutic implications for neuroblastoma patients. The appropriate disease field for this evidence item is therefore “Neuroblastoma” rather than “cancer” or a hematologic malignancy.
+
+In contrast, `EID1356 <https://civicdb.org/links/evidence/1356>`__ describes preclinical work also performed in Ba/F3 cells, but with conclusions that were intended to apply broadly across multiple cancer subtypes. In this case “Cancer” is the appropriate disease selection. When a study lacks a clear disease-specific context, or the authors' conclusions are explicitly intended to apply broadly, it remains appropriate to assign “cancer” or the literal disease of the cell line.
 
 .. rubric:: E-Level Evidence Example
 
