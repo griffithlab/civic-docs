@@ -15,7 +15,7 @@ The disease field will autofill based on existing diseases in the Disease Ontolo
 
 |
 
-The current Diseases (cancer types) with associated with Evidence, Assertions and other information in CIViC can be explored on the `CIViC Disease Page <https://civicdb.org/diseases>`__.
+The current Diseases (cancer types) associated with Evidence, Assertions and other information in CIViC can be explored on the `CIViC Disease Page <https://civicdb.org/diseases>`__.
 
 For guidance on selecting an appropriate disease for in vitro evidence making use of cell lines, see the D-Level Curation Practices section in :ref:`evidence-level`.
 
