@@ -167,7 +167,9 @@ The preferred approach is to consider: (1) the disease context from which the va
 
 For example, `EID39 <https://civicdb.org/links/evidence/39>`__ describes a study in which ALK mutations were identified in neuroblastoma patient samples and neuroblastoma cell lines. The authors subsequently confirmed sensitivity of these mutations to an ALK inhibitor using Ba/F3 cells — a generic murine pro-B cell model with no inherent connection to neuroblastoma. Despite the use of Ba/F3 cells for the functional experiment, the disease context of the study is neuroblastoma and the authors' conclusions relate to therapeutic implications for neuroblastoma patients. The appropriate disease field for this evidence item is therefore “Neuroblastoma” rather than “Cancer” or a hematologic malignancy.
 
-In contrast, `EID1356 <https://civicdb.org/links/evidence/1356>`__ describes preclinical work also performed in Ba/F3 cells, but with conclusions that were intended to apply broadly across multiple cancer subtypes. In this case “Cancer” is the appropriate disease selection. When a study lacks a clear disease-specific context, or the authors' conclusions are explicitly intended to apply broadly, it remains appropriate to assign “Cancer” or the literal disease of the cell line.
+In contrast, `EID1356 <https://civicdb.org/links/evidence/1356>`__ describes preclinical work also performed in Ba/F3 cells, but with conclusions that were intended to apply broadly across multiple cancer subtypes. In this case “Cancer” is the appropriate disease selection. When a study lacks a clear disease-specific context, or the authors' conclusions are explicitly intended to apply broadly (as above), it may be most appropriate to assign “Cancer”.  
+
+In other cases, where there is no specific background, context or conclusions relating the variant to a specific disease it may be most appropriate to use the literal disease of the cell line.
 
 .. rubric:: E-Level Evidence Example
 
